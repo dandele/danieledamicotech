@@ -176,5 +176,6 @@ sections:
       - content/pages/tags/3-lezioni-da-200-newsletter.md
       - content/pages/tags/e-se-notion-sparisse.md
       - content/pages/tags/un-2023-da-umano.md
+      - content/pages/tags/oscar-product-hunt.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
