@@ -148,23 +148,25 @@ bottomSections:
         textAlign: center
 slug: oscar-product-hunt
 ---
-Che sensazione provi quando concludi un task e **metti quella X nella to-do list**?
+Il mio primo blog era su cinema e serie tv.
 
-Bella vero?
+Ricordo che, io e gli altri autori, attendavamo con entusiasmo l'arrivo dei primi mesi dell'anno.
 
-E cosa provi quando fai la stessa cosa, ma per il task successivo?
+Cominciava la stagione dei premi e arrivava la **serata degli Oscar**.
 
-Sempre bella, anche se forse un po' meno, vero?
+Era un così grande evento che la seguivamo live, facendo le ore piccole e addirittura il **live blogging su Twitter**.
 
-Ma ti sei mai fatto una domanda?
+Ora quel blog non c'è più, la passione per quegli argomenti non si è ridotta eh, ma non posso più fare le ore piccole a parlarne su Twitter.
 
-Che succede se l'obiettivo per cui stai eliminando così tanti punti dalla tua task list, fosse un **obiettivo che non vuoi davvero**?
+Ma questa newsletter è nata grazie alle **selezioni di Product Hunt.**​
+
+E la **stagione dei premi** è arrivata anche per PH!
 
 ***
 
 **TL;DR**
 
-*   Come NON diventare un robot?
+*   Gli Oscar di Product Hunt;
 
 *   Una risorsa per la tua audience building
 
@@ -172,169 +174,137 @@ Che succede se l'obiettivo per cui stai eliminando così tanti punti dalla tua t
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 5 minuti e 24.
+**Il tempo di lettura previsto è:** 4 minuti e 4.
 
 ***
 
 Ehi ciao 👋,
 
-questo è il numero 20 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 23 del **Kit di Sopravvivenza per Creator**.
 
-Ed oggi ti racconterò **come NON diventare un robot.**
+Ed oggi ti racconterò **quali prodotti vorrei vincessero i Golden Kitty Awards del 2022.**
 
 <br />
 
+Product of the year, Creator Economy e Produttività.
 
+Il 2022 è stato un anno in cui ho passato tanto tempo su **Product Hunt**.
 
-La fine dell'anno è sempre un periodo di **riflessioni**.
+Perché per mesi ho pubblicato su Linkedin la Product Hunt Curation.
 
-Fatti un giro su un social a caso.
+Una selezione dei prodotti più interessanti usciti nell’ultima settimana sulla piattaforma.
 
-Decine di post di persone la cui vita non ti riguarda neanche un po' e che condividono il loro fantastico anno di cui non ti importa neanche un po'.
+E lo so, è da qualche tempo che non la pubblico più.
 
-C'è da dire però che riflettere sulle vicende dell'ultimo anno è utile.
-
-Ti permette di **ragionare su quanto fatto e ti permette di impostare una direzione per il futuro**.
-
-Ma anche più di questo: **ti evita di diventare un robot**.
-
-Ti evita di diventare una macchina da task, che li esegue ed elimina dalla sua lista personale, senza sapere l'obiettivo per cui lo fa.
-
-E se si chiede "Perché l'ho fatto?", si rompe.
-
-Parlo per esperienza, mi ci sono trovato anni fa in questa situazione.
-
-Ed è così che ne sono uscito.
+Ma ho pensato di **rimediare**, in grande stile.
 
 ​
 
-## COME NON DIVENTARE UN ROBOT?
+## **GLI OSCAR DI PRODUCT HUNT**
 
-La soluzione è semplice: **devi essere consapevole**.
+Le categoria dei **Golden Kitty Awards** sono tante.
 
-Devi solo chiederti perché fai quello che fai, a cosa punti ecc.
+E chi vota deve esprimersi su tutte le categorie, che sono tipo una 20ina.
 
-Ma sapere la soluzione non basta, quello che serve è **l'esecuzione**.
+In pratica, si tratta di una votazione che si prende **minimo 30 minuti del tuo tempo**.
 
-Perché non ero in grado di rendere la mia esecuzione più consapevole?
+Insomma, una votazione un po’ noiosa.
 
-*   perché non sapevo cosa chiedermi;
+Ma non ti preoccupare, non parlerò di tutte le categorie in questa newsletter.
 
-*   non sapevo dove chiedermelo;
+Ho scelto le 3 categorie che più erano coerenti con i temi del Kit.
 
-*   non sapevo come chiedermelo.
+*   Produttività
 
-E nel tentativo di risolvere questi dubbi ho scoperto l’esistenza dei **Review Cycles**.
+*   Creator economy
 
-Che in questo periodo di fine dell’anno ed inizio dell’anno prossimo, prendono la forma di **Annual Review**.
+*   Product of the year
 
-Ed ecco come strutturare la tua Annual Review per il 2023.
+E quindi, non perdiamo più tempo, arriviamo ai **voti**!
 
 ​
 
-### COSA CHIEDERSI NELL'ANNUAL REVIEW?
+### **PRODUTTIVITÀ**
 
-Diciamoci la verità, la ciccia dell’Annual review è proprio in questo punto.
+Il 2022 è stato, ancor più del 2021 e del 2020, un anno di **remote working**.
 
-Quello che ti chiedi (e cosa rispondi) è ciò che ha più **impatto** nel definire una direzione per i tuoi prossimi 12 mesi.
+Ed il remote working è una manna dal cielo, lo adoro e penso che se applicato bene e con le giuste persone possa fare **magie di produttività**.
 
-Per questo è importante definire una **struttura** e capire quali domande ha senso porsi.
+Diciamoci la verità però, spesso è un casino organizzare i team.
 
-Sull’argomento ci hanno ragionato tante persone: da **Ali Abdaal**, ad **August Bradley** fino a **Sahil Bloom**.
+E spesso devi puntare i piedi per terra per **definire confini** che invece il lavoro in presenza rende palesi.
 
-Ed è proprio la struttura di Sahil che seguo.
+C'è sempre il rischio di finire nell'area della **produttività** (lavorativa e non) che può essere **tossica**.
 
-Analizza gli ultimi 12 mesi e pianifica i prossimi da questi punti di vista:
+Per questo penso (e vorrei) che a vincere il premio in questa categoria fosse [Amie](https://www.amie.so/).
 
-*   **Big Goals**: verso quali obiettivi grandi ed a lungo termina hai lavorato?
-    Quali hai raggiunto?
-    Quali non sono più validi? Quali nuovi Big Goals sono emersi e vorresti raggiungere?
-    ​
-    ​*Esempio: raggiungere i 1000 iscritti a questa newsletter nel 2023
-    ​*
+Si tratta di un calendar con qualche asso nella manica.Come [altri tool di cui ho parlato qualche tempo fa](https://danieledamico.tech/tags/sistemi-non-bastano/), ti permette di fare **consolidation**.
 
-*   **Checkpoint Goals**: ora che hai definito i Big Goals, analizzali e rendili più semplici.
-    Scomponi i Big Goals in obiettivi più piccoli, definiti e raggiungibili.
-    ​
-    ​*Esempio: raggiungere 500 iscritti entro giugno 2023
-    ​*
+In pratica, ti permette di centralizzare tante tue attività in un'unica app: il calendar.
 
-*   **Daily Systems**: queste sono le azioni che, fatte di giorno in giorno, ti permettono di raggiungere prima i Checkpoint Goals e poi i Big Goals.
-    ​
-    ​*Esempio: scrittura newsletter quotidiana e newsletter settimanale
-    ​*
+Amie, quindi, ti permette di **organizzare i tuoi eventi**, **gestire la tua lista di task**, **gestire i tuoi contatti** e **gestire le tue disponibilità**: tutto nella stessa app e senza integrazioni o casini vari.
 
-*   **Anti-Goals**: cosa NON vuoi che accada nel tuo percorso per raggiungere i Big Goals?
-    È importante farsi questa domanda, perché arriverai al punto in cui dovrai darti delle priorità e così non andrai in tilt.
-    ​
-    ​*Esempio: non permettere alle mie altre attività di farmi trascurare la newsletter*
+Inoltre, ed è questo il motivo per cui dovrebbe vincere secondo me, Amie ti permette di fare tutta sta roba con **serenità** e **gioia**.
+
+Tutto, dalla sua grafica alle micro-interazioni, ti trasmette una sensazione di serenità che non trovi in altri calendar.
+
+Ed è per questo che spero vinca, perché la produttività non deve per forza essere tossica.
 
 *​*
 
-### DOVE FARE L'ANNUAL REVIEW?
+### **CREATOR ECONOMY**
 
-La risposta a questa domanda è semplice: **utilizza lo strumento con cui gestisci le tue attività quotidiane**.
+Votare in questa categoria è stato difficile.
 
-Visto che io gestisco la maggior parte delle mie attività su Notion, è su **Notion** che faccio l’Annual Review.
+Mentre leggevo la lista dei prodotti nominati provavo sempre più terrore al notare che quasi tutti i prodotti erano riguardo gli **NFT**, il **web 3.0** o l'**AI**.
 
-Ma questo non significa che tu debba fare lo stesso: è più importante fare l’Annual Review che farla su Notion.
+Poi però ho trovato il nome giusto: [Polywork](https://www.polywork.com/?filter_type=all).
 
-Ecco **altri tool** che potresti utilizzare:
+Polywork è un prodotto che potremmo descrivere come un'**alternativa a Linkedin**.
 
-*   Obsidian;
+Ma se Linkedin nasce come il social network per trovare lavoro, Polywork è il social network per trovare **opportunità di collaborazione**.
 
-*   Roam Research;
+Opportunità di collaborazione tra creator, freelancer ecc.
 
-*   Tana;
+Non c'è giorno in cui io non riceva notifiche di nuove richieste di collaborazione e considera che è un canale che non frequento affatto!
 
-*   Evernote;
+Insomma, è il **Linkedin dei creator ed è una bomba**.
 
-*   Todoist.
-
-Se posso darti un consiglio però, ti direi di scegliere un tool che ti permette di **costruire sistemi**.
-
-Solo in questo modo potrai cogliere al 100% i vantaggi e l’impatto positivo che l’Annual Review avrà sulla tua vita.
+L'unico problema (oppure opportunità) è che, almeno per ora, la maggior parte delle persone che la frequenta è straniera.
 
 ​
 
-### COME FARE L'ANNUAL REVIEW?
+### **PRODUCT OF THE YEAR**
 
-Anche in questo caso, **fatto è meglio che perfetto**.
 
-E l'importante è fare la tua annual review entro le **prime settimane di gennaio**, altrimenti perdi la motivazione.
+La categoria regina.
 
-Su Evernote puoi anche creare una semplice lista.
+Se agli Oscar c'è il Miglior Film, ai Golden Kitty Awards c'è il Product of the Year.
 
-Mentre su Notion puoi creare un **sistema più complesso**, come quello che nel corso degli anni ho creato io.
+E pensavo fosse difficile scegliere il vincitore di questa categoria, ma mi sbagliavo.
 
-​![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/ojq8c7koUxUegCyztzb5V9/email)
+Perché c'è stato un trend che ha battuto tutti gli altri in questo 2022.
 
-![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/54YL7YwwdceezkUjJTHBtA/email)​
+Ed un prodotto, secondo me, che lo ha rappresentato al meglio: l'intelligenza artificiale e [**ChatGPT**](https://chat.openai.com/chat).
 
-Poi, ci sono tante altre **regole** che potresti seguire per fare la tua Annual Review.
+Tutti ne parlano ovunque, quindi dirò poco su ChatGPT (che di sicuro avrai provato tu stesso), ma l'intelligenza artificiale ha sconvolto tutti e su Product Hunt ha dominato per mesi e mesi.
 
-Ci sono tante domande che ti potresti fare.
+Ci sta, quindi, che a vincere sia un prodotto di intelligenza artificiale.
 
-Ma la cosa più importante, fidati che ci sono passato, è proprio quella di farla.
-
-Tra **complessità e semplicità scegli la seconda**: non deve essere nulla di figo, complesso o perfetto, deve essere qualcosa di utile!
+Ed ho votato il **prodotto che più ho utilizzato**.
 
 ​
 
-Ora, non ti posso dire che facendo l'Annual Review il tuo anno sarà fantastico e raggiungerai i tuoi obiettivi.
+Ora, non so quale prodotto vincerà, le mie sono solo speranze e opinioni.
 
-Te lo auguro, ma non te lo posso promettere.
+Devo dire però che sono abbastanza convinto delle possibilità di ChatGPT nella categoria di Product of the Year.
 
-Posso dirti però che con un Annual Review in tuo supporto, sarai in grado di affrontare qualsiasi progetto del 2023 con la consapevolezza necessaria per trarne il meglio.
+In ogni caso, [puoi scoprire i vincitori qui.](https://www.producthunt.com/golden-kitty-awards/hall-of-fame)
 
-In più, dato che voglio aiutarti a raggiungere i tuoi obiettivi ho pensato una cosa.
+E tu?
 
-Ho pensato di prendere la struttura della mia **Annual Review** e renderla un **template**.
+Hai votato?
 
-Così non avrai scuse o problemi a farla, li avrò già risolti io per te!
+**Rispondi a questa e-mail** e fammi sapere cosa hai votato dai, sono curioso!
 
-**Clicca il pulsante** qui sotto e vedrai.
-
-Detto questo, per oggi è tutto, buon 2023 e beccati le **risorse**.
-
-Daniele
+Buona settimana e **beccati le risorse**!
