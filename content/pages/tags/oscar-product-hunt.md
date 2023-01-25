@@ -8,7 +8,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #23: Gli Oscar di Product Hunt..."
 colors: colors-a
 date: '2023-01-01'
-description: O da robot?
+description: sono arrivati!
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
