@@ -7,7 +7,7 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #23: Gli Oscar di Product Hunt..."
 colors: colors-a
-date: '2023-01-02'
+date: '2023-01-25'
 description: sono arrivati!
 featuredImage:
   type: ImageBlock
