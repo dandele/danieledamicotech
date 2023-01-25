@@ -36,7 +36,7 @@ bottomSections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nC’è una cosa importante da ricordare quando crei qualcosa.\n\nEd è importante per capire quanto potenziale di successo avrà.\n\n​[A chi interessa?](https://twitter.com/jspector/status/1608953455250661376)\n\n\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nSei ancora in vena di previsioni e lezioni?\n\n​[Allora beccati anche queste](https://www.justinwelsh.me/e/BAh7BjoWZW1haWxfZGVsaXZlcnlfaWRsKwi38jBundefined3D--39f460dfe6545309d8232a46a66af297b086647a?skip_click_tracking=true)\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nQuali sono i prerequisiti per fare monetization?\n\n​[Eccoli qui](https://twitter.com/jonbrosio/status/1609187680302125057)​\n"
+    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nIl mezzo migliore per creare un'audience?\n\nLe parole che utilizzi.\n\n[Ma come scegliere le parole migliori?](https://twitter.com/jspector/status/1617160237173145601)\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nSei sempre a corto di tempo libero?\n\n​[Allora dovresti trovare dei modi per crearne di più, altrimenti impazzisci.](https://radreads.co/calendar/)\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nIl prezzo è una delle leve più importanti che determina le tue possibilità di vendita.\n\n​[Per questo, è importante che tu legga qui.](https://twitter.com/KateBour/status/1572931805476524034)​\n"
     styles:
       self:
         height: auto
