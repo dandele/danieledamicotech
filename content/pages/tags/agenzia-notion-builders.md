@@ -212,7 +212,7 @@ bottomSections:
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
     actions:
-      - label: Try it now
+      - label: FACCIAMO UNA CALL!
         altText: ''
         url: 'https://zcal.co/notionbuilders/quick-talk'
         showIcon: true
