@@ -178,7 +178,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #26: Ma tu che te ne intendi di Notion..."
 colors: colors-a
 date: '2023-01-01'
-description: O da robot?
+description: DIMMI DELLE COSE
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
