@@ -180,7 +180,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
 date: '2023-02-01'
-description: Andata e ritorno!
+description: Anche un'agenzia!
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
