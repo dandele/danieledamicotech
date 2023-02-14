@@ -177,9 +177,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #26: Ma tu che te ne intendi di Notion..."
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2023-01-01'
 description: O da robot?
 featuredImage:
