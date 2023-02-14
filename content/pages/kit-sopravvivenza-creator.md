@@ -178,5 +178,7 @@ sections:
       - content/pages/tags/un-2023-da-umano.md
       - content/pages/tags/oscar-product-hunt.md
       - content/pages/tags/notion-google-calendar.md
+      - content/pages/tags/agenzia-notion-builders.md
+      - content/pages/tags/te-ne-intendi-di-notion.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
