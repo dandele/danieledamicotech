@@ -289,25 +289,23 @@ bottomSections:
         textAlign: center
 slug: notion-google-calendar
 ---
-Il mio primo blog era su cinema e serie tv.
+Una delle tecniche di produttività più efficaci è quella del [time-blocking](https://todoist.com/it/productivity-methods/time-blocking).
 
-Ricordo che, io e gli altri autori, attendavamo con entusiasmo l'arrivo dei primi mesi dell'anno.
+Tanti esperti di produttività ne decantano le potenzialità.
 
-Cominciava la stagione dei premi e arrivava la **serata degli Oscar**.
+E posso confermarle, ne ho visto io stesso gli effetti.
 
-Era un così grande evento che la seguivamo live, facendo le ore piccole e addirittura il **live blogging su Twitter**.
+Solo che c’è un problema.
 
-Ora quel blog non c'è più, la passione per quegli argomenti non si è ridotta eh, ma non posso più fare le ore piccole a parlarne su Twitter.
+L’ho messa in pratica con **Todoist**, non con **Notion**.
 
-Ma questa newsletter è nata grazie alle **selezioni di Product Hunt.**​
-
-E la **stagione dei premi** è arrivata anche per PH!
+Poi ho deciso che dovevo risolvere.
 
 ***
 
 **TL;DR**
 
-*   Gli Oscar di Product Hunt;
+*   Da Notion a Google Calendar, andata e ritorno;
 
 *   Una risorsa per la tua audience building
 
@@ -315,137 +313,190 @@ E la **stagione dei premi** è arrivata anche per PH!
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 4 minuti e 4.
+**Il tempo di lettura previsto è:** 4 minuti e 20.
 
 ***
 
 Ehi ciao 👋,
 
-questo è il numero 23 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 24 del **Kit di Sopravvivenza per Creator**.
 
-Ed oggi ti racconterò **quali prodotti vorrei vincessero i Golden Kitty Awards del 2022.**
+Ed oggi ti racconterò **come sincronizzare il tuo Notion con il tuo Google Calendar.**
 
-<br />
 
-Product of the year, Creator Economy e Produttività.
 
-Il 2022 è stato un anno in cui ho passato tanto tempo su **Product Hunt**.
+Mettiamo le cose in chiaro, in questa newsletter **non farò il confronto tra Notion e Todoist.**
 
-Perché per mesi ho pubblicato su Linkedin la Product Hunt Curation.
+Sarebbe un confronto particolare, tra due strumenti molto diversi.
 
-Una selezione dei prodotti più interessanti usciti nell’ultima settimana sulla piattaforma.
+Todoist è un tool specializzato per gestire i task.
 
-E lo so, è da qualche tempo che non la pubblico più.
+Notion invece è un tool generale che ti permette di costruire quello che vuoi, anche un task manager.
 
-Ma ho pensato di **rimediare**, in grande stile.
+Ed io non uso più Todoist da qualche anno, ma devo ammettere una cosa.
 
-​
+Adoravo Todoist per la possibilità di **integrazione con Google Calendar**.
 
-## **GLI OSCAR DI PRODUCT HUNT**
+E quindi, la possibilità di fare time-blocking.
 
-Le categoria dei **Golden Kitty Awards** sono tante.
+Inoltre, visto che era una funzione base di Todoist, non dovevi impazzire per utilizzarla.
 
-E chi vota deve esprimersi su tutte le categorie, che sono tipo una 20ina.
+Con Notion, le cose sono diverse: non c’è integrazione interna con Google Calendar, **te la devi costruire tu**.
 
-In pratica, si tratta di una votazione che si prende **minimo 30 minuti del tuo tempo**.
-
-Insomma, una votazione un po’ noiosa.
-
-Ma non ti preoccupare, non parlerò di tutte le categorie in questa newsletter.
-
-Ho scelto le 3 categorie che più erano coerenti con i temi del Kit.
-
-*   Produttività
-
-*   Creator economy
-
-*   Product of the year
-
-E quindi, non perdiamo più tempo, arriviamo ai **voti**!
+E nella newsletter di oggi, ti mostrerò proprio come fare.
 
 ​
 
-### **PRODUTTIVITÀ**
+## **DA NOTION A GOOGLE CALENDAR, ANDATA E RITORNO**
 
-Il 2022 è stato, ancor più del 2021 e del 2020, un anno di **remote working**.
+**Notion** ha l’API aperta e pubblica.
 
-Ed il remote working è una manna dal cielo, lo adoro e penso che se applicato bene e con le giuste persone possa fare **magie di produttività**.
+Questo significa che puoi utilizzarlo per fare richieste o richiami al codice di Notion e utilizzare le informazioni presenti sul tuo Notion all’interno di altri tool.
 
-Diciamoci la verità però, spesso è un casino organizzare i team.
+Lo stesso discorso vale anche all’inverso.
 
-E spesso devi puntare i piedi per terra per **definire confini** che invece il lavoro in presenza rende palesi.
+Questa però è una cosa che sanno fare i **developer** (o chi si studi la cosa con la giusta dose di dettaglio ed ossessione).
 
-C'è sempre il rischio di finire nell'area della **produttività** (lavorativa e non) che può essere **tossica**.
+E chi non è un developer cosa fa? Utilizza tool come **Zapier, Make e gli altri**.
 
-Per questo penso (e vorrei) che a vincere il premio in questa categoria fosse [Amie](https://www.amie.so/).
+Si, a voler essere precisi Zapier e Make sono tool di automazione, ma possono essere utili anche a chi vuole fare integrazioni particolari.
 
-Si tratta di un calendar con qualche asso nella manica.Come [altri tool di cui ho parlato qualche tempo fa](https://danieledamico.tech/tags/sistemi-non-bastano/), ti permette di fare **consolidation**.
+Io, ad esempio, ho scelto Make.
 
-In pratica, ti permette di centralizzare tante tue attività in un'unica app: il calendar.
+E bastano solo tre cose per avere i **task del tuo Notion sul tuo Google Calendar (e viceversa).**
 
-Amie, quindi, ti permette di **organizzare i tuoi eventi**, **gestire la tua lista di task**, **gestire i tuoi contatti** e **gestire le tue disponibilità**: tutto nella stessa app e senza integrazioni o casini vari.
+*   Un database Task Manager su Notion;
 
-Inoltre, ed è questo il motivo per cui dovrebbe vincere secondo me, Amie ti permette di fare tutta sta roba con **serenità** e **gioia**.
+*   Uno scenario Make da Notion a Google Calendar;
 
-Tutto, dalla sua grafica alle micro-interazioni, ti trasmette una sensazione di serenità che non trovi in altri calendar.
+*   Uno scenario Make da Google Calendar a Notion;
 
-Ed è per questo che spero vinca, perché la produttività non deve per forza essere tossica.
-
-*​*
-
-### **CREATOR ECONOMY**
-
-Votare in questa categoria è stato difficile.
-
-Mentre leggevo la lista dei prodotti nominati provavo sempre più terrore al notare che quasi tutti i prodotti erano riguardo gli **NFT**, il **web 3.0** o l'**AI**.
-
-Poi però ho trovato il nome giusto: [Polywork](https://www.polywork.com/?filter_type=all).
-
-Polywork è un prodotto che potremmo descrivere come un'**alternativa a Linkedin**.
-
-Ma se Linkedin nasce come il social network per trovare lavoro, Polywork è il social network per trovare **opportunità di collaborazione**.
-
-Opportunità di collaborazione tra creator, freelancer ecc.
-
-Non c'è giorno in cui io non riceva notifiche di nuove richieste di collaborazione e considera che è un canale che non frequento affatto!
-
-Insomma, è il **Linkedin dei creator ed è una bomba**.
-
-L'unico problema (oppure opportunità) è che, almeno per ora, la maggior parte delle persone che la frequenta è straniera.
+Prepara il tuo Notion, prepara il tuo account Make e cominciamo!
 
 ​
 
-### **PRODUCT OF THE YEAR**
+### **UN DATABASE TASK MANAGER SU NOTION**
 
+Questa è la parte più semplice, la fase dei preparativi.
 
-La categoria regina.
+Per fartela breve: **hai bisogno di account su Notion, Make e Google Calendar.**
 
-Se agli Oscar c'è il Miglior Film, ai Golden Kitty Awards c'è il Product of the Year.
+Inoltre, su Notion hai bisogno di un database Task Manager.
 
-E pensavo fosse difficile scegliere il vincitore di questa categoria, ma mi sbagliavo.
+Cercherò di fartela breve.
 
-Perché c'è stato un trend che ha battuto tutti gli altri in questo 2022.
+Ecco come creare un task manager su Notion, semplice e in poco tempo:
 
-Ed un prodotto, secondo me, che lo ha rappresentato al meglio: l'intelligenza artificiale e [**ChatGPT**](https://chat.openai.com/chat).
+*   Vai sul tuo spazio Notion;
 
-Tutti ne parlano ovunque, quindi dirò poco su ChatGPT (che di sicuro avrai provato tu stesso), ma l'intelligenza artificiale ha sconvolto tutti e su Product Hunt ha dominato per mesi e mesi.
+*   Premi il tasto “/” sulla tua tastiera e comincia a scrivere “database”.
 
-Ci sta, quindi, che a vincere sia un prodotto di intelligenza artificiale.
+*   Seleziona la voce “database inline”.
 
-Ed ho votato il **prodotto che più ho utilizzato**.
+*   Dai un nome alla tabella che compare: Task Manager;
+
+*   Inserisci alcune proprietà in quella tabella (ricorda di inserire la proprietà Date, è fondamentale).
+
+Ora che hai fatto tutti i passi necessari, dovresti ritrovarti con un bel database di Task Management sul tuo Notion.
+
+Inserisci pure qualche task di prova.
+
+Ora possiamo andare al punto successivo.
 
 ​
 
-Ora, non so quale prodotto vincerà, le mie sono solo speranze e opinioni.
+### UNO SCENARIO MAKE, DA NOTION A GOOGLE CALENDAR
 
-Devo dire però che sono abbastanza convinto delle possibilità di ChatGPT nella categoria di Product of the Year.
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/3dXNmGnEHo9BorFaTam3hV)​
 
-In ogni caso, [puoi scoprire i vincitori qui.](https://www.producthunt.com/golden-kitty-awards/hall-of-fame)
+​
 
-E tu?
+Ok, ora vai [qui](https://www.make.com/en) e, se ancora non ne hai uno, **crea un account**.
 
-Hai votato?
+Fatto?
 
-**Rispondi a questa e-mail** e fammi sapere cosa hai votato dai, sono curioso!
+Bene, ora sei su Make, complimenti!
 
-Buona settimana e **beccati le risorse**!
+Per questo scenario avrai bisogno di due moduli: **Notion** e **Google Calendar**.
+
+Aggiunti i moduli ed integrati i rispettivi tool, puoi passare alla creazione dell’ automazione.
+
+Eccone le fasi:
+
+*   Comincia aggiungendo un primo modulo, è un **modulo di Notion** e si chiama “Watch Database Items”. In pratica, **monitora il tuo database Task Manager** (quello su Notion) per ogni modifica che avviene.
+
+*   Quando crei o aggiorni un elemento di quel database, l’automazione su Make parte e passa al **modulo successivo “Search Events”**;
+
+*   Il modulo “Search Events” cerca eventi sul calendario di Google che gli hai specificato e li cerca con la **query che hai impostato** (la query deve coincidere con il nome dell’oggetto identificato dal modulo Notion);
+
+*   L’informazione passa ad un router che gestisce **SE**:
+
+    *   Se il modulo **Search non trova eventi** con lo stesso nome dell’oggetto su Notion, crea un evento sul calendario;
+
+    *   Se il modulo **Search trova eventi** con lo stesso nome dell’oggetto su Notion, li aggiorna;
+
+    *   Se il modulo **Search trova eventi** con lo stesso nome dell’oggetto su Notion, ma con la proprietà Archived valida, li cancella;
+
+Lo so, sembra una cosa complessa ma non lo è.
+
+Gioca un po’ con Make e vedrai che riuscirai a far tutto.
+
+​
+
+### **UNO SCENARIO MAKE DA GOOGLE CALENDAR A NOTION**
+
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/2chcbJXziwyFm51ZVLK6i5)​
+
+​
+
+Puoi fermarti anche al punto precedente, diciamoci la verità.
+
+Tutto dipende da quanto giochi sul tuo calendar e quanto spesso sposti gli eventi.
+
+Mettiamo caso che li sposti spesso.
+
+In tal caso, **crea un altro scenario su Make** e chiamalo “Da GCAL a Notion”.
+
+Fai gli stessi passi iniziali del punto precedente: aggiungi i moduli Notion e Google Calendar.
+
+Ecco ora cosa devi fare:
+
+*   **Crea un modulo di Google Calendar “Watch Events”**, che si comporterà proprio come il modulo “Watch Database Items” di Notion: monitora il tuo Google Calendar e non appena fai modifiche o crei cose, parte l’automazione;
+
+*   **Poi crea il modulo di Notion “Search Objects”**, cercherà sul tuo database Task Manager oggetti con la query che hai fornito (il nome dell’evento su Google Calendar);
+
+*   Anche in questo caso, si arriva ad un router e parte un SE:
+
+    *   **Se Search Objects trova degli oggetti**, li aggiorna;
+
+    *   **Se Search Objects non trova degli oggetti**, li crea;
+
+    *   **Se Search Objects trova degli oggetti ma hanno la proprietà “cancelled”**, li aggiorna e cambia il loro titolo in “deleted” (non c’è la possibilità di eliminare direttamente un oggetto da un database).
+
+Anche in questo caso sembra una cosa intricata, vero?
+
+Fidati che è solo impressione, in realtà è tutto molto semplice.
+
+E con questa mappa a grandi linee che ti ho dato, devi solo giocare un po’ con i tool ed andrai alla grande.
+
+​
+
+​
+
+Devo dire una cosa però: è molto strano!
+
+È strano scrivere delle guide di questo tipo e limitarle alla newsletter.
+
+Per una roba del genere servirebbero dei **video, tante immagini** ecc.
+
+Per questo, facciamo così.
+
+Ti lascio un pulsante qui sotto, te cliccaci e arriverai [**al mio canale YouTube**.](https://www.youtube.com/@danieledamico_notionbuilder/about)​
+
+Te iscriviti e, se raggiungo 50 iscritti, potrai vedere un primo **video-tutorial in dettaglio di tutta sta roba con gestione degli errori **(poi, chi lo sa, mini-corso su Notion per creator?)
+
+Che ne dici?
+
+Detto questo, penso sia tutto, buona settimana e **beccati le risorse**.
+
+​
