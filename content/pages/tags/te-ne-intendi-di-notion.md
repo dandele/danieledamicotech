@@ -195,7 +195,6 @@ bottomSections:
     actions:
       - label: "FACCIAMO 4 CHIACCHIERE \U0001F680"
         altText: ''
-        url: /tags/easy-annual-review
         showIcon: true
         icon: arrowRight
         iconPosition: right
