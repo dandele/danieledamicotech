@@ -180,7 +180,6 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
 date: '2023-02-01'
-client: Awesome client
 description: Andata e ritorno!
 featuredImage:
   type: ImageBlock
