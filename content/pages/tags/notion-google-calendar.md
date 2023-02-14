@@ -209,7 +209,7 @@ bottomSections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nIl mezzo migliore per creare un'audience?\n\nLe parole che utilizzi.\n\n[Ma come scegliere le parole migliori?](https://twitter.com/jspector/status/1617160237173145601)\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nSei sempre a corto di tempo libero?\n\n​[Allora dovresti trovare dei modi per crearne di più, altrimenti impazzisci.](https://radreads.co/calendar/)\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nIl prezzo è una delle leve più importanti che determina le tue possibilità di vendita.\n\n​[Per questo, è importante che tu legga qui.](https://twitter.com/KateBour/status/1572931805476524034)​\n"
+    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nI tool di AI sono utili per chiunque voglia creare un’audience.\n\nSolo che sono così tanti.\n\n​[Per questo le selezioni di questo tipo sono utili!](https://twitter.com/heybarsee/status/1619712040041324544?s=61\\&t=WNQAFUwVXgFPIUZTU3mF0Q)\n\n\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\n\n\nC’è una cosa che ha grande impatto sulla tua produttività: il modo in cui utilizzi il tuo browser.\n\n​[E con questo tool, potrai utilizzarlo al meglio.](https://chrome.google.com/webstore/detail/omni-bookmark-history-tab/mapjgeachilmcbbokkgcbgpbakaaeehi?hl=en\\&authuser=0)\n\n​​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nOra che Gumroad è a rischio, tutti i creator cercano alternative.\n\n​[E questa potrebbe essere la più facile.](https://app.unlock.pics/landing)\n"
     styles:
       self:
         height: auto
