@@ -179,7 +179,7 @@ title: "\U0001F9F0 kSC #24: Da NOTION A GOOGLE CALENDAR..."
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-date: '2023-01-25'
+date: '2023-02-01'
 client: Awesome client
 description: e ritorno!
 featuredImage:
