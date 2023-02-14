@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #24: Da NOTION A GOOGLE CALENDAR..."
+title: "\U0001F9F0 kSC #25: Con Notion puoi creare tutto..."
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
