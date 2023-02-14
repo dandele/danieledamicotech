@@ -207,7 +207,6 @@ bottomSections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Let's do this
     actions:
       - label: FACCIAMO UNA CALL!
         altText: ''
