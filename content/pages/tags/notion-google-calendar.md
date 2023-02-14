@@ -181,7 +181,7 @@ backgroundImage:
   type: BackgroundImage
 date: '2023-01-25'
 client: Awesome client
-description: sono arrivati!
+description: e ritorno!
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
