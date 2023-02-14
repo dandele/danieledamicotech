@@ -193,7 +193,7 @@ bottomSections:
     elementId: ''
     backgroundSize: full
     actions:
-      - label: "FAI LA TUA ANNUAL REVIEW \U0001F680"
+      - label: "FACCIAMO 4 CHIACCHIERE \U0001F680"
         altText: ''
         url: /tags/easy-annual-review
         showIcon: true
