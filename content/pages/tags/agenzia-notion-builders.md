@@ -288,23 +288,17 @@ bottomSections:
         textAlign: center
 slug: agenzia-notion-builders
 ---
-Una delle tecniche di produttività più efficaci è quella del [time-blocking](https://todoist.com/it/productivity-methods/time-blocking).
+Un anno fa ho ricevuto una **richiesta di collegamento su LinkedIn**.
 
-Tanti esperti di produttività ne decantano le potenzialità.
+Era da parte di una ragazza che non conoscevo, Beatrice.
 
-E posso confermarle, ne ho visto io stesso gli effetti.
-
-Solo che c’è un problema.
-
-L’ho messa in pratica con **Todoist**, non con **Notion**.
-
-Poi ho deciso che dovevo risolvere.
+Non avevo idea che da lì ad un anno avrei fondato con lei la prima agenzia italiana di consulenza Notion.
 
 ***
 
 **TL;DR**
 
-*   Da Notion a Google Calendar, andata e ritorno;
+*   Con Notion puoi creare tutto, anche un'agenzia;
 
 *   Una risorsa per la tua audience building
 
@@ -312,190 +306,192 @@ Poi ho deciso che dovevo risolvere.
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 4 minuti e 20.
+**Il tempo di lettura previsto è:** 5 minuti e 20.
 
 ***
 
 Ehi ciao 👋,
 
-questo è il numero 24 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 25 del **Kit di Sopravvivenza per Creator**.
 
-Ed oggi ti racconterò **come sincronizzare il tuo Notion con il tuo Google Calendar.**
+Ed oggi ti racconterò **come io e Beatrice abbiamo utilizzato Notion per creare un'agenzia.**
 
+****
 
+Quando Beatrice mi ha scritto, avevo cominciato da poco a pubblicare su LinkedIn.
 
-Mettiamo le cose in chiaro, in questa newsletter **non farò il confronto tra Notion e Todoist.**
+Parlavo di Notion giusto per testare le acque e vedere come rispondessero le persone.
 
-Sarebbe un confronto particolare, tra due strumenti molto diversi.
+Di fatto, quei contenuti di test colpirono proprio Beatrice e di lì a poco organizzammo una prima call per fare quattro chiacchiere e parlare di Notion.
 
-Todoist è un tool specializzato per gestire i task.
+Non decidemmo subito di lanciare un’agenzia, anzi, è passato qualche mese da quel nostro primo incontro.
 
-Notion invece è un tool generale che ti permette di costruire quello che vuoi, anche un task manager.
+Nel corso di quei mesi ci siamo conosciuti, siamo cresciuti e **abbiamo capito i rispettivi punti di forza**.
 
-Ed io non uso più Todoist da qualche anno, ma devo ammettere una cosa.
+Quando poi abbiamo preso la decisione di buttarci in quest’avventura, è stato naturale costruire la casa dei nostri sforzi su Notion.
 
-Adoravo Todoist per la possibilità di **integrazione con Google Calendar**.
+E oggi ho deciso di **mostrarti proprio questa casa**.
 
-E quindi, la possibilità di fare time-blocking.
+Perché Notion non è solo template, Notion è lo strumento con cui puoi costruire quello che vuoi.
 
-Inoltre, visto che era una funzione base di Todoist, non dovevi impazzire per utilizzarla.
-
-Con Notion, le cose sono diverse: non c’è integrazione interna con Google Calendar, **te la devi costruire tu**.
-
-E nella newsletter di oggi, ti mostrerò proprio come fare.
+Ma certe volte può essere difficile iniziare senza alcuna **ispirazione**.
 
 ​
 
-## **DA NOTION A GOOGLE CALENDAR, ANDATA E RITORNO**
+## **CON NOTION PUOI CREARE TUTTO, ANCHE UN’AGENZIA**
 
-**Notion** ha l’API aperta e pubblica.
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/h949X9y7u9haYhXoMYGzxF/email)**​**
 
-Questo significa che puoi utilizzarlo per fare richieste o richiami al codice di Notion e utilizzare le informazioni presenti sul tuo Notion all’interno di altri tool.
+**​**Ogni volta che io e Beatrice facciamo una call con qualcuno interessato ai nostri servizi, gli mostriamo una cosa.
 
-Lo stesso discorso vale anche all’inverso.
+È una sorta di **demo di quello che Notion può fare**.
 
-Questa però è una cosa che sanno fare i **developer** (o chi si studi la cosa con la giusta dose di dettaglio ed ossessione).
+Anzi, è una demo di quello che io e Beatrice possiamo fare con Notion.
 
-E chi non è un developer cosa fa? Utilizza tool come **Zapier, Make e gli altri**.
+Di come possiamo utilizzare Notion (e non solo) per **raggiungere determinati obiettivi**.
 
-Si, a voler essere precisi Zapier e Make sono tool di automazione, ma possono essere utili anche a chi vuole fare integrazioni particolari.
+È la demo di come abbiamo strutturato il **Workspace di Notion Builders**.
 
-Io, ad esempio, ho scelto Make.
+La demo di uno spazio Notion nato per costruire un’agenzia, per collaborare da remoto e per gestire i primi clienti.
 
-E bastano solo tre cose per avere i **task del tuo Notion sul tuo Google Calendar (e viceversa).**
+In particolare, ci sono **3 cose che colpiscono le persone**:
 
-*   Un database Task Manager su Notion;
+*   La dashboard personale;
 
-*   Uno scenario Make da Notion a Google Calendar;
+*   Il crm;
 
-*   Uno scenario Make da Google Calendar a Notion;
+*   La gestione dei documenti e dei clienti.
 
-Prepara il tuo Notion, prepara il tuo account Make e cominciamo!
-
-​
-
-### **UN DATABASE TASK MANAGER SU NOTION**
-
-Questa è la parte più semplice, la fase dei preparativi.
-
-Per fartela breve: **hai bisogno di account su Notion, Make e Google Calendar.**
-
-Inoltre, su Notion hai bisogno di un database Task Manager.
-
-Cercherò di fartela breve.
-
-Ecco come creare un task manager su Notion, semplice e in poco tempo:
-
-*   Vai sul tuo spazio Notion;
-
-*   Premi il tasto “/” sulla tua tastiera e comincia a scrivere “database”.
-
-*   Seleziona la voce “database inline”.
-
-*   Dai un nome alla tabella che compare: Task Manager;
-
-*   Inserisci alcune proprietà in quella tabella (ricorda di inserire la proprietà Date, è fondamentale).
-
-Ora che hai fatto tutti i passi necessari, dovresti ritrovarti con un bel database di Task Management sul tuo Notion.
-
-Inserisci pure qualche task di prova.
-
-Ora possiamo andare al punto successivo.
+Ecco uno sguardo ravvicinato al cuore di Notion Builders.
 
 ​
 
-### UNO SCENARIO MAKE, DA NOTION A GOOGLE CALENDAR
+### **LA DASHBOARD PERSONALE**
 
-![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/3dXNmGnEHo9BorFaTam3hV)​
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/6eerGm4Mc3YAdnp9JMKo8M/email)**​**
 
-​
+****
 
-Ok, ora vai [qui](https://www.make.com/en) e, se ancora non ne hai uno, **crea un account**.
+È giusto partire da questa sezione.
 
-Fatto?
+Questa è la sezione che, ogni mattina, io e Beatrice vediamo.
 
-Bene, ora sei su Make, complimenti!
+Ed è una **sezione personale**, perché mostra a me solo le cose che riguardano me.
 
-Per questo scenario avrai bisogno di due moduli: **Notion** e **Google Calendar**.
+E mostra a Beatrice solo le cose che riguardano Beatrice.
 
-Aggiunti i moduli ed integrati i rispettivi tool, puoi passare alla creazione dell’ automazione.
+Nella Dashboard personale, infatti, sia io che Beatrice vediamo la stessa struttura di contenuti: i documenti e i task.
 
-Eccone le fasi:
+Solo che, in questa sezione, **io non voglio vedere i task e i documenti di Beatrice.**
 
-*   Comincia aggiungendo un primo modulo, è un **modulo di Notion** e si chiama “Watch Database Items”. In pratica, **monitora il tuo database Task Manager** (quello su Notion) per ogni modifica che avviene.
+Vederli mi manderebbe in **confusione**, mi farebbe provare **ansia** o altre robe per niente positive.
 
-*   Quando crei o aggiorni un elemento di quel database, l’automazione su Make parte e passa al **modulo successivo “Search Events”**;
+E lo stesso vale per lei.
 
-*   Il modulo “Search Events” cerca eventi sul calendario di Google che gli hai specificato e li cerca con la **query che hai impostato** (la query deve coincidere con il nome dell’oggetto identificato dal modulo Notion);
+Insomma, ci farebbe provare la stessa sensazione che provi anche tu quando qualcuno **interrompe la tua colazione domenicale con una brutta notizia**.
 
-*   L’informazione passa ad un router che gestisce **SE**:
+Hai presente, no ?
 
-    *   Se il modulo **Search non trova eventi** con lo stesso nome dell’oggetto su Notion, crea un evento sul calendario;
+Ecco, noi non vogliamo provare quella sensazione, vogliamo uno spazio che ci permetta di essere produttivi ed efficienti.
 
-    *   Se il modulo **Search trova eventi** con lo stesso nome dell’oggetto su Notion, li aggiorna;
-
-    *   Se il modulo **Search trova eventi** con lo stesso nome dell’oggetto su Notion, ma con la proprietà Archived valida, li cancella;
-
-Lo so, sembra una cosa complessa ma non lo è.
-
-Gioca un po’ con Make e vedrai che riuscirai a far tutto.
+E lo vogliono anche i nostri clienti.
 
 ​
 
-### **UNO SCENARIO MAKE DA GOOGLE CALENDAR A NOTION**
+### **CRM**
 
-![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/2chcbJXziwyFm51ZVLK6i5)​
-
-​
-
-Puoi fermarti anche al punto precedente, diciamoci la verità.
-
-Tutto dipende da quanto giochi sul tuo calendar e quanto spesso sposti gli eventi.
-
-Mettiamo caso che li sposti spesso.
-
-In tal caso, **crea un altro scenario su Make** e chiamalo “Da GCAL a Notion”.
-
-Fai gli stessi passi iniziali del punto precedente: aggiungi i moduli Notion e Google Calendar.
-
-Ecco ora cosa devi fare:
-
-*   **Crea un modulo di Google Calendar “Watch Events”**, che si comporterà proprio come il modulo “Watch Database Items” di Notion: monitora il tuo Google Calendar e non appena fai modifiche o crei cose, parte l’automazione;
-
-*   **Poi crea il modulo di Notion “Search Objects”**, cercherà sul tuo database Task Manager oggetti con la query che hai fornito (il nome dell’evento su Google Calendar);
-
-*   Anche in questo caso, si arriva ad un router e parte un SE:
-
-    *   **Se Search Objects trova degli oggetti**, li aggiorna;
-
-    *   **Se Search Objects non trova degli oggetti**, li crea;
-
-    *   **Se Search Objects trova degli oggetti ma hanno la proprietà “cancelled”**, li aggiorna e cambia il loro titolo in “deleted” (non c’è la possibilità di eliminare direttamente un oggetto da un database).
-
-Anche in questo caso sembra una cosa intricata, vero?
-
-Fidati che è solo impressione, in realtà è tutto molto semplice.
-
-E con questa mappa a grandi linee che ti ho dato, devi solo giocare un po’ con i tool ed andrai alla grande.
+**​**![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/dbDnkm63sSPijDCtZkqHzX/email)
 
 ​
 
+Ok, una Dashboard personale è una cosa carina e pulita, ci sta.
+
+Ma è una cosa che ti possono fornire anche altri tool, dov’è la novità?
+
+La cosa innovativa è rappresentata da questo secondo punto, più o meno.
+
+Il fatto è che più sotto della Dashboard personale, ci **sono altre Dashboard**.
+
+C’è quella per **gestire i task complessivi**, con cui sia io che Beatrice possiamo vedere i task dell’altra persona.
+
+C’è quella per **gestire i clienti**, prospect e tutte le persone con cui Notion Builders entra in contatto.
+
+C’è quella per **gestire gli OKR**.
+
+C’è quella per **gestire i documenti** in modo asincrono e senza perdere nulla.
+
+E quella per **gestire le risorse**.
+
+E forse lo hai capito tu stesso, la cosa innovativa è che puoi **gestire tutta sta roba da un solo tool**.
+
+Tutte le informazioni in un unico luogo, tutte che emergono quando servono, dove servono e soprattutto senza che sia tu a doverle cercare.
+
+La sola cosa di cui hai bisogno è la **capacità di costruire il sistema adatto a te**, alle tue esigenze e quelle del tuo team.
+
+E quando non hai quella capacità, è lì che ci chiami.
+
+Come i ghostbusters, che li chiami quando c’è qualcosa di terrorizzante nel tuo vicinato.
+
 ​
 
-Devo dire una cosa però: è molto strano!
+### **LA GESTIONE DEI DOCUMENTI E DEI CLIENTI**
 
-È strano scrivere delle guide di questo tipo e limitarle alla newsletter.
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/s4qTfRX4k6F2AfnYesKkdm/email)
 
-Per una roba del genere servirebbero dei **video, tante immagini** ecc.
+Questa è forse una delle cose che colpisce di più.
 
-Per questo, facciamo così.
+Perché avere una vista personale su quello che ti riguarda è utile.
 
-Ti lascio un pulsante qui sotto, te cliccaci e arriverai [**al mio canale YouTube**.](https://www.youtube.com/@danieledamico_notionbuilder/about)​
+Avere tutte le informazioni nello stesso posto e poter gestire diversi processi da un unico strumento invece che mille è fantastico.
 
-Te iscriviti e, se raggiungo 50 iscritti, potrai vedere un primo **video-tutorial in dettaglio di tutta sta roba con gestione degli errori **(poi, chi lo sa, mini-corso su Notion per creator?)
+Ma la possibilità di **liberarsi dalla dipendenza da e-mail, notifiche e call è un sogno di tante persone**.
 
-Che ne dici?
+Io ho cercato per tanto tempo un tool che mi aiutasse a fare queste cose, ne ho testati decine.
+
+Poi però ho capito che se non trovi nulla di già pronto, allora **sei tu a doverti costruire la soluzione**.
+
+E quindi la casa di Notion Builders è una casa costruita proprio in questo modo.
+
+Non ci sono messaggi che io o Beatrice dobbiamo cercare su Whatsapp per poter recuperare le password di accesso a qualche servizio.
+
+Non ci sono e-mail che dobbiamo recuperare per ricordare quali sono le esigenze di un cliente.
+
+È tutto su Notion.
+
+Quando uno di noi ha un’idea, crea un nuovo documento su Notion, la descrive in dettaglio e mette in atto un processo che abbiamo definito insieme.
+
+Un **processo** che poi fa finire il documento sulla “scrivania” della persona giusta al momento giusto.
+
+E lo stesso vale per i **clienti**.
+
+Ogni cliente ha accesso ad una Dashboard personale in cui può vedere lo sviluppo dei lavori e come stanno andando le cose.
+
+Il tutto riducendo al minimo lo scambio di e-mail, messaggi o call.
+
+Così siamo tutti più **tranquilli**, con più tempo a disposizione per le cose a cui teniamo e la **serenità** di lavorare nel modo più efficiente possibile.
+
+
+
+
+
+Ora, queste sono solo alcune delle cose presenti sul nostro Notion.
+
+Ci sono tante altre cose che non ti posso mostrare ancora.
+
+Spero però di averti chiarito le **potenzialità** dello strumento e di cosa ti permette di fare.
+
+L’unico scoglio è la parte di **implementazione e progettazione**.
+
+Ma per quello, se vuoi, c’è [**Notion Builders**](https://www.notionbuilders.it/).
+
+Anzi, nel caso in cui tu non l’abbia già fatto, ti lascio un pulsante qui sotto.
+
+È il **pulsante per prenotare una call con noi**, una rapida e senza impegno.
+
+Cliccaci pure e facciamo quattro chiacchiere!
 
 Detto questo, penso sia tutto, buona settimana e **beccati le risorse**.
+
+
 
 ​
