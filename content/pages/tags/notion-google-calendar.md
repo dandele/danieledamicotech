@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #23: Gli Oscar di Product Hunt..."
+title: "\U0001F9F0 kSC #24: Da NOTION A GOOGLE CALENDAR..."
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
