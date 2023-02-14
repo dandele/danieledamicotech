@@ -214,7 +214,7 @@ bottomSections:
     actions:
       - label: Try it now
         altText: ''
-        url: /
+        url: 'https://zcal.co/notionbuilders/quick-talk'
         showIcon: true
         icon: arrowRight
         iconPosition: right
