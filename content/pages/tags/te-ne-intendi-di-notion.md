@@ -238,7 +238,7 @@ bottomSections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nC’è una cosa importante da ricordare quando crei qualcosa.\n\nEd è importante per capire quanto potenziale di successo avrà.\n\n​[A chi interessa?](https://twitter.com/jspector/status/1608953455250661376)\n\n\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nSei ancora in vena di previsioni e lezioni?\n\n​[Allora beccati anche queste](https://www.justinwelsh.me/e/BAh7BjoWZW1haWxfZGVsaXZlcnlfaWRsKwi38jBundefined3D--39f460dfe6545309d8232a46a66af297b086647a?skip_click_tracking=true)\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nQuali sono i prerequisiti per fare monetization?\n\n​[Eccoli qui](https://twitter.com/jonbrosio/status/1609187680302125057)​\n"
+    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nI\_**meme**\_sono uno strumento fantastico per creare un’audience.\n\nSolo che è un casino crearli, vero?\n\n​[Se hai risposto di sì, da oggi dovrai cambiare idea.](https://imgflip.com/memegenerator)\n\n\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nUn tempo, qualcuno mi ha detto che non puoi migliorare quello che non riesci a misurare.\n\n​[Per questo, quando ho scoperto questo tool me ne sono innamorato.](https://rize.io/)\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nUtilizzi\_**Gmail**?\n\nÈ molto probabile che la risposta sia si.\n\n​[Ed è per questo che questo tool ti piacerà: possibilità di monetizzare, direttamente dal tuo account Gmail.](https://www.gmass.co/)​\n"
     styles:
       self:
         height: auto
