@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #26: un 2023 da umano"
+title: "\U0001F9F0 kSC #26: Ma tu che te ne intendi di Notion..."
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
