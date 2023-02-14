@@ -318,23 +318,21 @@ bottomSections:
         textAlign: center
 slug: te-ne-intendi-di-notion
 ---
-Che sensazione provi quando concludi un task e **metti quella X nella to-do list**?
+Non faccio il **commerciale di Notion**.
 
-Bella vero?
+Ho fatto application per diventare **ambassador**, ma mi devono ancora far sapere.
 
-E cosa provi quando fai la stessa cosa, ma per il task successivo?
+Però devo essere sincero, spesso mi capita di consigliare l’utilizzo di Notion alle persone.
 
-Sempre bella, anche se forse un po' meno, vero?
+E se leggi questa newsletter, è probabile che l’abbia consigliato anche a te.
 
-Ma ti sei mai fatto una domanda?
-
-Che succede se l'obiettivo per cui stai eliminando così tanti punti dalla tua task list, fosse un **obiettivo che non vuoi davvero**?
+Forse pure più di una volta.
 
 ***
 
 **TL;DR**
 
-*   Come NON diventare un robot?
+*   Ma tu che te ne intendi di Notion...
 
 *   Una risorsa per la tua audience building
 
@@ -342,169 +340,147 @@ Che succede se l'obiettivo per cui stai eliminando così tanti punti dalla tua t
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 5 minuti e 24.
+**Il tempo di lettura previsto è:** 4 minuti.
 
 ***
 
 Ehi ciao 👋,
 
-questo è il numero 20 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 26 del **Kit di Sopravvivenza per Creator**.
 
-Ed oggi ti racconterò **come NON diventare un robot.**
-
-<br />
+Ed oggi risponderò **alle** **tre domande che mi fanno più spesso riguardo Notion.**
 
 
 
-La fine dell'anno è sempre un periodo di **riflessioni**.
+È una cosa che capita.
 
-Fatti un giro su un social a caso.
+Quando hai un’agenzia che si chiama [**Notion Builders**](https://www.notionbuilders.it/), capita spesso che le persone ti chiedano cose su **Notion**.
 
-Decine di post di persone la cui vita non ti riguarda neanche un po' e che condividono il loro fantastico anno di cui non ti importa neanche un po'.
+Non sono sempre cose tecniche e divertentI, eh.
 
-C'è da dire però che riflettere sulle vicende dell'ultimo anno è utile.
+Non è che tutti ti chiedano, per esempio, di creare automazioni per l’invio di e-mail e la creazione di cartelle su Google Drive dopo una determinata azione su Notion.
 
-Ti permette di **ragionare su quanto fatto e ti permette di impostare una direzione per il futuro**.
+Quando capitano certe domande, capisci che è una giornata buona e ti divertirai.
 
-Ma anche più di questo: **ti evita di diventare un robot**.
+Poi ci sono altri giorni in cui ti chiedono altro.
 
-Ti evita di diventare una macchina da task, che li esegue ed elimina dalla sua lista personale, senza sapere l'obiettivo per cui lo fa.
+E non accade solo con prospect o clienti, accade anche con persone che leggono quello che scrivo e quindi chiedono.
 
-E se si chiede "Perché l'ho fatto?", si rompe.
-
-Parlo per esperienza, mi ci sono trovato anni fa in questa situazione.
-
-Ed è così che ne sono uscito.
+Ci sta.
 
 ​
 
-## COME NON DIVENTARE UN ROBOT?
+## **MA TU CHE TE NE INTENDI DI NOTION…**
 
-La soluzione è semplice: **devi essere consapevole**.
+La cosa interessante però è che **alcune domande sono fisse**, si ripetono.
 
-Devi solo chiederti perché fai quello che fai, a cosa punti ecc.
+Io, così come la mia socia Beatrice, ce le sentiamo fare almeno una volta a settimana.
 
-Ma sapere la soluzione non basta, quello che serve è **l'esecuzione**.
+Ecco le 3 più gettonate.
 
-Perché non ero in grado di rendere la mia esecuzione più consapevole?
+*   Ma Notion come gestisce la sicurezza dati?
 
-*   perché non sapevo cosa chiedermi;
+*   Il mio team utilizza già tool X, possiamo utilizzarlo insieme a Notion?
 
-*   non sapevo dove chiedermelo;
+*   Possiamo usare Notion come un Crm/Task manager/Knowledge base/Sito web ?
 
-*   non sapevo come chiedermelo.
+E visto che sono così frequenti, ho deciso di non considerarle come delle domande ovvie.
 
-E nel tentativo di risolvere questi dubbi ho scoperto l’esistenza dei **Review Cycles**.
-
-Che in questo periodo di fine dell’anno ed inizio dell’anno prossimo, prendono la forma di **Annual Review**.
-
-Ed ecco come strutturare la tua Annual Review per il 2023.
+Ho deciso di dartene la **risposta**.
 
 ​
 
-### COSA CHIEDERSI NELL'ANNUAL REVIEW?
+### **MA NOTION COME GESTISCE LA SICUREZZA DEI DATI?**
 
-Diciamoci la verità, la ciccia dell’Annual review è proprio in questo punto.
+Ok, questa sembra essere una grossa **preoccupazione** per tante persone.
 
-Quello che ti chiedi (e cosa rispondi) è ciò che ha più **impatto** nel definire una direzione per i tuoi prossimi 12 mesi.
+In tanti ci chiediamo **cosa faccia Notion dei nostri dati**.
 
-Per questo è importante definire una **struttura** e capire quali domande ha senso porsi.
+Ed è un dubbio lecito, eh.
 
-Sull’argomento ci hanno ragionato tante persone: da **Ali Abdaal**, ad **August Bradley** fino a **Sahil Bloom**.
+Quando stai pensando di utilizzare Notion per gestire tutto il tuo business, ci sta che tu abbia dubbi del genere.
 
-Ed è proprio la struttura di Sahil che seguo.
+Anche io, qualche tempo fa, mi feci la stessa domanda.
 
-Analizza gli ultimi 12 mesi e pianifica i prossimi da questi punti di vista:
+Poi però ho fatto qualche ricerca online e non mi sono preoccupato più.
 
-*   **Big Goals**: verso quali obiettivi grandi ed a lungo termina hai lavorato?
-    Quali hai raggiunto?
-    Quali non sono più validi? Quali nuovi Big Goals sono emersi e vorresti raggiungere?
-    ​
-    ​*Esempio: raggiungere i 1000 iscritti a questa newsletter nel 2023
-    ​*
+Si, perché quelli di Notion la **fissa per la sicurezza dei dati** ce l’hanno da un bel po’.
 
-*   **Checkpoint Goals**: ora che hai definito i Big Goals, analizzali e rendili più semplici.
-    Scomponi i Big Goals in obiettivi più piccoli, definiti e raggiungibili.
-    ​
-    ​*Esempio: raggiungere 500 iscritti entro giugno 2023
-    ​*
+E quindi hanno raccolto un bel po’ di certificazioni, [la più recente è la ISO 27001](https://www.notion.so/blog/were-iso-27001-compliant-heres-what-that-means-for-you).
 
-*   **Daily Systems**: queste sono le azioni che, fatte di giorno in giorno, ti permettono di raggiungere prima i Checkpoint Goals e poi i Big Goals.
-    ​
-    ​*Esempio: scrittura newsletter quotidiana e newsletter settimanale
-    ​*
+Attesta che i **sistemi informativi utilizzati da Notion siano sicuri e riservati**.
 
-*   **Anti-Goals**: cosa NON vuoi che accada nel tuo percorso per raggiungere i Big Goals?
-    È importante farsi questa domanda, perché arriverai al punto in cui dovrai darti delle priorità e così non andrai in tilt.
-    ​
-    ​*Esempio: non permettere alle mie altre attività di farmi trascurare la newsletter*
-
-*​*
-
-### DOVE FARE L'ANNUAL REVIEW?
-
-La risposta a questa domanda è semplice: **utilizza lo strumento con cui gestisci le tue attività quotidiane**.
-
-Visto che io gestisco la maggior parte delle mie attività su Notion, è su **Notion** che faccio l’Annual Review.
-
-Ma questo non significa che tu debba fare lo stesso: è più importante fare l’Annual Review che farla su Notion.
-
-Ecco **altri tool** che potresti utilizzare:
-
-*   Obsidian;
-
-*   Roam Research;
-
-*   Tana;
-
-*   Evernote;
-
-*   Todoist.
-
-Se posso darti un consiglio però, ti direi di scegliere un tool che ti permette di **costruire sistemi**.
-
-Solo in questo modo potrai cogliere al 100% i vantaggi e l’impatto positivo che l’Annual Review avrà sulla tua vita.
+In pratica, i tuoi dati sono al sicuro e restano segreti: sia che si tratti della tua lista della spesa che degli indirizzi e-mail dei tuoi clienti.
 
 ​
 
-### COME FARE L'ANNUAL REVIEW?
+### **IL MIO TEAM USA GIÀ QUESTO TOOL, POSSIAMO USARLO INSIEME A NOTION?**
 
-Anche in questo caso, **fatto è meglio che perfetto**.
+Quando ci fanno una domanda del genere io mi **emoziono**.
 
-E l'importante è fare la tua annual review entro le **prime settimane di gennaio**, altrimenti perdi la motivazione.
+Perché nasconde **esigenze particolari**, quel tipo di esigenze che mi piace risolvere.
 
-Su Evernote puoi anche creare una semplice lista.
+La risposta è facile.
 
-Mentre su Notion puoi creare un **sistema più complesso**, come quello che nel corso degli anni ho creato io.
+Notion è integrabile con **qualsiasi strumento tu stia utilizzando**.
 
-​![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/ojq8c7koUxUegCyztzb5V9/email)
+Tra integrazioni già presenti su Notion, giochetti vari con Zapier/Make e utilizzo dell’API aperta è sicuro che qualche soluzione ci sia.
 
-![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/54YL7YwwdceezkUjJTHBtA/email)​
+Per esempio, molti ci dicono di utilizzare **Trello** e noi gli diciamo che quello che ti permette di fare Trello, lo puoi fare anche su Notion.
 
-Poi, ci sono tante altre **regole** che potresti seguire per fare la tua Annual Review.
+Certo, **Trello è più semplice da utilizzare**, su questo non c’è dubbio.
 
-Ci sono tante domande che ti potresti fare.
+Ma su Notion, oltre che poter giocare con le kanban board, puoi giocare con tante altre cose.
 
-Ma la cosa più importante, fidati che ci sono passato, è proprio quella di farla.
-
-Tra **complessità e semplicità scegli la seconda**: non deve essere nulla di figo, complesso o perfetto, deve essere qualcosa di utile!
+Il solo problema è la capacità di costruzione, [ma per quello ci siamo noi](https://zcal.co/notionbuilders/quick-talk).
 
 ​
 
-Ora, non ti posso dire che facendo l'Annual Review il tuo anno sarà fantastico e raggiungerai i tuoi obiettivi.
+### **MA SI PUÒ USARE NOTION COME CRM/TASK MANAGER/KNOWLEDGE BASE/SITO WEB?**
 
-Te lo auguro, ma non te lo posso promettere.
+Questa domanda è l’estensione naturale della precedente.
 
-Posso dirti però che con un Annual Review in tuo supporto, sarai in grado di affrontare qualsiasi progetto del 2023 con la consapevolezza necessaria per trarne il meglio.
+La notizia che Notion è così flessibile colpisce le persone come una **folgorazione**.
 
-In più, dato che voglio aiutarti a raggiungere i tuoi obiettivi ho pensato una cosa.
+Vedi la loro espressione mutare, come se fossero sulla strada di Damasco e avessero appena ricevuto un altro tipo di rivelazione.
 
-Ho pensato di prendere la struttura della mia **Annual Review** e renderla un **template**.
+E quindi subito vogliono scendere nei **dettagli**.
 
-Così non avrai scuse o problemi a farla, li avrò già risolti io per te!
+“Ma si può usare come task manager?”.
 
-**Clicca il pulsante** qui sotto e vedrai.
+“Io ci vorrei fare un CRM”.
 
-Detto questo, per oggi è tutto, buon 2023 e beccati le **risorse**.
+“Mi piacerebbe utilizzarlo come sito web”.
 
-Daniele
+Hai capito la storia, dai.
+
+E indovina la riposta?
+
+**Si**, a tutte queste domande e tutte le altre che puoi immaginare.
+
+I **limiti tecnici dello strumento sono pochi** e spesso si possono aggirare grazie a determinate competenze.
+
+Il grande vantaggio di Notion è che puoi utilizzarlo per **cucire il tool più adatto alle tue esigenze.**
+
+Non dovrai più utilizzare una soluzione standardizzata e fatta senza tenere conto delle tue esigenze più particolari.
+
+Tutti preferiscono un **vestito cucito su misura**, no?
+
+​
+
+​
+
+Bene, direi che oggi ho fatto una cosa molto utile.
+
+Ora avrò qualcosa da girare a tutte le persone che mi faranno questa domanda in futuro.
+
+Sono convinto che ce ne saranno sempre più.
+
+Ma a parte questa **strategica pigrizia**, spero di aver chiarito dei dubbi anche in te che con tanta pazienza hai letto fin qui.
+
+Ma se hai altre domande sulla questione, non esitare a rispondere a questa e-mail.
+
+Oppure **facciamo una call**, senza impegno, ti lascio il **pulsante qui sotto**.
+
+E direi che per oggi è tutto, buona settimana e **beccati le risorse**.
+
