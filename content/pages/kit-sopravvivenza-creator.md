@@ -177,5 +177,6 @@ sections:
       - content/pages/tags/e-se-notion-sparisse.md
       - content/pages/tags/un-2023-da-umano.md
       - content/pages/tags/oscar-product-hunt.md
+      - content/pages/tags/notion-google-calendar.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
