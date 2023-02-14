@@ -203,28 +203,6 @@ bottomSections:
           - pr-4
         justifyContent: center
         borderWidth: 1
-  - type: TextSection
-    colors: colors-f
-    elementId: ''
-    variant: variant-a
-    subtitle: null
-    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nDiciamoci la verità, da quando è uscito ChatGPT tutti hanno cercato di utilizzarlo sui social.\n\nIn qualche caso, l’ho usato anche io con LinkedIn.\n\n​[E da oggi potremo utilizzare questo tool, senza doverci prima studiare ChatGPT.](https://m64.in/linked-xp)\n\n\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nVuoi essere più produttivo?\n\nAllora dovresti riposare.\n\n​[Ma chi ha detto che il solo modo per riposare sia quello di dormire?](https://ideas.ted.com/the-7-types-of-rest-that-every-person-needs/)\n\n​​​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nUno dei mezzi migliori per fare monetization è la creazione di un corso.\n\nMa come si crea un corso? Quale tool utilizzare? Quanto spendere?\n\n​[Con questo, avrai la risposta migliore alla seconda domanda.](https://maven.com/start?ref=producthunt)\n"
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: CtaSection
     colors: colors-c
     elementId: ''
@@ -260,6 +238,28 @@ bottomSections:
         textAlign: center
       actions:
         justifyContent: center
+  - type: TextSection
+    colors: colors-f
+    elementId: ''
+    variant: variant-a
+    subtitle: null
+    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nDiciamoci la verità, da quando è uscito ChatGPT tutti hanno cercato di utilizzarlo sui social.\n\nIn qualche caso, l’ho usato anche io con LinkedIn.\n\n​[E da oggi potremo utilizzare questo tool, senza doverci prima studiare ChatGPT.](https://m64.in/linked-xp)\n\n\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nVuoi essere più produttivo?\n\nAllora dovresti riposare.\n\n​[Ma chi ha detto che il solo modo per riposare sia quello di dormire?](https://ideas.ted.com/the-7-types-of-rest-that-every-person-needs/)\n\n​​​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nUno dei mezzi migliori per fare monetization è la creazione di un corso.\n\nMa come si crea un corso? Quale tool utilizzare? Quanto spendere?\n\n​[Con questo, avrai la risposta migliore alla seconda domanda.](https://maven.com/start?ref=producthunt)\n"
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
