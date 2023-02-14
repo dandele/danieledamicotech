@@ -204,7 +204,7 @@ bottomSections:
         justifyContent: center
         borderWidth: 1
   - type: CtaSection
-    colors: colors-c
+    colors: colors-a
     elementId: ''
     backgroundSize: full
     title: Let's do this
