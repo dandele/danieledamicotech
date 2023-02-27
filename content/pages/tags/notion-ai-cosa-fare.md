@@ -351,7 +351,7 @@ questo è il numero 27 del **Kit di Sopravvivenza per Creator**.
 
 Ed oggi risponderò **3 modi per utilizzare Notion AI. una cosa che capita.**
 
-****
+
 
 Diciamoci la verità, Notion AI è stato annunciato (e poi rilasciato) in un momento particolare.
 
