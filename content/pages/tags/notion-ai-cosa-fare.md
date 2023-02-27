@@ -178,7 +178,6 @@ metaTags: []
 title: "\U0001F9F0 kSC #26: Ma tu che te ne intendi di Notion..."
 colors: colors-a
 date: '2023-02-12'
-client: Awesome client
 description: DIMMI DELLE COSE
 featuredImage:
   type: ImageBlock
