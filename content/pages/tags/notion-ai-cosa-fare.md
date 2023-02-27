@@ -319,15 +319,15 @@ bottomSections:
         textAlign: center
 slug: notion-ai-cosa-fare
 ---
-Non faccio il **commerciale di Notion**.
+Tutti che parlano di AI.
 
-Ho fatto application per diventare **ambassador**, ma mi devono ancora far sapere.
+È da qualche mese ormai che non c'è giorno in cui non ti capiti davanti qualche contenuto a tema AI.
 
-Però devo essere sincero, spesso mi capita di consigliare l’utilizzo di Notion alle persone.
+Prima c'era ChatGPT.
 
-E se leggi questa newsletter, è probabile che l’abbia consigliato anche a te.
+E ora che Notion AI è aperto a tutti, la situazione peggiorerà.
 
-Forse pure più di una volta.
+Ma a parte essere figo, **Notion AI a cosa serve?**
 
 ***
 
@@ -350,8 +350,6 @@ Ehi ciao 👋,
 questo è il numero 26 del **Kit di Sopravvivenza per Creator**.
 
 Ed oggi risponderò **alle** **tre domande che mi fanno più spesso riguardo Notion.**
-
-
 
 È una cosa che capita.
 
@@ -484,4 +482,3 @@ Ma se hai altre domande sulla questione, non esitare a rispondere a questa e-mai
 Oppure **facciamo una call**, senza impegno, ti lascio il **pulsante qui sotto**.
 
 E direi che per oggi è tutto, buona settimana e **beccati le risorse**.
-
