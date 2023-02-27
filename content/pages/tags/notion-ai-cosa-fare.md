@@ -178,7 +178,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #27: Ok, NOTION AI è DISPONIBILE..."
 colors: colors-a
 date: '2023-02-12'
-description: DIMMI DELLE COSE
+description: MA A CHE SERVE?
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
