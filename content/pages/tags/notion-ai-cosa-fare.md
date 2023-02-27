@@ -333,7 +333,7 @@ Ma a parte essere figo, **Notion AI a cosa serve?**
 
 **TL;DR**
 
-*   Ma tu che te ne intendi di Notion...
+*   Notion AI: che ci puoi fare?
 
 *   Una risorsa per la tua audience building
 
@@ -341,144 +341,146 @@ Ma a parte essere figo, **Notion AI a cosa serve?**
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 4 minuti.
+**Il tempo di lettura previsto è:** 3 minuti e 40.
 
 ***
 
 Ehi ciao 👋,
 
-questo è il numero 26 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 27 del **Kit di Sopravvivenza per Creator**.
 
-Ed oggi risponderò **alle** **tre domande che mi fanno più spesso riguardo Notion.**
+Ed oggi risponderò **3 modi per utilizzare Notion AI. una cosa che capita.**
 
-È una cosa che capita.
+****
 
-Quando hai un’agenzia che si chiama [**Notion Builders**](https://www.notionbuilders.it/), capita spesso che le persone ti chiedano cose su **Notion**.
+Diciamoci la verità, Notion AI è stato annunciato (e poi rilasciato) in un momento particolare.
 
-Non sono sempre cose tecniche e divertentI, eh.
+Poco dopo il rilascio di **ChatGPT**, quando il mondo ancora osservava incredulo quello che il tool di Open AI era in grado di fare.
 
-Non è che tutti ti chiedano, per esempio, di creare automazioni per l’invio di e-mail e la creazione di cartelle su Google Drive dopo una determinata azione su Notion.
+Chi aveva tempo di pensare alla versione di AI fatta da Notion?
 
-Quando capitano certe domande, capisci che è una giornata buona e ti divertirai.
+Solo gli ossessionati come me.
 
-Poi ci sono altri giorni in cui ti chiedono altro.
+Così, mentre tutti giocavano con ChatGPT, io ho giocato sia con ChatGPT che con Notion AI.
 
-E non accade solo con prospect o clienti, accade anche con persone che leggono quello che scrivo e quindi chiedono.
+E delle differenze ne ho parlato già qualche newsletter fa.
 
-Ci sta.
-
-​
-
-## **MA TU CHE TE NE INTENDI DI NOTION…**
-
-La cosa interessante però è che **alcune domande sono fisse**, si ripetono.
-
-Io, così come la mia socia Beatrice, ce le sentiamo fare almeno una volta a settimana.
-
-Ecco le 3 più gettonate.
-
-*   Ma Notion come gestisce la sicurezza dati?
-
-*   Il mio team utilizza già tool X, possiamo utilizzarlo insieme a Notion?
-
-*   Possiamo usare Notion come un Crm/Task manager/Knowledge base/Sito web ?
-
-E visto che sono così frequenti, ho deciso di non considerarle come delle domande ovvie.
-
-Ho deciso di dartene la **risposta**.
+Oggi ti racconterò altro: ti racconterò di **tre modi in cui utilizzo Notion AI** quasi tutti i giorni.
 
 ​
 
-### **MA NOTION COME GESTISCE LA SICUREZZA DEI DATI?**
+## **NOTION AI: CHE CI PUOI FARE?**
 
-Ok, questa sembra essere una grossa **preoccupazione** per tante persone.
+Arriviamo subito al sodo, già le mie newsletter sono lunghe, meglio non esagerare.
 
-In tanti ci chiediamo **cosa faccia Notion dei nostri dati**.
+Utilizzo Notion AI in questi modi qua:
 
-Ed è un dubbio lecito, eh.
+*   Zettelkasten velocizzato;
 
-Quando stai pensando di utilizzare Notion per gestire tutto il tuo business, ci sta che tu abbia dubbi del genere.
+*   Il copy efficiente;
 
-Anche io, qualche tempo fa, mi feci la stessa domanda.
+*   Call indimenticabili.
 
-Poi però ho fatto qualche ricerca online e non mi sono preoccupato più.
-
-Si, perché quelli di Notion la **fissa per la sicurezza dei dati** ce l’hanno da un bel po’.
-
-E quindi hanno raccolto un bel po’ di certificazioni, [la più recente è la ISO 27001](https://www.notion.so/blog/were-iso-27001-compliant-heres-what-that-means-for-you).
-
-Attesta che i **sistemi informativi utilizzati da Notion siano sicuri e riservati**.
-
-In pratica, i tuoi dati sono al sicuro e restano segreti: sia che si tratti della tua lista della spesa che degli indirizzi e-mail dei tuoi clienti.
+Ora te li racconto in dettaglio.
 
 ​
 
-### **IL MIO TEAM USA GIÀ QUESTO TOOL, POSSIAMO USARLO INSIEME A NOTION?**
+### **ZETTELKASTEN VELOCIZZATO**
 
-Quando ci fanno una domanda del genere io mi **emoziono**.
+Conosci il [metodo Zettelkasten](https://zettelkasten.de/introduction/)?
 
-Perché nasconde **esigenze particolari**, quel tipo di esigenze che mi piace risolvere.
+È uno strumento che ti permette di raccogliere informazioni (prendere note), di processarle e crearne una rete.
 
-La risposta è facile.
+Una rete che poi facilita la tua **creatività** e **produttività**.
 
-Notion è integrabile con **qualsiasi strumento tu stia utilizzando**.
+Insomma, è una cosa che puoi fare con Notion, Obsidian e altri tool del genere.
 
-Tra integrazioni già presenti su Notion, giochetti vari con Zapier/Make e utilizzo dell’API aperta è sicuro che qualche soluzione ci sia.
+Con **Notion AI** però le puoi dare una marcia in più.
 
-Per esempio, molti ci dicono di utilizzare **Trello** e noi gli diciamo che quello che ti permette di fare Trello, lo puoi fare anche su Notion.
+Si, perché finora i miei appunti dei libri letti finivano in un database su Notion (tramite Readwise) e lì restavano, senza la giusta fase di analisi e summarization.
 
-Certo, **Trello è più semplice da utilizzare**, su questo non c’è dubbio.
+Con Notion AI, invece, il problema è risolto.
 
-Ma su Notion, oltre che poter giocare con le kanban board, puoi giocare con tante altre cose.
+In pratica, per ogni libro, articolo, podcast o documento presente nella mia libreria Readwise, ci sono tutta una serie di note e appunti.
 
-Il solo problema è la capacità di costruzione, [ma per quello ci siamo noi](https://zcal.co/notionbuilders/quick-talk).
+Quando finisco di leggere il libro, mi basta andare all’interno della pagina su Notion e chiedere a Notion AI di fare un summary degli appunti presi.
+
+Qualche clic invece di qualche ora.
 
 ​
 
-### **MA SI PUÒ USARE NOTION COME CRM/TASK MANAGER/KNOWLEDGE BASE/SITO WEB?**
+### **COPY EFFICIENTE**
 
-Questa domanda è l’estensione naturale della precedente.
+Questo è l’utilizzo più ovvio, lo so.
 
-La notizia che Notion è così flessibile colpisce le persone come una **folgorazione**.
+Ma c’è così tanto potenziale.
 
-Vedi la loro espressione mutare, come se fossero sulla strada di Damasco e avessero appena ricevuto un altro tipo di rivelazione.
+Hai presente tutte le operazioni di scrittura ben poco creativa che bisogna fare ogni giorno?
 
-E quindi subito vogliono scendere nei **dettagli**.
+In particolare, mi riferisco alle **e-mail**.
 
-“Ma si può usare come task manager?”.
+Ho un brutto rapporto con le e-mail ( e detto da chi scrive una newsletter sembra assurdo, lo so), perché possono essere un **buco nero di distrazione**.
 
-“Io ci vorrei fare un CRM”.
+Quindi, oltre a limitarne la lettura ad orari fissi, cerco anche di renderne efficiente la scrittura, tranne nei casi che meritano un tocco più umano (come la scrittura della newsletter).
 
-“Mi piacerebbe utilizzarlo come sito web”.
+E Notion AI mi aiuta proprio a gestirle al meglio.
 
-Hai capito la storia, dai.
+Le e-mail adatte fanno questo **percorso**:
 
-E indovina la riposta?
+*   da Gmail finiscono su Notion;
 
-**Si**, a tutte queste domande e tutte le altre che puoi immaginare.
+*   lì chiedo al Notion AI di aiutarmi scrivendo una risposta (e magari ritoccandola io);
 
-I **limiti tecnici dello strumento sono pochi** e spesso si possono aggirare grazie a determinate competenze.
+*   da Notion ripassano su Gmail come risposta.
 
-Il grande vantaggio di Notion è che puoi utilizzarlo per **cucire il tool più adatto alle tue esigenze.**
+Inoltre, quando mi sento pigro, il passaggio da Gmail a Notion e da Notion a Gmail, lo faccio fare a qualche automazione.
 
-Non dovrai più utilizzare una soluzione standardizzata e fatta senza tenere conto delle tue esigenze più particolari.
+​
 
-Tutti preferiscono un **vestito cucito su misura**, no?
+### **CALL INDIMENTICABILI**
+
+Questa è la cosa che più mi piace.
+
+Ti permette di svoltare la tua **produttività** risparmiando un sacco di tempo.
+
+Quando Beatrice e io facciamo una call come [Notion Builders](https://www.notionbuilders.it/), nel caso in cui possiamo registrarla, accadono una serie di **cose spettacolari**:
+
+*   la registrazione è fatta da Google Meet e finisce su Google Drive, in automatico;
+
+*   da Google Drive passa a Notion in un database specifico (tramite automazione);
+
+*   da Google Drive passa anche su un tool che trascrive l’audio (tramite automazione);
+
+*   la trascrizione finisce su Notion e lì Notion AI la trasforma in meeting notes e una to-do list.
+
+Sembrano tutte piccole azioni, lo so.
+
+Ma ripetute decine di volte in una settimana risultavano in ore che oggi possiamo dedicare ad altro.
 
 ​
 
 ​
 
-Bene, direi che oggi ho fatto una cosa molto utile.
+Cosa significa quello che ho scritto finora?
 
-Ora avrò qualcosa da girare a tutte le persone che mi faranno questa domanda in futuro.
+Significa che Notion AI è il tool migliore di intelligenza artificiale?
 
-Sono convinto che ce ne saranno sempre più.
+Significa che ChatGPT è meglio?
 
-Ma a parte questa **strategica pigrizia**, spero di aver chiarito dei dubbi anche in te che con tanta pazienza hai letto fin qui.
+La verità è che non ne ho idea.
 
-Ma se hai altre domande sulla questione, non esitare a rispondere a questa e-mail.
+Qualche newsletter fa era ChatGPT a vincere il primo (impari) confronto.
 
-Oppure **facciamo una call**, senza impegno, ti lascio il **pulsante qui sotto**.
+Ora invece devo dire che utilizzo molto più spesso Notion AI.
 
-E direi che per oggi è tutto, buona settimana e **beccati le risorse**.
+E si tratta ancora di una funzione non integrata al 100%, non ci puoi costruire automazioni (per esempio).
+
+Diciamo che la gara tra i due tool è iniziate e non ho idea di come finirà.
+
+Nel frattempo, noi comuni mortali, possiamo solo goderci la competizione e **migliorare la nostra efficienza**.
+
+E detto questo, per oggi è tutto, buona settimana e **beccati le risorse**.
+
+​
+
+Daniele
