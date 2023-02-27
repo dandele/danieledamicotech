@@ -180,5 +180,6 @@ sections:
       - content/pages/tags/notion-google-calendar.md
       - content/pages/tags/agenzia-notion-builders.md
       - content/pages/tags/te-ne-intendi-di-notion.md
+      - content/pages/tags/notion-ai-cosa-fare.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
