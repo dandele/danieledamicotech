@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #27: Ok, NOTION AI è DISPONIBILE..."
+title: "\U0001F9F0 kSC #28: Ok, NOTION AI è DISPONIBILE..."
 colors: colors-a
 date: '2023-03-06'
 description: Grazie a 3 libri
