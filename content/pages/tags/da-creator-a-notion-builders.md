@@ -342,6 +342,8 @@ In che modo mi hanno fatto cambiare idea e mi hanno portato sulla strada su cui 
 
 Insomma, quali sono le lezioni che mi sono portato a casa, dopo aver letto questi libri?
 
+<br>
+
 ### **The Pathless Path**
 
 [Questo libro](https://amzn.to/3ESlA3E) è un manifesto.
