@@ -286,21 +286,17 @@ bottomSections:
         textAlign: center
 slug: da-creator-a-notion-builders
 ---
-Tutti che parlano di AI.
+Ehi ciao 👋,
 
-È da qualche mese ormai che non c'è giorno in cui non ti capiti davanti qualche contenuto a tema AI.
+questo è il numero 292 del **Kit di Sopravvivenza per Creator**.
 
-Prima c'era ChatGPT.
-
-E ora che Notion AI è aperto a tutti, la situazione peggiorerà.
-
-Ma a parte essere figo, **Notion AI a cosa serve?**
+E oggi ti racconterò di **3 libri che mi hanno aiutato a passare da creator ad agenzia**.
 
 ***
 
 **TL;DR**
 
-*   Notion AI: che ci puoi fare?
+*   Da creator a Notion Builders: 3 libri per la trasformazione;
 
 *   Una risorsa per la tua audience building
 
@@ -310,143 +306,135 @@ Ma a parte essere figo, **Notion AI a cosa serve?**
 
 **Il tempo di lettura previsto è:** 3 minuti e 40.
 
-***
 
-Ehi ciao 👋,
 
-questo è il numero 27 del **Kit di Sopravvivenza per Creator**.
+La questione di oggi è semplice.
 
-Ed oggi risponderò **3 modi per utilizzare Notion AI. una cosa che capita.**
+La questione è che leggo parecchio, fin da quando ero piccolo.
 
+I **libri** mi hanno accompagnato in tutte le fasi della mia vita: hanno plasmato il mio modo di pensare e anche i miei obiettivi.
 
+In realtà, credo che la cosa non valga solo per me, valga un po' per tutti i lettori.
 
-Diciamoci la verità, Notion AI è stato annunciato (e poi rilasciato) in un momento particolare.
+Ad ogni modo, sono tanti i libri che hanno influenzato il mio modo di pensare.
 
-Poco dopo il rilascio di **ChatGPT**, quando il mondo ancora osservava incredulo quello che il tool di Open AI era in grado di fare.
+Ma ce ne sono 3, in particolare, che mi hanno portato ad **abbandonare la strada del creator per prendere quella dell'agenzia**.
 
-Chi aveva tempo di pensare alla versione di AI fatta da Notion?
+E oggi voglio parlartene.
 
-Solo gli ossessionati come me.
 
-Così, mentre tutti giocavano con ChatGPT, io ho giocato sia con ChatGPT che con Notion AI.
 
-E delle differenze ne ho parlato già qualche newsletter fa.
+## **DA CREATOR A NOTION BUILDERS: 3 LIBRI PER LA TRASFORMAZIONE**
 
-Oggi ti racconterò altro: ti racconterò di **tre modi in cui utilizzo Notion AI** quasi tutti i giorni.
+Come al solito, arriviamo subito al sodo.
 
-​
+Ecco i 3 libri di cui parlo:
 
-## **NOTION AI: CHE CI PUOI FARE?**
+1.  Il libro che mi ha fatto capire la verità sulla mia strada: The Pathless Path;
 
-Arriviamo subito al sodo, già le mie newsletter sono lunghe, meglio non esagerare.
+2.  Il libro che mi ha fatto capire la giusta grandezza: Company Of One;
 
-Utilizzo Notion AI in questi modi qua:
+3.  Il libro che mi ha fatto capire le giuste parole: Radical Candor.
 
-*   Zettelkasten velocizzato;
+In che modo mi hanno aiutato?
 
-*   Il copy efficiente;
+In che modo mi hanno fatto cambiare idea e mi hanno portato sulla strada su cui mi trovo?
 
-*   Call indimenticabili.
+Insomma, quali sono le lezioni che mi sono portato a casa, dopo aver letto questi libri?
 
-Ora te li racconto in dettaglio.
 
-​
 
-### **ZETTELKASTEN VELOCIZZATO**
+### **The Pathless Path**
 
-Conosci il [metodo Zettelkasten](https://zettelkasten.de/introduction/)?
+[Questo libro](https://amzn.to/3ESlA3E) è un manifesto.
 
-È uno strumento che ti permette di raccogliere informazioni (prendere note), di processarle e crearne una rete.
+È più **self-help** che business, infatti al suo interno non troverai molti consigli su cosa fare o come farlo.
 
-Una rete che poi facilita la tua **creatività** e **produttività**.
+Leggendolo però avrai l'opportunità di **riflettere**, riflettere tanto.
 
-Insomma, è una cosa che puoi fare con Notion, Obsidian e altri tool del genere.
+In particolare, comincerai a riflettere sulla tua vita lavorativa e non.
 
-Con **Notion AI** però le puoi dare una marcia in più.
+Ansia eh? Ci sta.
 
-Si, perché finora i miei appunti dei libri letti finivano in un database su Notion (tramite Readwise) e lì restavano, senza la giusta fase di analisi e summarization.
+Sembra strano ma la maggior parte delle persone si butta in un percorso lavorativo senza aver pensato bene a **cosa vuole dalla vita**.
 
-Con Notion AI, invece, il problema è risolto.
+Certo, molto spesso ci sono le condizioni a dettare certe scelte, ma se non si sa bene cosa vogliamo dalla vita, non potremo mai ottenerlo.
 
-In pratica, per ogni libro, articolo, podcast o documento presente nella mia libreria Readwise, ci sono tutta una serie di note e appunti.
+E questo è proprio un libro che ti aiuta a capire sta roba.
 
-Quando finisco di leggere il libro, mi basta andare all’interno della pagina su Notion e chiedere a Notion AI di fare un summary degli appunti presi.
+Per fartela breve, arriva un momento nella vita in cui ognuno di noi deve decidere tra **due opzioni**:
 
-Qualche clic invece di qualche ora.
+*   **la via normale**: la vita "automatica", quella in cui facciamo tutto quello che serve per diventare di **successo**, mettiamo al primo posto il lavoro e la sicurezza che ne deriva.
 
-​
+*   **la via senza via**: questa è la strada che segue chi non si trova bene sulla strada già tracciata da altri, preferisce correre dei **rischi** e mettere al primo posto la **vita che desidera**.
 
-### **COPY EFFICIENTE**
+Nessuna delle due strade è preferibile all'altra, tutto dipende da chi prende la scelta.
 
-Questo è l’utilizzo più ovvio, lo so.
+Ma dopo aver passato qualche anno nel primo sentiero, proprio la lettura di questo libro mi ha permesso di capire al meglio la mia volontà di **cambiare strada**.
 
-Ma c’è così tanto potenziale.
+Fare il grande salto, avviare qualcosa di mio, ci siamo capiti no?
 
-Hai presente tutte le operazioni di scrittura ben poco creativa che bisogna fare ogni giorno?
 
-In particolare, mi riferisco alle **e-mail**.
 
-Ho un brutto rapporto con le e-mail ( e detto da chi scrive una newsletter sembra assurdo, lo so), perché possono essere un **buco nero di distrazione**.
+### **Company Of One**
 
-Quindi, oltre a limitarne la lettura ad orari fissi, cerco anche di renderne efficiente la scrittura, tranne nei casi che meritano un tocco più umano (come la scrittura della newsletter).
+E una volta aver deciso quale strada prendere, cosa dovevo fare?
 
-E Notion AI mi aiuta proprio a gestirle al meglio.
+Ho risposto a questa domanda grazie a [questo libro](https://amzn.to/3Zwms63).
 
-Le e-mail adatte fanno questo **percorso**:
+È un libro scritto da Paul Jarvis e parte da un **concetto fondamentale**: la parola che meglio descrive tanti dei business di oggi è la parola "più".
 
-*   da Gmail finiscono su Notion;
+Bisogna fare più soldi, per fare più soldi servono più clienti, per soddisfare più clienti servono più persone, per assumere più persone servono più soldi e via col loop.
 
-*   lì chiedo al Notion AI di aiutarmi scrivendo una risposta (e magari ritoccandola io);
+Jarvis però mette in dubbio una cosa, una all'origine: perché il di "più"?
 
-*   da Notion ripassano su Gmail come risposta.
+Di quanti soldi puoi mai aver bisogno per mandare avanti una tua attività?
 
-Inoltre, quando mi sento pigro, il passaggio da Gmail a Notion e da Notion a Gmail, lo faccio fare a qualche automazione.
+Insomma, applica il **minimalismo** al business.
 
-​
+E poi propone tutta una serie di idee per non farsi prendere dalla trappola del "devo fare di più" nel momento in cui si avvia un proprio percorso imprenditoriale.
 
-### **CALL INDIMENTICABILI**
+Eccone alcune:
 
-Questa è la cosa che più mi piace.
+*   Per avere successo, non puntare sempre a qualcosa in più, metti dei **limiti di profitto**;
 
-Ti permette di svoltare la tua **produttività** risparmiando un sacco di tempo.
+*   Il tuo obiettivo dovrebbe essere quello di raggiungere un'audience specifica, più di **nicchia** è e meglio è;
 
-Quando Beatrice e io facciamo una call come [Notion Builders](https://www.notionbuilders.it/), nel caso in cui possiamo registrarla, accadono una serie di **cose spettacolari**:
+*   Evita di fare grossi investimenti prima (sia temporali che economici), punta a fare **piccole scommesse** con piccoli rischi.
 
-*   la registrazione è fatta da Google Meet e finisce su Google Drive, in automatico;
+Sto libro è uno spettacolo, ti fa pensare tanto e ti fa capire ancora di più.
 
-*   da Google Drive passa a Notion in un database specifico (tramite automazione);
 
-*   da Google Drive passa anche su un tool che trascrive l’audio (tramite automazione);
 
-*   la trascrizione finisce su Notion e lì Notion AI la trasforma in meeting notes e una to-do list.
+### **Radical Candor**
 
-Sembrano tutte piccole azioni, lo so.
+Ok, questa è un'altra bomba.
 
-Ma ripetute decine di volte in una settimana risultavano in ore che oggi possiamo dedicare ad altro.
+Questo è un [libro](https://amzn.to/3ZfUGuU) indirizzato ai leader d'impresa che vogliono riuscire a comunicare al meglio con i propri colleghi e dipendenti.
 
-​
+In realtà, penso che non sia utile solo ai leader, ma che sia utile un po' a tutti: compresi i membri di un'agenzia appena nata come [Notion Builders](https://www.notionbuilders.it/).
 
-​
+L'idea è quella che, per ottenere il meglio da una collaborazione, bisogna investire tanto sulla **comunicazione**.
 
-Cosa significa quello che ho scritto finora?
+E ci sono tutta una serie di piccole regole e consigli che permettono alle persone di uscire dalla trappola del "devo essere sincero o omettere?".
 
-Significa che Notion AI è il tool migliore di intelligenza artificiale?
+Eccone alcune:
 
-Significa che ChatGPT è meglio?
+*   Quando vai a lavoro, lasciati **coinvolgere totalmente dai tuoi colleghi**;
 
-La verità è che non ne ho idea.
+*   Sii **trasparente** e aperto a tutti.
 
-Qualche newsletter fa era ChatGPT a vincere il primo (impari) confronto.
+Insomma, è una bomba e te lo consiglio.
 
-Ora invece devo dire che utilizzo molto più spesso Notion AI.
+Ecco, come potrai intuire dal mio breve resoconto di questi libri, ognuno di questi mi ha insegnato qualcosa.
 
-E si tratta ancora di una funzione non integrata al 100%, non ci puoi costruire automazioni (per esempio).
+E con queste lezioni, posso lanciarmi nell'avventura imprenditoriale che è Notion Builders: sicuro di essere sulla mia strada e che metterò tutto me stesso per costruirla al meglio.
 
-Diciamo che la gara tra i due tool è iniziate e non ho idea di come finirà.
+Quali sono i libri che più ti hanno aiutato?
 
-Nel frattempo, noi comuni mortali, possiamo solo goderci la competizione e **migliorare la nostra efficienza**.
+Consigliamene altri dai, basta rispondere a questa email.
 
-E detto questo, per oggi è tutto, buona settimana e **beccati le risorse**.
+E detto questo, buona settimana e beccati le risorse.
 
 ​
 
