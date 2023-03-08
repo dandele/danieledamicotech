@@ -306,7 +306,7 @@ E oggi ti racconterò di **3 libri che mi hanno aiutato a passare da creator ad
 
 **Il tempo di lettura previsto è:** 3 minuti e 40.
 
-
+***
 
 La questione di oggi è semplice.
 
@@ -321,8 +321,6 @@ Ad ogni modo, sono tanti i libri che hanno influenzato il mio modo di pensare.
 Ma ce ne sono 3, in particolare, che mi hanno portato ad **abbandonare la strada del creator per prendere quella dell'agenzia**.
 
 E oggi voglio parlartene.
-
-
 
 ## **DA CREATOR A NOTION BUILDERS: 3 LIBRI PER LA TRASFORMAZIONE**
 
@@ -341,8 +339,6 @@ In che modo mi hanno aiutato?
 In che modo mi hanno fatto cambiare idea e mi hanno portato sulla strada su cui mi trovo?
 
 Insomma, quali sono le lezioni che mi sono portato a casa, dopo aver letto questi libri?
-
-
 
 ### **The Pathless Path**
 
@@ -374,8 +370,6 @@ Ma dopo aver passato qualche anno nel primo sentiero, proprio la lettura di ques
 
 Fare il grande salto, avviare qualcosa di mio, ci siamo capiti no?
 
-
-
 ### **Company Of One**
 
 E una volta aver deciso quale strada prendere, cosa dovevo fare?
@@ -403,8 +397,6 @@ Eccone alcune:
 *   Evita di fare grossi investimenti prima (sia temporali che economici), punta a fare **piccole scommesse** con piccoli rischi.
 
 Sto libro è uno spettacolo, ti fa pensare tanto e ti fa capire ancora di più.
-
-
 
 ### **Radical Candor**
 
