@@ -177,9 +177,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #27: Ok, NOTION AI è DISPONIBILE..."
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2023-02-26'
 client: Awesome client
 description: MA A CHE SERVE?
