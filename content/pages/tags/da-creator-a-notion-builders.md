@@ -314,8 +314,6 @@ La questione è che leggo parecchio, fin da quando ero piccolo.
 
 I **libri** mi hanno accompagnato in tutte le fasi della mia vita: hanno plasmato il mio modo di pensare e anche i miei obiettivi.
 
-<br>
-
 In realtà, credo che la cosa non valga solo per me, valga un po' per tutti i lettori.
 
 Ad ogni modo, sono tanti i libri che hanno influenzato il mio modo di pensare.
@@ -323,8 +321,6 @@ Ad ogni modo, sono tanti i libri che hanno influenzato il mio modo di pensare.
 Ma ce ne sono 3, in particolare, che mi hanno portato ad **abbandonare la strada del creator per prendere quella dell'agenzia**.
 
 E oggi voglio parlartene.
-
-<br>
 
 <br>
 
