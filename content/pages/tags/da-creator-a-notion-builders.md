@@ -313,6 +313,7 @@ La questione di oggi è semplice.
 La questione è che leggo parecchio, fin da quando ero piccolo.
 
 I **libri** mi hanno accompagnato in tutte le fasi della mia vita: hanno plasmato il mio modo di pensare e anche i miei obiettivi.
+
 <br>
 
 In realtà, credo che la cosa non valga solo per me, valga un po' per tutti i lettori.
