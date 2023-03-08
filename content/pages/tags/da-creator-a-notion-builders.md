@@ -374,6 +374,8 @@ Ma dopo aver passato qualche anno nel primo sentiero, proprio la lettura di ques
 
 Fare il grande salto, avviare qualcosa di mio, ci siamo capiti no?
 
+<br>
+
 ### **Company Of One**
 
 E una volta aver deciso quale strada prendere, cosa dovevo fare?
@@ -401,6 +403,8 @@ Eccone alcune:
 *   Evita di fare grossi investimenti prima (sia temporali che economici), punta a fare **piccole scommesse** con piccoli rischi.
 
 Sto libro è uno spettacolo, ti fa pensare tanto e ti fa capire ancora di più.
+
+<br>
 
 ### **Radical Candor**
 
@@ -431,7 +435,5 @@ Quali sono i libri che più ti hanno aiutato?
 Consigliamene altri dai, basta rispondere a questa email.
 
 E detto questo, buona settimana e beccati le risorse.
-
-​
 
 Daniele
