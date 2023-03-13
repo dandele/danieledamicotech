@@ -181,7 +181,6 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2023-03-13'
-client: Awesome client
 description: O TANA?
 featuredImage:
   type: ImageBlock
