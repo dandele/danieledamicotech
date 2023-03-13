@@ -181,7 +181,6 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2023-03-06'
-client: Awesome client
 description: Grazie a 3 libri
 featuredImage:
   type: ImageBlock
