@@ -175,6 +175,7 @@ sections:
       - content/pages/tags/come-annullare-competizione.md
       - content/pages/tags/3-lezioni-da-200-newsletter.md
       - content/pages/tags/e-se-notion-sparisse.md
+      - content/pages/tags/il-natale-di-notion-o-tana.md
       - content/pages/tags/un-2023-da-umano.md
       - content/pages/tags/oscar-product-hunt.md
       - content/pages/tags/notion-google-calendar.md
@@ -183,6 +184,5 @@ sections:
       - content/pages/tags/notion-ai-cosa-fare.md
       - content/pages/tags/da-creator-a-notion-builders.md
       - content/pages/tags/meeting-notes-efficaci.md
-      - content/pages/tags/il-natale-di-notion-o-tana.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
