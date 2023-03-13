@@ -182,5 +182,6 @@ sections:
       - content/pages/tags/te-ne-intendi-di-notion.md
       - content/pages/tags/notion-ai-cosa-fare.md
       - content/pages/tags/da-creator-a-notion-builders.md
+      - content/pages/tags/meeting-notes-efficaci.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
