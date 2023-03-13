@@ -286,7 +286,7 @@ bottomSections:
         textAlign: center
 slug: come-te-la-cavi-con-la-memoria
 ---
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/36d499c7-f6d8-47f1-8e68-31b7b0dd71dd/Untitled.png)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/36d499c7-f6d8-47f1-8e68-31b7b0dd71dd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256\&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230313%2Fus-west-2%2Fs3%2Faws4_request\&X-Amz-Date=20230313T165124Z\&X-Amz-Expires=86400\&X-Amz-Signature=a483e5811a9c886c933d804bbe55621d4e40938cb0b8f84da45eaef1fc9f1b33\&X-Amz-SignedHeaders=host\&response-content-disposition=filename%3D%22Untitled.png%22\&x-id=GetObject)
 
 Guarda l’immagine qui sopra.
 
@@ -300,24 +300,26 @@ Scommetto che non lo hai visto.
 
 Oppure, se lo hai fatto, scommetto che non lo ricordi.
 
----
+***
 
 ## **TL;DR**
 
-- Non hai idea di quante persone NON vedano i tuoi contenuti
-- Una risorsa per la tua audience building
-- Una risorsa per la tua produttività
-- Una risorsa per la tua monetization
+*   Non hai idea di quante persone NON vedano i tuoi contenuti
+*   Una risorsa per la tua audience building
+*   Una risorsa per la tua produttività
+*   Una risorsa per la tua monetization
 
 **Il tempo di lettura previsto è**: 5 minuti.
 
----
+***
 
 Ehi ciao 👋,
 
 questo è il numero 215 del **Kit di Sopravvivenza per Creator**.
 
 Ed oggi ti racconterò di **come riutilizzo i miei vecchi contenuti**.
+
+<br>
 
 Ok, so so cosa stai pensando.
 
@@ -334,6 +336,8 @@ Ecco, io credo che, se hai chiari gli obiettivi ed il processo, nessuno ti scopr
 Purtroppo però, in tanti pensano che riutilizzare vecchi contenuti sia sbagliato e quindi, quando la creatività finisce, perdono un’occasione importante per far sentire la propria voce.
 
 Ed il motivo è uno solo.
+
+<br>
 
 ## NON HANNO IDEA DI QUANTE PERSONE NON VEDANO I LORO CONTENUTI
 
@@ -359,11 +363,9 @@ Quanto spesso pubblichi? Quanto spesso cambia il numero di persone che ricevono 
 
 E le persone che poi non ricevono i tuoi contenuti direttamente?
 
-Insomma, un **casino**. 
+Insomma, un **casino**.
 
 Justin Welsh però la spiega bene in [questo tweet](https://twitter.com/thejustinwelsh/status/1571122303009804288):
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6de4fb00-6b14-472e-8e0f-08dbdb8c2655/Untitled.png)
 
 Ora, non so quanto siano affidabili i numeri che ha dato.
 
@@ -371,13 +373,15 @@ Ma Justin punta a dimostrare una cosa.
 
 E dopo aver parlato con decine e decine di creator (o aspiranti tali) in questi mesi, ho capito perché così tanto non riutilizzano i vecchi contenuti:
 
-- Perché non sanno quali contenuti abbia senso pubblicare di nuovo;
-- Perché vogliono pubblicare i vecchi contenuti, ma non sanno come modificarli;
-- Perché non sanno come rendere quei contenuti rilevanti al periodo di nuova pubblicazione.
+*   Perché non sanno quali contenuti abbia senso pubblicare di nuovo;
+*   Perché vogliono pubblicare i vecchi contenuti, ma non sanno come modificarli;
+*   Perché non sanno come rendere quei contenuti rilevanti al periodo di nuova pubblicazione.
 
 Ed io oggi voglio mostrarti come riesco a risolvere io questi tre problemi, magari ti sarà d’ispirazione.
 
 Ecco il mio **processo**:
+
+<br>
 
 ### COME TROVO I CONTENUTI DA RIPUBBLICARE
 
@@ -395,11 +399,11 @@ Mettiamo il caso che utilizzi, come me, Linkedin.
 
 Ogni post Linkedin viene misurato con:
 
-- Impressions;
-- Commenti;
-- Likes;
-- Condivisioni;
-- Click su eventuali link.
+*   Impressions;
+*   Commenti;
+*   Likes;
+*   Condivisioni;
+*   Click su eventuali link.
 
 E basta poco per capire quale contenuto è più interessante di altri.
 
@@ -417,9 +421,7 @@ Lì li filtro per vedere i contenuti che più rispettano la regola che ti ho det
 
 Et voilà, capisco quale contenuto potrei riutilizzare.
 
-Ecco un’immagine del database.
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b2dc450-6970-487a-829e-346b9f122565/Untitled.png)
+<br>
 
 ### COME RINNOVARE I VECCHI CONTENUTI
 
@@ -429,24 +431,23 @@ Ci sono **decine di modi** per poter riutilizzare vecchi contenuti.
 
 I modi che che preferisco io sono questi:
 
-- **Cambio il formato del contenuto**: questo è il modo che la maggior parte delle persone utilizza quando pubblica da un canale all’altro.
-    
-    L’esempio migliore è quello del **thread di Twitter** che finisce su **Linkedin come carosello**.
-    
-- **Cambio le parole (in particolare l’hook)**: penso tu sappia cosa penso degli **hook** di un post.
-    
-    Sono la parte più importante di un contenuto e puoi generarne decine per la stessa idea. 
-    
-    Prima di pubblicare un post io ne scrivo più di uno e scelgo quello che mi incuriosisce di più. 
-    
-    Gli altri però non li cancello perché li **riutilizzo in futuro**. 
-    
-    E per quanto riguarda il resto del contenuto, lì mi diverto a fare la “parafrasi” della vecchia idea (oppure lo lascio fare [all’AI](https://chat.openai.com/auth/login?next=%2Fchat)).
-    
-    Ecco un esempio.
-    
+*   **Cambio il formato del contenuto**: questo è il modo che la maggior parte delle persone utilizza quando pubblica da un canale all’altro.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/920dbd7a-ef49-47ec-b70c-f5165ea8cea5/Untitled.png)
+    L’esempio migliore è quello del **thread di Twitter** che finisce su **Linkedin come carosello**.
+
+*   **Cambio le parole (in particolare l’hook)**: penso tu sappia cosa penso degli **hook** di un post.
+
+    Sono la parte più importante di un contenuto e puoi generarne decine per la stessa idea.
+
+    Prima di pubblicare un post io ne scrivo più di uno e scelgo quello che mi incuriosisce di più.
+
+    Gli altri però non li cancello perché li **riutilizzo in futuro**.
+
+    E per quanto riguarda il resto del contenuto, lì mi diverto a fare la “parafrasi” della vecchia idea (oppure lo lascio fare [all’AI](https://chat.openai.com/auth/login?next=%2Fchat)).
+
+    Ecco un esempio.
+
+
 
 ### COME RENDO I CONTENUTI RILEVANTI
 
@@ -478,7 +479,7 @@ Ora, non ti dico che questo processo sia il migliore e non è detto che tu debba
 
 Ma ti posso dire che per me, almeno per ora, **funziona**.
 
-Vuoi aiuto con un processo simile? 
+Vuoi aiuto con un processo simile?
 
 Magari nell’implementarlo su Notion?
 
