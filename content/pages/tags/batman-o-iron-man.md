@@ -181,7 +181,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2023-01-08'
-description: ESISTONO?
+description: CHI PREFERISCI?
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
