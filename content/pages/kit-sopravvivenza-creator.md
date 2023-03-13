@@ -178,6 +178,7 @@ sections:
       - content/pages/tags/come-te-la-cavi-con-la-memoria.md
       - content/pages/tags/il-natale-di-notion-o-tana.md
       - content/pages/tags/un-2023-da-umano.md
+      - content/pages/tags/batman-o-iron-man.md
       - content/pages/tags/task-manager-come-vestiti-su-misura.md
       - content/pages/tags/oscar-product-hunt.md
       - content/pages/tags/notion-google-calendar.md
