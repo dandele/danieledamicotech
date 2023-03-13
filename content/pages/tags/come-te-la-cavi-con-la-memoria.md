@@ -315,7 +315,7 @@ Oppure, se lo hai fatto, scommetto che non lo ricordi.
 
 Ehi ciao 👋,
 
-questo è il numero 215 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 18 del **Kit di Sopravvivenza per Creator**.
 
 Ed oggi ti racconterò di **come riutilizzo i miei vecchi contenuti**.
 
@@ -339,7 +339,7 @@ Ed il motivo è uno solo.
 
 <br>
 
-## NON HANNO IDEA DI QUANTE PERSONE NON VEDANO I LORO CONTENUTI
+## **NON HANNO IDEA DI QUANTE PERSONE NON VEDANO I LORO CONTENUTI**
 
 Basta fare qualche **calcolo**.
 
@@ -367,6 +367,8 @@ Insomma, un **casino**.
 
 Justin Welsh però la spiega bene in [questo tweet](https://twitter.com/thejustinwelsh/status/1571122303009804288):
 
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6de4fb00-6b14-472e-8e0f-08dbdb8c2655/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256\&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230313%2Fus-west-2%2Fs3%2Faws4_request\&X-Amz-Date=20230313T165235Z\&X-Amz-Expires=86400\&X-Amz-Signature=319523cd68838a7a9076b1340cdd5af56e9374a2e9e760f2daefd407df38075b\&X-Amz-SignedHeaders=host\&response-content-disposition=filename%3D%22Untitled.png%22\&x-id=GetObject)
+
 Ora, non so quanto siano affidabili i numeri che ha dato.
 
 Ma Justin punta a dimostrare una cosa.
@@ -383,7 +385,7 @@ Ecco il mio **processo**:
 
 <br>
 
-### COME TROVO I CONTENUTI DA RIPUBBLICARE
+### **COME TROVO I CONTENUTI DA RIPUBBLICARE**
 
 Hai presente tutti i numeri di cui ti ho parlato prima?
 
@@ -421,9 +423,13 @@ Lì li filtro per vedere i contenuti che più rispettano la regola che ti ho det
 
 Et voilà, capisco quale contenuto potrei riutilizzare.
 
+Ecco un’immagine del database.
+
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7b2dc450-6970-487a-829e-346b9f122565/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256\&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230313%2Fus-west-2%2Fs3%2Faws4_request\&X-Amz-Date=20230313T165447Z\&X-Amz-Expires=86400\&X-Amz-Signature=d5248b698eeccef675480ca468f15b1e4b21e4fdd34abb139cb4ca3ab5a364ba\&X-Amz-SignedHeaders=host\&response-content-disposition=filename%3D%22Untitled.png%22\&x-id=GetObject)
+
 <br>
 
-### COME RINNOVARE I VECCHI CONTENUTI
+### **COME RINNOVARE I VECCHI CONTENUTI**
 
 Qui la creatività esplode.
 
@@ -445,11 +451,11 @@ I modi che che preferisco io sono questi:
 
     E per quanto riguarda il resto del contenuto, lì mi diverto a fare la “parafrasi” della vecchia idea (oppure lo lascio fare [all’AI](https://chat.openai.com/auth/login?next=%2Fchat)).
 
-    Ecco un esempio.
+Ecco un esempio.
 
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/920dbd7a-ef49-47ec-b70c-f5165ea8cea5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256\&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230313%2Fus-west-2%2Fs3%2Faws4_request\&X-Amz-Date=20230313T165902Z\&X-Amz-Expires=86400\&X-Amz-Signature=c502baca0cd2d2d972620cfc628c6029dd3ba689311bcba75768a965f34db4f7\&X-Amz-SignedHeaders=host\&response-content-disposition=filename%3D%22Untitled.png%22\&x-id=GetObject)
 
-
-### COME RENDO I CONTENUTI RILEVANTI
+### **COME RENDO I CONTENUTI RILEVANTI**
 
 Qui la questione è molto **semplice**.
 
@@ -470,6 +476,8 @@ Se un contenuto Linkedin ha successo, allora lo faccio evolvere in newsletter o 
 La strategia è verticale in termini di funnel ed orizzontale in termini di canali.
 
 Quindi se hai definito il tuo **focus**, il tuo **target** e li tratti con disciplina puoi stare certo che i contenuti che hai pubblicato 3 mesi fa saranno comunque **rilevanti**.
+
+<br>
 
 Ecco, questo è il processo che utilizzo per pubblicare più volte uno stesso contenuto.
 
