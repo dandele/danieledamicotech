@@ -294,7 +294,7 @@ Ma c'è una cosa che ricordo in particolare di quando leggevo i fumetti: le ore 
 
 Chi è più forte tra Hulk e Superman?
 
-Chi è più intelligente tra Mr. Fantastic e Batman? 
+Chi è più intelligente tra Mr. Fantastic e Batman?
 
 L'hai capito, mi divertivo con poco.
 
@@ -334,8 +334,6 @@ E oggi ti racconterò delle **differenze (e somiglianze) tra Notion AI e Chat GP
 
 <br>
 
-
-
 Quando si parla di intelligenza artificiale, in questi giorni il primo tool che emerge nella mente è di sicuro ChatGPT.
 
 E ci sta, è un tool davvero interessante e potente.
@@ -352,6 +350,7 @@ Purtroppo però, tra Notion AI e ChatGPT c'è un chiaro vincitore.
 
 Ed oggi ho intenzione di rivelarti di quale tool si tratta.
 
+<br>
 
 ## **L'AI MIGLIORE**
 
@@ -367,11 +366,13 @@ Jarvis ha accesso a tutte le informazioni del mondo, raggiungibili alla velocit�
 
 E devo dire che, quando si parla di Notion AI e ChatGPT, vedo tra i due tool una dinamica molto simile a quella che c'è tra Alfred e Jarvis.
 
-- tra Notion AI e ChatGPT ci sono tante differenze;  
-- tra Notion AI e ChatGPT c'è qualche somiglianza;
-- tra Notion AI e ChatGPT c'è solo un tool che ti consiglio di utilizzare.
+*   tra Notion AI e ChatGPT ci sono tante differenze;
+*   tra Notion AI e ChatGPT c'è qualche somiglianza;
+*   tra Notion AI e ChatGPT c'è solo un tool che ti consiglio di utilizzare.
 
 Ecco cosa ne penso.
+
+<br>
 
 ### **LA SOLUZIONE PIÙ COMODA**
 
@@ -401,15 +402,15 @@ Notion AI invece no.
 
 Ecco due immagini di confronto.
 
-![[]]![[Pasted image 20230107195546.png]]
 
-![[Pasted image 20230107195809.png]]
 
 Credo che la situazione sia palese.
 
 Nel caso di Notion AI devi prima capire di cosa hai bisogno, dargli una sorta di etichetta.
 
 Con ChatGPT invece non ne hai bisogno, ti basta scrivere in chat quello di cui hai bisogno ed a tutto il resto ci pensa l'intelligenza artificiale.
+
+<br>
 
 ### **L'AI PIÙ POTENTE**
 
@@ -423,11 +424,9 @@ Ho fornito ad entrambe le intelligenze artificiali questa richiesta: "Ehi, mi da
 
 E qesti sono i risultati che mi hanno fornito.
 
-![[Pasted image 20230108163607.png]]
-
-![[Pasted image 20230107200645.png]]
-
 Come puoi vedere, al netto delle differenze di utilizzo (e della facilità con cui puoi modificare il risultato fornito da ChatGPT), i risultati sono quasi gli stessi.
+
+<br>
 
 ### **NOTION AI O CHATGPT, QUALE UTILIZZARE?**
 
@@ -449,7 +448,7 @@ Ed è un peccato, perché tutto quello che permetterebbe a Notion AI di raggiung
 
 Con questo piccolo vantaggio di comodità e la possibilità di avere tutto nello stesso luogo, Notion AI sarebbe il vincitore assoluto.
 
-
+<br>
 
 Ecco, per ora è questa la situazione.
 
