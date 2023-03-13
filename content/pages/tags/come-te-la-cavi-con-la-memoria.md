@@ -286,139 +286,204 @@ bottomSections:
         textAlign: center
 slug: come-te-la-cavi-con-la-memoria
 ---
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/36d499c7-f6d8-47f1-8e68-31b7b0dd71dd/Untitled.png)
+
+Guarda l’immagine qui sopra.
+
+È un post che ho pubblicato circa 3 mesi fa.
+
+È stato visto quasi 1200 volte ed i miei follower sono quasi 1200 su Linkedin.
+
+Ma sai una cosa?
+
+Scommetto che non lo hai visto.
+
+Oppure, se lo hai fatto, scommetto che non lo ricordi.
+
+---
+
+## **TL;DR**
+
+- Non hai idea di quante persone NON vedano i tuoi contenuti
+- Una risorsa per la tua audience building
+- Una risorsa per la tua produttività
+- Una risorsa per la tua monetization
+
+**Il tempo di lettura previsto è**: 5 minuti.
+
+---
+
 Ehi ciao 👋,
 
-questo è il numero 29 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 215 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti racconterò di **come gestisco i meeting notes**.
+Ed oggi ti racconterò di **come riutilizzo i miei vecchi contenuti**.
 
-***
+Ok, so so cosa stai pensando.
 
-**TL;DR**
+Stai pensando che riutilizzare contenuti vecchi non sia produttivo.
 
-*   Meeting notes efficaci;
+Perché il gioco non vale la candela.
 
-*   Una risorsa per la tua audience building
+Che se non hai niente di nuovo da dire, allora è meglio stare in silenzio.
 
-*   Una risorsa per la tua produttività
+E cosa accadrebbe, poi, se qualcuno ti sgamasse?
 
-*   Una risorsa per la tua monetization
+Ecco, io credo che, se hai chiari gli obiettivi ed il processo, nessuno ti scoprirà a riutilizzare vecchi contenuti.
 
-**Il tempo di lettura previsto è:** 3 minuti e 40.
+Purtroppo però, in tanti pensano che riutilizzare vecchi contenuti sia sbagliato e quindi, quando la creatività finisce, perdono un’occasione importante per far sentire la propria voce.
 
-***
+Ed il motivo è uno solo.
 
-Tool come Notion, Obsidian e Tana mi attirano perché li puoi trasformare nel tuo secondo cervello.
+## NON HANNO IDEA DI QUANTE PERSONE NON VEDANO I LORO CONTENUTI
 
-Li puoi utilizzare per **salvare informazioni** e per **organizzarle** come vuoi.
+Basta fare qualche **calcolo**.
 
-Poi, se prendi la tangente come me, arriverai presto al punto di **pianificare processi** per salvare le informazioni nel tuo secondo cervello.
+Prendi un canale, quello che più utilizzi per pubblicare i tuoi contenuti.
 
-Ma questo è un altro discorso.
+Quante sono le persone che li ricevono? 10? 100? 1000? Di più?
 
-Il punto è che, una volta scoperto il loro potenziale, presto cercherai di salvare un tipo di informazioni in particolare: gli **appunti dei meeting**.
+Non importa il numero preciso.
 
-O meglio, detto con tono meno da manager: gli appunti delle c\*\*\* di call.
+Importa il fatto che le persone che consumano per davvero i tuoi contenuti sono solo una percentuale di quelli che li ricevono.
 
-<br>
+È la differenza tra Open Rate delle e-mail e lettura effettiva (magari interpretabile dal numero di click).
 
-## **MEETING NOTES EFFICACI**
+La differenza che c’è tra le Impression di un post Linkedin ed i commenti/like/click sul link.
 
-Un po' come tutti, ormai anche la mia vita è costellata da un numero di call molto più alto di quanto vorrei.
+Insomma, la differenza tra esposizione e consumo.
 
-È una di quelle cose della vita che devi accettare, un po' come il fatto che Blanco deve stare lontano dai fiori.
+Poi ci sono tante altre variabili di mezzo.
 
-Ma visto che nelle call ci si scambia spesso **informazioni vitali**, ho cercato di definire il **processo migliore** per non perdere queste informazioni.
+Quanto spesso pubblichi? Quanto spesso cambia il numero di persone che ricevono i tuoi contenuti?
 
-Senza passare ore a trascrivere registrazioni, oppure non ascoltare chi ti sta parlando.
+E le persone che poi non ricevono i tuoi contenuti direttamente?
 
-Ed il processo richiede solo tre cose:
+Insomma, un **casino**. 
 
-*   Un database;
-*   Una piccola automazione;
-*   Un semplice template.
+Justin Welsh però la spiega bene in [questo tweet](https://twitter.com/thejustinwelsh/status/1571122303009804288):
 
-Il tool che utilizzo, come forse saprai, è Notion ma una cosa simile si può mettere in piedi anche su altri tool (con le dovute differenze).
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6de4fb00-6b14-472e-8e0f-08dbdb8c2655/Untitled.png)
 
-<br>
+Ora, non so quanto siano affidabili i numeri che ha dato.
 
-### **UN DATABASE**
+Ma Justin punta a dimostrare una cosa.
 
-Questo è la prima cosa di cui hai bisogno: un **database dove raccogliere tutti gli appunti**.
+E dopo aver parlato con decine e decine di creator (o aspiranti tali) in questi mesi, ho capito perché così tanto non riutilizzano i vecchi contenuti:
 
-E puoi chiamarlo "meeting notes" oppure in altri modi, decidi tu.
+- Perché non sanno quali contenuti abbia senso pubblicare di nuovo;
+- Perché vogliono pubblicare i vecchi contenuti, ma non sanno come modificarli;
+- Perché non sanno come rendere quei contenuti rilevanti al periodo di nuova pubblicazione.
 
-Una cosa importante che devi considerare però è la complessità di questo database ed il **numero di informazioni che conterrà**.
+Ed io oggi voglio mostrarti come riesco a risolvere io questi tre problemi, magari ti sarà d’ispirazione.
 
-Se fai tante call e ci tieni ad avere database puliti, allora conviene che questo sia un database in cui salvi solo i meeting notes.
+Ecco il mio **processo**:
 
-Se invece preferisci avere meno database sul tuo workspace, allora puoi integrare i meeting notes in altri database.
+### COME TROVO I CONTENUTI DA RIPUBBLICARE
 
-Ad esempio, per le call di [Notion Builders]([https://www.notionbuilders.it]\(https://www.notionbuilders.it/\)), Beatrice ed io salviamo i meeting notes in un database chiamato Documents.
+Hai presente tutti i numeri di cui ti ho parlato prima?
 
-Ed in questo database ci finiscono non solo i meeting notes ma anche altre informazioni.
+**Impression, Open Rate, Click Rate ecc?**
 
-Inoltre, a questo database, è collegato il **database CRM**, quello dei **progetti** e quello dei **task**: in questo modo ogni informazione è in rete con le altre, è accessibile da più punti.
+Tutte queste cose sono dati.
 
-Insomma, ad ogni call che facciamo corrisponde una pagina nel database Documents, taggata come Meeting Notes e con al suo interno la possibilità di assegnare clienti, progetti e task.
+Dati che aiutano a capire quali contenuti hanno generato più interesse e quali no.
 
-Una possibilità che può essere **automatica** oppure no, dipende da te.
+E qualsiasi sia il canale che utilizzi, potrai trovare con facilità dati di questo tipo.
 
-Noi abbiamo scelto di renderla automatica.
+Mettiamo il caso che utilizzi, come me, Linkedin.
 
-<br>
+Ogni post Linkedin viene misurato con:
 
-### **UNA PICCOLA AUTOMAZIONE**
+- Impressions;
+- Commenti;
+- Likes;
+- Condivisioni;
+- Click su eventuali link.
 
-Questo è un punto interessante.
+E basta poco per capire quale contenuto è più interessante di altri.
 
-Perché non è necessario: non tutto deve per forza essere reso automatico.
+Di solito un contenuto che attira tanti commenti (o condivisioni) e tante impression è un contenuto che interessa.
 
-Noi però abbiamo deciso di renderlo tale.
+E lo è ancor di più se attira tanti **click sul link** che hai condiviso (e se magari quello invita ad iscriversi a qualcosa).
 
-Quindi, abbiamo costruito una **piccola automazione su Make** che fa queste cose qui:
+Insomma, la regola che applico è semplice: se un contenuto ha fatto tanti commenti, tante impression o tanti click allora in quel contenuto c’è qualcosa di **interessante**.
 
-*   quando un nuovo evento viene creato sul Calendar delle call di Notion Builders parte l'automazione;
-*   Make recupare le informazioni da questa call e crea una pagina all'interno del database Documents;
-*   Make darà alla pagina lo stesso titolo dell'evento;
-*   nel caso in cui sia presente, Make associa a quella pagina la persona del CRM con cui faremo la call;
-*   nel caso In cui non sia presente, Make crea quella persona nel database CRM;
-*   alla creazione di una voce nel CRM, Notion associa un progetto standard a quella voce e a sua volta determinati task.
+Ed indovina il posto dove applico questa regola? Su Notion, che ti aspettavi?
 
-La cosa potrebbe andare avanti ancora e ancora, ma Beatrice ed io non ne abbiamo bisogno.
+Tramite qualche magia riesco ad esportare i dati dei miei post Linkedin su un **database Notion**.
 
-E magari non ne hai bisogno neanche tu.
+Lì li filtro per vedere i contenuti che più rispettano la regola che ti ho detto poco fa.
 
-È tutta roba che ti fa **risparmiare un bel po' di tempo**, ma è anche **complessa**.
+Et voilà, capisco quale contenuto potrei riutilizzare.
 
-<br>
+Ecco un’immagine del database.
 
-### **IL TEMPLATE MEETING NOTES**
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b2dc450-6970-487a-829e-346b9f122565/Untitled.png)
 
-Questa cosa ti serve invece.
+### COME RINNOVARE I VECCHI CONTENUTI
 
-Così come il database, è obbligatoria.
+Qui la creatività esplode.
 
-Altrimenti come li prendi appunti? Senza struttura?
+Ci sono **decine di modi** per poter riutilizzare vecchi contenuti.
 
-Non mi sembra il caso, dai.
+I modi che che preferisco io sono questi:
 
-Il punto di questo template è poter inserire con facilità le **informazioni più importanti riguardo la call**, le cose che poi serviranno per le **prossime azioni**.
+- **Cambio il formato del contenuto**: questo è il modo che la maggior parte delle persone utilizza quando pubblica da un canale all’altro.
+    
+    L’esempio migliore è quello del **thread di Twitter** che finisce su **Linkedin come carosello**.
+    
+- **Cambio le parole (in particolare l’hook)**: penso tu sappia cosa penso degli **hook** di un post.
+    
+    Sono la parte più importante di un contenuto e puoi generarne decine per la stessa idea. 
+    
+    Prima di pubblicare un post io ne scrivo più di uno e scelgo quello che mi incuriosisce di più. 
+    
+    Gli altri però non li cancello perché li **riutilizzo in futuro**. 
+    
+    E per quanto riguarda il resto del contenuto, lì mi diverto a fare la “parafrasi” della vecchia idea (oppure lo lascio fare [all’AI](https://chat.openai.com/auth/login?next=%2Fchat)).
+    
+    Ecco un esempio.
+    
 
-E quindi spetta a te delineare la struttura e capire cosa inserire nei tuoi appunti.
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/920dbd7a-ef49-47ec-b70c-f5165ea8cea5/Untitled.png)
 
-Sono gentile però e quindi ecco la struttura del nostro template:
+### COME RENDO I CONTENUTI RILEVANTI
 
-*   **Meeting agenda**: un campo con tutte le cose che bisogna trattare nel corso della call ed il sistema su Notion fa in modo che questo campo sia già popolato;
-*   **Next actions**: i prossimi passi da mettere in atto, emergono nel corso della call;
-*   **Meeting precedenti**: una vista filtrata degli appunti delle call precedenti con la stessa persona ed eventuali registrazioni;
+Qui la questione è molto **semplice**.
 
-<br>
+Anzi no.
 
-Spero di essere stato chiaro e di averti fatto capire due cose in particolare: la **facilità** di poter creare un sistema del genere e la sua **flessibilità**.
+O forse si.
 
-Perché penso che su quanto sia **necessario** siamo tutti d'accordo, no?
+Il fatto è che qui entrano in gioco cose come la **strategia**, il tuo **funnel da creator** e tante cose che sembrano complesse ma che poi non lo sono.
 
-E detto questo, buona settimana e beccati le **risorse**.
+Te la faccio semplice per evitarti troppi scazzi, è pur sempre domenica.
+
+I contenuti che pubblico sono sempre e comunque parte di una **strategia**.
+
+Ed in quanto tali sono coerenti tra loro, per forza di cose.
+
+Se un contenuto Linkedin ha successo, allora lo faccio evolvere in newsletter o lo ripubblico su Linkedin dopo qualche tempo.
+
+La strategia è verticale in termini di funnel ed orizzontale in termini di canali.
+
+Quindi se hai definito il tuo **focus**, il tuo **target** e li tratti con disciplina puoi stare certo che i contenuti che hai pubblicato 3 mesi fa saranno comunque **rilevanti**.
+
+Ecco, questo è il processo che utilizzo per pubblicare più volte uno stesso contenuto.
+
+Lo trovo, capisco come modificarlo e prima ancora di crearlo mi sono accertato che fosse coerente.
+
+Ora, non ti dico che questo processo sia il migliore e non è detto che tu debba seguirlo.
+
+Ma ti posso dire che per me, almeno per ora, **funziona**.
+
+Vuoi aiuto con un processo simile? 
+
+Magari nell’implementarlo su Notion?
+
+Possiamo fare una call, clicca sul **pulsante qui sotto**!
+
+E direi che per oggi è tutto, ti auguro buona settimana e **goditi le risorse**.
 
 Daniele
