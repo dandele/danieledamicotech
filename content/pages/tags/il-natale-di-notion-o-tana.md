@@ -286,17 +286,25 @@ bottomSections:
         textAlign: center
 slug: il-natale-di-notion-o-tana
 ---
-Ehi ciao 👋,
+13 a 1.
 
-questo è il numero 29 del **Kit di Sopravvivenza per Creator**.
+È il numero di persone che ha scommesso sulla vittoria di Notion contro Tana.
 
-E oggi ti racconterò di **come gestisco i meeting notes**.
+Qualche giorno fa ho pubblicato un sondaggio sul mio profilo Linkedin.
+
+Uno che chiedeva alle persone quale tool avrebbe vinto in un confronto tra Notion e Tana.
+
+E la risposta è stata palese.
+
+Sembra che tutti siano convinti che Notion vincerebbe un confronto con Tana.
+
+Ma è proprio così?
 
 ***
 
 **TL;DR**
 
-*   Meeting notes efficaci;
+*   Ha senso confrontare Notion con Tana?
 
 *   Una risorsa per la tua audience building
 
@@ -308,117 +316,142 @@ E oggi ti racconterò di **come gestisco i meeting notes**.
 
 ***
 
-Tool come Notion, Obsidian e Tana mi attirano perché li puoi trasformare nel tuo secondo cervello.
+Ehi ciao 👋,
 
-Li puoi utilizzare per **salvare informazioni** e per **organizzarle** come vuoi.
+questo è il numero 222 del Kit di Sopravvivenza per Creator.
 
-Poi, se prendi la tangente come me, arriverai presto al punto di **pianificare processi** per salvare le informazioni nel tuo secondo cervello.
+Ed oggi ti racconterò quale tool vince tra Notion e Tana.
 
-Ma questo è un altro discorso.
+​
 
-Il punto è che, una volta scoperto il loro potenziale, presto cercherai di salvare un tipo di informazioni in particolare: gli **appunti dei meeting**.
+Il second brain.
 
-O meglio, detto con tono meno da manager: gli appunti delle c\*\*\* di call.
+È stata la prima cosa che ho cercato di costruire su Tana.
 
-<br>
+Ed è anche la cosa cui torno più spesso su Notion.
 
-## **MEETING NOTES EFFICACI**
+Perché col Second Brain riesci a dare struttura al tuo sistema di note: sai dov’è quello di cui hai bisogno, a cosa è collegato ecc.
 
-Un po' come tutti, ormai anche la mia vita è costellata da un numero di call molto più alto di quanto vorrei.
+E visto che volevo fare un confronto tra Notion e Tana, aveva senso paragonarli in un campo comune.
 
-È una di quelle cose della vita che devi accettare, un po' come il fatto che Blanco deve stare lontano dai fiori.
+Fin dall’inizio però, ho notato una cosa.
 
-Ma visto che nelle call ci si scambia spesso **informazioni vitali**, ho cercato di definire il **processo migliore** per non perdere queste informazioni.
+​
 
-Senza passare ore a trascrivere registrazioni, oppure non ascoltare chi ti sta parlando.
+## HA SENSO CONFRONTARE NOTION CON TANA?
 
-Ed il processo richiede solo tre cose:
+È una cosa che noti fin dal primo momenti in cui accedi a Tana.
 
-*   Un database;
-*   Una piccola automazione;
-*   Un semplice template.
+La sua esperienza di utilizzo, la UI e tutto il resto, ti ricordano tool come come Obisidian o Roam Research.
 
-Il tool che utilizzo, come forse saprai, è Notion ma una cosa simile si può mettere in piedi anche su altri tool (con le dovute differenze).
+E ci sta.
 
-<br>
+Perché il concept alla base di Tana è proprio quello di trovare un punto di incontro tra Notion e Obsidian.
 
-### **UN DATABASE**
+Si tratta dei tool che meglio rappresentano i diversi modi di gestire le note personali: quello dell’architetto e quello del botanico.
 
-Questo è la prima cosa di cui hai bisogno: un **database dove raccogliere tutti gli appunti**.
+E Tana cerca di fornire agli architetti un tool botanico ed ai botanici un tool da architetti.
 
-E puoi chiamarlo "meeting notes" oppure in altri modi, decidi tu.
+Insomma, cerca di andare a prendere gli utilizzatori di Notion che vorrebbero un po’ più di Obsidian e quelli di Obsidian che vorrebbero un po’ più di Notion.
 
-Una cosa importante che devi considerare però è la complessità di questo database ed il **numero di informazioni che conterrà**.
+Io rientro proprio in questa prima categoria: utilizzo Notion e ci vorrei un po’ più di Obisidian:
 
-Se fai tante call e ci tieni ad avere database puliti, allora conviene che questo sia un database in cui salvi solo i meeting notes.
+* Vorrei che Notion ti permettesse di contare i caratteri di scrittura, proprio come fa Obsidian;
+* Vorrei che Notion ti permettesse di far scontrare le idee con la facilità visiva che ti garantisce Obsidian;
+* Notion però è un tool diverso e spostarsi troppo verso le funzioni di Obsidian sarebbe un danno.
 
-Se invece preferisci avere meno database sul tuo workspace, allora puoi integrare i meeting notes in altri database.
+E lo stesso vale per Obsidian.
 
-Ad esempio, per le call di [Notion Builders]([https://www.notionbuilders.it]\(https://www.notionbuilders.it/\)), Beatrice ed io salviamo i meeting notes in un database chiamato Documents.
+Per questo, Tana potrebbe avere senso.
 
-Ed in questo database ci finiscono non solo i meeting notes ma anche altre informazioni.
+Solo che c’è un problema.
 
-Inoltre, a questo database, è collegato il **database CRM**, quello dei **progetti** e quello dei **task**: in questo modo ogni informazione è in rete con le altre, è accessibile da più punti.
+​<br>
 
-Insomma, ad ogni call che facciamo corrisponde una pagina nel database Documents, taggata come Meeting Notes e con al suo interno la possibilità di assegnare clienti, progetti e task.
+### IL PROBLEMA DI CONFRONTARE NOTION CON TANA
+Notion è un prodotto in una fase di vita molto più avanzata rispetto a Tana.
 
-Una possibilità che può essere **automatica** oppure no, dipende da te.
+Tana è in early access, è un bambino,
 
-Noi abbiamo scelto di renderla automatica.
+E sarebbe folle aspettarsi delle funzioni che manco Notion aveva al momento della sua uscita.
 
-<br>
+Quindi su Tana non troverai, per ora, API, integrazioni varie (come quella con Readwise) ecc.
 
-### **UNA PICCOLA AUTOMAZIONE**
+Sono tutte cose che Notion ha implementato nel tempo e che ora Tana non ha.
 
-Questo è un punto interessante.
+Si tratta però di cose che io utilizzo tutti i giorni e che mi impediscono di concepire Tana come strumento principale.
 
-Perché non è necessario: non tutto deve per forza essere reso automatico.
+​<br>
 
-Noi però abbiamo deciso di renderlo tale.
+### IL GRANDE VANTAGGIO DI NOTION
 
-Quindi, abbiamo costruito una **piccola automazione su Make** che fa queste cose qui:
+C’è un’altra cosa che noti, fin da subito.
 
-*   quando un nuovo evento viene creato sul Calendar delle call di Notion Builders parte l'automazione;
-*   Make recupare le informazioni da questa call e crea una pagina all'interno del database Documents;
-*   Make darà alla pagina lo stesso titolo dell'evento;
-*   nel caso in cui sia presente, Make associa a quella pagina la persona del CRM con cui faremo la call;
-*   nel caso In cui non sia presente, Make crea quella persona nel database CRM;
-*   alla creazione di una voce nel CRM, Notion associa un progetto standard a quella voce e a sua volta determinati task.
+Almeno per me, Tana è più difficile di Notion.
 
-La cosa potrebbe andare avanti ancora e ancora, ma Beatrice ed io non ne abbiamo bisogno.
+Per riuscire a costruire il Second Brain su Tana ci ho messo qualche ora.
 
-E magari non ne hai bisogno neanche tu.
+Su Notion ce ne metti al massimo una, senza ragionare troppo sul sistema in sè.
 
-È tutta roba che ti fa **risparmiare un bel po' di tempo**, ma è anche **complessa**.
+C’è da dire però che Tana, già ora e nonostante la sua tenera età, ha una community di nerd appassionati del tool che creano corsi (gratuiti) e strumenti per aiutare gli altri utenti.
 
-<br>
+Strumenti che lo stesso Tana ti fornisce fin da subito al primo accesso.
 
-### **IL TEMPLATE MEETING NOTES**
+Insomma, Notion è molto più immediato, facile e veloce di Tana.
 
-Questa cosa ti serve invece.
+E lo era anche ai primi tempi, anche se privo delle funzioni di Tana.
 
-Così come il database, è obbligatoria.
+Tale complessità cela però un vantaggio.
 
-Altrimenti come li prendi appunti? Senza struttura?
+Ti permette di fare cose molto più fighe ed utili rispetto a quelle che ti permette di fare Notion.
 
-Non mi sembra il caso, dai.
+Solo che le devi capire e per riuscirci devi studiare.
 
-Il punto di questo template è poter inserire con facilità le **informazioni più importanti riguardo la call**, le cose che poi serviranno per le **prossime azioni**.
+​<br>
 
-E quindi spetta a te delineare la struttura e capire cosa inserire nei tuoi appunti.
+### L’ALTRO GRANDE VANTAGGIO DI NOTION
+Non so se questo sia un punto di vista personale oppure oggettivo.
 
-Sono gentile però e quindi ecco la struttura del nostro template:
+C’è da considerare però che tutti quelli che ho sentito avvicinarsi a Notion mi hanno detto che il suo design è bello ed invitante.
 
-*   **Meeting agenda**: un campo con tutte le cose che bisogna trattare nel corso della call ed il sistema su Notion fa in modo che questo campo sia già popolato;
-*   **Next actions**: i prossimi passi da mettere in atto, emergono nel corso della call;
-*   **Meeting precedenti**: una vista filtrata degli appunti delle call precedenti con la stessa persona ed eventuali registrazioni;
+Ed io lo confermo.
 
-<br>
+Adoro il design di Notion.
 
-Spero di essere stato chiaro e di averti fatto capire due cose in particolare: la **facilità** di poter creare un sistema del genere e la sua **flessibilità**.
+E Tana, al momento, ne è una versione più scheletrica, meno simpatica e di molto meno impatto.
 
-Perché penso che su quanto sia **necessario** siamo tutti d'accordo, no?
+​<br>​
 
-E detto questo, buona settimana e beccati le **risorse**.
+Quindi, per concludere, questo confronto chi lo vince?
+
+Non lo so.
+
+Come ti ho detto, non si può mettere a confronto diretto i due tool.
+
+Ma ti posso dire al verificarsi di quali condizioni dovresti valutare l’utilizzo di Tana:
+
+Se ti piace l’idea di poter costruire quello che vuoi, come (e forse meglio di) Notion.
+Se non hai bisogno di utilizzare integrazioni, API o altre funzioni più mature.
+Se del design del tool, allo stato attuale, non ti importa per nulla.
+Se vuoi mettere le mani su un tool complesso e con del potenziale fin dall’inizio.
+Ed è proprio per questo che io stesso utilizzerò Tana.
+
+80% Notion e 20% Tana.
+
+Lo studierò, analizzerò e ci farò cose.
+
+Ma altre cose, quelle più importanti, continuerò a farle su Notion.
+
+Come l’ultimo template che ho creato!
+
+Si chiama Easy Linkedin Algorithm e metterà il turbo al tuo Linkedin.
+
+Tutti quelli che hanno acquistato Easy Content Strategy possono aggiornare il loro template e troveranno Easy Linkedin Algorithm all’interno.
+
+Se invece non lo hai ancora acquistato, lo puoi fare con uno sconto del 50%.
+
+Ti basta cliccare sul pulsante qui sotto.
+
+Detto questo, per oggi è tutto, buon Natale e beccati le risorse.
 
 Daniele
