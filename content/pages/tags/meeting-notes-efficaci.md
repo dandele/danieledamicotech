@@ -177,7 +177,7 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #28: Ok, NOTION AI è DISPONIBILE..."
 colors: colors-a
-date: '2023-03-06'
+date: '2023-03-13'
 description: Grazie a 3 libri
 featuredImage:
   type: ImageBlock
