@@ -180,7 +180,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
-date: '2023-03-13'
+date: '2023-01-15'
 client: Awesome client
 description: VESTITI SU MISURA!
 featuredImage:
