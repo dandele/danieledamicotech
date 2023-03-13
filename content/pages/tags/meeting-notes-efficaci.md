@@ -288,15 +288,15 @@ slug: meeting-notes-efficaci
 ---
 Ehi ciao 👋,
 
-questo è il numero 292 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 299 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti racconterò di **3 libri che mi hanno aiutato a passare da creator ad agenzia**.
+E oggi ti racconterò di **come gestisco i meeting notes**.
 
 ***
 
 **TL;DR**
 
-*   Da creator a Notion Builders: 3 libri per la trasformazione;
+*   Meeting notes efficaci;
 
 *   Una risorsa per la tua audience building
 
@@ -308,132 +308,115 @@ E oggi ti racconterò di **3 libri che mi hanno aiutato a passare da creator ad
 
 ***
 
-La questione di oggi è semplice.
+Tool come Notion, Obsidian e Tana mi attirano perché li puoi trasformare nel tuo secondo cervello.
 
-La questione è che leggo parecchio, fin da quando ero piccolo.
+Li puoi utilizzare per **salvare informazioni** e per **organizzarle** come vuoi.
 
-I **libri** mi hanno accompagnato in tutte le fasi della mia vita: hanno plasmato il mio modo di pensare e anche i miei obiettivi.
+Poi, se prendi la tangente come me, arriverai presto al punto di **pianificare processi** per salvare le informazioni nel tuo secondo cervello.
 
-In realtà, credo che la cosa non valga solo per me, valga un po' per tutti i lettori.
+Ma questo è un altro discorso.
 
-Ad ogni modo, sono tanti i libri che hanno influenzato il mio modo di pensare.
+Il punto è che, una volta scoperto il loro potenziale, presto cercherai di salvare un tipo di informazioni in particolare: gli **appunti dei meeting**.
 
-Ma ce ne sono 3, in particolare, che mi hanno portato ad **abbandonare la strada del creator per prendere quella dell'agenzia**.
-
-E oggi voglio parlartene.
+O meglio, detto con tono meno da manager: gli appunti delle c*** di call.
 
 <br>
 
-## **DA CREATOR A NOTION BUILDERS: 3 LIBRI PER LA TRASFORMAZIONE**
+## **MEETING NOTES EFFICACI**
 
-Come al solito, arriviamo subito al sodo.
+Un po' come tutti, ormai anche la mia vita è costellata da un numero di call molto più alto di quanto vorrei.
 
-Ecco i 3 libri di cui parlo:
+È una di quelle cose della vita che devi accettare, un po' come il fatto che Blanco deve stare lontano dai fiori.
 
-1.  Il libro che mi ha fatto capire la verità sulla mia strada: The Pathless Path;
+Ma visto che nelle call ci si scambia spesso **informazioni vitali**, ho cercato di definire il **processo migliore** per non perdere queste informazioni.
 
-2.  Il libro che mi ha fatto capire la giusta grandezza: Company Of One;
+Senza passare ore a trascrivere registrazioni, oppure non ascoltare chi ti sta parlando.
 
-3.  Il libro che mi ha fatto capire le giuste parole: Radical Candor.
+Ed il processo richiede solo tre cose:
 
-In che modo mi hanno aiutato?
+- Un database;
+- Una piccola automazione;
+- Un semplice template.
 
-In che modo mi hanno fatto cambiare idea e mi hanno portato sulla strada su cui mi trovo?
-
-Insomma, quali sono le lezioni che mi sono portato a casa, dopo aver letto questi libri?
-
-<br>
-
-### **The Pathless Path**
-
-[Questo libro](https://amzn.to/3ESlA3E) è un manifesto.
-
-È più **self-help** che business, infatti al suo interno non troverai molti consigli su cosa fare o come farlo.
-
-Leggendolo però avrai l'opportunità di **riflettere**, riflettere tanto.
-
-In particolare, comincerai a riflettere sulla tua vita lavorativa e non.
-
-Ansia eh? Ci sta.
-
-Sembra strano ma la maggior parte delle persone si butta in un percorso lavorativo senza aver pensato bene a **cosa vuole dalla vita**.
-
-Certo, molto spesso ci sono le condizioni a dettare certe scelte, ma se non si sa bene cosa vogliamo dalla vita, non potremo mai ottenerlo.
-
-E questo è proprio un libro che ti aiuta a capire sta roba.
-
-Per fartela breve, arriva un momento nella vita in cui ognuno di noi deve decidere tra **due opzioni**:
-
-*   **la via normale**: la vita "automatica", quella in cui facciamo tutto quello che serve per diventare di **successo**, mettiamo al primo posto il lavoro e la sicurezza che ne deriva.
-
-*   **la via senza via**: questa è la strada che segue chi non si trova bene sulla strada già tracciata da altri, preferisce correre dei **rischi** e mettere al primo posto la **vita che desidera**.
-
-Nessuna delle due strade è preferibile all'altra, tutto dipende da chi prende la scelta.
-
-Ma dopo aver passato qualche anno nel primo sentiero, proprio la lettura di questo libro mi ha permesso di capire al meglio la mia volontà di **cambiare strada**.
-
-Fare il grande salto, avviare qualcosa di mio, ci siamo capiti no?
+Il tool che utilizzo, come forse saprai, è Notion ma una cosa simile si può mettere in piedi anche su altri tool (con le dovute differenze).
 
 <br>
 
-### **Company Of One**
+### **UN DATABASE**
 
-E una volta aver deciso quale strada prendere, cosa dovevo fare?
+Questo è la prima cosa di cui hai bisogno: un **database dove raccogliere tutti gli appunti**.
 
-Ho risposto a questa domanda grazie a [questo libro](https://amzn.to/3Zwms63).
+E puoi chiamarlo "meeting notes" oppure in altri modi, decidi tu.
 
-È un libro scritto da Paul Jarvis e parte da un **concetto fondamentale**: la parola che meglio descrive tanti dei business di oggi è la parola "più".
+Una cosa importante che devi considerare però è la complessità di questo database ed il **numero di informazioni che conterrà**.
 
-Bisogna fare più soldi, per fare più soldi servono più clienti, per soddisfare più clienti servono più persone, per assumere più persone servono più soldi e via col loop.
+Se fai tante call e ci tieni ad avere database puliti, allora conviene che questo sia un database in cui salvi solo i meeting notes.
 
-Jarvis però mette in dubbio una cosa, una all'origine: perché il di "più"?
+Se invece preferisci avere meno database sul tuo workspace, allora puoi integrare i meeting notes in altri database.
 
-Di quanti soldi puoi mai aver bisogno per mandare avanti una tua attività?
+Ad esempio, per le call di [Notion Builders]([https://www.notionbuilders.it](https://www.notionbuilders.it/)), Beatrice ed io salviamo i meeting notes in un database chiamato Documents. 
 
-Insomma, applica il **minimalismo** al business.
+Ed in questo database ci finiscono non solo i meeting notes ma anche altre informazioni.
 
-E poi propone tutta una serie di idee per non farsi prendere dalla trappola del "devo fare di più" nel momento in cui si avvia un proprio percorso imprenditoriale.
+Inoltre, a questo database, è collegato il **database CRM**, quello dei **progetti** e quello dei **task**: in questo modo ogni informazione è in rete con le altre, è accessibile da più punti.
 
-Eccone alcune:
+Insomma, ad ogni call che facciamo corrisponde una pagina nel database Documents, taggata come Meeting Notes e con al suo interno la possibilità di assegnare clienti, progetti e task.
 
-*   Per avere successo, non puntare sempre a qualcosa in più, metti dei **limiti di profitto**;
+Una possibilità che può essere **automatica** oppure no, dipende da te.
 
-*   Il tuo obiettivo dovrebbe essere quello di raggiungere un'audience specifica, più di **nicchia** è e meglio è;
-
-*   Evita di fare grossi investimenti prima (sia temporali che economici), punta a fare **piccole scommesse** con piccoli rischi.
-
-Sto libro è uno spettacolo, ti fa pensare tanto e ti fa capire ancora di più.
+Noi abbiamo scelto di renderla automatica.
 
 <br>
 
-### **Radical Candor**
+### **UNA PICCOLA AUTOMAZIONE**
 
-Ok, questa è un'altra bomba.
+Questo è un punto interessante.
 
-Questo è un [libro](https://amzn.to/3ZfUGuU) indirizzato ai leader d'impresa che vogliono riuscire a comunicare al meglio con i propri colleghi e dipendenti.
+Perché non è necessario: non tutto deve per forza essere reso automatico.
 
-In realtà, penso che non sia utile solo ai leader, ma che sia utile un po' a tutti: compresi i membri di un'agenzia appena nata come [Notion Builders](https://www.notionbuilders.it/).
+Noi però abbiamo deciso di renderlo tale.
 
-L'idea è quella che, per ottenere il meglio da una collaborazione, bisogna investire tanto sulla **comunicazione**.
+Quindi, abbiamo costruito una **piccola automazione su Make** che fa queste cose qui:
+- quando un nuovo evento viene creato sul Calendar delle call di Notion Builders parte l'automazione;
+- Make recupare le informazioni da questa call e crea una pagina all'interno del database Documents;
+- Make darà alla pagina lo stesso titolo dell'evento;
+- nel caso in cui sia presente, Make associa a quella pagina la persona del CRM con cui faremo la call;
+- nel caso In cui non sia presente, Make crea quella persona nel database CRM;
+- alla creazione di una voce nel CRM, Notion associa un progetto standard a quella voce e a sua volta determinati task.
 
-E ci sono tutta una serie di piccole regole e consigli che permettono alle persone di uscire dalla trappola del "devo essere sincero o omettere?".
+La cosa potrebbe andare avanti ancora e ancora, ma Beatrice ed io non ne abbiamo bisogno.
 
-Eccone alcune:
+E magari non ne hai bisogno neanche tu.
 
-*   Quando vai a lavoro, lasciati **coinvolgere totalmente dai tuoi colleghi**;
+È tutta roba che ti fa **risparmiare un bel po' di tempo**, ma è anche **complessa**.
 
-*   Sii **trasparente** e aperto a tutti.
+<br>
 
-Insomma, è una bomba e te lo consiglio.
+### **IL TEMPLATE MEETING NOTES**
 
-Ecco, come potrai intuire dal mio breve resoconto di questi libri, ognuno di questi mi ha insegnato qualcosa.
+Questa cosa ti serve invece.
 
-E con queste lezioni, posso lanciarmi nell'avventura imprenditoriale che è Notion Builders: sicuro di essere sulla mia strada e che metterò tutto me stesso per costruirla al meglio.
+Così come il database, è obbligatoria.
 
-Quali sono i libri che più ti hanno aiutato?
+Altrimenti come li prendi appunti? Senza struttura? 
 
-Consigliamene altri dai, basta rispondere a questa email.
+Non mi sembra il caso, dai.
 
-E detto questo, buona settimana e beccati le risorse.
+Il punto di questo template è poter inserire con facilità le **informazioni più importanti riguardo la call**, le cose che poi serviranno per le **prossime azioni**.
+
+E quindi spetta a te delineare la struttura e capire cosa inserire nei tuoi appunti.
+
+Sono gentile però e quindi ecco la struttura del nostro template:
+- **Meeting agenda**: un campo con tutte le cose che bisogna trattare nel corso della call ed il sistema su Notion fa in modo che questo campo sia già popolato;
+- **Next actions**: i prossimi passi da mettere in atto, emergono nel corso della call;
+- **Meeting precedenti**: una vista filtrata degli appunti delle call precedenti con la stessa persona ed eventuali registrazioni;
+
+<br>
+
+Spero di essere stato chiaro e di averti fatto capire due cose in particolare: la **facilità** di poter creare un sistema del genere e la sua **flessibilità**.
+
+Perché penso che su quanto sia **necessario** siamo tutti d'accordo, no?
+
+E detto questo, buona settimana e beccati le **risorse**.
 
 Daniele
