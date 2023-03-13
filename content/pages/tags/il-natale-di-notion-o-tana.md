@@ -182,7 +182,7 @@ backgroundImage:
   url: /images/bg2.jpg
 date: '2023-03-13'
 client: Awesome client
-description: ESISTONO?
+description: O TANA?
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
