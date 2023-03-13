@@ -186,5 +186,6 @@ sections:
       - content/pages/tags/notion-ai-cosa-fare.md
       - content/pages/tags/da-creator-a-notion-builders.md
       - content/pages/tags/meeting-notes-efficaci.md
+      - content/pages/tags/batman-o-iron-man.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
