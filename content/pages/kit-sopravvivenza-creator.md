@@ -184,5 +184,6 @@ sections:
       - content/pages/tags/notion-ai-cosa-fare.md
       - content/pages/tags/da-creator-a-notion-builders.md
       - content/pages/tags/meeting-notes-efficaci.md
+      - content/pages/tags/come-te-la-cavi-con-la-memoria.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
