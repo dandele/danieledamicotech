@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #21: Meeting notes efficaci"
+title: "\U0001F9F0 kSC #21: batman o iron-man..."
 colors: colors-a
 date: '2023-01-08'
 description: CHI PREFERISCI?
