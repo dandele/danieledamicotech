@@ -178,7 +178,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #28: Da creator a Notion Builders..."
 colors: colors-a
 date: '2023-03-06'
-description: Grazie a 3 libri
+description: GRAZIE A 3 LIBRI
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
