@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #22: Meeting notes efficaci"
+title: "\U0001F9F0 kSC #22: TASK MANAGER COME..."
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
