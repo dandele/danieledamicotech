@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #29: Il NATALE DI NOTION..."
+title: "\U0001F9F0 kSC #19: Il NATALE DI NOTION..."
 colors: colors-a
 date: '2022-12-25'
 description: O TANA?
