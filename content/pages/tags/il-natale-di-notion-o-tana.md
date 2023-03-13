@@ -356,9 +356,9 @@ Insomma, cerca di andare a prendere gli utilizzatori di Notion che vorrebbero un
 
 Io rientro proprio in questa prima categoria: utilizzo Notion e ci vorrei un po’ più di Obisidian:
 
-* Vorrei che Notion ti permettesse di contare i caratteri di scrittura, proprio come fa Obsidian;
-* Vorrei che Notion ti permettesse di far scontrare le idee con la facilità visiva che ti garantisce Obsidian;
-* Notion però è un tool diverso e spostarsi troppo verso le funzioni di Obsidian sarebbe un danno.
+*   Vorrei che Notion ti permettesse di contare i caratteri di scrittura, proprio come fa Obsidian;
+*   Vorrei che Notion ti permettesse di far scontrare le idee con la facilità visiva che ti garantisce Obsidian;
+*   Notion però è un tool diverso e spostarsi troppo verso le funzioni di Obsidian sarebbe un danno.
 
 E lo stesso vale per Obsidian.
 
@@ -369,6 +369,7 @@ Solo che c’è un problema.
 ​<br>
 
 ### IL PROBLEMA DI CONFRONTARE NOTION CON TANA
+
 Notion è un prodotto in una fase di vita molto più avanzata rispetto a Tana.
 
 Tana è in early access, è un bambino,
@@ -410,6 +411,7 @@ Solo che le devi capire e per riuscirci devi studiare.
 ​<br>
 
 ### L’ALTRO GRANDE VANTAGGIO DI NOTION
+
 Non so se questo sia un punto di vista personale oppure oggettivo.
 
 C’è da considerare però che tutti quelli che ho sentito avvicinarsi a Notion mi hanno detto che il suo design è bello ed invitante.
@@ -430,10 +432,14 @@ Come ti ho detto, non si può mettere a confronto diretto i due tool.
 
 Ma ti posso dire al verificarsi di quali condizioni dovresti valutare l’utilizzo di Tana:
 
-Se ti piace l’idea di poter costruire quello che vuoi, come (e forse meglio di) Notion.
-Se non hai bisogno di utilizzare integrazioni, API o altre funzioni più mature.
-Se del design del tool, allo stato attuale, non ti importa per nulla.
-Se vuoi mettere le mani su un tool complesso e con del potenziale fin dall’inizio.
+*   Se ti piace l’idea di poter costruire quello che vuoi, come (e forse meglio di) Notion.
+
+*   Se non hai bisogno di utilizzare integrazioni, API o altre funzioni più mature.
+
+*   Se del design del tool, allo stato attuale, non ti importa per nulla.
+
+*   Se vuoi mettere le mani su un tool complesso e con del potenziale fin dall’inizio.
+
 Ed è proprio per questo che io stesso utilizzerò Tana.
 
 80% Notion e 20% Tana.
