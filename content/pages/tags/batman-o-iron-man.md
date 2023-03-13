@@ -286,17 +286,35 @@ bottomSections:
         textAlign: center
 slug: batman-o-iron-man
 ---
-Ehi ciao 👋,
+Ho letto fumetti per anni.
 
-questo è il numero 29 del **Kit di Sopravvivenza per Creator**.
+Oggi sono passato dai classici fumetti Marvel e DC a graphic novel più contorte ed a tratti inquietanti.
 
-E oggi ti racconterò di **come gestisco i meeting notes**.
+Ma c'è una cosa che ricordo in particolare di quando leggevo i fumetti: le ore passate a fare il confronto tra personaggi diversi dei fumetti.
+
+Chi è più forte tra Hulk e Superman?
+
+Chi è più intelligente tra Mr. Fantastic e Batman? 
+
+L'hai capito, mi divertivo con poco.
+
+E più simili erano i personaggi, tanto più il confronto si faceva interessante.
+
+Il confronto che generava più dibattito?
+
+Quello tra Batman e Iron-Man.
+
+Perché entrambi erano playboy miliardari, entrambi erano sprovvisti di super-poteri e compensavano con un'armatura.
+
+Inoltre, c'era un'altra cosa che li accomunava: **l'assistente**.
+
+<br>
 
 ***
 
 **TL;DR**
 
-*   Meeting notes efficaci;
+*   L'AI migliore;
 
 *   Una risorsa per la tua audience building
 
@@ -308,117 +326,151 @@ E oggi ti racconterò di **come gestisco i meeting notes**.
 
 ***
 
-Tool come Notion, Obsidian e Tana mi attirano perché li puoi trasformare nel tuo secondo cervello.
+Ehi ciao 👋,
 
-Li puoi utilizzare per **salvare informazioni** e per **organizzarle** come vuoi.
+questo è il numero 236 del **Kit di Sopravvivenza per Creator**.
 
-Poi, se prendi la tangente come me, arriverai presto al punto di **pianificare processi** per salvare le informazioni nel tuo secondo cervello.
-
-Ma questo è un altro discorso.
-
-Il punto è che, una volta scoperto il loro potenziale, presto cercherai di salvare un tipo di informazioni in particolare: gli **appunti dei meeting**.
-
-O meglio, detto con tono meno da manager: gli appunti delle c\*\*\* di call.
+E oggi ti racconterò delle **differenze (e somiglianze) tra Notion AI e Chat GPT**.
 
 <br>
 
-## **MEETING NOTES EFFICACI**
 
-Un po' come tutti, ormai anche la mia vita è costellata da un numero di call molto più alto di quanto vorrei.
 
-È una di quelle cose della vita che devi accettare, un po' come il fatto che Blanco deve stare lontano dai fiori.
+Quando si parla di intelligenza artificiale, in questi giorni il primo tool che emerge nella mente è di sicuro ChatGPT.
 
-Ma visto che nelle call ci si scambia spesso **informazioni vitali**, ho cercato di definire il **processo migliore** per non perdere queste informazioni.
+E ci sta, è un tool davvero interessante e potente.
 
-Senza passare ore a trascrivere registrazioni, oppure non ascoltare chi ti sta parlando.
+E sembra che tutto l'internet ci stia giocando.
 
-Ed il processo richiede solo tre cose:
+C'è anche da dire che nello stesso periodo di uscita di ChatGPT, un'altra intelligenza artificiale si è affacciata sui nostri schermi: quella di Notion.
 
-*   Un database;
-*   Una piccola automazione;
-*   Un semplice template.
+E devo essere sincero con te.
 
-Il tool che utilizzo, come forse saprai, è Notion ma una cosa simile si può mettere in piedi anche su altri tool (con le dovute differenze).
+Per quanto ChatGPT sia divertente ed interessante, ho sempre tifato per la versione di intelligenza artificiale made in Notion.
 
-<br>
+Purtroppo però, tra Notion AI e ChatGPT c'è un chiaro vincitore.
 
-### **UN DATABASE**
+Ed oggi ho intenzione di rivelarti di quale tool si tratta.
 
-Questo è la prima cosa di cui hai bisogno: un **database dove raccogliere tutti gli appunti**.
 
-E puoi chiamarlo "meeting notes" oppure in altri modi, decidi tu.
+## **L'AI MIGLIORE**
 
-Una cosa importante che devi considerare però è la complessità di questo database ed il **numero di informazioni che conterrà**.
+Da un lato c'era Alfred: il vecchio maggiordomo di Batman.
 
-Se fai tante call e ci tieni ad avere database puliti, allora conviene che questo sia un database in cui salvi solo i meeting notes.
+E dall'altro Jarvis: l'intelligenza artificiale creata da Iron-Man.
 
-Se invece preferisci avere meno database sul tuo workspace, allora puoi integrare i meeting notes in altri database.
+Entrambi questi assistenti aiutavano l'eroe ad affrontare le missioni e fare tutte quelle cose che fa un eroe.
 
-Ad esempio, per le call di [Notion Builders]([https://www.notionbuilders.it]\(https://www.notionbuilders.it/\)), Beatrice ed io salviamo i meeting notes in un database chiamato Documents.
+Ma questi assistenti sono molto diversi tra loro: il primo è un essere umano e il secondo un'intelligenza artificiale.
 
-Ed in questo database ci finiscono non solo i meeting notes ma anche altre informazioni.
+Jarvis ha accesso a tutte le informazioni del mondo, raggiungibili alla velocità di pochi secondi, mentre Alfred può fare cose vere e proprie (tipo portare il caffè, cosa fondamentale per un individuo che passa la notte a pestare i criminali).
 
-Inoltre, a questo database, è collegato il **database CRM**, quello dei **progetti** e quello dei **task**: in questo modo ogni informazione è in rete con le altre, è accessibile da più punti.
+E devo dire che, quando si parla di Notion AI e ChatGPT, vedo tra i due tool una dinamica molto simile a quella che c'è tra Alfred e Jarvis.
 
-Insomma, ad ogni call che facciamo corrisponde una pagina nel database Documents, taggata come Meeting Notes e con al suo interno la possibilità di assegnare clienti, progetti e task.
+- tra Notion AI e ChatGPT ci sono tante differenze;  
+- tra Notion AI e ChatGPT c'è qualche somiglianza;
+- tra Notion AI e ChatGPT c'è solo un tool che ti consiglio di utilizzare.
 
-Una possibilità che può essere **automatica** oppure no, dipende da te.
+Ecco cosa ne penso.
 
-Noi abbiamo scelto di renderla automatica.
+### **LA SOLUZIONE PIÙ COMODA**
 
-<br>
+Se c'era una cosa che, fin da subito, mi attirava di Notion AI era la possibilità di poter avere un'assistente virtuale (e intelligente) lì nello stesso posto dove faccio cose.
 
-### **UNA PICCOLA AUTOMAZIONE**
+Mi immaginavo già favolose vicende.
 
-Questo è un punto interessante.
+Tipo che cominciavo a scrivere i post per la prossima settimana su Linkedin e, non appena ne avevo necessità, potevo chiedere all'intelligenza artificiale di Notion di, non so, propormi qualche idea per gli hook.
 
-Perché non è necessario: non tutto deve per forza essere reso automatico.
+Oppure, nel caso in cui mi fossi ritrovato in un blocco creativo, chiedere a Notion AI di fare un po' di brainstorm.
 
-Noi però abbiamo deciso di renderlo tale.
+Così non avrei dovuto aprire nuove schede, non avrei dovuto interrompere il mio lavoro.
 
-Quindi, abbiamo costruito una **piccola automazione su Make** che fa queste cose qui:
+Tutto a disposizione, lì dove effettivamente fai cose.
 
-*   quando un nuovo evento viene creato sul Calendar delle call di Notion Builders parte l'automazione;
-*   Make recupare le informazioni da questa call e crea una pagina all'interno del database Documents;
-*   Make darà alla pagina lo stesso titolo dell'evento;
-*   nel caso in cui sia presente, Make associa a quella pagina la persona del CRM con cui faremo la call;
-*   nel caso In cui non sia presente, Make crea quella persona nel database CRM;
-*   alla creazione di una voce nel CRM, Notion associa un progetto standard a quella voce e a sua volta determinati task.
+E la cosa è fattibile.
 
-La cosa potrebbe andare avanti ancora e ancora, ma Beatrice ed io non ne abbiamo bisogno.
+Mentre sei lì, a scrivere qualcosa, puoi cliccare su "/" e ti compariranno 10 di comandi di AI che puoi scegliere e direi all'AI cosa vuoi che faccia.
 
-E magari non ne hai bisogno neanche tu.
+Ed è proprio qui che c'è la prima, grossa, differenza.
 
-È tutta roba che ti fa **risparmiare un bel po' di tempo**, ma è anche **complessa**.
+A ChatGPT non devi dare nessun comando particolare.
 
-<br>
+ChatGPT è davvero un assistente: le scrivi in chat quello di cui hai bisogno e l'intelligenza artificiale te lo fornisce.
 
-### **IL TEMPLATE MEETING NOTES**
+Notion AI invece no.
 
-Questa cosa ti serve invece.
+Ecco due immagini di confronto.
 
-Così come il database, è obbligatoria.
+![[]]![[Pasted image 20230107195546.png]]
 
-Altrimenti come li prendi appunti? Senza struttura?
+![[Pasted image 20230107195809.png]]
 
-Non mi sembra il caso, dai.
+Credo che la situazione sia palese.
 
-Il punto di questo template è poter inserire con facilità le **informazioni più importanti riguardo la call**, le cose che poi serviranno per le **prossime azioni**.
+Nel caso di Notion AI devi prima capire di cosa hai bisogno, dargli una sorta di etichetta.
 
-E quindi spetta a te delineare la struttura e capire cosa inserire nei tuoi appunti.
+Con ChatGPT invece non ne hai bisogno, ti basta scrivere in chat quello di cui hai bisogno ed a tutto il resto ci pensa l'intelligenza artificiale.
 
-Sono gentile però e quindi ecco la struttura del nostro template:
+### **L'AI PIÙ POTENTE**
 
-*   **Meeting agenda**: un campo con tutte le cose che bisogna trattare nel corso della call ed il sistema su Notion fa in modo che questo campo sia già popolato;
-*   **Next actions**: i prossimi passi da mettere in atto, emergono nel corso della call;
-*   **Meeting precedenti**: una vista filtrata degli appunti delle call precedenti con la stessa persona ed eventuali registrazioni;
+Qui la questione si fa più spinosa.
 
-<br>
+Perché ad oggi i vari tool di AI che ci sono a disposizione, per quanto ci siano magari delle differenze in termini di velocità e altre prestazioni, danno più o meno lo stesso risultato.
 
-Spero di essere stato chiaro e di averti fatto capire due cose in particolare: la **facilità** di poter creare un sistema del genere e la sua **flessibilità**.
+Continuiamo l'esempio di prima.
 
-Perché penso che su quanto sia **necessario** siamo tutti d'accordo, no?
+Ho fornito ad entrambe le intelligenze artificiali questa richiesta: "Ehi, mi dai qualche idea di subject line per una newsletter sul confronto tra Notion AI e ChatGPT ?".
 
-E detto questo, buona settimana e beccati le **risorse**.
+E qesti sono i risultati che mi hanno fornito.
+
+![[Pasted image 20230108163607.png]]
+
+![[Pasted image 20230107200645.png]]
+
+Come puoi vedere, al netto delle differenze di utilizzo (e della facilità con cui puoi modificare il risultato fornito da ChatGPT), i risultati sono quasi gli stessi.
+
+### **NOTION AI O CHATGPT, QUALE UTILIZZARE?**
+
+Al momento, il mio consiglio è chiaro: dovresti utilizzare ChatGPT.
+
+La qualità dei risultati, almeno nel mio caso, non è mai stata la discriminante.
+
+Perché non mi aspetto davvero che l'intelligenza artificiale faccia tutto il lavoro.
+
+E non è neanche quello che vorrei, sarò sincero.
+
+Io voglio che l'AI mi renda più snelli alcuni processi: dalla cattura di idee, ricerca di informazioni ecc.
+
+Quindi per me è necessario avere la possibilità di fare da editor e dare una struttura ed uno stile a quello che mi ha fornito l'AI.
+
+E questo, per ora, mi è possibile molto meglio con ChatGPT invece che con Notion AI.
+
+Ed è un peccato, perché tutto quello che permetterebbe a Notion AI di raggiungere l'utilità ideale per me (e penso tanti altri come me) sarebbe quell'aspetto più di assistente che ha ChatGPT.
+
+Con questo piccolo vantaggio di comodità e la possibilità di avere tutto nello stesso luogo, Notion AI sarebbe il vincitore assoluto.
+
+
+
+Ecco, per ora è questa la situazione.
+
+Per ora, almeno per me, il vincitore è ChatGPT.
+
+Ma c'è da dire una cosa, una molto importante.
+
+Notion AI è in alpha e ChatGPT è uscita da meno di un mese.
+
+Sono tool che si trovano in una versione del loro sviluppo embrionale e presto li vederemo evolvere, così come vedremo evolvere gli stessi modelli di AI che utilizzano.
+
+In pratica, siamo solo all'alba di qualcosa di molto figo.
+
+Qualcosa che, di sicuro, sarà a pagamento (sia nel caso di Notion che di ChatGPT) ma che potrà avere un impatto molto positivo sul nostro lavoro.
+
+Non ci resta che attendere e vedere.
+
+Te nel frattempo, quale tool preferisci?
+
+Ho deciso di raccogliere in una pagina Notion il confronto più dettagliato tra i risultati di Notion AI e ChatGPT, li trovi al pulsante qui sotto.
+
+Detto questo, per oggi è tutto, buona settimana e beccati le risorse!
 
 Daniele
