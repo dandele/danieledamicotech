@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #29: Meeting notes efficaci"
+title: "\U0001F9F0 kSC #18: ti ricordi di questo?"
 colors: colors-a
 date: '2022-12-18'
 description: ESISTONO?
