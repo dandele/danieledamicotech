@@ -288,7 +288,7 @@ slug: meeting-notes-efficaci
 ---
 Ehi ciao 👋,
 
-questo è il numero 299 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 29 del **Kit di Sopravvivenza per Creator**.
 
 E oggi ti racconterò di **come gestisco i meeting notes**.
 
@@ -318,7 +318,7 @@ Ma questo è un altro discorso.
 
 Il punto è che, una volta scoperto il loro potenziale, presto cercherai di salvare un tipo di informazioni in particolare: gli **appunti dei meeting**.
 
-O meglio, detto con tono meno da manager: gli appunti delle c*** di call.
+O meglio, detto con tono meno da manager: gli appunti delle c\*\*\* di call.
 
 <br>
 
@@ -334,9 +334,9 @@ Senza passare ore a trascrivere registrazioni, oppure non ascoltare chi ti sta p
 
 Ed il processo richiede solo tre cose:
 
-- Un database;
-- Una piccola automazione;
-- Un semplice template.
+*   Un database;
+*   Una piccola automazione;
+*   Un semplice template.
 
 Il tool che utilizzo, come forse saprai, è Notion ma una cosa simile si può mettere in piedi anche su altri tool (con le dovute differenze).
 
@@ -354,7 +354,7 @@ Se fai tante call e ci tieni ad avere database puliti, allora conviene che quest
 
 Se invece preferisci avere meno database sul tuo workspace, allora puoi integrare i meeting notes in altri database.
 
-Ad esempio, per le call di [Notion Builders]([https://www.notionbuilders.it](https://www.notionbuilders.it/)), Beatrice ed io salviamo i meeting notes in un database chiamato Documents. 
+Ad esempio, per le call di [Notion Builders]([https://www.notionbuilders.it]\(https://www.notionbuilders.it/\)), Beatrice ed io salviamo i meeting notes in un database chiamato Documents.
 
 Ed in questo database ci finiscono non solo i meeting notes ma anche altre informazioni.
 
@@ -377,12 +377,13 @@ Perché non è necessario: non tutto deve per forza essere reso automatico.
 Noi però abbiamo deciso di renderlo tale.
 
 Quindi, abbiamo costruito una **piccola automazione su Make** che fa queste cose qui:
-- quando un nuovo evento viene creato sul Calendar delle call di Notion Builders parte l'automazione;
-- Make recupare le informazioni da questa call e crea una pagina all'interno del database Documents;
-- Make darà alla pagina lo stesso titolo dell'evento;
-- nel caso in cui sia presente, Make associa a quella pagina la persona del CRM con cui faremo la call;
-- nel caso In cui non sia presente, Make crea quella persona nel database CRM;
-- alla creazione di una voce nel CRM, Notion associa un progetto standard a quella voce e a sua volta determinati task.
+
+*   quando un nuovo evento viene creato sul Calendar delle call di Notion Builders parte l'automazione;
+*   Make recupare le informazioni da questa call e crea una pagina all'interno del database Documents;
+*   Make darà alla pagina lo stesso titolo dell'evento;
+*   nel caso in cui sia presente, Make associa a quella pagina la persona del CRM con cui faremo la call;
+*   nel caso In cui non sia presente, Make crea quella persona nel database CRM;
+*   alla creazione di una voce nel CRM, Notion associa un progetto standard a quella voce e a sua volta determinati task.
 
 La cosa potrebbe andare avanti ancora e ancora, ma Beatrice ed io non ne abbiamo bisogno.
 
@@ -398,7 +399,7 @@ Questa cosa ti serve invece.
 
 Così come il database, è obbligatoria.
 
-Altrimenti come li prendi appunti? Senza struttura? 
+Altrimenti come li prendi appunti? Senza struttura?
 
 Non mi sembra il caso, dai.
 
@@ -407,9 +408,10 @@ Il punto di questo template è poter inserire con facilità le **informazioni pi
 E quindi spetta a te delineare la struttura e capire cosa inserire nei tuoi appunti.
 
 Sono gentile però e quindi ecco la struttura del nostro template:
-- **Meeting agenda**: un campo con tutte le cose che bisogna trattare nel corso della call ed il sistema su Notion fa in modo che questo campo sia già popolato;
-- **Next actions**: i prossimi passi da mettere in atto, emergono nel corso della call;
-- **Meeting precedenti**: una vista filtrata degli appunti delle call precedenti con la stessa persona ed eventuali registrazioni;
+
+*   **Meeting agenda**: un campo con tutte le cose che bisogna trattare nel corso della call ed il sistema su Notion fa in modo che questo campo sia già popolato;
+*   **Next actions**: i prossimi passi da mettere in atto, emergono nel corso della call;
+*   **Meeting precedenti**: una vista filtrata degli appunti delle call precedenti con la stessa persona ed eventuali registrazioni;
 
 <br>
 
