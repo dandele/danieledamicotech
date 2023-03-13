@@ -314,7 +314,7 @@ Perché non usi l'Apple Pencil?
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 3 minuti e 40.
+**Il tempo di lettura previsto è:** 4 minuti e 40.
 
 ***
 
@@ -338,7 +338,6 @@ Perché non fai questa distinzione anche con il tuo task manager?
 
 <br>
 
-
 ## **COME RENDERE IL TASK MANAGER UNA VERA ARMA DI PRODUTTIVITÀ**
 
 Il fatto è che il task manager è proprio come un vestito.
@@ -355,9 +354,9 @@ Mi sono reso conto della cosa qualche anno fa, quando ho scoperto 3 cose.
 
 Eccole qui:
 
--   C'è differenza tra Do date e Due date;
--   Non esistono solo le priorità di Eisenhower; 
--   Non esistono solo le task list;
+*   C'è differenza tra Do date e Due date;
+*   Non esistono solo le priorità di Eisenhower;
+*   Non esistono solo le task list;
 
 Ed oggi ho deciso di parlartene e mostrarti come le ho implementate.
 
@@ -421,8 +420,8 @@ In questo modo non hai fatto altro che cambiare la facciata del vecchio sistema,
 
 Per fortuna c'è un altro modo, almeno su Notion.
 
-- Crei 4 proprietà di checkbox: ognuna che corrisponde ai quadranti della matrice.
-- Crea una proprietà formula: questa assegnerà la priorità in funzione dei checkbox che hai selezionato.
+*   Crei 4 proprietà di checkbox: ognuna che corrisponde ai quadranti della matrice.
+*   Crea una proprietà formula: questa assegnerà la priorità in funzione dei checkbox che hai selezionato.
 
 Io utilizzo proprio quests struttura per gestire le priorità, anche se non uso la matrice di Eisenhower ma la matrice del 10k Value di Khe Hy, il principio di funzionamento è lo stesso.
 
@@ -434,7 +433,7 @@ Lo scopo è evitare che tu decida sulla complessità e che ti concentri su picco
 
 Questa è una tecnica che ho scoperto mentre cercavo di rendere la mia esecuzione di task più consapevole, ne abbiamo parlato qualche newsletter fa.
 
-Si tratta di integrare task manager e journal e si chiama interstitial journaling. 
+Si tratta di integrare task manager e journal e si chiama interstitial journaling.
 
 Più che una cosa da task manager è una cosa che puoi implementare su tool come Obsidian, Roam Research oppure, ovviamente, Notion.
 
@@ -446,7 +445,7 @@ E poi potrai inserire un elenco puntato.
 
 Uno in cui, ogni volta che hai una pausa, fai un piccolo brain dump e scrivi le tue preoccupazioni, come stai è quello a cui stai pensando.
 
-Una cosa veloce ed immediata. 
+Una cosa veloce ed immediata.
 
 E ogni entrata, puoi farla iniziare su Notion col comando @now per inserire l'orario in cui stai scrivendo.
 
