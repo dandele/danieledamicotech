@@ -402,7 +402,9 @@ Notion AI invece no.
 
 Ecco due immagini di confronto.
 
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/pxs3iBHSnW24wbYHJS8ZXf/email)
 
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/oPAxs7dhs8NYih5Xv8c9EF/email)
 
 Credo che la situazione sia palese.
 
@@ -425,6 +427,10 @@ Ho fornito ad entrambe le intelligenze artificiali questa richiesta: "Ehi, mi da
 E qesti sono i risultati che mi hanno fornito.
 
 Come puoi vedere, al netto delle differenze di utilizzo (e della facilità con cui puoi modificare il risultato fornito da ChatGPT), i risultati sono quasi gli stessi.
+
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/s23Rao7Azv5ydBFG3JkqqF/email)
+
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/u8uPCRxX3m1r74jk3Jzjbm/email)
 
 <br>
 
@@ -467,8 +473,6 @@ Qualcosa che, di sicuro, sarà a pagamento (sia nel caso di Notion che di ChatGP
 Non ci resta che attendere e vedere.
 
 Te nel frattempo, quale tool preferisci?
-
-Ho deciso di raccogliere in una pagina Notion il confronto più dettagliato tra i risultati di Notion AI e ChatGPT, li trovi al pulsante qui sotto.
 
 Detto questo, per oggi è tutto, buona settimana e beccati le risorse!
 
