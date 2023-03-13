@@ -286,17 +286,27 @@ bottomSections:
         textAlign: center
 slug: task-manager-come-vestiti-su-misura
 ---
-Ehi ciao 👋,
+Oggi voglio che utilizzi un po' di immaginazione.
 
-questo è il numero 29 del **Kit di Sopravvivenza per Creator**.
+Voglio che ti immagini a casa tua.
 
-E oggi ti racconterò di **come gestisco i meeting notes**.
+Dai, è uno sforzo minimo visto che forse già sei a casa tua.
+
+Voglio che però ti immagini di venerdì sera, un venerdì sera di quelli di puro relax.
+
+Sai che domani non dovrai fare nulla, sono le 22.15 e ti puoi rilassare.
+
+Prendi il cellulare, apri qualche social e cominci a passare da un post all'altro.
+
+Cosa stai utilizzando per farlo? Il pollice vero?
+
+Perché non usi l'Apple Pencil?
 
 ***
 
 **TL;DR**
 
-*   Meeting notes efficaci;
+*   Task manager come vestiti su misura
 
 *   Una risorsa per la tua audience building
 
@@ -308,117 +318,148 @@ E oggi ti racconterò di **come gestisco i meeting notes**.
 
 ***
 
-Tool come Notion, Obsidian e Tana mi attirano perché li puoi trasformare nel tuo secondo cervello.
+Ehi ciao 👋,
 
-Li puoi utilizzare per **salvare informazioni** e per **organizzarle** come vuoi.
+questo è il numero 243 del **Kit di Sopravvivenza per Creator**.
 
-Poi, se prendi la tangente come me, arriverai presto al punto di **pianificare processi** per salvare le informazioni nel tuo secondo cervello.
-
-Ma questo è un altro discorso.
-
-Il punto è che, una volta scoperto il loro potenziale, presto cercherai di salvare un tipo di informazioni in particolare: gli **appunti dei meeting**.
-
-O meglio, detto con tono meno da manager: gli appunti delle c\*\*\* di call.
+E oggi ti svelerò **come rendere il task manager una vera arma di produttività**.
 
 <br>
 
-## **MEETING NOTES EFFICACI**
+La risposta è ovvia.
 
-Un po' come tutti, ormai anche la mia vita è costellata da un numero di call molto più alto di quanto vorrei.
+Non usi l'Apple Pencil perché non è lo strumento adatto per girovagare su Instagram.
 
-È una di quelle cose della vita che devi accettare, un po' come il fatto che Blanco deve stare lontano dai fiori.
+Il pollice serve a passare da un post all'altro, l'Apple Pencil invece serve per fare cose carine sull'ipad.
 
-Ma visto che nelle call ci si scambia spesso **informazioni vitali**, ho cercato di definire il **processo migliore** per non perdere queste informazioni.
+Ora però ho una domanda per te.
 
-Senza passare ore a trascrivere registrazioni, oppure non ascoltare chi ti sta parlando.
-
-Ed il processo richiede solo tre cose:
-
-*   Un database;
-*   Una piccola automazione;
-*   Un semplice template.
-
-Il tool che utilizzo, come forse saprai, è Notion ma una cosa simile si può mettere in piedi anche su altri tool (con le dovute differenze).
+Perché non fai questa distinzione anche con il tuo task manager?
 
 <br>
 
-### **UN DATABASE**
 
-Questo è la prima cosa di cui hai bisogno: un **database dove raccogliere tutti gli appunti**.
+## **COME RENDERE IL TASK MANAGER UNA VERA ARMA DI PRODUTTIVITÀ**
 
-E puoi chiamarlo "meeting notes" oppure in altri modi, decidi tu.
+Il fatto è che il task manager è proprio come un vestito.
 
-Una cosa importante che devi considerare però è la complessità di questo database ed il **numero di informazioni che conterrà**.
+Non ti puoi accontentare di qualcosa di standard: è qualcosa che deve essere adatto a te e solo te.
 
-Se fai tante call e ci tieni ad avere database puliti, allora conviene che questo sia un database in cui salvi solo i meeting notes.
+E proprio come esistono decine di fisici diversi per un vestito, così esistono decine di diversi approcci al task manager.
 
-Se invece preferisci avere meno database sul tuo workspace, allora puoi integrare i meeting notes in altri database.
+E meriti un task manager che sia adatto al tuo approccio.
 
-Ad esempio, per le call di [Notion Builders]([https://www.notionbuilders.it]\(https://www.notionbuilders.it/\)), Beatrice ed io salviamo i meeting notes in un database chiamato Documents.
+Mi sono reso conto della cosa qualche anno fa, quando ho scoperto 3 cose.
 
-Ed in questo database ci finiscono non solo i meeting notes ma anche altre informazioni.
+3 cose che non rientravano nell'uso canonico di un task manager ma che, dopo averle implementate nel mio task manager, hanno moltiplicato per 10 la mia produttività.
 
-Inoltre, a questo database, è collegato il **database CRM**, quello dei **progetti** e quello dei **task**: in questo modo ogni informazione è in rete con le altre, è accessibile da più punti.
+Eccole qui:
 
-Insomma, ad ogni call che facciamo corrisponde una pagina nel database Documents, taggata come Meeting Notes e con al suo interno la possibilità di assegnare clienti, progetti e task.
+-   C'è differenza tra Do date e Due date;
+-   Non esistono solo le priorità di Eisenhower; 
+-   Non esistono solo le task list;
 
-Una possibilità che può essere **automatica** oppure no, dipende da te.
+Ed oggi ho deciso di parlartene e mostrarti come le ho implementate.
 
-Noi abbiamo scelto di renderla automatica.
-
-<br>
-
-### **UNA PICCOLA AUTOMAZIONE**
-
-Questo è un punto interessante.
-
-Perché non è necessario: non tutto deve per forza essere reso automatico.
-
-Noi però abbiamo deciso di renderlo tale.
-
-Quindi, abbiamo costruito una **piccola automazione su Make** che fa queste cose qui:
-
-*   quando un nuovo evento viene creato sul Calendar delle call di Notion Builders parte l'automazione;
-*   Make recupare le informazioni da questa call e crea una pagina all'interno del database Documents;
-*   Make darà alla pagina lo stesso titolo dell'evento;
-*   nel caso in cui sia presente, Make associa a quella pagina la persona del CRM con cui faremo la call;
-*   nel caso In cui non sia presente, Make crea quella persona nel database CRM;
-*   alla creazione di una voce nel CRM, Notion associa un progetto standard a quella voce e a sua volta determinati task.
-
-La cosa potrebbe andare avanti ancora e ancora, ma Beatrice ed io non ne abbiamo bisogno.
-
-E magari non ne hai bisogno neanche tu.
-
-È tutta roba che ti fa **risparmiare un bel po' di tempo**, ma è anche **complessa**.
+Cominciamo subito.
 
 <br>
 
-### **IL TEMPLATE MEETING NOTES**
+### **C'È DIFFERENZA TRA DO DATE E DUE DATE**
 
-Questa cosa ti serve invece.
+Sembra così ovvio, eppure l'ho scoperto solo da poco.
 
-Così come il database, è obbligatoria.
+Nel tuo task manager non dovresti utilizzare solo la due date, la data in cui è previsto che tu concluda il task, ma anche la do date.
 
-Altrimenti come li prendi appunti? Senza struttura?
+Che differenza c'è?
 
-Non mi sembra il caso, dai.
+Beh, la do date è la data in cui tu prevedi di fare il task.
 
-Il punto di questo template è poter inserire con facilità le **informazioni più importanti riguardo la call**, le cose che poi serviranno per le **prossime azioni**.
+La due date invece è la data di consegna, ma ti consiglio di utilizzarla per tutti i task.
 
-E quindi spetta a te delineare la struttura e capire cosa inserire nei tuoi appunti.
+Altrimenti rischi di renderla una fake due date, una data indicativa è che poi non rispetti per davvero.
 
-Sono gentile però e quindi ecco la struttura del nostro template:
+Limita il suo utilizzo a quelle situazioni in cui ci sono delle conseguenze reali e dirette nella tua vita (o lavoro): pagamento dell'affitto o di alcune bollette, fine di progetti lavorativi importanti, uscite della newsletter ecc.
 
-*   **Meeting agenda**: un campo con tutte le cose che bisogna trattare nel corso della call ed il sistema su Notion fa in modo che questo campo sia già popolato;
-*   **Next actions**: i prossimi passi da mettere in atto, emergono nel corso della call;
-*   **Meeting precedenti**: una vista filtrata degli appunti delle call precedenti con la stessa persona ed eventuali registrazioni;
+Per tutti gli altri task, non serve una due date, tutto quello di cui hai bisogno è una do date.
+
+E non è difficile implementare la cosa.
+
+Puoi cambiare qualche etichetta sul tuo task manager di fiducia, oppure se usi Notion puoi creare una nuova proprietà nel tuo database dei task.
+
+La proprietà deve essere di tipo Data ovviamente è la chiami Do Date.
+
+Poi la duplichi e chiami la seconda proprietà Due Date.
+
+E il gioco è fatto.
 
 <br>
 
-Spero di essere stato chiaro e di averti fatto capire due cose in particolare: la **facilità** di poter creare un sistema del genere e la sua **flessibilità**.
+### **NON ESISTONO SOLO LE PRIORITÀ DI EISENHOWER**
 
-Perché penso che su quanto sia **necessario** siamo tutti d'accordo, no?
+Alta, media e bassa.
 
-E detto questo, buona settimana e beccati le **risorse**.
+Questi sono i tipi di priorità che più spesso ci ritroviamo ad assegnare ai nostri task.
 
-Daniele
+È un sistema semplice eh, ma poco efficace.
+
+Perché se non lo gestisci bene, presto ti ritrovi con tutti i task in priorità alta.
+
+E quando tutto ha una priorità, allora niente ha una priorità.
+
+E così cerchiamo una soluzione, un'alternativa a questo sistema di priorità così semplice.
+
+Il risultato?
+
+La matrice di Eisenhower, che di sicuro conosci.
+
+Solo che come implementi una matrice in un task manager?
+
+Cambi le opzioni del campo proprietà in quelle della matrice?
+
+In questo modo non hai fatto altro che cambiare la facciata del vecchio sistema, non hai risolto il problema.
+
+Per fortuna c'è un altro modo, almeno su Notion.
+
+- Crei 4 proprietà di checkbox: ognuna che corrisponde ai quadranti della matrice.
+- Crea una proprietà formula: questa assegnerà la priorità in funzione dei checkbox che hai selezionato.
+
+Io utilizzo proprio quests struttura per gestire le priorità, anche se non uso la matrice di Eisenhower ma la matrice del 10k Value di Khe Hy, il principio di funzionamento è lo stesso.
+
+Lo scopo è evitare che tu decida sulla complessità e che ti concentri su piccole decisioni del tipo si/no.
+
+<br>
+
+### **NON ESISTONO SOLO LE TASK LIST**
+
+Questa è una tecnica che ho scoperto mentre cercavo di rendere la mia esecuzione di task più consapevole, ne abbiamo parlato qualche newsletter fa.
+
+Si tratta di integrare task manager e journal e si chiama interstitial journaling. 
+
+Più che una cosa da task manager è una cosa che puoi implementare su tool come Obsidian, Roam Research oppure, ovviamente, Notion.
+
+Perché è necessario che tu abbia una daily page a disposizione, che è una cosa che hai sempre a disposizione su Obsidian e Roam, mentre su Notion te la puoi costruire.
+
+In quella daily page, che ovviamente avrà come titolo la data odierna (su Notion puoi utilizzare il comand @today per riuscirci), potrai inserire la tua task list del giorno.
+
+E poi potrai inserire un elenco puntato.
+
+Uno in cui, ogni volta che hai una pausa, fai un piccolo brain dump e scrivi le tue preoccupazioni, come stai è quello a cui stai pensando.
+
+Una cosa veloce ed immediata. 
+
+E ogni entrata, puoi farla iniziare su Notion col comando @now per inserire l'orario in cui stai scrivendo.
+
+<br>
+
+Ecco qui, direi che per oggi è tutto.
+
+Come puoi notare, c'è un motivo per cui adoro Notion: non importa quello che vuoi fare e quanto sia particolare la tua esigenza di utilizzo, con Notion puoi costruire un sistema per metterla in atto.
+
+E chiariamoci, non so se queste tecniche miglioreranno anche la tua di produttività, ma ti posso garantire che hanno migliorato la mia di produttività.
+
+Ti interessa poter implementare queste cose anche sul tuo spazio Notion?
+
+Allora ti lascio un pulsante qui sotto, cliccaci e sarò felice di aiutarti,
+
+Detto questo, buona settimana e beccati le risorse.
