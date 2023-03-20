@@ -206,7 +206,7 @@ bottomSections:
     elementId: ''
     variant: variant-a
     text: >+
-      <iframe width="auto" height="315"
+      <iframe width="800" height="315"
       src="https://www.youtube.com/embed/tZnICTt7ogo" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen
