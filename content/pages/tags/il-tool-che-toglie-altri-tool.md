@@ -178,7 +178,6 @@ metaTags: []
 title: "\U0001F9F0 kSC #29: Meeting notes efficaci"
 colors: colors-a
 date: '2023-03-13'
-client: Awesome client
 description: ESISTONO?
 featuredImage:
   type: ImageBlock
