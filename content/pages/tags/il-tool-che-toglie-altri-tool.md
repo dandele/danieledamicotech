@@ -233,6 +233,7 @@ bottomSections:
         textAlign: center
       actions:
         justifyContent: center
+    text: 'https://youtu.be/tZnICTt7ogo'
   - type: DividerSection
     title: Divider
     elementId: ''
