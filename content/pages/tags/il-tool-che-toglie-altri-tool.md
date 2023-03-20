@@ -301,7 +301,6 @@ bottomSections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    subtitle: The section subtitle
     text: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/tZnICTt7ogo" title="YouTube video
