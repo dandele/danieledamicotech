@@ -178,7 +178,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #30: Il tool che toglie..."
 colors: colors-a
 date: '2023-03-19'
-description: ESISTONO?
+description: altri tool
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
