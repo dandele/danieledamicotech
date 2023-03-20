@@ -207,7 +207,7 @@ bottomSections:
     backgroundSize: inset
     title: Costruisci con me un Task Manager su Notion
     actions:
-      - label: Try it now
+      - label: Guardalo ora!
         altText: ''
         url: /
         showIcon: true
