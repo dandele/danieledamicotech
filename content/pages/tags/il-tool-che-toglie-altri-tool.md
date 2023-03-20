@@ -201,43 +201,6 @@ bottomSections:
           - pr-4
         justifyContent: center
         borderWidth: 1
-  - type: CtaSection
-    colors: colors-d
-    elementId: ''
-    backgroundSize: inset
-    actions:
-      - label: Guardalo ora!
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: center
-      text:
-        textAlign: center
-      actions:
-        justifyContent: center
-    text: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/tZnICTt7ogo" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen
-      />
   - type: DividerSection
     title: Divider
     elementId: ''
