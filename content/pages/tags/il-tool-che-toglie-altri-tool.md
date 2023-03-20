@@ -205,7 +205,6 @@ bottomSections:
     colors: colors-d
     elementId: ''
     backgroundSize: inset
-    title: Costruisci con me un Task Manager su Notion
     actions:
       - label: Guardalo ora!
         altText: ''
