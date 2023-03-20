@@ -301,7 +301,6 @@ bottomSections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    title: The Section Title
     subtitle: The section subtitle
     text: >-
       <iframe width="560" height="315"
