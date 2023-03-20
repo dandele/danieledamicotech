@@ -379,9 +379,10 @@ L'esperienza di lettura su **Instapaper** è fantastica, non prendiamoci in giro
 Sembra di leggere un libro, anche se stai leggendo dallo schermo di un PC.
 
 Ma col passare del tempo, Instapaper ha mostrato sempre più **carenze** e non trovavo altri tool che riuscissero a soddisfare le mie esigenze:
--   Volevo un tool integrato con Readwise;
--   Volevo un tool in cui poter leggere libri, tweet, PDF e tutti gli altri formati di contenuti che mi possono interessare;
--    Volevo un tool che mi permettesse anche di sottolineare dal web.
+
+*   Volevo un tool integrato con Readwise;
+*   Volevo un tool in cui poter leggere libri, tweet, PDF e tutti gli altri formati di contenuti che mi possono interessare;
+*   Volevo un tool che mi permettesse anche di sottolineare dal web.
 
 E per mia estrema gioia, qualche mese fa, ho trovato proprio quello di cui avevo bisogno.
 
@@ -423,7 +424,7 @@ Con Readwise Reader è tutto **risolto**.
 
 Puoi importare i contenuti in diversi modi e non ci sono limiti al tipo di contenuti.
 
-Puoi salvare i video di **YouTube**? 
+Puoi salvare i video di **YouTube**?
 
 Si, puoi farlo e Readwise Reader provvede addirittura a fartene una **trascrizione automatica**.
 
@@ -471,7 +472,7 @@ Se vuoi provarlo, qui trovi il link di affiliazione, così puoi provare Readwise
 
 Magari poi li puoi utilizzare per salvare questa newsletter, oppure per salvare il mio primo tutorial su Notion, no?
 
-Lo trovi su Youtube, ti basta cliccare il pulsante qui sotto!
+Lo trovi su [Youtube](https://youtu.be/tZnICTt7ogo), oppure qui in basso!
 
 E per oggi è tutto, buona settimana e beccati le risorse.
 
