@@ -202,7 +202,7 @@ bottomSections:
         justifyContent: center
         borderWidth: 1
   - type: CtaSection
-    colors: colors-c
+    colors: colors-d
     elementId: ''
     backgroundSize: inset
     title: Let's do this
