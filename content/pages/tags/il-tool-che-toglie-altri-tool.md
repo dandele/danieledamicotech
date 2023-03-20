@@ -205,7 +205,7 @@ bottomSections:
     colors: colors-d
     elementId: ''
     backgroundSize: inset
-    title: 'Guarda '
+    title: Come costruire un Task Manager su Notion
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
