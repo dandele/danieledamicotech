@@ -288,7 +288,7 @@ slug: il-tool-che-toglie-altri-tool
 ---
 Ehi ciao 👋,
 
-questo è il numero 29 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 30 del **Kit di Sopravvivenza per Creator**.
 
 E oggi ti racconterò di **come gestisco i meeting notes**.
 
@@ -296,7 +296,7 @@ E oggi ti racconterò di **come gestisco i meeting notes**.
 
 **TL;DR**
 
-*   Meeting notes efficaci;
+*   Il tool che toglie altri tool
 
 *   Una risorsa per la tua audience building
 
@@ -304,7 +304,7 @@ E oggi ti racconterò di **come gestisco i meeting notes**.
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 3 minuti e 40.
+**Il tempo di lettura previsto è:** 3 minuti e 30.
 
 ***
 
