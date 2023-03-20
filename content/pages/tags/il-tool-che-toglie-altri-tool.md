@@ -319,6 +319,17 @@ bottomSections:
         textAlign: center
       text:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
 slug: il-tool-che-toglie-altri-tool
 ---
 Ehi ciao 👋,
