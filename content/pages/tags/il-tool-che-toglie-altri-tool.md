@@ -201,6 +201,32 @@ bottomSections:
           - pr-4
         justifyContent: center
         borderWidth: 1
+  - type: TextSection
+    colors: colors-f
+    elementId: ''
+    variant: variant-a
+    text: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/tZnICTt7ogo" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen
+      />
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -288,32 +314,6 @@ bottomSections:
         padding:
           - pt-0
           - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
-  - type: TextSection
-    colors: colors-f
-    elementId: ''
-    variant: variant-a
-    text: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/tZnICTt7ogo" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen
-      />
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
           - pl-4
           - pr-4
         justifyContent: center
