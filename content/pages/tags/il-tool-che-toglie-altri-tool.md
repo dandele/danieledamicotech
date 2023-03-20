@@ -206,9 +206,6 @@ bottomSections:
     elementId: ''
     backgroundSize: inset
     title: Costruisci con me un Task Manager su Notion
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
     actions:
       - label: Try it now
         altText: ''
