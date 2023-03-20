@@ -308,117 +308,121 @@ E oggi ti racconterò di **come gestisco i meeting notes**.
 
 ***
 
-Tool come Notion, Obsidian e Tana mi attirano perché li puoi trasformare nel tuo secondo cervello.
+Uno dei problemi che più mi ha rovinato la psiche nel corso degli anni è la gestione delle cose da leggere.
 
-Li puoi utilizzare per **salvare informazioni** e per **organizzarle** come vuoi.
+Nel corso di una giornata normale, **leggo parecchio** e cerco di salvare alcune informazioni nella forma di highlights e note varie.
 
-Poi, se prendi la tangente come me, arriverai presto al punto di **pianificare processi** per salvare le informazioni nel tuo secondo cervello.
+Inoltre, utilizzo spesso **LinkedIn** e **Twitter** e lì spesso incontri dei contenuti interessanti.
 
-Ma questo è un altro discorso.
+Io salvo quei contenuti e vorrei magari sottolinearli, farci cose.
 
-Il punto è che, una volta scoperto il loro potenziale, presto cercherai di salvare un tipo di informazioni in particolare: gli **appunti dei meeting**.
+Fino a qualche mese fa utilizzavo Instapaper per le funzioni di Read it Later e devo dire che mi trovavo bene.
 
-O meglio, detto con tono meno da manager: gli appunti delle c\*\*\* di call.
-
-<br>
-
-## **MEETING NOTES EFFICACI**
-
-Un po' come tutti, ormai anche la mia vita è costellata da un numero di call molto più alto di quanto vorrei.
-
-È una di quelle cose della vita che devi accettare, un po' come il fatto che Blanco deve stare lontano dai fiori.
-
-Ma visto che nelle call ci si scambia spesso **informazioni vitali**, ho cercato di definire il **processo migliore** per non perdere queste informazioni.
-
-Senza passare ore a trascrivere registrazioni, oppure non ascoltare chi ti sta parlando.
-
-Ed il processo richiede solo tre cose:
-
-*   Un database;
-*   Una piccola automazione;
-*   Un semplice template.
-
-Il tool che utilizzo, come forse saprai, è Notion ma una cosa simile si può mettere in piedi anche su altri tool (con le dovute differenze).
+Solo che poi ho notato sempre di più alcuni problemi.
 
 <br>
 
-### **UN DATABASE**
+## **IL TOOL CHE TOGLIE ALTRI TOOL**
 
-Questo è la prima cosa di cui hai bisogno: un **database dove raccogliere tutti gli appunti**.
+L'esperienza di lettura su **Instapaper** è fantastica, non prendiamoci in giro.
 
-E puoi chiamarlo "meeting notes" oppure in altri modi, decidi tu.
+Sembra di leggere un libro, anche se stai leggendo dallo schermo di un PC.
 
-Una cosa importante che devi considerare però è la complessità di questo database ed il **numero di informazioni che conterrà**.
+Ma col passare del tempo, Instapaper ha mostrato sempre più **carenze** e non trovavo altri tool che riuscissero a soddisfare le mie esigenze:
+-   Volevo un tool integrato con Readwise;
+-   Volevo un tool in cui poter leggere libri, tweet, PDF e tutti gli altri formati di contenuti che mi possono interessare;
+-    Volevo un tool che mi permettesse anche di sottolineare dal web.
 
-Se fai tante call e ci tieni ad avere database puliti, allora conviene che questo sia un database in cui salvi solo i meeting notes.
+E per mia estrema gioia, qualche mese fa, ho trovato proprio quello di cui avevo bisogno.
 
-Se invece preferisci avere meno database sul tuo workspace, allora puoi integrare i meeting notes in altri database.
-
-Ad esempio, per le call di [Notion Builders]([https://www.notionbuilders.it]\(https://www.notionbuilders.it/\)), Beatrice ed io salviamo i meeting notes in un database chiamato Documents.
-
-Ed in questo database ci finiscono non solo i meeting notes ma anche altre informazioni.
-
-Inoltre, a questo database, è collegato il **database CRM**, quello dei **progetti** e quello dei **task**: in questo modo ogni informazione è in rete con le altre, è accessibile da più punti.
-
-Insomma, ad ogni call che facciamo corrisponde una pagina nel database Documents, taggata come Meeting Notes e con al suo interno la possibilità di assegnare clienti, progetti e task.
-
-Una possibilità che può essere **automatica** oppure no, dipende da te.
-
-Noi abbiamo scelto di renderla automatica.
+Si chiama **Readwise Reader**.
 
 <br>
 
-### **UNA PICCOLA AUTOMAZIONE**
+### **UN TOOL INTEGRATO CON READWISE**
 
-Questo è un punto interessante.
+Diciamoci la verità, questo era il minimo indispensabile.
 
-Perché non è necessario: non tutto deve per forza essere reso automatico.
+Se Readwise, crea un prodotto che faccia da lettore e **Read It Later**, il minimo che ti aspetti è che sia integrato con Readwise.
 
-Noi però abbiamo deciso di renderlo tale.
+E infatti così è.
 
-Quindi, abbiamo costruito una **piccola automazione su Make** che fa queste cose qui:
+E questa **integrazione funziona benissimo**.
 
-*   quando un nuovo evento viene creato sul Calendar delle call di Notion Builders parte l'automazione;
-*   Make recupare le informazioni da questa call e crea una pagina all'interno del database Documents;
-*   Make darà alla pagina lo stesso titolo dell'evento;
-*   nel caso in cui sia presente, Make associa a quella pagina la persona del CRM con cui faremo la call;
-*   nel caso In cui non sia presente, Make crea quella persona nel database CRM;
-*   alla creazione di una voce nel CRM, Notion associa un progetto standard a quella voce e a sua volta determinati task.
+Basta salvare un contenuto, un libro, un pdf, qualsiasi cosa su Readwise Reader, cominciare a leggere, sottolineare cose e potrai vedere la magia.
 
-La cosa potrebbe andare avanti ancora e ancora, ma Beatrice ed io non ne abbiamo bisogno.
-
-E magari non ne hai bisogno neanche tu.
-
-È tutta roba che ti fa **risparmiare un bel po' di tempo**, ma è anche **complessa**.
+In poco tempo troverai sul tuo Notion, Obsidian (o qualsiasi altro tool) i tuoi highlights e potrai farci cose.
 
 <br>
 
-### **IL TEMPLATE MEETING NOTES**
+### **UN TOOL DI LETTURA COMPLETO**
 
-Questa cosa ti serve invece.
+Bisogna ammettere una cosa, sul primo punto anche Instapaper era più che soddisfacente.
 
-Così come il database, è obbligatoria.
+È questo secondo punto che ha avuto davvero impatto sulla mia scelta.
 
-Altrimenti come li prendi appunti? Senza struttura?
+Si, perché su Instapaper c'erano alcuni **contenuti** che proprio non riuscivi a salvare.
 
-Non mi sembra il caso, dai.
+I tweet, i video di YouTube ecc.
 
-Il punto di questo template è poter inserire con facilità le **informazioni più importanti riguardo la call**, le cose che poi serviranno per le **prossime azioni**.
+E questo è un problema, perché per risolverlo era necessario **salvare i contenuti all'interno della stessa app oppure su Notion**.
 
-E quindi spetta a te delineare la struttura e capire cosa inserire nei tuoi appunti.
+Con la prima opzione però non potevi comunque farci nulla, nella seconda opzione invece potevi lavorarci ma in poco tempo ti ritrovavi con una **Inbox infinita**.
 
-Sono gentile però e quindi ecco la struttura del nostro template:
+Con Readwise Reader è tutto **risolto**.
 
-*   **Meeting agenda**: un campo con tutte le cose che bisogna trattare nel corso della call ed il sistema su Notion fa in modo che questo campo sia già popolato;
-*   **Next actions**: i prossimi passi da mettere in atto, emergono nel corso della call;
-*   **Meeting precedenti**: una vista filtrata degli appunti delle call precedenti con la stessa persona ed eventuali registrazioni;
+Puoi importare i contenuti in diversi modi e non ci sono limiti al tipo di contenuti.
+
+Puoi salvare i video di **YouTube**? 
+
+Si, puoi farlo e Readwise Reader provvede addirittura a fartene una **trascrizione automatica**.
+
+Puoi salvare i post di **LinkedIn** o **Twitter**?
+
+Si e l'operazione è **immediata**.
+
+Poi vai su Readwise, leggi, sottolinei e in poco tempo le tue note finiscono sul tool di knowledge management che hai scelto.
+
+Questa cosa è una **bomba**, ora non devo utilizzare più Notion come bacino di salvataggio di cose che mi attirano ma che poi, una volta finite in Inbox, non leggerò mai.
+
+Ora posso utilizzare **Readwise Reader come Read it Later** e **Notion** (in combinazione con Obsidian) **per gestire le informazioni**!
 
 <br>
 
-Spero di essere stato chiaro e di averti fatto capire due cose in particolare: la **facilità** di poter creare un sistema del genere e la sua **flessibilità**.
+### **UN TOOL PER SOTTOLINEARE DAL WEB**
 
-Perché penso che su quanto sia **necessario** siamo tutti d'accordo, no?
+Questo è un punto un po' da viziati, lo riconosco.
 
-E detto questo, buona settimana e beccati le **risorse**.
+Il fatto è che certe volte non voglio cambiare contesto, trovo un articolo interessante e lo voglio leggere lì, subito, senza posticipare.
+
+E anche in questo caso Readwise Reader mi aiuta.
+
+Salvo il contenuto su Readwise Reader e poi mi basta **evidenziare le parti di contenuto che mi interessano per poterle sottolineare**, proprio come fossi su Readwise, solo che sono sull'articolo stesso.
+
+Non mi sono spostato e non ho cambiato contesto: **concentrazione fissa**.
+
+<br>
+
+Come potrai intuire, Readwise Reader è davvero una bomba e ne sono un grande fan.
+
+L'unico problema è che richiede l'utilizzo di Readwise, se vuoi sfruttare la possibilità di salvataggio degli highlights sul tuo tool di knowledge management preferito.
+
+Io lo faccio e ne sono più che soddisfatto.
+
+Perché diciamoci la verità, viviamo in un mondo di contenuti e il **modo migliore per produrre cose di qualità è quello di consumare cose di qualità**.
+
+Ma se le perdi per strada, non potrai mai coglierne il potenziale completo.
+
+Ah, considera inoltre che al momento **Readwise Reader è in beta**!
+
+Questo significa che, al netto di qualche piccolo bug, quello che ti ho detto oggi è solo l'inizio.
+
+Se vuoi provarlo, qui trovi il link di affiliazione, così puoi provare Readwise per un mese gratis.
+
+Magari poi li puoi utilizzare per salvare questa newsletter, oppure per salvare il mio primo tutorial su Notion, no?
+
+Lo trovi su Youtube, ti basta cliccare il pulsante qui sotto!
+
+E per oggi è tutto, buona settimana e beccati le risorse.
 
 Daniele
