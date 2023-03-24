@@ -328,142 +328,143 @@ slug: 'youtube:-guida-per-creator-sprovveduti'
 ---
 Ehi ciao 👋,
 
-questo è il numero 30 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 312 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti racconterò di **come gestisco i meeting notes**.
+E oggi ti racconterò dei **3 errori che ho fatto nel creare il mio primo video su Youtube**.
 
-***
+--------------
+## TL;DR
+- Youtube: guida per creator sprovveduti;
+- Una risorsa per la tua audience building;
+- Una risorsa per la tua produttività;
+- Una risorsa per la tua monetization.
+---------------
 
-**TL;DR**
 
-*   Il tool che toglie altri tool
+Ok, come (spero) avrai saputo, ho pubblicato da qualche giorno il [mio primo video su Youtube](https://www.youtube.com/watch?v=tZnICTt7ogo).
 
-*   Una risorsa per la tua audience building
+Diciamoci la verità, era necessario.
 
-*   Una risorsa per la tua produttività
+Perché i **tutorial su Notion** sono difficili da scrivere (e da leggere), è molto meglio mostrare certe cose in **video**.
 
-*   Una risorsa per la tua monetization
+Inoltre, con Youtube, posso andare a risolvere un piccolo problema riguardo il mio **creator funnel**.
 
-**Il tempo di lettura previsto è:** 3 minuti e 30.
+Ma questo non è il punto della newsletter di oggi.
 
-***
+Oggi ti voglio raccontare di **3 cose a cui dovresti fare attenzione nella creazione del tuo primo video su Youtube**.
 
-Uno dei problemi che più mi ha rovinato la psiche nel corso degli anni è la gestione delle cose da leggere.
 
-Nel corso di una giornata normale, **leggo parecchio** e cerco di salvare alcune informazioni nella forma di highlights e note varie.
+## **YOUTUBE: GUIDA PER CREATOR SPROVVEDUTI**
 
-Inoltre, utilizzo spesso **LinkedIn** e **Twitter** e lì spesso incontri dei contenuti interessanti.
+Sono sempre stato del parere che fatto è meglio che perfetto.
 
-Io salvo quei contenuti e vorrei magari sottolinearli, farci cose.
+Per questo, quando qualche settimana fa ho deciso di cominciare a pubblicare video su YouTube, mi sono buttato abbastanza "a caso".
 
-Fino a qualche mese fa utilizzavo Instapaper per le funzioni di Read it Later e devo dire che mi trovavo bene.
+Ho comprato un po' della strumentazione necessaria, ho preparato uno script e mi ho registrato.
 
-Solo che poi ho notato sempre di più alcuni problemi.
+L'idea su cosa pubblicare già c'era (LinkedIn mi aveva aiutato), un po' di competenze nel montaggio video le ho e nel corso di una giornata ho pubblicato il primo video.
 
-<br>
+Ora, ovviamente, questo primo video non è perfetto, anzi.
 
-## **IL TOOL CHE TOGLIE ALTRI TOOL**
+Ci sono state delle sbavature nel processo di creazione e alcune erano previste, altre no:
+- devi fare una ricerca, una che non fai per la newsletter;
+- fai attenzione allo script;
+- Youtube non si fida. 
 
-L'esperienza di lettura su **Instapaper** è fantastica, non prendiamoci in giro.
 
-Sembra di leggere un libro, anche se stai leggendo dallo schermo di un PC.
+### **DEVI FARE UNA RICERCA, UNA CHE NON FAI PER LA NEWSLETTER**
 
-Ma col passare del tempo, Instapaper ha mostrato sempre più **carenze** e non trovavo altri tool che riuscissero a soddisfare le mie esigenze:
+Questo è il punto più importante.
 
-*   Volevo un tool integrato con Readwise;
-*   Volevo un tool in cui poter leggere libri, tweet, PDF e tutti gli altri formati di contenuti che mi possono interessare;
-*   Volevo un tool che mi permettesse anche di sottolineare dal web.
+E quello che non avevo proprio ipotizzato.
 
-E per mia estrema gioia, qualche mese fa, ho trovato proprio quello di cui avevo bisogno.
+Il fatto è che i **video su YouTube non sono come le newsletter**.
 
-Si chiama **Readwise Reader**.
+C'è un tipo di ricerca che non è necessario fare per le newsletter e che invece è fondamentale per i video su YouTube.
 
-<br>
+Pensaci, come fai a vedere un video su YouTube?
 
-### **UN TOOL INTEGRATO CON READWISE**
+Vai sulla piattaforma, cerchi quello che ti interessa, il motore di ricerca ti propone una lista di risposte e tu scegli quella che più ti aggrada.
 
-Diciamoci la verità, questo era il minimo indispensabile.
+E come fa un video ad avere un posizionamento in quella lista?
 
-Se Readwise, crea un prodotto che faccia da lettore e **Read It Later**, il minimo che ti aspetti è che sia integrato con Readwise.
+Perché, proprio come con la SEO di Google, vuoi che il tuo video finisca ai primi posti di quella lista, così le persone lo vedranno ecc.
 
-E infatti così è.
+E proprio come con la SEO di Google, devi creare il contenuto in modo tale che **rispetti i criteri di posizionamento previsti dall'algoritmo di YouTube**.
 
-E questa **integrazione funziona benissimo**.
+Quindi, devi fare una **keyword research**, devi dire le parole giuste nel corso del video, utilizzare gli **hashtag** adatti nella descrizione del contenuto e tante altre cose del genere.
 
-Basta salvare un contenuto, un libro, un pdf, qualsiasi cosa su Readwise Reader, cominciare a leggere, sottolineare cose e potrai vedere la magia.
+Se non lo fai, il video avrà poche probabilità di finire nella prima pagina di YouTube.
 
-In poco tempo troverai sul tuo Notion, Obsidian (o qualsiasi altro tool) i tuoi highlights e potrai farci cose.
+Insomma, non è come una newsletter.
 
-<br>
+Alle mie newsletter ci accedono le persone che arrivano da LinkedIn (e da Youtube), il traffico è pilotato e non richiede ricerca.
 
-### **UN TOOL DI LETTURA COMPLETO**
+Più attenzione porto da LinkedIn (o Youtube) e più lettori (o iscritti) ci saranno alla newsletter.
 
-Bisogna ammettere una cosa, sul primo punto anche Instapaper era più che soddisfacente.
+Insomma, è una bella differenza.
 
-È questo secondo punto che ha avuto davvero impatto sulla mia scelta.
+### **FAI ATTENZIONE ALLO SCRIPT**
 
-Si, perché su Instapaper c'erano alcuni **contenuti** che proprio non riuscivi a salvare.
+Questo punto invece sapevo che era necessario, ma non pensavo avrebbe creato tanti problemi.
 
-I tweet, i video di YouTube ecc.
+Mi aspettavo che **creare lo script** del primo video fosse più facile: mi bastava un elenco di punti che facesse da canovaccio per andare spedito.
 
-E questo è un problema, perché per risolverlo era necessario **salvare i contenuti all'interno della stessa app oppure su Notion**.
+Sbagliato.
 
-Con la prima opzione però non potevi comunque farci nulla, nella seconda opzione invece potevi lavorarci ma in poco tempo ti ritrovavi con una **Inbox infinita**.
+Con uno script così strutturato, **ho provato a registrare il video per 4-5 volte e non ho avuto successo**.
 
-Con Readwise Reader è tutto **risolto**.
+Poi ho capito che era meglio **scrivere in dettaglio** cosa avevo intenzione di dire, l'ho fatto ed ho registrato.
 
-Puoi importare i contenuti in diversi modi e non ci sono limiti al tipo di contenuti.
+Ma ho **fallito** di nuovo.
 
-Puoi salvare i video di **YouTube**?
+Perché questa volta non ricordavo cosa dovevo dire e mi perdevo.
 
-Si, puoi farlo e Readwise Reader provvede addirittura a fartene una **trascrizione automatica**.
+Quindi ho riletto lo script e l'ho **capito**, l'ho reso parte del mio discorso senza recitarlo a memoria (o leggerlo) e le cose sono andate meglio.
 
-Puoi salvare i post di **LinkedIn** o **Twitter**?
+Insomma, ho scritto lo script in dettaglio ma l'ho utilizzato quasi a braccio: un mix efficace.
 
-Si e l'operazione è **immediata**.
+### **YOUTUBE NON SI FIDA**
 
-Poi vai su Readwise, leggi, sottolinei e in poco tempo le tue note finiscono sul tool di knowledge management che hai scelto.
+Di questa cosa non ne avevo manco idea.
 
-Questa cosa è una **bomba**, ora non devo utilizzare più Notion come bacino di salvataggio di cose che mi attirano ma che poi, una volta finite in Inbox, non leggerò mai.
+Ho registrato e montato il video nel corso della stessa giornata, perchè mi sono ridotto all'ultimo con la deadline che mi ero posto: alle 18 il video doveva uscire.
 
-Ora posso utilizzare **Readwise Reader come Read it Later** e **Notion** (in combinazione con Obsidian) **per gestire le informazioni**!
+E alle 17.45 vedo con orgoglio che la terza esportazione del video era andata bene.
 
-<br>
+Apro YouTube e comincio a caricare il video, scrivere la descrizione e al suo interno inserire i link vari.
 
-### **UN TOOL PER SOTTOLINEARE DAL WEB**
+Ma ecco che arriva il primo stop.
 
-Questo è un punto un po' da viziati, lo riconosco.
+Per caricare un video più lungo di 10 minuti serve la **verifica dell'indirizzo e-mail**.
 
-Il fatto è che certe volte non voglio cambiare contesto, trovo un articolo interessante e lo voglio leggere lì, subito, senza posticipare.
+Ok, verifichiamola.
 
-E anche in questo caso Readwise Reader mi aiuta.
+Procedo con l'inserire i link, ma **Youtube mi ferma di nuovo**: per poter inserire i link devo aver verificato la mia identità.
 
-Salvo il contenuto su Readwise Reader e poi mi basta **evidenziare le parti di contenuto che mi interessano per poterle sottolineare**, proprio come fossi su Readwise, solo che sono sull'articolo stesso.
+Posso farlo via telefono, ma parlo a telefono solo quando ordino qualcosa fuori.
 
-Non mi sono spostato e non ho cambiato contesto: **concentrazione fissa**.
+Posso farlo caricando una foto del mio documento d'identità, ma non so manco dove sia.
 
-<br>
+Posso farlo con un'altra opzione che non ricordo, ma che era altrettanto improbabile.
 
-Come potrai intuire, Readwise Reader è davvero una bomba e ne sono un grande fan.
+Quindi che faccio?
 
-L'unico problema è che richiede l'utilizzo di Readwise, se vuoi sfruttare la possibilità di salvataggio degli highlights sul tuo tool di knowledge management preferito.
+Non inserisco link, sono le 18 e il video devo uscire, li inserirò in un secondo momento.
 
-Io lo faccio e ne sono più che soddisfatto.
+E ovviamente quel secondo momento è arrivato dopo 4-5 giorni.
 
-Perché diciamoci la verità, viviamo in un mondo di contenuti e il **modo migliore per produrre cose di qualità è quello di consumare cose di qualità**.
 
-Ma se le perdi per strada, non potrai mai coglierne il potenziale completo.
 
-Ah, considera inoltre che al momento **Readwise Reader è in beta**!
+Insomma, come puoi vedere la creazione di un contenuto dipende molto dalla piattaforma che scegli.
 
-Questo significa che, al netto di qualche piccolo bug, quello che ti ho detto oggi è solo l'inizio.
+E si, lo so che è un'ovvietà.
 
-Se vuoi provarlo, qui trovi il link di affiliazione, così puoi provare Readwise per un mese gratis.
+Ma fino a quando non ci sbatti la faccia, non te ne rendi mai conto per davvero.
 
-Magari poi li puoi utilizzare per salvare questa newsletter, oppure per salvare il mio primo tutorial su Notion, no?
+Spero che con questa newsletter però, ti risparmi questi errori e tu possa farne tesoro.
 
-Lo trovi su [Youtube](https://youtu.be/tZnICTt7ogo), oppure qui in basso!
-
-E per oggi è tutto, buona settimana e beccati le risorse.
+E direi che per oggi è tutto, buona settimana e **beccati le risorse**.
 
 Daniele
+
