@@ -334,7 +334,7 @@ E oggi ti racconterò dei **3 errori che ho fatto nel creare il mio primo video 
 
 ***
 
-**TL;DR**
+### **TL;DR**
 
 *   Youtube: guida per creator sprovveduti;
 *   Una risorsa per la tua audience building;
