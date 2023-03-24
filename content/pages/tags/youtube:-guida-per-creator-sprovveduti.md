@@ -334,7 +334,7 @@ Oggi ti voglio raccontare di **3 cose a cui dovresti fare attenzione nella creaz
 
 ## **YOUTUBE: GUIDA PER CREATOR SPROVVEDUTI**
 
-Sono sempre stato del parere che fatto è meglio che perfetto.
+Sono sempre stato del parere che **fatto è meglio che perfetto**.
 
 Per questo, quando qualche settimana fa ho deciso di cominciare a pubblicare video su YouTube, mi sono buttato abbastanza "a caso".
 
@@ -346,8 +346,8 @@ Ora, ovviamente, questo primo video non è perfetto, anzi.
 
 Ci sono state delle sbavature nel processo di creazione e alcune erano previste, altre no:
 
-*   devi fare una ricerca, una che non fai per la newsletter;
-*   fai attenzione allo script;
+*   Youtube e newsletter sono due cose diverse;
+*   gli script sono infami;
 *   Youtube non si fida.
 
 <br>
