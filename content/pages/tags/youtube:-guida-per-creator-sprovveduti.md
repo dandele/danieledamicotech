@@ -357,6 +357,8 @@ Ma questo non è il punto della newsletter di oggi.
 
 Oggi ti voglio raccontare di **3 cose a cui dovresti fare attenzione nella creazione del tuo primo video su Youtube**.
 
+<br>
+
 ## **YOUTUBE: GUIDA PER CREATOR SPROVVEDUTI**
 
 Sono sempre stato del parere che fatto è meglio che perfetto.
@@ -374,6 +376,8 @@ Ci sono state delle sbavature nel processo di creazione e alcune erano previste,
 *   devi fare una ricerca, una che non fai per la newsletter;
 *   fai attenzione allo script;
 *   Youtube non si fida.
+
+<br>
 
 ### **DEVI FARE UNA RICERCA, UNA CHE NON FAI PER LA NEWSLETTER**
 
@@ -407,6 +411,8 @@ Più attenzione porto da LinkedIn (o Youtube) e più lettori (o iscritti) ci sar
 
 Insomma, è una bella differenza.
 
+<br>
+
 ### **FAI ATTENZIONE ALLO SCRIPT**
 
 Questo punto invece sapevo che era necessario, ma non pensavo avrebbe creato tanti problemi.
@@ -426,6 +432,8 @@ Perché questa volta non ricordavo cosa dovevo dire e mi perdevo.
 Quindi ho riletto lo script e l'ho **capito**, l'ho reso parte del mio discorso senza recitarlo a memoria (o leggerlo) e le cose sono andate meglio.
 
 Insomma, ho scritto lo script in dettaglio ma l'ho utilizzato quasi a braccio: un mix efficace.
+
+<br>
 
 ### **YOUTUBE NON SI FIDA**
 
@@ -456,6 +464,8 @@ Quindi che faccio?
 Non inserisco link, sono le 18 e il video devo uscire, li inserirò in un secondo momento.
 
 E ovviamente quel secondo momento è arrivato dopo 4-5 giorni.
+
+<br>
 
 Insomma, come puoi vedere la creazione di un contenuto dipende molto dalla piattaforma che scegli.
 
