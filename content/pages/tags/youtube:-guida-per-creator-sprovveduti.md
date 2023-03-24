@@ -332,14 +332,13 @@ questo è il numero 312 del **Kit di Sopravvivenza per Creator**.
 
 E oggi ti racconterò dei **3 errori che ho fatto nel creare il mio primo video su Youtube**.
 
---------------
+***
 ## TL;DR
-- Youtube: guida per creator sprovveduti;
-- Una risorsa per la tua audience building;
-- Una risorsa per la tua produttività;
-- Una risorsa per la tua monetization.
----------------
-
+*   Youtube: guida per creator sprovveduti;
+*   Una risorsa per la tua audience building;
+*   Una risorsa per la tua produttività;
+*   Una risorsa per la tua monetization.
+***
 
 Ok, come (spero) avrai saputo, ho pubblicato da qualche giorno il [mio primo video su Youtube](https://www.youtube.com/watch?v=tZnICTt7ogo).
 
@@ -352,7 +351,6 @@ Inoltre, con Youtube, posso andare a risolvere un piccolo problema riguardo il m
 Ma questo non è il punto della newsletter di oggi.
 
 Oggi ti voglio raccontare di **3 cose a cui dovresti fare attenzione nella creazione del tuo primo video su Youtube**.
-
 
 ## **YOUTUBE: GUIDA PER CREATOR SPROVVEDUTI**
 
@@ -367,10 +365,10 @@ L'idea su cosa pubblicare già c'era (LinkedIn mi aveva aiutato), un po' di comp
 Ora, ovviamente, questo primo video non è perfetto, anzi.
 
 Ci sono state delle sbavature nel processo di creazione e alcune erano previste, altre no:
-- devi fare una ricerca, una che non fai per la newsletter;
-- fai attenzione allo script;
-- Youtube non si fida. 
 
+*   devi fare una ricerca, una che non fai per la newsletter;
+*   fai attenzione allo script;
+*   Youtube non si fida.
 
 ### **DEVI FARE UNA RICERCA, UNA CHE NON FAI PER LA NEWSLETTER**
 
@@ -454,8 +452,6 @@ Non inserisco link, sono le 18 e il video devo uscire, li inserirò in un second
 
 E ovviamente quel secondo momento è arrivato dopo 4-5 giorni.
 
-
-
 Insomma, come puoi vedere la creazione di un contenuto dipende molto dalla piattaforma che scegli.
 
 E si, lo so che è un'ovvietà.
@@ -467,4 +463,3 @@ Spero che con questa newsletter però, ti risparmi questi errori e tu possa farn
 E direi che per oggi è tutto, buona settimana e **beccati le risorse**.
 
 Daniele
-
