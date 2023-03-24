@@ -332,13 +332,16 @@ questo è il numero 312 del **Kit di Sopravvivenza per Creator**.
 
 E oggi ti racconterò dei **3 errori che ho fatto nel creare il mio primo video su Youtube**.
 
-***
+---
+
 ## TL;DR
+
 *   Youtube: guida per creator sprovveduti;
 *   Una risorsa per la tua audience building;
 *   Una risorsa per la tua produttività;
 *   Una risorsa per la tua monetization.
-***
+
+---
 
 Ok, come (spero) avrai saputo, ho pubblicato da qualche giorno il [mio primo video su Youtube](https://www.youtube.com/watch?v=tZnICTt7ogo).
 
