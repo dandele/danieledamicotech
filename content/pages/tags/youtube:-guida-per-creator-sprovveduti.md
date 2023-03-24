@@ -178,7 +178,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #31: youtube, guida per creator..."
 colors: colors-a
 date: '2023-03-26'
-description: sprovveduti!
+description: SPROVVEDUTI!
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image

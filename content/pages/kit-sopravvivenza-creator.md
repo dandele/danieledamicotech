@@ -188,5 +188,6 @@ sections:
       - content/pages/tags/da-creator-a-notion-builders.md
       - content/pages/tags/meeting-notes-efficaci.md
       - content/pages/tags/il-tool-che-toglie-altri-tool.md
+      - 'content/pages/tags/youtube:-guida-per-creator-sprovveduti.md'
 metaTitle: Kit di Sopravvivenza per Creator
 ---
