@@ -307,7 +307,6 @@ E oggi ti racconterò dei **3 errori che ho fatto nel creare il mio primo video 
 
 <br>
 
-***
 
 ### **TL;DR**
 
@@ -318,7 +317,7 @@ E oggi ti racconterò dei **3 errori che ho fatto nel creare il mio primo video 
 
 Il **tempo di lettura** è di 4 minuti.
 
----
+***
 
 <br>
 
