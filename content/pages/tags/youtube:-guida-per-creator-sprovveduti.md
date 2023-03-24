@@ -201,33 +201,6 @@ bottomSections:
           - pr-4
         justifyContent: center
         borderWidth: 1
-  - type: TextSection
-    colors: colors-f
-    elementId: ''
-    variant: variant-a
-    text: >+
-      <iframe width="1000" height="600" margin="auto"
-      src="https://www.youtube.com/embed/tZnICTt7ogo" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen
-      />
-
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
