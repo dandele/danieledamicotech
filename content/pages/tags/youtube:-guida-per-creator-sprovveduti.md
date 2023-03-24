@@ -341,6 +341,8 @@ E oggi ti racconterò dei **3 errori che ho fatto nel creare il mio primo video 
 *   Una risorsa per la tua produttività;
 *   Una risorsa per la tua monetization.
 
+Il **tempo di lettura** è di 4 minuti.
+
 ***
 
 Ok, come (spero) avrai saputo, ho pubblicato da qualche giorno il [mio primo video su Youtube](https://www.youtube.com/watch?v=tZnICTt7ogo).
