@@ -322,7 +322,7 @@ Ok, come (spero) avrai saputo, ho pubblicato da qualche giorno il [mio primo vid
 
 Diciamoci la verità, era necessario.
 
-Perché i **tutorial su Notion** sono difficili da scrivere (e da leggere), è molto meglio mostrare certe cose in **video**.
+I **tutorial su Notion** sono difficili da scrivere (e da leggere), è molto meglio mostrare certe cose in **video**.
 
 Inoltre, con Youtube, posso andare a risolvere un piccolo problema riguardo il mio **creator funnel**.
 
