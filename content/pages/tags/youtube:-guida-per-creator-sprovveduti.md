@@ -307,6 +307,7 @@ E oggi ti racconterò dei **3 errori che ho fatto nel creare il mio primo video 
 
 <br>
 
+---
 
 ### **TL;DR**
 
