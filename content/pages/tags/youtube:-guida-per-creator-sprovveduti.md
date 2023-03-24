@@ -305,6 +305,8 @@ questo è il numero 312 del **Kit di Sopravvivenza per Creator**.
 
 E oggi ti racconterò dei **3 errori che ho fatto nel creare il mio primo video su Youtube**.
 
+<br>
+
 ***
 
 ### **TL;DR**
@@ -317,6 +319,7 @@ E oggi ti racconterò dei **3 errori che ho fatto nel creare il mio primo video 
 Il **tempo di lettura** è di 4 minuti.
 
 ***
+<br>
 
 Ok, come (spero) avrai saputo, ho pubblicato da qualche giorno il [mio primo video su Youtube](https://www.youtube.com/watch?v=tZnICTt7ogo).
 
