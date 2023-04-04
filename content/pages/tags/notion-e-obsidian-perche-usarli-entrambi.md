@@ -178,7 +178,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #26: Notion e Obsidian..."
 colors: colors-a
 date: '2023-04-02'
-description: DIMMI DELLE COSE
+description: PERCHÈ USARLI ENTRAMBI?
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
