@@ -177,7 +177,7 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #26: Ma tu che te ne intendi di Notion..."
 colors: colors-a
-date: '2023-02-12'
+date: '2023-04-02'
 description: DIMMI DELLE COSE
 featuredImage:
   type: ImageBlock
