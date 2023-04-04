@@ -226,13 +226,12 @@ bottomSections:
     variant: variant-a
     title: The Section Title
     subtitle: The section subtitle
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/RcgZ6SUtT9M" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
     styles:
       self:
         height: auto
