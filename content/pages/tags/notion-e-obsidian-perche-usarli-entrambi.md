@@ -193,7 +193,7 @@ bottomSections:
     elementId: ''
     backgroundSize: full
     actions:
-      - label: "FACCIAMO 4 CHIACCHIERE \U0001F680"
+      - label: E SE NOTION SPARISSE?
         altText: ''
         showIcon: true
         icon: arrowRight
