@@ -322,7 +322,7 @@ Ehi ciao 👋,
 
 questo è il numero 32 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti racconterò **perché utilizzo sia Notion che Obsidian**. 
+E oggi ti racconterò **perché utilizzo sia Notion che Obsidian**.
 
 ***
 
@@ -354,16 +354,19 @@ Anzi, la verità è che utilizzo **sia Notion che Obsidian**.
 
 Ed oggi ti spiegheró perché.
 
+<br>
 
 ## **NOTION E OBSIDIAN, PERCHÈ USARLI ENTRAMBI?**
 
 E arriverò diretto al punto, senza troppi giri.
 
 I motivi per cui utilizzo sia Notion che Obsidian, sono 3:
-- Voglio che alcune informazioni siano immuni al futuro;
-- Se scrivi tanto, hai bisogno di uno strumento che ti renda piacevole scrivere;
-- I professionisti non utilizzano solo un martello, utilizzano un kit.
 
+*   Voglio che alcune informazioni siano immuni al futuro;
+*   Se scrivi tanto, hai bisogno di uno strumento che ti renda piacevole scrivere;
+*   I professionisti non utilizzano solo un martello, utilizzano un kit.
+
+<br>
 
 ### **INFORMAZIONI IMMUNI AL FUTURO**
 
@@ -389,6 +392,7 @@ Ma ci sono anche informazioni che devo condividere con altre persone, ci sono co
 
 E per questo tipo di utilizzo, Notion non ha rivali: è il tool che utilizzo per gestire i miei task, tutte le informazioni personali momentanee e utili alla collaborazione.
 
+<br>
 
 ### **SE SCRIVI TANTO, CONTA DOVE SCRIVI**
 
@@ -404,6 +408,7 @@ Il mio spazio su Notion, per quanto organizzato ed efficace, integra troppe dist
 
 Inoltre, Obsidian ha alcune **feature piccole e irrilevanti** che però si adattano in pieno alle mie esigenze di scrittura (ad esempio, mostra il numero di caratteri di un testo).
 
+<br>
 
 ### **I PROFESSIONISTI NON USANO UN MARTELLO, USANO UN KIT**
 
@@ -423,8 +428,7 @@ Proprio come faccio io con Notion e Obsidian, a seconda della mia necessità dec
 
 E con questo **approccio ibrido**, finora non ho mai beccato delusioni.
 
-
-
+<br>
 
 E quindi?
 
