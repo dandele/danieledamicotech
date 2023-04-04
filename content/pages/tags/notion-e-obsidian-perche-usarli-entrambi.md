@@ -225,7 +225,6 @@ bottomSections:
     elementId: ''
     variant: variant-a
     title: The Section Title
-    subtitle: The section subtitle
     text: >+
       <iframe width="100%" height="600"
       src="https://www.youtube.com/embed/RcgZ6SUtT9M" title="YouTube video
