@@ -442,7 +442,7 @@ Solo così potrai ottenere il massimo dal tool (o dai tool) che scegli.
 
 Proprio ieri, ho rilasciato un nuovo video YouTube che parla proprio di tool e cose interessanti.
 
-Se ti interessa la questione, dovresti dargli uno sguardo, ti basta cliccare sul pulsante qui sotto.
+Se ti interessa la questione, dovresti dargli uno sguardo, lo trovi qui sotto.
 
 E direi che per oggi è tutto, buona settimana e beccati le risorse.
 
