@@ -318,21 +318,17 @@ bottomSections:
         textAlign: center
 slug: notion-e-obsidian-perche-usarli-entrambi
 ---
-Non faccio il **commerciale di Notion**.
+Ehi ciao 👋,
 
-Ho fatto application per diventare **ambassador**, ma mi devono ancora far sapere.
+questo è il numero 32 del **Kit di Sopravvivenza per Creator**.
 
-Però devo essere sincero, spesso mi capita di consigliare l’utilizzo di Notion alle persone.
-
-E se leggi questa newsletter, è probabile che l’abbia consigliato anche a te.
-
-Forse pure più di una volta.
+E oggi ti racconterò **perché utilizzo sia Notion che Obsidian**. 
 
 ***
 
 **TL;DR**
 
-*   Ma tu che te ne intendi di Notion...
+*   Notion e Obsidian, perché usarli entrambi?
 
 *   Una risorsa per la tua audience building
 
@@ -344,143 +340,110 @@ Forse pure più di una volta.
 
 ***
 
-Ehi ciao 👋,
+Per anni ho cercato il tool perfetto, quello che mi permettesse di gestire tutto in un unico luogo.
 
-questo è il numero 26 del **Kit di Sopravvivenza per Creator**.
+E prima ancora di pensare che fosse **Notion**, ho pensato fosse **Roam Research**.
 
-Ed oggi risponderò **alle** **tre domande che mi fanno più spesso riguardo Notion.**
+Mi piaceva tutto di quel tool, dall'esperienza di utilizzo fino al tipo di pensiero che cercava di indirizzare.
 
+Poi peró ho provato per una seconda volta Notion ed è stato amore.
 
+Ma questo non significa che oggi Notion sia l'unico tool che utilizzo, non è affatto così.
 
-È una cosa che capita.
+Anzi, la verità è che utilizzo **sia Notion che Obsidian**.
 
-Quando hai un’agenzia che si chiama [**Notion Builders**](https://www.notionbuilders.it/), capita spesso che le persone ti chiedano cose su **Notion**.
+Ed oggi ti spiegheró perché.
 
-Non sono sempre cose tecniche e divertentI, eh.
 
-Non è che tutti ti chiedano, per esempio, di creare automazioni per l’invio di e-mail e la creazione di cartelle su Google Drive dopo una determinata azione su Notion.
+## **NOTION E OBSIDIAN, PERCHÈ USARLI ENTRAMBI?**
 
-Quando capitano certe domande, capisci che è una giornata buona e ti divertirai.
+E arriverò diretto al punto, senza troppi giri.
 
-Poi ci sono altri giorni in cui ti chiedono altro.
+I motivi per cui utilizzo sia Notion che Obsidian, sono 3:
+- Voglio che alcune informazioni siano immuni al futuro;
+- Se scrivi tanto, hai bisogno di uno strumento che ti renda piacevole scrivere;
+- I professionisti non utilizzano solo un martello, utilizzano un kit.
 
-E non accade solo con prospect o clienti, accade anche con persone che leggono quello che scrivo e quindi chiedono.
 
-Ci sta.
+### **INFORMAZIONI IMMUNI AL FUTURO**
 
-​
+Per questo punto, la questione è molto vicina alla **paranoia**.
 
-## **MA TU CHE TE NE INTENDI DI NOTION…**
+Il fatto è che **non tutte le informazioni sono uguali**, certe informazioni voglio che siano immuni al tempo, così da accedere ad esse anche tra anni e anni.
 
-La cosa interessante però è che **alcune domande sono fisse**, si ripetono.
+Altre invece hanno una priorità solo momentanea.
 
-Io, così come la mia socia Beatrice, ce le sentiamo fare almeno una volta a settimana.
+Le pagine di diario che scrivo ogni giorno?
 
-Ecco le 3 più gettonate.
+Voglio che queste pagine restino con me per anni.
 
-*   Ma Notion come gestisce la sicurezza dati?
+Ma se il tool in cui sono raccolte sparisse?
 
-*   Il mio team utilizza già tool X, possiamo utilizzarlo insieme a Notion?
+In tal caso le perderei, a meno che queste non siano salvate in locale.
 
-*   Possiamo usare Notion come un Crm/Task manager/Knowledge base/Sito web ?
+Ed è propio questo il primo motivo per cui utilizzo Obsidian che, a differenza di Notion, è disponibile offline e salva le informazioni in locale.
 
-E visto che sono così frequenti, ho deciso di non considerarle come delle domande ovvie.
+In pratica, le **informazioni sono al sicuro**.
 
-Ho deciso di dartene la **risposta**.
+Ma ci sono anche informazioni che devo condividere con altre persone, ci sono cose da costruire, database da sfruttare e magie da fare.
 
-​
+E per questo tipo di utilizzo, Notion non ha rivali: è il tool che utilizzo per gestire i miei task, tutte le informazioni personali momentanee e utili alla collaborazione.
 
-### **MA NOTION COME GESTISCE LA SICUREZZA DEI DATI?**
 
-Ok, questa sembra essere una grossa **preoccupazione** per tante persone.
+### **SE SCRIVI TANTO, CONTA DOVE SCRIVI**
 
-In tanti ci chiediamo **cosa faccia Notion dei nostri dati**.
+Qui emerge un po' di gusto personale.
 
-Ed è un dubbio lecito, eh.
+Perché scrivere su Notion non è affatto problematico, chiariamolo.
 
-Quando stai pensando di utilizzare Notion per gestire tutto il tuo business, ci sta che tu abbia dubbi del genere.
+Solo che ci sono alcune cose, quando si parla di scrittura, che **preferisco di gran lunga fare su Obsidian invece che su Notion**.
 
-Anche io, qualche tempo fa, mi feci la stessa domanda.
+Magari è solo una mia percezione, ma scrivere su Obsidian mi rilassa e mi permette di **concentrarmi al meglio proprio sulla scrittura**.
 
-Poi però ho fatto qualche ricerca online e non mi sono preoccupato più.
+Il mio spazio su Notion, per quanto organizzato ed efficace, integra troppe distrazioni e questo mi porterebbe di sicuro a perdere tempo.
 
-Si, perché quelli di Notion la **fissa per la sicurezza dei dati** ce l’hanno da un bel po’.
+Inoltre, Obsidian ha alcune **feature piccole e irrilevanti** che però si adattano in pieno alle mie esigenze di scrittura (ad esempio, mostra il numero di caratteri di un testo).
 
-E quindi hanno raccolto un bel po’ di certificazioni, [la più recente è la ISO 27001](https://www.notion.so/blog/were-iso-27001-compliant-heres-what-that-means-for-you).
 
-Attesta che i **sistemi informativi utilizzati da Notion siano sicuri e riservati**.
+### **I PROFESSIONISTI NON USANO UN MARTELLO, USANO UN KIT**
 
-In pratica, i tuoi dati sono al sicuro e restano segreti: sia che si tratti della tua lista della spesa che degli indirizzi e-mail dei tuoi clienti.
+Forse questo è il punto più importante.
 
-​
+È una cosa che ho capito qualche tempo fa e che mi ha liberato dal folle desiderio di trovare il singolo tool che potesse gestire tutte le mie esigenze.
 
-### **IL MIO TEAM USA GIÀ QUESTO TOOL, POSSIAMO USARLO INSIEME A NOTION?**
+Il fatto è che un tool di questo tipo, capace di gestire tutte le tue esigenze, **non esiste**.
 
-Quando ci fanno una domanda del genere io mi **emoziono**.
+E se anche Notion è il tool che più si avvicina alla cosa, questo comunque non lo rende tale.
 
-Perché nasconde **esigenze particolari**, quel tipo di esigenze che mi piace risolvere.
+Le esigenze delle persone cambiano nel tempo e sono fin troppo variegate per essere soddisfatte da un solo tool.
 
-La risposta è facile.
+Per questo, **hai bisogno di un kit di strumenti** da utilizzare a seconda delle tue esigenze.
 
-Notion è integrabile con **qualsiasi strumento tu stia utilizzando**.
+Proprio come faccio io con Notion e Obsidian, a seconda della mia necessità decido quale tool sia meglio utilizzare.
 
-Tra integrazioni già presenti su Notion, giochetti vari con Zapier/Make e utilizzo dell’API aperta è sicuro che qualche soluzione ci sia.
+E con questo **approccio ibrido**, finora non ho mai beccato delusioni.
 
-Per esempio, molti ci dicono di utilizzare **Trello** e noi gli diciamo che quello che ti permette di fare Trello, lo puoi fare anche su Notion.
 
-Certo, **Trello è più semplice da utilizzare**, su questo non c’è dubbio.
 
-Ma su Notion, oltre che poter giocare con le kanban board, puoi giocare con tante altre cose.
 
-Il solo problema è la capacità di costruzione, [ma per quello ci siamo noi](https://zcal.co/notionbuilders/quick-talk).
+E quindi?
 
-​
+Questo che significa?
 
-### **MA SI PUÒ USARE NOTION COME CRM/TASK MANAGER/KNOWLEDGE BASE/SITO WEB?**
+Che devi utilizzare Notion e Obsidian, insieme?
 
-Questa domanda è l’estensione naturale della precedente.
+No, per niente.
 
-La notizia che Notion è così flessibile colpisce le persone come una **folgorazione**.
+In realtà non so questo cosa significhi, cerco solo di condividere la mia esperienza e di aiutarti a farne tesoro.
 
-Vedi la loro espressione mutare, come se fossero sulla strada di Damasco e avessero appena ricevuto un altro tipo di rivelazione.
+Il punto è che **i tool sono solo strumenti** e prima di scegliere quello da utilizzare, ha senso capire bene le proprie **esigenze e obiettivi**.
 
-E quindi subito vogliono scendere nei **dettagli**.
+Solo così potrai ottenere il massimo dal tool (o dai tool) che scegli.
 
-“Ma si può usare come task manager?”.
+Proprio ieri, ho rilasciato un nuovo video YouTube che parla proprio di tool e cose interessanti.
 
-“Io ci vorrei fare un CRM”.
+Se ti interessa la questione, dovresti dargli uno sguardo, ti basta cliccare sul pulsante qui sotto.
 
-“Mi piacerebbe utilizzarlo come sito web”.
+E direi che per oggi è tutto, buona settimana e beccati le risorse.
 
-Hai capito la storia, dai.
-
-E indovina la riposta?
-
-**Si**, a tutte queste domande e tutte le altre che puoi immaginare.
-
-I **limiti tecnici dello strumento sono pochi** e spesso si possono aggirare grazie a determinate competenze.
-
-Il grande vantaggio di Notion è che puoi utilizzarlo per **cucire il tool più adatto alle tue esigenze.**
-
-Non dovrai più utilizzare una soluzione standardizzata e fatta senza tenere conto delle tue esigenze più particolari.
-
-Tutti preferiscono un **vestito cucito su misura**, no?
-
-​
-
-​
-
-Bene, direi che oggi ho fatto una cosa molto utile.
-
-Ora avrò qualcosa da girare a tutte le persone che mi faranno questa domanda in futuro.
-
-Sono convinto che ce ne saranno sempre più.
-
-Ma a parte questa **strategica pigrizia**, spero di aver chiarito dei dubbi anche in te che con tanta pazienza hai letto fin qui.
-
-Ma se hai altre domande sulla questione, non esitare a rispondere a questa e-mail.
-
-Oppure **facciamo una call**, senza impegno, ti lascio il **pulsante qui sotto**.
-
-E direi che per oggi è tutto, buona settimana e **beccati le risorse**.
-
+Daniele
