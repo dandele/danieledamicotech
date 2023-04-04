@@ -226,12 +226,13 @@ bottomSections:
     variant: variant-a
     title: The Section Title
     subtitle: The section subtitle
-    text: >-
-      <iframe width="560" height="315"
+    text: >+
+      <iframe width="auto" height="315"
       src="https://www.youtube.com/embed/RcgZ6SUtT9M" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen></iframe>
+
     styles:
       self:
         height: auto
