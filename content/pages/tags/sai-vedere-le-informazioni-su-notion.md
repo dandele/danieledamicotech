@@ -195,7 +195,7 @@ bottomSections:
     title: E se Notion sparisse?
     text: >+
       <iframe width="100%" height="600"
-      src="https://www.youtube.com/embed/RcgZ6SUtT9M" title="YouTube video
+      src="https://www.youtube.com/embed/6-oHPy3RMao" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen></iframe>
