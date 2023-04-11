@@ -190,5 +190,6 @@ sections:
       - content/pages/tags/il-tool-che-toglie-altri-tool.md
       - 'content/pages/tags/youtube:-guida-per-creator-sprovveduti.md'
       - content/pages/tags/notion-e-obsidian-perche-usarli-entrambi.md
+      - content/pages/tags/sai-vedere-le-informazioni-su-notion.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
