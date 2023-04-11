@@ -316,7 +316,7 @@ slug: sai-vedere-le-informazioni-su-notion
 ---
 Ehi ciao 👋,
 
-questo è il numero 32 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 33 del **Kit di Sopravvivenza per Creator**.
 
 E oggi ti racconterò **perché utilizzo sia Notion che Obsidian**.
 
@@ -332,13 +332,13 @@ E oggi ti racconterò **perché utilizzo sia Notion che Obsidian**.
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 4 minuti.
+**Il tempo di lettura previsto è:** 3 minuti.
 
 ***
 
 Ehi ciao 👋,
 
-questo è il numero 327 del Kit di Sopravvivenza per Creator.
+questo è il numero 33 del Kit di Sopravvivenza per Creator.
 
 E oggi ti mostrerò 3 modi per avere i grafici su Notion.
 
@@ -358,17 +358,19 @@ Oppure, utilizzare decine di strumenti diversi.
 
 ​
 
-3 MODI PER AVERE I GRAFICI SU NOTION
+# **3 MODI PER AVERE I GRAFICI SU NOTION**
+
 E arriviamo subito al sodo, oggi ti parlerò di 3 modi in cui puoi vedere i grafici su Notion.
 
-- Li puoi inserire:
-- Li puoi trasportare;
-- Li puoi creare.
+*   Li puoi inserire:
+*   Li puoi trasportare;
+*   Li puoi creare.
 
 Continua a leggere e vedrai (capita la battuta?).
 ​
 
-## SU NOTION PUOI INSERIRE I GRAFICI
+## **SU NOTION PUOI INSERIRE I GRAFICI**
+
 Questo è di sicuro il metodo più semplice.
 
 Tutto quello di cui hai bisogno per metterlo in pratica è il link di un grafico che vorresti su Notion.
@@ -381,9 +383,7 @@ Tutto quello che devi fare è copiare il link del grafico e spostarti su Notion,
 
 Incolli il link e poi clicchi sulla voce “embed” nel piccolo menù che si apre.
 
-
 Una volta che lo avrai fatto, avverrà la magia.
-
 
 Inoltre, considera che puoi utilizzare la funzione “embed” per inserire anche tanti tipi di contenuti presi dal web.
 
@@ -395,7 +395,8 @@ Insomma, una cosa parecchio utile.
 
 ​
 
-SU NOTION PUOI TRASPORTARE I GRAFICI
+## **SU NOTION PUOI TRASPORTARE I GRAFICI**
+
 Anche questa opzione è abbastanza semplice da implementare.
 
 Il meccanismo, infatti, è molto simile a quello del punto precedente, solo che devi fare qualcosa in più.
@@ -406,10 +407,10 @@ In particolare, c’è questo servizio che ti permette di prendere i dati dalle 
 
 In pratica, dopo aver inserito i dettagli del foglio Google e dopo aver personalizzato lo stile del grafico, potrai inserirlo dove vuoi su Notion, sempre tramite la funzione “embed”.
 
-
 ​
 
-SU NOTION PUOI CREARE I GRAFICI
+## **SU NOTION PUOI CREARE I GRAFICI**
+
 Questo è forse il metodo più difficile da mettere in pratica, ma è anche quello che ti darà più soddisfazioni.
 
 O almeno, è quello che vale per me.
@@ -424,16 +425,13 @@ Devo ammettere una cosa, la faccia che fanno i clienti di Notion Builders quando
 
 Ma al netto di questo, come si fanno ste flowchart?
 
-
 In realtà, basta poco per preparare la situazione.
 
 Tutto quello che devi fare è digitare “/” e poi scrivere “code”, tra le opzioni che vedrai comparire nel menù ci sarà anche “code - mermaid”, cliccaci e dovrai solo metterti a scrivere codice.
 
-
 Nel nuovo elemento che apparirà, infatti, dovrai cominciare a scrivere in codice mermaid le cose che vuoi vedere.
 
 Così arriverai al risultato desiderato.
-
 
 ​
 
