@@ -178,7 +178,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #33: Sai vedere le informazioni"
 colors: colors-a
 date: '2023-04-09'
-description: PERCHÈ USARLI ENTRAMBI?
+description: Su notion?
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
