@@ -324,7 +324,7 @@ E oggi ti racconterò **perché utilizzo sia Notion che Obsidian**.
 
 **TL;DR**
 
-*   Notion e Obsidian, perché usarli entrambi?
+*   3 modi per avere i grafici su Notion
 
 *   Una risorsa per la tua audience building
 
@@ -336,114 +336,121 @@ E oggi ti racconterò **perché utilizzo sia Notion che Obsidian**.
 
 ***
 
-Per anni ho cercato il tool perfetto, quello che mi permettesse di gestire tutto in un unico luogo.
+Ehi ciao 👋,
 
-E prima ancora di pensare che fosse **Notion**, ho pensato fosse **Roam Research**.
+questo è il numero 327 del Kit di Sopravvivenza per Creator.
 
-Mi piaceva tutto di quel tool, dall'esperienza di utilizzo fino al tipo di pensiero che cercava di indirizzare.
+E oggi ti mostrerò 3 modi per avere i grafici su Notion.
 
-Poi peró ho provato per una seconda volta Notion ed è stato amore.
+​
 
-Ma questo non significa che oggi Notion sia l'unico tool che utilizzo, non è affatto così.
+Una delle cose che più mi attira di Notion è la possibilità di utilizzarlo per raccogliere tutte le informazioni riguardo la tua vita digitale e non solo.
 
-Anzi, la verità è che utilizzo **sia Notion che Obsidian**.
+Puoi costruire il tuo Notion e renderlo il punto in cui ritrovare tutte le informazioni di cui hai bisogno.
 
-Ed oggi ti spiegheró perché.
+Sia quelle di tipo testuale che quelle di tipo visivo.
 
-<br>
+E, a dire il vero, c’è una cosa che in molti non sanno: su Notion puoi anche “vedere le informazioni”.
 
-## **NOTION E OBSIDIAN, PERCHÈ USARLI ENTRAMBI?**
+E non sapere una cosa del genere, significa utilizzare Notion ad un livello inferiore delle sue potenzialità.
 
-E arriverò diretto al punto, senza troppi giri.
+Oppure, utilizzare decine di strumenti diversi.
 
-I motivi per cui utilizzo sia Notion che Obsidian, sono 3:
+​
 
-*   Voglio che alcune informazioni siano immuni al futuro;
-*   Se scrivi tanto, hai bisogno di uno strumento che ti renda piacevole scrivere;
-*   I professionisti non utilizzano solo un martello, utilizzano un kit.
+3 MODI PER AVERE I GRAFICI SU NOTION
+E arriviamo subito al sodo, oggi ti parlerò di 3 modi in cui puoi vedere i grafici su Notion.
 
-<br>
+- Li puoi inserire:
+- Li puoi trasportare;
+- Li puoi creare.
 
-### **INFORMAZIONI IMMUNI AL FUTURO**
+Continua a leggere e vedrai (capita la battuta?).
+​
 
-Per questo punto, la questione è molto vicina alla **paranoia**.
+## SU NOTION PUOI INSERIRE I GRAFICI
+Questo è di sicuro il metodo più semplice.
 
-Il fatto è che **non tutte le informazioni sono uguali**, certe informazioni voglio che siano immuni al tempo, così da accedere ad esse anche tra anni e anni.
+Tutto quello di cui hai bisogno per metterlo in pratica è il link di un grafico che vorresti su Notion.
 
-Altre invece hanno una priorità solo momentanea.
+E poi dovrai utilizzare la funzione “embed” su Notion.
 
-Le pagine di diario che scrivo ogni giorno?
+Mettiamo il caso che hai un grafico su qualche foglio Excel, Google Sheet, oppure preso di qualche pagina web e vuoi utilizzarlo in un documento sul tuo Notion.
 
-Voglio che queste pagine restino con me per anni.
+Tutto quello che devi fare è copiare il link del grafico e spostarti su Notion, nel punto in cui vuoi vedere il grafico.
 
-Ma se il tool in cui sono raccolte sparisse?
+Incolli il link e poi clicchi sulla voce “embed” nel piccolo menù che si apre.
 
-In tal caso le perderei, a meno che queste non siano salvate in locale.
 
-Ed è propio questo il primo motivo per cui utilizzo Obsidian che, a differenza di Notion, è disponibile offline e salva le informazioni in locale.
+Una volta che lo avrai fatto, avverrà la magia.
 
-In pratica, le **informazioni sono al sicuro**.
 
-Ma ci sono anche informazioni che devo condividere con altre persone, ci sono cose da costruire, database da sfruttare e magie da fare.
+Inoltre, considera che puoi utilizzare la funzione “embed” per inserire anche tanti tipi di contenuti presi dal web.
 
-E per questo tipo di utilizzo, Notion non ha rivali: è il tool che utilizzo per gestire i miei task, tutte le informazioni personali momentanee e utili alla collaborazione.
+Per fartela semplice, se hai un link e vuoi che sia su Notion, copia il link e incollalo su Notion: vedrai che succederanno cose.
 
-<br>
+È importante da sottolineare che questi grafici sono interattivi e quindi puoi passare con il mouse sopra le informazioni e poter vedere ulteriori dettagli.
 
-### **SE SCRIVI TANTO, CONTA DOVE SCRIVI**
+Insomma, una cosa parecchio utile.
 
-Qui emerge un po' di gusto personale.
+​
 
-Perché scrivere su Notion non è affatto problematico, chiariamolo.
+SU NOTION PUOI TRASPORTARE I GRAFICI
+Anche questa opzione è abbastanza semplice da implementare.
 
-Solo che ci sono alcune cose, quando si parla di scrittura, che **preferisco di gran lunga fare su Obsidian invece che su Notion**.
+Il meccanismo, infatti, è molto simile a quello del punto precedente, solo che devi fare qualcosa in più.
 
-Magari è solo una mia percezione, ma scrivere su Obsidian mi rilassa e mi permette di **concentrarmi al meglio proprio sulla scrittura**.
+Ci sono diversi strumenti sul web che ti permettono di ottenere il massimo dall’integrazione tra Notion e Google Sheet.
 
-Il mio spazio su Notion, per quanto organizzato ed efficace, integra troppe distrazioni e questo mi porterebbe di sicuro a perdere tempo.
+In particolare, c’è questo servizio che ti permette di prendere i dati dalle tabelle presenti su Google Sheet e creare dei grafici, interattivi e dinamici da poter inserire su Notion.
 
-Inoltre, Obsidian ha alcune **feature piccole e irrilevanti** che però si adattano in pieno alle mie esigenze di scrittura (ad esempio, mostra il numero di caratteri di un testo).
+In pratica, dopo aver inserito i dettagli del foglio Google e dopo aver personalizzato lo stile del grafico, potrai inserirlo dove vuoi su Notion, sempre tramite la funzione “embed”.
 
-<br>
 
-### **I PROFESSIONISTI NON USANO UN MARTELLO, USANO UN KIT**
+​
 
-Forse questo è il punto più importante.
+SU NOTION PUOI CREARE I GRAFICI
+Questo è forse il metodo più difficile da mettere in pratica, ma è anche quello che ti darà più soddisfazioni.
 
-È una cosa che ho capito qualche tempo fa e che mi ha liberato dal folle desiderio di trovare il singolo tool che potesse gestire tutte le mie esigenze.
+O almeno, è quello che vale per me.
 
-Il fatto è che un tool di questo tipo, capace di gestire tutte le tue esigenze, **non esiste**.
+In pratica, su Notion puoi utilizzare un particolare linguaggio per poter creare dei grafici/diagrammi di flusso che rappresentino visivamente i tuoi database.
 
-E se anche Notion è il tool che più si avvicina alla cosa, questo comunque non lo rende tale.
+Sembra una stregoneria vero?
 
-Le esigenze delle persone cambiano nel tempo e sono fin troppo variegate per essere soddisfatte da un solo tool.
+Devo ammettere una cosa, la faccia che fanno i clienti di Notion Builders quando vedono la flowchart del sistema che stiamo progettando per loro su Notion (fatta proprio in questo modo) è senza prezzo.
 
-Per questo, **hai bisogno di un kit di strumenti** da utilizzare a seconda delle tue esigenze.
+È la faccia che fai quando ti colpisce un’epifania e scommetto che è la stessa faccia che stai facendo anche tu ora.
 
-Proprio come faccio io con Notion e Obsidian, a seconda della mia necessità decido quale tool sia meglio utilizzare.
+Ma al netto di questo, come si fanno ste flowchart?
 
-E con questo **approccio ibrido**, finora non ho mai beccato delusioni.
 
-<br>
+In realtà, basta poco per preparare la situazione.
 
-E quindi?
+Tutto quello che devi fare è digitare “/” e poi scrivere “code”, tra le opzioni che vedrai comparire nel menù ci sarà anche “code - mermaid”, cliccaci e dovrai solo metterti a scrivere codice.
 
-Questo che significa?
 
-Che devi utilizzare Notion e Obsidian, insieme?
+Nel nuovo elemento che apparirà, infatti, dovrai cominciare a scrivere in codice mermaid le cose che vuoi vedere.
 
-No, per niente.
+Così arriverai al risultato desiderato.
 
-In realtà non so questo cosa significhi, cerco solo di condividere la mia esperienza e di aiutarti a farne tesoro.
 
-Il punto è che **i tool sono solo strumenti** e prima di scegliere quello da utilizzare, ha senso capire bene le proprie **esigenze e obiettivi**.
+​
 
-Solo così potrai ottenere il massimo dal tool (o dai tool) che scegli.
+Ok, riconosco però che una newsletter non è il formato ideale per spiegare in dettaglio come creare una cosa del genere, quindi continua a leggere e vedrai.
 
-Proprio ieri, ho rilasciato un nuovo video YouTube che parla proprio di tool e cose interessanti.
+Ho cercato di mostrarti più in dettaglio possibile come creare grafici su Notion, cosi da poterlo utilizzare al massimo del suo potenziale.
 
-Se ti interessa la questione, dovresti dargli uno sguardo, lo trovi qui sotto.
+Se i primi due modi sono semplici, il terzo è un po’ più complesso.
 
-E direi che per oggi è tutto, buona settimana e beccati le risorse.
+Ed è proprio per questo che ho creato un canale YouTube apposito: è il canale dove inserirò tutorial dettagliati (e non solo) su come costruire cose con Notion e tanti altri tool.
+
+Proprio qualche giorno fa ho pubblicato un video sulla nuova funzione dei buttons, lo puoi trovare al pulsante qui sotto.
+
+Facciamo che se ti iscrivi al canale da questa newsletter, lo interpreterò come segnale di dover registrare un video sul codice mermaid?
+
+Dai su, vediamo che succede!
+
+Detto questo, per oggi è tutto, buona settimana e beccati le risorse.
 
 Daniele
