@@ -318,7 +318,7 @@ Ehi ciao 👋,
 
 questo è il numero 33 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti racconterò **perché utilizzo sia Notion che Obsidian**.
+E oggi ti racconterò **3 modi per avere i grafici su Notion**.
 
 ***
 
@@ -334,23 +334,15 @@ E oggi ti racconterò **perché utilizzo sia Notion che Obsidian**.
 
 **Il tempo di lettura previsto è:** 3 minuti.
 
-***
-
-Ehi ciao 👋,
-
-questo è il numero 33 del Kit di Sopravvivenza per Creator.
-
-E oggi ti mostrerò 3 modi per avere i grafici su Notion.
-
 ​
 
-Una delle cose che più mi attira di Notion è la possibilità di utilizzarlo per raccogliere tutte le informazioni riguardo la tua vita digitale e non solo.
+Una delle cose che più mi attira di Notion è la possibilità di utilizzarlo per **raccogliere tutte le informazioni** riguardo la tua vita digitale e non solo.
 
 Puoi costruire il tuo Notion e renderlo il punto in cui ritrovare tutte le informazioni di cui hai bisogno.
 
-Sia quelle di tipo testuale che quelle di tipo visivo.
+Sia quelle di tipo **testuale** che quelle di tipo **visivo**.
 
-E, a dire il vero, c’è una cosa che in molti non sanno: su Notion puoi anche “vedere le informazioni”.
+E, a dire il vero, c’è una cosa che in molti non sanno: su Notion puoi anche “**vedere le informazioni**”.
 
 E non sapere una cosa del genere, significa utilizzare Notion ad un livello inferiore delle sue potenzialità.
 
@@ -373,23 +365,27 @@ Continua a leggere e vedrai (capita la battuta?).
 
 Questo è di sicuro il metodo più semplice.
 
-Tutto quello di cui hai bisogno per metterlo in pratica è il link di un grafico che vorresti su Notion.
+Tutto quello di cui hai bisogno per metterlo in pratica è il **link di un grafico** che vorresti su Notion.
 
-E poi dovrai utilizzare la funzione “embed” su Notion.
+E poi dovrai utilizzare la funzione “**embed**” su Notion.
 
-Mettiamo il caso che hai un grafico su qualche foglio Excel, Google Sheet, oppure preso di qualche pagina web e vuoi utilizzarlo in un documento sul tuo Notion.
+Mettiamo il caso che hai un grafico su qualche foglio Excel, Google Sheet, oppure preso di qualche pagina web e vuoi utilizzarlo in un **documento sul tuo Notion.**
 
 Tutto quello che devi fare è copiare il link del grafico e spostarti su Notion, nel punto in cui vuoi vedere il grafico.
 
 Incolli il link e poi clicchi sulla voce “embed” nel piccolo menù che si apre.
 
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/mt4mhGMNsxAvSZZRdfz95h/email)
+
 Una volta che lo avrai fatto, avverrà la magia.
+
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/6uxu2tLHStMLD3ihqVHfqh/email)
 
 Inoltre, considera che puoi utilizzare la funzione “embed” per inserire anche tanti tipi di contenuti presi dal web.
 
 Per fartela semplice, se hai un link e vuoi che sia su Notion, copia il link e incollalo su Notion: vedrai che succederanno cose.
 
-È importante da sottolineare che questi grafici sono interattivi e quindi puoi passare con il mouse sopra le informazioni e poter vedere ulteriori dettagli.
+È importante da sottolineare che questi grafici sono **interattivi** e quindi puoi passare con il mouse sopra le informazioni e poter vedere ulteriori dettagli.
 
 Insomma, una cosa parecchio utile.
 
@@ -401,11 +397,13 @@ Anche questa opzione è abbastanza semplice da implementare.
 
 Il meccanismo, infatti, è molto simile a quello del punto precedente, solo che devi fare qualcosa in più.
 
-Ci sono diversi strumenti sul web che ti permettono di ottenere il massimo dall’integrazione tra Notion e Google Sheet.
+Ci sono diversi strumenti sul web che ti permettono di ottenere il massimo **dall’integrazione tra Notion e Google Sheet**.
 
-In particolare, c’è questo servizio che ti permette di prendere i dati dalle tabelle presenti su Google Sheet e creare dei grafici, interattivi e dinamici da poter inserire su Notion.
+In particolare, c’è [questo servizio](https://uno.notion.vip/charts/) che ti permette di prendere i dati dalle tabelle presenti su Google Sheet e creare dei grafici, interattivi e dinamici da poter inserire su Notion.
 
 In pratica, dopo aver inserito i dettagli del foglio Google e dopo aver personalizzato lo stile del grafico, potrai inserirlo dove vuoi su Notion, sempre tramite la funzione “embed”.
+
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/7Fnv2wCfEU2zKSSmUHjzxJ/email)
 
 ​
 
@@ -415,33 +413,37 @@ Questo è forse il metodo più difficile da mettere in pratica, ma è anche quel
 
 O almeno, è quello che vale per me.
 
-In pratica, su Notion puoi utilizzare un particolare linguaggio per poter creare dei grafici/diagrammi di flusso che rappresentino visivamente i tuoi database.
+In pratica, su Notion puoi utilizzare un particolare linguaggio per poter creare dei **grafici/diagrammi** di flusso che rappresentino visivamente i tuoi database.
 
 Sembra una stregoneria vero?
 
-Devo ammettere una cosa, la faccia che fanno i clienti di Notion Builders quando vedono la flowchart del sistema che stiamo progettando per loro su Notion (fatta proprio in questo modo) è senza prezzo.
+Devo ammettere una cosa, la faccia che fanno i clienti di [Notion Builders](https://www.notionbuilders.it/) quando vedono la flowchart del sistema che stiamo progettando per loro su Notion (fatta proprio in questo modo) è senza prezzo.
 
 È la faccia che fai quando ti colpisce un’epifania e scommetto che è la stessa faccia che stai facendo anche tu ora.
 
-Ma al netto di questo, come si fanno ste flowchart?
+Ma al netto di questo, come si fanno ste **flowchart**?
+
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/7g7dfGDBDpDNVNYUNiELKs/email)
 
 In realtà, basta poco per preparare la situazione.
 
 Tutto quello che devi fare è digitare “/” e poi scrivere “code”, tra le opzioni che vedrai comparire nel menù ci sarà anche “code - mermaid”, cliccaci e dovrai solo metterti a scrivere codice.
 
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/gtXuSF2kAFdM8hUyrSV7FX/email)
+
 Nel nuovo elemento che apparirà, infatti, dovrai cominciare a scrivere in codice mermaid le cose che vuoi vedere.
 
 Così arriverai al risultato desiderato.
 
-​
+​![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/oEqkpAswvGS2m6sgE7pEnd/email)
 
-Ok, riconosco però che una newsletter non è il formato ideale per spiegare in dettaglio come creare una cosa del genere, quindi continua a leggere e vedrai.
+Ok, riconosco però che una newsletter non è il formato ideale per spiegare in dettaglio come creare una cosa del genere, quindi **continua a leggere** e vedrai.
 
 Ho cercato di mostrarti più in dettaglio possibile come creare grafici su Notion, cosi da poterlo utilizzare al massimo del suo potenziale.
 
 Se i primi due modi sono semplici, il terzo è un po’ più complesso.
 
-Ed è proprio per questo che ho creato un canale YouTube apposito: è il canale dove inserirò tutorial dettagliati (e non solo) su come costruire cose con Notion e tanti altri tool.
+Ed è proprio per questo che ho creato un **canale YouTube** apposito: è il canale dove inserirò **tutorial dettagliati** (e non solo) su come costruire cose con Notion e tanti altri tool.
 
 Proprio qualche giorno fa ho pubblicato un video sulla nuova funzione dei buttons, lo puoi trovare al pulsante qui sotto.
 
@@ -449,6 +451,6 @@ Facciamo che se ti iscrivi al canale da questa newsletter, lo interpreterò come
 
 Dai su, vediamo che succede!
 
-Detto questo, per oggi è tutto, buona settimana e beccati le risorse.
+Detto questo, per oggi è tutto, buona settimana e **beccati le risorse**.
 
 Daniele
