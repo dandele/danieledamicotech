@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #33: Sai vedere le informazioni"
+title: "\U0001F9F0 kSC #33: Sai vedere le informazioni..."
 colors: colors-a
 date: '2023-04-09'
 description: SU NOTION?
