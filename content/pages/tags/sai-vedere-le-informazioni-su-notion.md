@@ -177,9 +177,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #32: Notion e Obsidian..."
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2023-04-02'
 client: Awesome client
 description: PERCHÈ USARLI ENTRAMBI?
