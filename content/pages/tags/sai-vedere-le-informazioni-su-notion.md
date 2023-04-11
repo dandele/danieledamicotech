@@ -192,7 +192,7 @@ bottomSections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    title: E se Notion sparisse?
+    title: ARRIVANO I BUTTONS!
     text: >+
       <iframe width="100%" height="600"
       src="https://www.youtube.com/embed/6-oHPy3RMao" title="YouTube video
