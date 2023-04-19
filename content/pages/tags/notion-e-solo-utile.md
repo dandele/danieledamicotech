@@ -380,6 +380,8 @@ Sembra una schermata presa direttamente dal **mio workspace**, a dire il vero: c
 
 [Lo trovi a questo link!](https://hermione-2.notion.site/hermione-2/Your-daily-dashboard-cbb588bd72b9445da9560544cf8a620b)
 
+<br>
+
 Ok, mettiamo subito in chiaro una cosa.
 
 Quelli che ti ho mostrato finora sono template in cui il **tratto principale è l'aspetto estetico**, non quello funzionale o organizzativo.
