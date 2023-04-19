@@ -309,6 +309,7 @@ E oggi ti svelerò **3 template Notion per abbellire il tuo Notion**.
 **Il tempo di lettura previsto è:** 2 minuti e 30.
 
 ***
+<br>
 
 Una cosa interessante di Notion è l'**aspetto estetico**.
 
@@ -320,6 +321,8 @@ A me piace un sacco.
 
 Ma il fatto che sia cosí carino di base, non significa che non possa essere **personalizzato** (o migliorato).
 
+<br>
+
 ## **NOTION AESTETHIC: NON SI PARLA SOLO DI FUNZIONALITÀ**
 
 La community di Notion è sempre attiva a fare cose.
@@ -327,8 +330,6 @@ La community di Notion è sempre attiva a fare cose.
 E, tra tutti i template creati, ce ne sono alcuni che danno un po' più di peso all'aspetto estetico.
 
 E oggi gli daremo il giusto spazio.
-
-<br>
 
 Negli ultimi giorni ho fatto una **ricerca approfondita** nei meandri del web, per portarti i **3 design di Notion** per me più belli (e gratis).
 
