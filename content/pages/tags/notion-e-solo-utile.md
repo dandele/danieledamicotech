@@ -178,7 +178,6 @@ metaTags: []
 title: "\U0001F9F0 kSC #33: Sai vedere le informazioni..."
 colors: colors-a
 date: '2023-04-09'
-client: Awesome client
 description: SU NOTION?
 featuredImage:
   type: ImageBlock
