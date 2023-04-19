@@ -188,34 +188,6 @@ media:
   type: ImageBlock
   url: /images/Frame 14.webp
 bottomSections:
-  - type: TextSection
-    colors: colors-f
-    elementId: ''
-    variant: variant-a
-    title: ARRIVANO I BUTTONS!
-    text: >+
-      <iframe width="100%" height="600"
-      src="https://www.youtube.com/embed/6-oHPy3RMao" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen></iframe>
-
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
