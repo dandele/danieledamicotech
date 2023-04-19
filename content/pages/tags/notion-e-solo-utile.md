@@ -308,6 +308,8 @@ E oggi ti svelerò **3 template Notion per abbellire il tuo Notion**.
 
 ​***
 
+
+
 Una cosa interessante di Notion è l'**aspetto estetico**.
 
 Non so te, ma la prima volta che ho aperto Notion, ho pensato:" Wa quanto è bellino!".
