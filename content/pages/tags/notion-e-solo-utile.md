@@ -334,6 +334,8 @@ Negli ultimi giorni ho fatto una **ricerca approfondita** nei meandri del web, p
 
 Eccoli qui e ora te ne parlo in dettaglio.
 
+<br>
+
 ### **THE VISUAL JOURNAL**
 
 ![](https://global-uploads.webflow.com/5eea51a7e2d10b853f4385b9/62a493672428887f6b258f90_The%20Visual%20Journal.jpg)
@@ -348,6 +350,8 @@ E così il **punto d'entrata di tante tue attività su Notion** (il journal) div
 
 [Lo puoi trovare a questo link!](https://notion.notion.site/The-Visual-Journal-8a5ce185f88b4899b585bfd845c1d966)
 
+<br>
+
 ### **PASTEL CALENDAR**
 
 ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/hQD15d14NYR9ayD6sg6J8X/email)
@@ -361,6 +365,8 @@ In termini di funzionalità, non c'è molto da dire, tranne il fatto che hai la 
 Che è una cosa particolare, utile oppure no decidilo tu.
 
 [Lo trovi a questo link.](https://www.notion.so/p-a-s-t-e-l-d-a-y-3087ee01829640ad8ff488e87dee4042)
+
+<br>
 
 ### **YOUR DAILY DASHBOARD**
 
