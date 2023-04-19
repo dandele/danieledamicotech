@@ -328,9 +328,9 @@ E oggi gli daremo il giusto spazio.
 
 Negli ultimi giorni ho fatto una **ricerca approfondita** nei meandri del web, per portarti i **3 design di Notion** per me più belli (e gratis).
 
--   The visual journal;
--   Pastel calendar;
--   Your daily dashobard.
+*   The visual journal;
+*   Pastel calendar;
+*   Your daily dashobard.
 
 Eccoli qui e ora te ne parlo in dettaglio.
 
@@ -348,10 +348,9 @@ E così il **punto d'entrata di tante tue attività su Notion** (il journal) div
 
 [Lo puoi trovare a questo link!](https://notion.notion.site/The-Visual-Journal-8a5ce185f88b4899b585bfd845c1d966)
 
-
 ### **PASTEL CALENDAR**
 
-![[Pasted image 20230412125208.png]]
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/hQD15d14NYR9ayD6sg6J8X/email)
 
 Ok, devo riconoscere che **Pastel Calendar** non è molto adatto ai miei gusti: direi che ci sono giusto un po' **troppi colori**.
 
@@ -363,9 +362,9 @@ Che è una cosa particolare, utile oppure no decidilo tu.
 
 [Lo trovi a questo link.](https://www.notion.so/p-a-s-t-e-l-d-a-y-3087ee01829640ad8ff488e87dee4042)
 
-### **YOUR DAILY DASHOBARD**
+### **YOUR DAILY DASHBOARD**
 
-![[Pasted image 20230412130042.png]]
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/rJ5Q7WbTN249LDp1Ax834E/email)
 
 Di tutti i template mostrati finora, questo è di sicuro quello più vicino al mio stile.
 
@@ -374,8 +373,6 @@ Sembra una schermata presa direttamente dal **mio workspace**, a dire il vero: c
 È semplice, funzionale, accedi a tutto quello che serve e c'è anche una **citazione** per darti la giusta spinta.
 
 [Lo trovi a questo link!](https://hermione-2.notion.site/hermione-2/Your-daily-dashboard-cbb588bd72b9445da9560544cf8a620b)
-
-
 
 Ok, mettiamo subito in chiaro una cosa.
 
@@ -391,7 +388,7 @@ L'obiettivo di questa newsletter era proprio quello di dimostrarti **fino a dove
 
 E spero di esserci riuscito.
 
-Te che ne pensi di questi template? 
+Te che ne pensi di questi template?
 
 Fammelo sapere rispondendo a questa e-mail.
 
