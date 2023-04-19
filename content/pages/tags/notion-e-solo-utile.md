@@ -316,15 +316,15 @@ slug: notion-e-solo-utile
 ---
 Ehi ciao 👋,
 
-questo è il numero 33 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 34 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti racconterò **3 modi per avere i grafici su Notion**.
+E oggi ti svelerò **3 template Notion per abbellire il tuo Notion**.
 
 ***
 
 **TL;DR**
 
-*   3 modi per avere i grafici su Notion
+*   Notion aesthetic: non si parla solo di utilità
 
 *   Una risorsa per la tua audience building
 
@@ -332,125 +332,97 @@ E oggi ti racconterò **3 modi per avere i grafici su Notion**.
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 3 minuti.
+**Il tempo di lettura previsto è:** 2 minuti e 30.
 
-​
+​***
 
-Una delle cose che più mi attira di Notion è la possibilità di utilizzarlo per **raccogliere tutte le informazioni** riguardo la tua vita digitale e non solo.
+Una cosa interessante di Notion è l'**aspetto estetico**.
 
-Puoi costruire il tuo Notion e renderlo il punto in cui ritrovare tutte le informazioni di cui hai bisogno.
+Non so te, ma la prima volta che ho aperto Notion, ho pensato:" Wa quanto è bellino!".
 
-Sia quelle di tipo **testuale** che quelle di tipo **visivo**.
+Bisogna essere sinceri, prima di qualsiasi ragionamento in termini di funzioni, produttività e quello che ti pare, la **cosa che più colpisce di Notion è il design**: semplice e pulito.
 
-E, a dire il vero, c’è una cosa che in molti non sanno: su Notion puoi anche “**vedere le informazioni**”.
+A me piace un sacco.
 
-E non sapere una cosa del genere, significa utilizzare Notion ad un livello inferiore delle sue potenzialità.
+Ma il fatto che sia cosí carino di base, non significa che non possa essere **personalizzato** (o migliorato).
 
-Oppure, utilizzare decine di strumenti diversi.
+## **NOTION AESTETHIC: NON SI PARLA SOLO DI FUNZIONALITÀ**
 
-​
+La community di Notion è sempre attiva a fare cose.
 
-# **3 MODI PER AVERE I GRAFICI SU NOTION**
+E, tra tutti i template creati, ce ne sono alcuni che danno un po' più di peso all'aspetto estetico.
 
-E arriviamo subito al sodo, oggi ti parlerò di 3 modi in cui puoi vedere i grafici su Notion.
+E oggi gli daremo il giusto spazio.
 
-*   Li puoi inserire:
-*   Li puoi trasportare;
-*   Li puoi creare.
+Negli ultimi giorni ho fatto una **ricerca approfondita** nei meandri del web, per portarti i **3 design di Notion** per me più belli (e gratis).
 
-Continua a leggere e vedrai (capita la battuta?).
-​
+-   The visual journal;
+-   Pastel calendar;
+-   Your daily dashobard.
 
-## **SU NOTION PUOI INSERIRE I GRAFICI**
+Eccoli qui e ora te ne parlo in dettaglio.
 
-Questo è di sicuro il metodo più semplice.
+### **THE VISUAL JOURNAL**
 
-Tutto quello di cui hai bisogno per metterlo in pratica è il **link di un grafico** che vorresti su Notion.
+![](https://global-uploads.webflow.com/5eea51a7e2d10b853f4385b9/62a493672428887f6b258f90_The%20Visual%20Journal.jpg)
 
-E poi dovrai utilizzare la funzione “**embed**” su Notion.
+Come ho già detto, Notion mi piace perchè è **minimal** al punto giusto, senza essere noioso.
 
-Mettiamo il caso che hai un grafico su qualche foglio Excel, Google Sheet, oppure preso di qualche pagina web e vuoi utilizzarlo in un **documento sul tuo Notion.**
+Ma devo dire che si tratta comunque di uno strumento che, di base, non offre molto in termini visivi.
 
-Tutto quello che devi fare è copiare il link del grafico e spostarti su Notion, nel punto in cui vuoi vedere il grafico.
+Ed è per questo che The Visual Journal mi ha colpito: migliora Notion, senza snaturarlo.
 
-Incolli il link e poi clicchi sulla voce “embed” nel piccolo menù che si apre.
+E così il **punto d'entrata di tante tue attività su Notion** (il journal) diventa una schermata vivace e molto bella, il tutto però senza esagerare.
 
-![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/mt4mhGMNsxAvSZZRdfz95h/email)
+[Lo puoi trovare a questo link!](https://notion.notion.site/The-Visual-Journal-8a5ce185f88b4899b585bfd845c1d966)
 
-Una volta che lo avrai fatto, avverrà la magia.
 
-![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/6uxu2tLHStMLD3ihqVHfqh/email)
+### **PASTEL CALENDAR**
 
-Inoltre, considera che puoi utilizzare la funzione “embed” per inserire anche tanti tipi di contenuti presi dal web.
+![[Pasted image 20230412125208.png]]
 
-Per fartela semplice, se hai un link e vuoi che sia su Notion, copia il link e incollalo su Notion: vedrai che succederanno cose.
+Ok, devo riconoscere che **Pastel Calendar** non è molto adatto ai miei gusti: direi che ci sono giusto un po' **troppi colori**.
 
-È importante da sottolineare che questi grafici sono **interattivi** e quindi puoi passare con il mouse sopra le informazioni e poter vedere ulteriori dettagli.
+Ma al netto di questo, non posso dire che non sia di **impatto**.
 
-Insomma, una cosa parecchio utile.
+In termini di funzionalità, non c'è molto da dire, tranne il fatto che hai la possibilità di aggiungere un giorno coerente con il tuo stato mentale.
 
-​
+Che è una cosa particolare, utile oppure no decidilo tu.
 
-## **SU NOTION PUOI TRASPORTARE I GRAFICI**
+[Lo trovi a questo link.](https://www.notion.so/p-a-s-t-e-l-d-a-y-3087ee01829640ad8ff488e87dee4042)
 
-Anche questa opzione è abbastanza semplice da implementare.
+### **YOUR DAILY DASHOBARD**
 
-Il meccanismo, infatti, è molto simile a quello del punto precedente, solo che devi fare qualcosa in più.
+![[Pasted image 20230412130042.png]]
 
-Ci sono diversi strumenti sul web che ti permettono di ottenere il massimo **dall’integrazione tra Notion e Google Sheet**.
+Di tutti i template mostrati finora, questo è di sicuro quello più vicino al mio stile.
 
-In particolare, c’è [questo servizio](https://uno.notion.vip/charts/) che ti permette di prendere i dati dalle tabelle presenti su Google Sheet e creare dei grafici, interattivi e dinamici da poter inserire su Notion.
+Sembra una schermata presa direttamente dal **mio workspace**, a dire il vero: c'è solo un po' **troppo giallo**.
 
-In pratica, dopo aver inserito i dettagli del foglio Google e dopo aver personalizzato lo stile del grafico, potrai inserirlo dove vuoi su Notion, sempre tramite la funzione “embed”.
+È semplice, funzionale, accedi a tutto quello che serve e c'è anche una **citazione** per darti la giusta spinta.
 
-![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/7Fnv2wCfEU2zKSSmUHjzxJ/email)
+[Lo trovi a questo link!](https://hermione-2.notion.site/hermione-2/Your-daily-dashboard-cbb588bd72b9445da9560544cf8a620b)
 
-​
 
-## **SU NOTION PUOI CREARE I GRAFICI**
 
-Questo è forse il metodo più difficile da mettere in pratica, ma è anche quello che ti darà più soddisfazioni.
+Ok, mettiamo subito in chiaro una cosa.
 
-O almeno, è quello che vale per me.
+Quelli che ti ho mostrato finora sono template in cui il **tratto principale è l'aspetto estetico**, non quello funzionale o organizzativo.
 
-In pratica, su Notion puoi utilizzare un particolare linguaggio per poter creare dei **grafici/diagrammi** di flusso che rappresentino visivamente i tuoi database.
+Sono tutti gratis e puoi giocarci quanto vuoi, ma non posso garantirti che l'esperienza che avrai sarà al top.
 
-Sembra una stregoneria vero?
+Perché è difficile trovare un equilibrio tra estetica e funzionalità.
 
-Devo ammettere una cosa, la faccia che fanno i clienti di [Notion Builders](https://www.notionbuilders.it/) quando vedono la flowchart del sistema che stiamo progettando per loro su Notion (fatta proprio in questo modo) è senza prezzo.
+Quindi, considera questi template più come **ispirazione** che come effettive proposte di utilizzo.
 
-È la faccia che fai quando ti colpisce un’epifania e scommetto che è la stessa faccia che stai facendo anche tu ora.
+L'obiettivo di questa newsletter era proprio quello di dimostrarti **fino a dove puoi spingere Notion** in termini estetici, oltre che darti un po' di **ispirazione**.
 
-Ma al netto di questo, come si fanno ste **flowchart**?
+E spero di esserci riuscito.
 
-![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/7g7dfGDBDpDNVNYUNiELKs/email)
+Te che ne pensi di questi template? 
 
-In realtà, basta poco per preparare la situazione.
+Fammelo sapere rispondendo a questa e-mail.
 
-Tutto quello che devi fare è digitare “/” e poi scrivere “code”, tra le opzioni che vedrai comparire nel menù ci sarà anche “code - mermaid”, cliccaci e dovrai solo metterti a scrivere codice.
-
-![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/gtXuSF2kAFdM8hUyrSV7FX/email)
-
-Nel nuovo elemento che apparirà, infatti, dovrai cominciare a scrivere in codice mermaid le cose che vuoi vedere.
-
-Così arriverai al risultato desiderato.
-
-​![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/oEqkpAswvGS2m6sgE7pEnd/email)
-
-Ok, riconosco però che una newsletter non è il formato ideale per spiegare in dettaglio come creare una cosa del genere, quindi **continua a leggere** e vedrai.
-
-Ho cercato di mostrarti più in dettaglio possibile come creare grafici su Notion, cosi da poterlo utilizzare al massimo del suo potenziale.
-
-Se i primi due modi sono semplici, il terzo è un po’ più complesso.
-
-Ed è proprio per questo che ho creato un **canale YouTube** apposito: è il canale dove inserirò **tutorial dettagliati** (e non solo) su come costruire cose con Notion e tanti altri tool.
-
-Proprio qualche giorno fa ho pubblicato un video sulla nuova funzione dei buttons, lo puoi trovare al pulsante qui sotto.
-
-Facciamo che se ti iscrivi al canale da questa newsletter, lo interpreterò come segnale di dover registrare un video sul codice mermaid?
-
-Dai su, vediamo che succede!
-
-Detto questo, per oggi è tutto, buona settimana e **beccati le risorse**.
+E per il resto, direi che per oggi è tutto, buona settimana e **beccati le risorse**.
 
 Daniele
