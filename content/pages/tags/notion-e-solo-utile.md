@@ -178,7 +178,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #34: NOTION È SOLO..."
 colors: colors-a
 date: '2023-04-09'
-description: SU NOTION?
+description: UTILE?
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
