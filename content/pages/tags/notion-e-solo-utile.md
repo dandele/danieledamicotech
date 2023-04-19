@@ -292,6 +292,8 @@ questo è il numero 34 del **Kit di Sopravvivenza per Creator**.
 
 E oggi ti svelerò **3 template Notion per abbellire il tuo Notion**.
 
+<br>
+
 ***
 
 **TL;DR**
@@ -325,6 +327,8 @@ La community di Notion è sempre attiva a fare cose.
 E, tra tutti i template creati, ce ne sono alcuni che danno un po' più di peso all'aspetto estetico.
 
 E oggi gli daremo il giusto spazio.
+
+<br>
 
 Negli ultimi giorni ho fatto una **ricerca approfondita** nei meandri del web, per portarti i **3 design di Notion** per me più belli (e gratis).
 
