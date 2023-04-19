@@ -309,7 +309,7 @@ E oggi ti svelerò **3 template Notion per abbellire il tuo Notion**.
 **Il tempo di lettura previsto è:** 2 minuti e 30.
 
 ***
-<br>
+
 
 Una cosa interessante di Notion è l'**aspetto estetico**.
 
