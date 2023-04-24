@@ -262,6 +262,10 @@ bottomSections:
     elementId: ''
     variant: variant-a
     text: >+
+      <Script async data-uid="a9380e8603"
+      src="https://kit-sopravvivenza-creator.ck.page/a9380e8603/index.js" />
+
+
       <Script async data-uid="71fb018372"
       src="https://kit-sopravvivenza-creator.ck.page/71fb018372/index.js" />
 
