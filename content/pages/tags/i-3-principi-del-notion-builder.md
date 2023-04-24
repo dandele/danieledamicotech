@@ -310,100 +310,134 @@ E oggi ti svelerò I **3 principi del Notion Builder.**
 
 ***
 
-Una cosa interessante di Notion è l'**aspetto estetico**.
+Quando penso ai creatori di Notion, non so come giudicarli: **se eroi della produttività oppure truffatori.**
 
-Non so te, ma la prima volta che ho aperto Notion, ho pensato:" Wa quanto è bellino!".
+Hanno creato uno strumento molto potente ma che non spaventa.
 
-Bisogna essere sinceri, prima di qualsiasi ragionamento in termini di funzioni, produttività e quello che ti pare, la **cosa che più colpisce di Notion è il design**: semplice e pulito.
+Uno che attira gli utenti con la facciata di semplicità e che invece nasconde una grande dose di complessità.
 
-A me piace un sacco.
+Database, relazioni, rollup, formule, buttons, api ecc: il delirio.
 
-Ma il fatto che sia cosí carino di base, non significa che non possa essere **personalizzato** (o migliorato).
+E tutto sto **delirio è nascosto,** si mostra solo a chi vuole portare Notion al suo massimo potenziale: i builder.
 
-<br>
+Tutte quelle persone che vogliono poter costruire cose con Notion, creare sistemi con cui gestire al meglio la propria vita, azienda o che ne so.
 
-## **NOTION AESTETHIC: NON SI PARLA SOLO DI FUNZIONALITÀ**
+Ed io e Beatrice siamo builder, per questo abbiamo creato [un’agenzia che porta questo nome](https://www.notionbuilders.it/).
 
-La community di Notion è sempre attiva a fare cose.
-
-E, tra tutti i template creati, ce ne sono alcuni che danno un po' più di peso all'aspetto estetico.
-
-E oggi gli daremo il giusto spazio.
-
-Negli ultimi giorni ho fatto una **ricerca approfondita** nei meandri del web, per portarti i **3 design di Notion** per me più belli (e gratis).
-
-*   The visual journal;
-*   Pastel calendar;
-*   Your daily dashobard.
-
-Eccoli qui e ora te ne parlo in dettaglio.
+Ma quali sono i **principi** che, secondo me, un builder dovrebbe rispettare fin dal primo momento in cui apre Notion?
 
 <br>
 
-### **THE VISUAL JOURNAL**
+## **I 3 PRINCIPI DEL NOTION BUILDER**
 
-![](https://global-uploads.webflow.com/5eea51a7e2d10b853f4385b9/62a493672428887f6b258f90_Theundefined20Journal.jpg)
+È un problema che sono convinto avrai incontrato anche tu: **Notion è un foglio bianco su cui puoi scrivere quello che ti pare**.
 
-Come ho già detto, Notion mi piace perchè è **minimal** al punto giusto, senza essere noioso.
+E più impari a scrivere, più ti ritrovi a scriverne di complesse oppure ti paralizzi perché non sai cosa scrivere.
 
-Ma devo dire che si tratta comunque di uno strumento che, di base, non offre molto in termini visivi.
+Ma sono convinto che ci sia un modo per evitare questa trappola, tre principi da rispettare per diventare un grande builder fin dall’inizio.
 
-Ed è per questo che The Visual Journal mi ha colpito: migliora Notion, senza snaturarlo.
+Eccoli: 
 
-E così il **punto d'entrata di tante tue attività su Notion** (il journal) diventa una schermata vivace e molto bella, il tutto però senza esagerare.
+*   svolgerai tutto il tuo lavoro lontano dal master; 
 
-[Lo puoi trovare a questo link!](https://notion.notion.site/The-Visual-Journal-8a5ce185f88b4899b585bfd845c1d966)
+*   non tratterai il tuo workspace come un archivio; 
 
-<br>
+*   non tratterai il sistema di altri come il sistema tuo.
 
-### **PASTEL CALENDAR**
-
-![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/hQD15d14NYR9ayD6sg6J8X/email)
-
-Ok, devo riconoscere che **Pastel Calendar** non è molto adatto ai miei gusti: direi che ci sono giusto un po' **troppi colori**.
-
-Ma al netto di questo, non posso dire che non sia di **impatto**.
-
-In termini di funzionalità, non c'è molto da dire, tranne il fatto che hai la possibilità di aggiungere un giorno coerente con il tuo stato mentale.
-
-Che è una cosa particolare, utile oppure no decidilo tu.
-
-[Lo trovi a questo link.](https://www.notion.so/p-a-s-t-e-l-d-a-y-3087ee01829640ad8ff488e87dee4042)
+Continua a leggere, te li spiego in dettaglio.
 
 <br>
 
-### **YOUR DAILY DASHBOARD**
+### **SVOLGERAI IL TUO LAVORO LONTANO DAL MASTER**
 
-![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/rJ5Q7WbTN249LDp1Ax834E/email)
+Ok, su Notion esistono i database.
 
-Di tutti i template mostrati finora, questo è di sicuro quello più vicino al mio stile.
+Non è la prima volta che li cito e sono sicuro che li avrai notati anche sul tuo workspace.
 
-Sembra una schermata presa direttamente dal **mio workspace**, a dire il vero: c'è solo un po' **troppo giallo**.
+I database sono l’arma segreta di Notion e posso dire con certezza che **quasi tutte le pagine del tuo Notion dovrebbero essere parte di un database**.
 
-È semplice, funzionale, accedi a tutto quello che serve e c'è anche una **citazione** per darti la giusta spinta.
+Sti database sono importanti per tanti motivi, in particolare però ti permettono di **collegare le informazioni contenute nel tuo Notion**.
 
-[Lo trovi a questo link!](https://hermione-2.notion.site/hermione-2/Your-daily-dashboard-cbb588bd72b9445da9560544cf8a620b)
+E collegandole: 
 
-<br>
+*   ti assicurerai di poterle gestire al meglio, anche in futuro; 
 
-Ok, mettiamo subito in chiaro una cosa.
+*   ti assicurerai la loro validità nel tempo; 
 
-Quelli che ti ho mostrato finora sono template in cui il **tratto principale è l'aspetto estetico**, non quello funzionale o organizzativo.
+*   ti assicurerai la possibilità di spostarle al meglio (esportare pagine, inviarle ecc.).
 
-Sono tutti gratis e puoi giocarci quanto vuoi, ma non posso garantirti che l'esperienza che avrai sarà al top.
+Ma c’è una cosa che devi ricordarti quando usi i database: **non lavorare sul database originale**.
 
-Perché è difficile trovare un equilibrio tra estetica e funzionalità.
+Quando crei un database, puoi crearlo sia “Inline” che in versione “Full page”.
 
-Quindi, considera questi template più come **ispirazione** che come effettive proposte di utilizzo.
+Nel caso in cui scegli la seconda opzione, vedrai quella che sembra una **pagina classica di Notion**, solo che al suo interno c’è solo il database e non puoi creare altro.
 
-L'obiettivo di questa newsletter era proprio quello di dimostrarti **fino a dove puoi spingere Notion** in termini estetici, oltre che darti un po' di **ispirazione**.
+Questa pagina è in realtà la **radice del database** ed è anche chiamata Master.
 
-E spero di esserci riuscito.
+E per lavorare su questo database, non devi per forza accedere alla radice, anzi è sconsigliato.
 
-Te che ne pensi di questi template?
+È meglio creare delle **viste del database originale** e adattare quelle viste alle tue esigenze.
 
-Fammelo sapere rispondendo a questa e-mail.
+In questo modo, ti assicuri che le informazioni originali restino al sicuro e tu puoi accedere ad esse come vuoi e dove vuoi.
 
-E per il resto, direi che per oggi è tutto, buona settimana e **beccati le risorse**.
+Il master è la fonte delle informazioni, fai di tutto per non sporcare la fonte.
+
+​<br>
+
+### **NON TRATTERAI IL TUO WORKSPACE COME UN ARCHIVIO!**
+
+Ok, ora che (spero) hai capito l’importanza dei database, qual è il prossimo passo?
+
+Quello di cominciare a **giocare con le informazioni e con i database**,comincerai a crearne tanti e dargli la struttura che preferisci.
+
+Poi comincerai a metterli in relazione tra loro, con le loro visualizzazioni e in poco tempo ti ritroverai con tante cose sul tuo workspace.
+
+E questo sarà il momento in cui dovrai capire una cosa: **il tuo workspace è un sistema, non un archivio.**
+
+Che differenza c’è?
+
+Un archivio è un raccoglitore di informazioni **statico**, un sistema invece è **dinamico**.
+
+In un archivio puoi scaricare tutto quello che vuoi, abbandonarlo a prendere polvere e chissene.
+
+Un sistema invece è dinamico, cresce con te e si adatta al modo in cui lo utilizzi.
+
+Ti faccio un esempio.
+
+Cominci ad utilizzare Notion e col tempo realizzi che vuoi una dashboard generale, nella tua home page, che mostra tutte le informazioni rilevanti giorno dopo giorno: crei le viste dei diversi database e il gioco è fatto.
+
+Poi però passa il tempo e le tue esigenze cambiano, quindi cambi anche l’homepage, i collegamenti tra database ecc.
+
+E è così adatti il workspace alle tue esigenze, lo tratti come un sistema, non come un archivio.
+
+​<br>
+
+### **NON TRATTERAI IL SISTEMA DI ALTRI, COME IL SISTEMA TUO**
+
+Quanti template di Notion esistono?
+
+Migliaia, anche io ne vendo alcuni.
+
+Ma cosa sono i template e perché hanno cosí successo?
+
+Perché sono soluzioni personali a problemi comuni.
+
+E hanno cosi tanto successo perché ti danno la **percezione di un sistema** (di un’organizzazione strutturata delle informazioni), senza la **difficoltà di crearlo**.
+
+Solo che ti devi ricordare il principio numero due: il tuo workspace è un sistema e dipende dalle tue esigenze, non da quelle di altri.
+
+Utilizzare il mio workspace ti sarebbe poco utile, perché è costruito intorno alle mie esigenze non alle tue.
+
+Ed è per questo che, quando parlo con chi ha acquistato i miei template gli dico sempre una cosa:”questo è il punto di partenza, sentiti libero di modificarlo e adattarlo alle tue esigenze”.
+
+Stesso discorso vale per framework, filosofie di produttività ecc.
+
+Sono tutte cose che ti possono fare da guida e scorciatoia, ma alla fine della giornata sei tu a dover utilizzare il sistema e questo deve riflettere le tue esigenze.
+
+​
+
+Ecco, direi che per oggi è tutto.
+
+Buona settimana e beccati le risorse!
 
 Daniele
