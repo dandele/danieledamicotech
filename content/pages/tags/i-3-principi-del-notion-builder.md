@@ -177,7 +177,7 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #34: NOTION È SOLO..."
 colors: colors-a
-date: '2023-04-16'
+date: '2023-04-23'
 description: UTILE?
 featuredImage:
   type: ImageBlock
