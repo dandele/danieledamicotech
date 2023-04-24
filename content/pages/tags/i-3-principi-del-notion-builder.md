@@ -288,9 +288,9 @@ slug: i-3-principi-del-notion-builder
 ---
 Ehi ciao 👋,
 
-questo è il numero 34 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 35 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti svelerò **3 template Notion per abbellire il tuo Notion**.
+E oggi ti svelerò I **3 principi del Notion Builder.**
 
 <br>
 
@@ -298,18 +298,17 @@ E oggi ti svelerò **3 template Notion per abbellire il tuo Notion**.
 
 **TL;DR**
 
-*   Notion aesthetic: non si parla solo di utilità
+*   I 3 principi del Notion Builder;
 
-*   Una risorsa per la tua audience building
+*   Una risorsa per la tua audience building;
 
-*   Una risorsa per la tua produttività
+*   Una risorsa per la tua produttività;
 
-*   Una risorsa per la tua monetization
+*   Una risorsa per la tua monetization.
 
-**Il tempo di lettura previsto è:** 2 minuti e 30.
+**Il tempo di lettura previsto è:** 4 minuti e 30.
 
 ***
-
 
 Una cosa interessante di Notion è l'**aspetto estetico**.
 
