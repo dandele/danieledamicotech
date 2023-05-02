@@ -181,7 +181,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2023-04-23'
-description: DEL NOTION BUILDER
+description: DA CAL NEWPORT
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
