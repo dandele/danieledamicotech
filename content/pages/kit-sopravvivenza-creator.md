@@ -193,5 +193,6 @@ sections:
       - content/pages/tags/sai-vedere-le-informazioni-su-notion.md
       - content/pages/tags/notion-e-solo-utile.md
       - content/pages/tags/i-3-principi-del-notion-builder.md
+      - content/pages/tags/a-scuola-di-produttivita-da-cal-newport.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
