@@ -180,7 +180,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
-date: '2023-04-23'
+date: '2023-04-30'
 description: DA CAL NEWPORT
 featuredImage:
   type: ImageBlock
