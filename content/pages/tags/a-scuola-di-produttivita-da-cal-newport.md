@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #36: A SCUOLA DI PRODUTTIVITà"
+title: "\U0001F9F0 kSC #36: A SCUOLA DI PRODUTTIVITà..."
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
