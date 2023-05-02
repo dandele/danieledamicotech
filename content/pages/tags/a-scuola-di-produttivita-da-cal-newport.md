@@ -292,7 +292,7 @@ Ehi ciao 👋,
 
 questo è il numero 35 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti svelerò I **3 principi del Notion Builder.**
+E oggi ti svelerò **3 lezioni di produttività che ho imparato da Cal Newport.**
 
 <br>
 
@@ -300,7 +300,7 @@ E oggi ti svelerò I **3 principi del Notion Builder.**
 
 **TL;DR**
 
-*   I 3 principi del Notion Builder;
+*   A scuola di produttività da Cal Newport;
 
 *   Una risorsa per la tua audience building;
 
@@ -312,134 +312,127 @@ E oggi ti svelerò I **3 principi del Notion Builder.**
 
 ***
 
-Quando penso ai creatori di Notion, non so come giudicarli: **se eroi della produttività oppure truffatori.**
+Ok, se ti appassiona la produttività di certo avrai sentito parlare di **Cal Newport**.
 
-Hanno creato uno strumento molto potente ma che non spaventa.
+È un insegnante alla Georgetown University ma è anche uno scrittore, blogger e podcaster.
 
-Uno che attira gli utenti con la facciata di semplicità e che invece nasconde una grande dose di complessità.
+Io l'ho conosciuto grazie ad alcuni libri di non poca fama: "So good they can't ignore you", "Deep Work", "Digital Minimalism" e "A World Without Email".
 
-Database, relazioni, rollup, formule, buttons, api ecc: il delirio.
+Insomma, come avrai potuto intuire da questi titoli: è un **esperto di produttività**.
 
-E tutto sto **delirio è nascosto,** si mostra solo a chi vuole portare Notion al suo massimo potenziale: i builder.
+Lo conosco da anni, ma è solo in questi mesi che ho approfondito lo studio dei suoi insegnamenti.
 
-Tutte quelle persone che vogliono poter costruire cose con Notion, creare sistemi con cui gestire al meglio la propria vita, azienda o che ne so.
+E prima ancora di testare il suo sistema di produttività in totale, ho pensato di mettere in pratica solo alcuni **principi** che ne sono alla base.
 
-Ed io e Beatrice siamo builder, per questo abbiamo creato [un’agenzia che porta questo nome](https://www.notionbuilders.it/).
-
-Ma quali sono i **principi** che, secondo me, un builder dovrebbe rispettare fin dal primo momento in cui apre Notion?
+E il risultato è stato strabiliante.
 
 <br>
 
-## **I 3 PRINCIPI DEL NOTION BUILDER**
+## **A SCUOLA DI PRODUTTIVITÀ DA CAL NEWPORT**
 
-È un problema che sono convinto avrai incontrato anche tu: **Notion è un foglio bianco su cui puoi scrivere quello che ti pare**.
+Ma facciamo un passo alla volta. Quali sono i principi che mi hanno colpito di più delle opere di cal?
 
-E più impari a scrivere, più ti ritrovi a scriverne di complesse oppure ti paralizzi perché non sai cosa scrivere.
+*   L'importanza del Deep Work;
 
-Ma sono convinto che ci sia un modo per evitare questa trappola, tre principi da rispettare per diventare un grande builder fin dall’inizio.
+*   L'impatto degli strumenti sulla tua produttività;
 
-Eccoli: 
+*   Anche la comunicazione dovrebbe essere produttiva.
 
-*   svolgerai tutto il tuo lavoro lontano dal master; 
+Ti parlerò un attimo di questi **concetti e di come li ho messi in pratica**, poi ti rivelerò il loro **impatto**.
 
-*   non tratterai il tuo workspace come un archivio; 
+Ci sei?
 
-*   non tratterai il sistema di altri come il sistema tuo.
-
-Continua a leggere, te li spiego in dettaglio.
+Possiamo iniziare allora.
 
 <br>
 
-### **SVOLGERAI IL TUO LAVORO LONTANO DAL MASTER**
+### **L'IMPORTANZA DEL DEEP WORK**
 
-Ok, su Notion esistono i database.
+Ok, partiamo dalle basi.
 
-Non è la prima volta che li cito e sono sicuro che li avrai notati anche sul tuo workspace.
+Cos'è il **deep work**?
 
-I database sono l’arma segreta di Notion e posso dire con certezza che **quasi tutte le pagine del tuo Notion dovrebbero essere parte di un database**.
+Per fartela breve, è la capacità di lavorare su degli obiettivi, in sessioni di concentrazione lunghe e **senza interruzione**.
 
-Sti database sono importanti per tanti motivi, in particolare però ti permettono di **collegare le informazioni contenute nel tuo Notion**.
+Quando prendi la tua task list, cominci ad affrontare i punti del giorno, indossi le tue cuffie (oppure no), escludi tutte le distrazioni e entri nel flow per 60-90 minuti, puoi essere fiero di te: hai realizzato una sessione di deep work.
 
-E collegandole: 
+Come potrai intuire però, riuscire a fare una sessione di deep work non è tanto semplice.
 
-*   ti assicurerai di poterle gestire al meglio, anche in futuro; 
+Perché il mondo è pieno di distrazioni, ci sono le notifiche, gli smartphone, i social e tutto quello che vuoi: un bel casino.
 
-*   ti assicurerai la loro validità nel tempo; 
+Quindi quale sarebbe la lezione? Che ti devi concentrare?
 
-*   ti assicurerai la possibilità di spostarle al meglio (esportare pagine, inviarle ecc.).
+In realtà no, il fatto che per lavorare al meglio ti devi concentrare è una cosa ovvia.
 
-Ma c’è una cosa che devi ricordarti quando usi i database: **non lavorare sul database originale**.
+La lezione è che **l'abilità di lavorare in deep work è rara**.
 
-Quando crei un database, puoi crearlo sia “Inline” che in versione “Full page”.
+E il mondo esterno, dal canto suo, è sempre più invasivo, sempre più forte nel distrarci.
 
-Nel caso in cui scegli la seconda opzione, vedrai quella che sembra una **pagina classica di Notion**, solo che al suo interno c’è solo il database e non puoi creare altro.
+Così, con sempre più distrazioni e sempre meno persone in grado di lavorare in deep work, quelle poche persone in grado di lavorare in deep work avranno un **vantaggio competitivo sulle altre**.
 
-Questa pagina è in realtà la **radice del database** ed è anche chiamata Master.
+E come come metto in pratica questa cosa?
 
-E per lavorare su questo database, non devi per forza accedere alla radice, anzi è sconsigliato.
+Ogni mia giornata lavorativa è strutturata in **4 blocchi di deep work**: due da 90 minuti e due da 60.
 
-È meglio creare delle **viste del database originale** e adattare quelle viste alle tue esigenze.
+<br>
 
-In questo modo, ti assicuri che le informazioni originali restino al sicuro e tu puoi accedere ad esse come vuoi e dove vuoi.
+### **L'IMPATTO DEGLI STRUMENTI SULLA TUA PRODUTTIVITÀ**
 
-Il master è la fonte delle informazioni, fai di tutto per non sporcare la fonte.
+Ora, c'è una cosa importante da dire.
 
-​<br>
+Lavorare in deep work non è un talento, non è qualcosa con cui nasci e che rimane stabile per tutta la vita.
 
-### **NON TRATTERAI IL TUO WORKSPACE COME UN ARCHIVIO!**
+È un'**abilità** e la puoi **allenare** di giorno in giorno, proprio come un muscolo.
 
-Ok, ora che (spero) hai capito l’importanza dei database, qual è il prossimo passo?
+Ma non dipende solo dall'allenamento, ci sono altre cose che puoi fare per facilitare le tue sessioni di deep work:
 
-Quello di cominciare a **giocare con le informazioni e con i database**,comincerai a crearne tanti e dargli la struttura che preferisci.
+*   puoi modificare il tuo ambiente di lavoro;
 
-Poi comincerai a metterli in relazione tra loro, con le loro visualizzazioni e in poco tempo ti ritroverai con tante cose sul tuo workspace.
+*   puoi organizzare i tuoi strumenti di lavoro.
 
-E questo sarà il momento in cui dovrai capire una cosa: **il tuo workspace è un sistema, non un archivio.**
+Basta poco per fare modifiche del genere.
 
-Che differenza c’è?
+Io, per esempio, ho un tipo di **cuffie apposta per il deep work** (di quelle che cancellano i rumori esterni ecc).
 
-Un archivio è un raccoglitore di informazioni **statico**, un sistema invece è **dinamico**.
+Inoltre, sfrutto la **funzione "Full Immersion"** di Mac e IOS per eliminare le notifiche all'avvio delle sessioni di lavoro.
 
-In un archivio puoi scaricare tutto quello che vuoi, abbandonarlo a prendere polvere e chissene.
+E insieme a Beatrice ho strutturato l'intero workspace di [Notion Builders](https://www.notionbuilders.it/) per facilitare le sessioni di deep work.
 
-Un sistema invece è dinamico, cresce con te e si adatta al modo in cui lo utilizzi.
+<br>
 
-Ti faccio un esempio.
+### **ANCHE LA COMUNICAZIONE DOVREBBE ESSERE PRODUTTIVA**
 
-Cominci ad utilizzare Notion e col tempo realizzi che vuoi una dashboard generale, nella tua home page, che mostra tutte le informazioni rilevanti giorno dopo giorno: crei le viste dei diversi database e il gioco è fatto.
+La **comunicazione** merita un paragrafo a parte.
 
-Poi però passa il tempo e le tue esigenze cambiano, quindi cambi anche l’homepage, i collegamenti tra database ecc.
+Per molto tempo, ho pensato che le **notifiche e-mail, di Whatsapp o Slack** fossero un prezzo da pagare inevitabile.
 
-E è così adatti il workspace alle tue esigenze, lo tratti come un sistema, non come un archivio.
+Quando collabori con altre persone è fondamentale restare in comunicazione e quindi le notifiche sono inevitabili.
 
-​<br>
+Solo che mi sbagliavo.
 
-### **NON TRATTERAI IL SISTEMA DI ALTRI, COME IL SISTEMA TUO**
+"A world without email", in particolare, mi ha fatto capire che potevo **creare un flusso di comunicazione** (tra me e Beatrice) che supportasse il nostro lavoro invece di ostacolarlo.
 
-Quanti template di Notion esistono?
+E questo che significa?
 
-Migliaia, anche io ne vendo alcuni.
+Che gestiamo le **comunicazioni in modo asincrono**, su Notion, grazie a diversi processi di cui magari ti parlerò in un'altra newsletter.
 
-Ma cosa sono i template e perché hanno cosí successo?
+Perché il nemico più infame del deep work è il **context switching** (cambiare scheda del browser, interruzioni dovute alle notifiche e tante altre distrazioni) e non è vero che non lo si può sconfiggere.
 
-Perché sono soluzioni personali a problemi comuni.
+<br>
 
-E hanno cosi tanto successo perché ti danno la **percezione di un sistema** (di un’organizzazione strutturata delle informazioni), senza la **difficoltà di crearlo**.
+Insomma, come hai potuto leggere fin qui, ho cercato di implementare queste tre lezioni nella mia vita quotidiana e qual è stato il risultato?
 
-Solo che ti devi ricordare il principio numero due: il tuo workspace è un sistema e dipende dalle tue esigenze, non da quelle di altri.
+Non mi sono **mai sentito cosi produttivo**.
 
-Utilizzare il mio workspace ti sarebbe poco utile, perché è costruito intorno alle mie esigenze non alle tue.
+E non si tratta solo di percezione ma anche di **risultati oggettivi**, misurati col numero di cose fatte e dalla loro qualità.
 
-Ed è per questo che, quando parlo con chi ha acquistato i miei template gli dico sempre una cosa:”questo è il punto di partenza, sentiti libero di modificarlo e adattarlo alle tue esigenze”.
+E questi risultati mi spingono a testare **l'intero sistema di produttività** creato da [Cal](https://calnewport.com/).
 
-Stesso discorso vale per framework, filosofie di produttività ecc.
+Lo vedo come un esperimento interessante e che potrei documentare in dettaglio da qualche parte.
 
-Sono tutte cose che ti possono fare da guida e scorciatoia, ma alla fine della giornata sei tu a dover utilizzare il sistema e questo deve riflettere le tue esigenze.
+Ti interesserebbe un contenuto di questo tipo?
 
-​
+Fammelo sapere con una **risposta a questa e-mail**, dai che sono curioso.
 
-Ecco, direi che per oggi è tutto.
+E direi che con questo è tutto, buona settimana e **beccati le risorse**.
 
-Buona settimana e beccati le risorse!
-
-Daniele
