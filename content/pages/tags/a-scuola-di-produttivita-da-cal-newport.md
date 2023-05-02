@@ -308,7 +308,7 @@ E oggi ti svelerò **3 lezioni di produttività che ho imparato da Cal Newport.*
 
 *   Una risorsa per la tua monetization.
 
-**Il tempo di lettura previsto è:** 4 minuti e 30.
+**Il tempo di lettura previsto è:** 4 minuti.
 
 ***
 
@@ -435,4 +435,3 @@ Ti interesserebbe un contenuto di questo tipo?
 Fammelo sapere con una **risposta a questa e-mail**, dai che sono curioso.
 
 E direi che con questo è tutto, buona settimana e **beccati le risorse**.
-
