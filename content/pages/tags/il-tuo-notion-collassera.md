@@ -181,7 +181,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2023-01-01'
-description: '3 '
+description: 3 domande per evitare il disastro
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
