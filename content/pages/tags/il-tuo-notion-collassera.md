@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #37: IL TUO NOTION COLLASSERA"
+title: "\U0001F9F0 kSC #37: IL TUO NOTION COLLASSERÀ?"
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
