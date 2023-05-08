@@ -318,23 +318,17 @@ bottomSections:
         textAlign: center
 slug: il-tuo-notion-collassera
 ---
-Che sensazione provi quando concludi un task e **metti quella X nella to-do list**?
+Ehi ciao 👋,
 
-Bella vero?
+questo è il numero 37 del **Kit di Sopravvivenza per Creator**.
 
-E cosa provi quando fai la stessa cosa, ma per il task successivo?
-
-Sempre bella, anche se forse un po' meno, vero?
-
-Ma ti sei mai fatto una domanda?
-
-Che succede se l'obiettivo per cui stai eliminando così tanti punti dalla tua task list, fosse un **obiettivo che non vuoi davvero**?
+E oggi ti rivelerò **3 domande per capire il destino del tuo workspace su Notion**.
 
 ***
 
 **TL;DR**
 
-*   Come NON diventare un robot?
+*   Il tuo Notion collasserà? 3 domande per evitare il disastro;
 
 *   Una risorsa per la tua audience building
 
@@ -342,169 +336,117 @@ Che succede se l'obiettivo per cui stai eliminando così tanti punti dalla tua t
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 5 minuti e 24.
+**Il tempo di lettura previsto è:** 3 minuti e 24.
 
 ***
 
-Ehi ciao 👋,
+Non esiste farmaco, senza diagnosi.
 
-questo è il numero 20 del **Kit di Sopravvivenza per Creator**.
+È per questo che la prima cosa che io e Beatrice facciamo quando guardiamo lo spazio Notion di un cliente o prospect di [Notion Builders](https://www.notionbuilders.it/) è l’**audit**.
 
-Ed oggi ti racconterò **come NON diventare un robot.**
+In pratica, facciamo un’analisi in cui cerchiamo di capire qual è lo stato attuale del workspace.
+
+Se è messo bene o se è messo male e se rischia di **collassare**.
+
+Ma come facciamo a capire certe cose?
+
+Facciamo alcune domande a chi utilizza il workspace e a seconda della risposta ci facciamo un’idea.
+
+Un’idea che di solito diventa un **numero**, ma questo è un altro discorso.
+
+Ad ogni modo, di tutte le domande che facciamo, oggi ti svelerò le **3 più importanti**.
 
 <br />
 
+## **Il TUO NOTION COLLASSERÀ? 3 DOMANDE PER EVITARE IL DISASTRO**
 
+Arriviamo subito al sodo, quali sono ste domande?
 
-La fine dell'anno è sempre un periodo di **riflessioni**.
+*   Sai dove finiscono le informazioni che catturi?
 
-Fatti un giro su un social a caso.
+*   Riesci a dirci su quale progetto ti concentrerai questo mese/trimestre/anno?
 
-Decine di post di persone la cui vita non ti riguarda neanche un po' e che condividono il loro fantastico anno di cui non ti importa neanche un po'.
+*   Hai mai la sensazione che le informazioni ti sfuggano dalle mani per qualche problema?
 
-C'è da dire però che riflettere sulle vicende dell'ultimo anno è utile.
-
-Ti permette di **ragionare su quanto fatto e ti permette di impostare una direzione per il futuro**.
-
-Ma anche più di questo: **ti evita di diventare un robot**.
-
-Ti evita di diventare una macchina da task, che li esegue ed elimina dalla sua lista personale, senza sapere l'obiettivo per cui lo fa.
-
-E se si chiede "Perché l'ho fatto?", si rompe.
-
-Parlo per esperienza, mi ci sono trovato anni fa in questa situazione.
-
-Ed è così che ne sono uscito.
+Continua a leggere, così potrai fartele tu stesso e capire se c’è qualcosa che non va.
 
 ​
 
-## COME NON DIVENTARE UN ROBOT?
+### **SAI DOVE FINISCONO LE INFORMAZIONI CHE CATTURI?**
 
-La soluzione è semplice: **devi essere consapevole**.
+Ok, che succede quando **salvi delle informazioni** sul tuo workspace Notion?
 
-Devi solo chiederti perché fai quello che fai, a cosa punti ecc.
+Sai dove finiscono?
 
-Ma sapere la soluzione non basta, quello che serve è **l'esecuzione**.
+E sai dove finiscono le informazioni che inseriscono le **persone con cui collabori**?
 
-Perché non ero in grado di rendere la mia esecuzione più consapevole?
+Perché se lo sai, bene, è una cosa positiva.
 
-*   perché non sapevo cosa chiedermi;
+Se invece non lo sai, allora c’è qualche **problema**.
 
-*   non sapevo dove chiedermelo;
+Significa che **manca un punto di raccolta unico**, nessuno sa dove inserire le informazioni e dove trovarle.
 
-*   non sapevo come chiedermelo.
+Quindi ci sono dappertutto **duplicati**, caos, stress, errori.
 
-E nel tentativo di risolvere questi dubbi ho scoperto l’esistenza dei **Review Cycles**.
-
-Che in questo periodo di fine dell’anno ed inizio dell’anno prossimo, prendono la forma di **Annual Review**.
-
-Ed ecco come strutturare la tua Annual Review per il 2023.
+Che non sono proprio le cose che vorresti sulla piattaforma dove gestisci **informazioni vitali per il tuo business**, no?
 
 ​
 
-### COSA CHIEDERSI NELL'ANNUAL REVIEW?
+### **RIESCI A DIRCI SU QUALE PROGETTO TI CONCENTRERAI QUESTO MESE/TRIMESTRE/ANNO?**
 
-Diciamoci la verità, la ciccia dell’Annual review è proprio in questo punto.
+Ora, se la domanda precedente riguarda il modo in cui entrano le informazioni sul tuo Notion, questa invece riguarda il modo in cui le gestisci.
 
-Quello che ti chiedi (e cosa rispondi) è ciò che ha più **impatto** nel definire una direzione per i tuoi prossimi 12 mesi.
+Le informazioni che non applichi **non sono informazioni utili**.
 
-Per questo è importante definire una **struttura** e capire quali domande ha senso porsi.
+E quindi dovresti sempre sapere a quale **progetto** o attività possono collegarsi le informazioni che catturi.
 
-Sull’argomento ci hanno ragionato tante persone: da **Ali Abdaal**, ad **August Bradley** fino a **Sahil Bloom**.
+E di conseguenza, dovresti essere in grado di capire tra tutte le attività e progetti che gestisci sul tuo Notion quali sono quelli più importanti e che ruolo hanno nella tua strategia.
 
-Ed è proprio la struttura di Sahil che seguo.
+Se non sei in grado di fare queste cose, allora c’è qualche problema.
 
-Analizza gli ultimi 12 mesi e pianifica i prossimi da questi punti di vista:
+Perché significa che tu e i tuoi collaboratori utilizzate lo spazio Notion **senza avere un quadro generale** e questo porta **stress e pocaconsapevolezza**.
 
-*   **Big Goals**: verso quali obiettivi grandi ed a lungo termina hai lavorato?
-    Quali hai raggiunto?
-    Quali non sono più validi? Quali nuovi Big Goals sono emersi e vorresti raggiungere?
-    ​
-    ​*Esempio: raggiungere i 1000 iscritti a questa newsletter nel 2023
-    ​*
+Magari vi ritrovate a lavorare a progetti o task che non sono prioritari, magari associate informazioni ai progetti sbagliati e cose del genere.
 
-*   **Checkpoint Goals**: ora che hai definito i Big Goals, analizzali e rendili più semplici.
-    Scomponi i Big Goals in obiettivi più piccoli, definiti e raggiungibili.
-    ​
-    ​*Esempio: raggiungere 500 iscritti entro giugno 2023
-    ​*
-
-*   **Daily Systems**: queste sono le azioni che, fatte di giorno in giorno, ti permettono di raggiungere prima i Checkpoint Goals e poi i Big Goals.
-    ​
-    ​*Esempio: scrittura newsletter quotidiana e newsletter settimanale
-    ​*
-
-*   **Anti-Goals**: cosa NON vuoi che accada nel tuo percorso per raggiungere i Big Goals?
-    È importante farsi questa domanda, perché arriverai al punto in cui dovrai darti delle priorità e così non andrai in tilt.
-    ​
-    ​*Esempio: non permettere alle mie altre attività di farmi trascurare la newsletter*
-
-*​*
-
-### DOVE FARE L'ANNUAL REVIEW?
-
-La risposta a questa domanda è semplice: **utilizza lo strumento con cui gestisci le tue attività quotidiane**.
-
-Visto che io gestisco la maggior parte delle mie attività su Notion, è su **Notion** che faccio l’Annual Review.
-
-Ma questo non significa che tu debba fare lo stesso: è più importante fare l’Annual Review che farla su Notion.
-
-Ecco **altri tool** che potresti utilizzare:
-
-*   Obsidian;
-
-*   Roam Research;
-
-*   Tana;
-
-*   Evernote;
-
-*   Todoist.
-
-Se posso darti un consiglio però, ti direi di scegliere un tool che ti permette di **costruire sistemi**.
-
-Solo in questo modo potrai cogliere al 100% i vantaggi e l’impatto positivo che l’Annual Review avrà sulla tua vita.
+Insomma, fate casino.
 
 ​
 
-### COME FARE L'ANNUAL REVIEW?
+### **HAI MAI LA SENSAZIONE CHE LE INFORMAZIONI TI SFUGGANO DALLE MANI PER QUALCHE PROBLEMA?**
 
-Anche in questo caso, **fatto è meglio che perfetto**.
+Poi c’è questa domanda, quella che qualifica l’**ansia** generata dal tuo spazio Notion.
 
-E l'importante è fare la tua annual review entro le **prime settimane di gennaio**, altrimenti perdi la motivazione.
+E diciamoci la verità, l’obiettivo stesso di uno strumento come Notion è quello di darti il controllo del tuo business e quindi **ridurre l’ansia**, non aumentarla.
 
-Su Evernote puoi anche creare una semplice lista.
+Se quando fai cose su Notion, ti sembra essere un bombarolo e pensi di dover fare attenzione a quello che fai perché se no **si scassa tutto**, allora c’è qualche problema.
 
-Mentre su Notion puoi creare un **sistema più complesso**, come quello che nel corso degli anni ho creato io.
+E diciamo che questo è lo stato finale.
 
-​![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/ojq8c7koUxUegCyztzb5V9/email)
+Di solito, quando le persone si ritrovano in questo stato hanno a disposizione una di queste opzioni: 
 
-![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/54YL7YwwdceezkUjJTHBtA/email)​
+*   **ricominciano da capo** (ricominciando il ciclo); 
 
-Poi, ci sono tante altre **regole** che potresti seguire per fare la tua Annual Review.
+*   **cambiano strumento** (scegliendo qualcosa di più costoso);
 
-Ci sono tante domande che ti potresti fare.
-
-Ma la cosa più importante, fidati che ci sono passato, è proprio quella di farla.
-
-Tra **complessità e semplicità scegli la seconda**: non deve essere nulla di figo, complesso o perfetto, deve essere qualcosa di utile!
+*   chiamano me e Beatrice e **risolvono il problema**.
 
 ​
 
-Ora, non ti posso dire che facendo l'Annual Review il tuo anno sarà fantastico e raggiungerai i tuoi obiettivi.
+Ora, non sono te come hai risposto a queste domande.
 
-Te lo auguro, ma non te lo posso promettere.
+Come ti dicevo, sono solo 3 domande di molte altre che facciamo (in modo esplicito oppure no) alle persone che fanno la prima call (gratis) con noi.
 
-Posso dirti però che con un Annual Review in tuo supporto, sarai in grado di affrontare qualsiasi progetto del 2023 con la consapevolezza necessaria per trarne il meglio.
+E alla fine del quiz ci sono poi dei numeri che guidano la nostra azione, ma non voglio farti spoiler sui prossimi sviluppi di Notion Builders.
 
-In più, dato che voglio aiutarti a raggiungere i tuoi obiettivi ho pensato una cosa.
+L’obiettivo di questa newsletter era darti qualche strumento per **valutare la tua situazione** e mettere in atto delle **risoluzioni**.
 
-Ho pensato di prendere la struttura della mia **Annual Review** e renderla un **template**.
+Insomma, **prevenire prima che curare**.
 
-Così non avrai scuse o problemi a farla, li avrò già risolti io per te!
+Magari noti che le tue risposte alle domande che ti ho elencato non ti piacciono e decidi di risolvere, benissimo.
 
-**Clicca il pulsante** qui sotto e vedrai.
+Se poi pensi di avere bisogno di supporto e vuoi il nostro aiuto nel capire meglio la situazione, **clicca il pulsante qui sotto**: offriamo noi.
 
-Detto questo, per oggi è tutto, buon 2023 e beccati le **risorse**.
+E detto questo, per oggi è tutto: buona settimana e beccati le risorse.
 
 Daniele
+
