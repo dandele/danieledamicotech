@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #20: un 2023 da umano"
+title: "\U0001F9F0 kSC #37: un 2023 da umano"
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
