@@ -342,6 +342,8 @@ E oggi ti rivelerò **3 domande per capire il destino del tuo workspace su Noti
 
 ***
 
+<br>
+
 Non esiste farmaco, senza diagnosi.
 
 È per questo che la prima cosa che io e Beatrice facciamo quando guardiamo lo spazio Notion di un cliente o prospect di [Notion Builders](https://www.notionbuilders.it/) è l’**audit**.
