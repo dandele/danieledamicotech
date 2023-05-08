@@ -324,6 +324,8 @@ questo è il numero 37 del **Kit di Sopravvivenza per Creator**.
 
 E oggi ti rivelerò **3 domande per capire il destino del tuo workspace su Notion**.
 
+<br>
+
 ***
 
 **TL;DR**
@@ -449,4 +451,3 @@ Se poi pensi di avere bisogno di supporto e vuoi il nostro aiuto nel capire megl
 E detto questo, per oggi è tutto: buona settimana e beccati le risorse.
 
 Daniele
-
