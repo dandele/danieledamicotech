@@ -181,7 +181,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2023-01-01'
-description: O da robot?
+description: '3 '
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
