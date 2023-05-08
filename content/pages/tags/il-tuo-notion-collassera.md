@@ -201,6 +201,7 @@ bottomSections:
         style: primary
         type: Button
         elementId: annual_review_button
+        url: 'https://zcal.co/notionbuilders/cust-notion-builders'
     styles:
       self:
         height: auto
