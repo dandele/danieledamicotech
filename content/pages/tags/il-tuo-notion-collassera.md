@@ -193,7 +193,7 @@ bottomSections:
     elementId: ''
     backgroundSize: full
     actions:
-      - label: "FAI LA TUA ANNUAL REVIEW \U0001F680"
+      - label: "SALVA IL TUO NOTION! \U0001F680"
         altText: ''
         url: /tags/easy-annual-review
         showIcon: true
