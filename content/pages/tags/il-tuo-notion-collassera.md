@@ -195,7 +195,6 @@ bottomSections:
     actions:
       - label: "SALVA IL TUO NOTION! \U0001F680"
         altText: ''
-        url: /tags/easy-annual-review
         showIcon: true
         icon: arrowRight
         iconPosition: right
