@@ -193,7 +193,7 @@ bottomSections:
     elementId: ''
     backgroundSize: full
     actions:
-      - label: "SALVA IL TUO NOTION! \U0001F680"
+      - label: CHE NE PENSI?
         altText: ''
         showIcon: true
         icon: arrowRight
