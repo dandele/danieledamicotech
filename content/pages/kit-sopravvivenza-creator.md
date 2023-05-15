@@ -195,5 +195,6 @@ sections:
       - content/pages/tags/i-3-principi-del-notion-builder.md
       - content/pages/tags/a-scuola-di-produttivita-da-cal-newport.md
       - content/pages/tags/il-tuo-notion-collassera.md
+      - content/pages/tags/a-colazione-con-l-ai-e-moloch.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
