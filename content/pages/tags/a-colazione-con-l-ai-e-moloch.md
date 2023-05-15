@@ -178,7 +178,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #38: A COLAZIONE CON L'AI..."
 colors: colors-a
 date: '2023-05-07'
-description: 3 DOMANDE PER EVITARE IL DISASTRO
+description: E MOLOCH
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
