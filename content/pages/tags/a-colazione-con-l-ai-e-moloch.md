@@ -177,9 +177,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #37: IL TUO NOTION COLLASSERÀ?"
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2023-05-07'
 client: Awesome client
 description: 3 DOMANDE PER EVITARE IL DISASTRO
