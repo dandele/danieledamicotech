@@ -320,9 +320,9 @@ slug: a-colazione-con-l-ai-e-moloch
 ---
 Ehi ciao 👋,
 
-questo è il numero 37 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 362 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti rivelerò **3 domande per capire il destino del tuo workspace su Notion**.
+E oggi ti parlerò del **demone nascosto dietro la produttività tossica**.
 
 <br>
 
@@ -330,7 +330,7 @@ E oggi ti rivelerò **3 domande per capire il destino del tuo workspace su Noti
 
 **TL;DR**
 
-*   Il tuo Notion collasserà? 3 domande per evitare il disastro;
+*   Il demone nascosto dietro la produttività tossica
 
 *   Una risorsa per la tua audience building
 
@@ -338,118 +338,128 @@ E oggi ti rivelerò **3 domande per capire il destino del tuo workspace su Noti
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 3 minuti e 24.
+**Il tempo di lettura previsto è:** 5 minuti.
 
 ***
 
 <br>
 
-Non esiste farmaco, senza diagnosi.
+Una gran parte dei contenuti pubblicati negli ultimi mesi su questa Newsletter si è concentrata su **Notion** e sulle sue applicazioni.
 
-È per questo che la prima cosa che io e Beatrice facciamo quando guardiamo lo spazio Notion di un cliente o prospect di [Notion Builders](https://www.notionbuilders.it/) è l’**audit**.
+Altre volte ho parlato di **personal branding, di creator economy e di produttività**.
 
-In pratica, facciamo un’analisi in cui cerchiamo di capire qual è lo stato attuale del workspace.
+Oggi però voglio esplorare un po’ di più la mia curiosità.
 
-Se è messo bene o se è messo male e se rischia di **collassare**.
-
-Ma come facciamo a capire certe cose?
-
-Facciamo alcune domande a chi utilizza il workspace e a seconda della risposta ci facciamo un’idea.
-
-Un’idea che di solito diventa un **numero**, ma questo è un altro discorso.
-
-Ad ogni modo, di tutte le domande che facciamo, oggi ti svelerò le **3 più importanti**.
+E voglio parlarti di un’**area nascosta della produttività**.
 
 <br />
 
-## **Il TUO NOTION COLLASSERÀ? 3 DOMANDE PER EVITARE IL DISASTRO**
+## **IL DEMONE NASCOSTO DIETRO LA PRODUTTIVITÀ TOSSICA**
 
-Arriviamo subito al sodo, quali sono ste domande?
+Ok, fai un bel respiro e fidati di me.
 
-*   Sai dove finiscono le informazioni che catturi?
+Vedrai che alla fine di questa newsletter ti sarà tutto chiaro, ecco l’**outline** di quello che leggerai.
 
-*   Riesci a dirci su quale progetto ti concentrerai questo mese/trimestre/anno?
+*   A colazione con l’AI e Moloch
 
-*   Hai mai la sensazione che le informazioni ti sfuggano dalle mani per qualche problema?
+*   Che c’entra la produttività?
 
-Continua a leggere, così potrai fartele tu stesso e capire se c’è qualcosa che non va.
+*   Come uscire dalla trappola di Moloch?
 
-​
-
-### **SAI DOVE FINISCONO LE INFORMAZIONI CHE CATTURI?**
-
-Ok, che succede quando **salvi delle informazioni** sul tuo workspace Notion?
-
-Sai dove finiscono?
-
-E sai dove finiscono le informazioni che inseriscono le **persone con cui collabori**?
-
-Perché se lo sai, bene, è una cosa positiva.
-
-Se invece non lo sai, allora c’è qualche **problema**.
-
-Significa che **manca un punto di raccolta unico**, nessuno sa dove inserire le informazioni e dove trovarle.
-
-Quindi ci sono dappertutto **duplicati**, caos, stress, errori.
-
-Che non sono proprio le cose che vorresti sulla piattaforma dove gestisci **informazioni vitali per il tuo business**, no?
+E ora che ho rivelato, almeno in parte, le mie carte direi che possiamo arrivare al sodo.
 
 ​
 
-### **RIESCI A DIRCI SU QUALE PROGETTO TI CONCENTRERAI QUESTO MESE/TRIMESTRE/ANNO?**
+### **A COLAZIONE CON L’AI E MOLOCH**
 
-Ora, se la domanda precedente riguarda il modo in cui entrano le informazioni sul tuo Notion, questa invece riguarda il modo in cui le gestisci.
+Qualche giorno fa stavo ascoltando un **podcast di Lex Friedman sull’intelligenza artificiale** e sul motivo per cui si dovrebbe fermare il suo sviluppo per almeno 6 mesi.
 
-Le informazioni che non applichi **non sono informazioni utili**.
+Un argomento bello interessante e un po’ inquietante, [ecco il link se vuoi dargli un ascolto](https://www.youtube.com/watch?v=VcVfceTsD0A).
 
-E quindi dovresti sempre sapere a quale **progetto** o attività possono collegarsi le informazioni che catturi.
+Ad ogni modo, nel corso della discussione con questo tizio chiamato Max Tegmark, si comincia a parlare della spinta umana alla **competizione** anche se questa rischia di essere dannosa.
 
-E di conseguenza, dovresti essere in grado di capire tra tutte le attività e progetti che gestisci sul tuo Notion quali sono quelli più importanti e che ruolo hanno nella tua strategia.
+In particolare, i due si riferiscono a quel tipo di competizione che si crea quando c’è una scoperta importante e tutti cominciano a cercare di accaparrarsi quella scoperta, per usarla come vogliono.
 
-Se non sei in grado di fare queste cose, allora c’è qualche problema.
+Un po’ com’è successo con la l’energia atomica e la conseguente corsa alle armi.
 
-Perché significa che tu e i tuoi collaboratori utilizzate lo spazio Notion **senza avere un quadro generale** e questo porta **stress e pocaconsapevolezza**.
+Ed è in questo contesto che Max Tegmark cita un saggio dal titolo inquietante: “**Meditations on Moloch**”, un saggio che a sua volta cita un poema di Allen Ginsberg, “Urlo”.
 
-Magari vi ritrovate a lavorare a progetti o task che non sono prioritari, magari associate informazioni ai progetti sbagliati e cose del genere.
+In pratica, questo Ginsberg attribuisce al demone Moloch la causa di tanti mali della società.
 
-Insomma, fate casino.
+Ginsberg però è un poeta e quando parla di demoni, in realtà si riferisce ad altro.
+
+In questo caso, quando parla di Moloch si riferisce **alla** **società americana e al capitalismo**, perché stimolano la spinta ad una competizione anche dannosa tra le persone.
+
+E nel podcast, Fridman e Tegmark, fanno notare come questo stesso gioco di competizione malata si stia generando ora nel campo dell’intelligenza artificiale.
+
+Tutti devono fare qualcosa in questo campo, anche se per molti scienziati continuare a sviluppare questa tecnologia, porta dei **grandi rischi per l’intero genere umano**.
+
+Ma non ci si riesce a fermare, perché nessuno vuole farlo, soprattutto se pensa di perdere terreno nei confronti di altri che invece non si fermeranno.
+
+In pratica, tutti **corriamo verso l’abisso** e nessuno riesce a fermarsi.
+
+Pensavi fosse la solita newsletter allegra, eh?
+
+
+
+### **CHE C’ENTRA LA PRODUTTIVITÀ?**
+
+Ora, che c’entra tutta sta roba con la produttività?
+
+C’entra perché mentre Fridman e Tegmark parlavano di AGI e demoni, io pensavo alla produttività e alla sua metà oscura: **la produttività tossica**.
+
+Si tratta di quella produttività in cui finisci quando ti fai prendere dall’**ansia di fare cose** e ti spingi oltre i limiti di **stanchezza e salute**.
+
+“Devo completare tutte le voci nella task list, altrimenti non faccio passi avanti e gli altri mi superano.”
+
+E cosi ti ritrovi a fare le ore piccole, a non riposarti mai ed ecco arrivare il **burnout**.
+
+Quando metti il concetto di produttività insieme al concetto di competizione, allora ecco che emerge Moloch.
+
+Lo vedi con le sue mani demoniache che ti afferra e ti sfida a fare di più, sempre di più.
+
+E chissenefrega se sei stanco e devi riposare, non puoi fermarti perché gli altri non si fermano.
+
+Solo che Moloch non esiste, sia nel caso del poema di Ginsberg, che nel caso dell’intelligenza artificiale.
+
+Nel mondo reale, non c’è nessuno che ci spinge a correre oltre il limite: lo facciamo a causa dell’ansia e di una **malsana competizione** fomentata dalla società e altre cose molto complesse.
 
 ​
 
-### **HAI MAI LA SENSAZIONE CHE LE INFORMAZIONI TI SFUGGANO DALLE MANI PER QUALCHE PROBLEMA?**
+### **COME USCIRE DALLA TRAPPOLA DI MOLOCH?**
 
-Poi c’è questa domanda, quella che qualifica l’**ansia** generata dal tuo spazio Notion.
+Quindi, Moloch (cioè l’ansia e la competizione) spingono tutti noi a essere sempre più produttivi anche se arriviamo al punto in cui tutta sta **produttività ci fa male**.
 
-E diciamoci la verità, l’obiettivo stesso di uno strumento come Notion è quello di darti il controllo del tuo business e quindi **ridurre l’ansia**, non aumentarla.
+E non riusciamo a fermarci, perché non vogliamo perdere il posto nella corsa verso l’abisso.
 
-Se quando fai cose su Notion, ti sembra essere un bombarolo e pensi di dover fare attenzione a quello che fai perché se no **si scassa tutto**, allora c’è qualche problema.
+Che poi, se volessimo fermarci per davvero, come potremmo fare?
 
-E diciamo che questo è lo stato finale.
+Nel podcast, come ho già detto, il modo per fermarsi è tramite lo stop allo sviluppo di AI per i prossimi 6 mesi, figo.
 
-Di solito, quando le persone si ritrovano in questo stato hanno a disposizione una di queste opzioni: 
+Ma nel caso della produttività tossica, **come ci si ferma**?
 
-*   **ricominciano da capo** (ricominciando il ciclo); 
+Penso che ci siano vari modi che dipendono tutti dalla tua **cazzimma**, come si dice dalle mie parti (sarebbe la grinta).
 
-*   **cambiano strumento** (scegliendo qualcosa di più costoso);
+Ora te li dico in breve, ma in un prossimo numero della newsletter ne parlerò più in dettaglio:
 
-*   chiamano me e Beatrice e **risolvono il problema**.
+*   Hai tanta cazzimma ma poco controllo sulla tua routine? **Blocca delle giornate** (o anche solo delle ore) ogni settimana per il riposo assoluto (niente pc, niente smartphone e niente attività che ti portino verso i tuoi obiettivi);
+
+*   \- Hai poca cazzimma ma tanto controllo sulla tua routine? Comincia a studiare la [slow productivity](https://www.newyorker.com/culture/office-space/its-time-to-embrace-slow-productivity), [la mindful productivity](https://nesslabs.com/mindful-productivity-2) e prova a metterle in pratica a poco a poco.
+
+*   \- Hai 0 cazzimma e non hai nemmeno idea di cosa sia sta questione della produttività? [Leggi qui](https://www.linkedin.com/feed/update/urn:li:activity:7062831996913225728/).
 
 ​
 
-Ora, non sono te come hai risposto a queste domande.
+Ok, lo so, è stato un numero di newsletter particolare.
 
-Come ti dicevo, sono solo 3 domande di molte altre che facciamo (in modo esplicito oppure no) alle persone che fanno la prima call (gratis) con noi.
+Tuttavia spero che, anche se meno pratico e più critico, questo numero ti abbia permesso di scoprire nuove cose e di **allargare il tuo punto di vista sulla produttività**.
 
-E alla fine del quiz ci sono poi dei numeri che guidano la nostra azione, ma non voglio farti spoiler sui prossimi sviluppi di Notion Builders.
+Si tratta pur sempre di un tema presente fin dagli inizi di questa newsletter e dopo quasi un anno di pubblicazione, comincio a voler dire qualcosa di mio, più che curare quello che di altri.
 
-L’obiettivo di questa newsletter era darti qualche strumento per **valutare la tua situazione** e mettere in atto delle **risoluzioni**.
+Ma fammi sapere cosa ne pensi, mai come questa volta **sono curioso di sapere il tuo feedback**: preferisci questo approccio oppure lo schema più classico dei consigli su Notion ecc?
 
-Insomma, **prevenire prima che curare**.
+Puoi **rispondere a questa stessa email** oppure mandarmi un **messaggio su Linkedin**, ti basta cliccare sul pulsante qui sotto.
 
-Magari noti che le tue risposte alle domande che ti ho elencato non ti piacciono e decidi di risolvere, benissimo.
-
-Se poi pensi di avere bisogno di supporto e vuoi il nostro aiuto nel capire meglio la situazione, **clicca il pulsante qui sotto**: offriamo noi.
-
-E detto questo, per oggi è tutto: buona settimana e beccati le risorse.
+E detto questo, buona settimana e **beccati le risorse**.
 
 Daniele
