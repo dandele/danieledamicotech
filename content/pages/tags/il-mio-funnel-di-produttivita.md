@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #40: A COLAZIONE CON L'AI..."
+title: "\U0001F9F0 kSC #40: IL MIO FUNNEL"
 colors: colors-a
 date: '2023-05-28'
 description: E MOLOCH
