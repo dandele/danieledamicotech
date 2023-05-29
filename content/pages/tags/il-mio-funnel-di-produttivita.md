@@ -386,8 +386,6 @@ Chiariamoci, potevo fare time blocking anche utilizzando Notion e Make, solo che
 
 In pratica, ho messo da parte il piacere di ottimizzare per fare effettivamente cose.
 
-
-
 ### **LA TERRA DI MEZZO: LA FASE DI ESECUZIONE**
 
 Qui succede il casino.
