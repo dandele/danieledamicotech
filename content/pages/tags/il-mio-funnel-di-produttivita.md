@@ -348,7 +348,7 @@ Lo so, come in tutte le mie newsletter, i punti che ho citato sono criptici/fant
 
 Ma continua a leggere e vedrai che mi spiegherò meglio.
 
-
+<br>
 
 ### **IL REGNO DI NOTION: LA FASE DI SELEZIONE!**
 
