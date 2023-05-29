@@ -320,9 +320,9 @@ slug: il-mio-funnel-di-produttivita
 ---
 Ehi ciao 👋,
 
-questo è il numero 362 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 40 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti parlerò del **demone nascosto dietro la produttività tossica**.
+E oggi ti parlerò del **ti parlerò del mio funnel di produttività**.
 
 <br>
 
@@ -330,7 +330,7 @@ E oggi ti parlerò del **demone nascosto dietro la produttività tossica**.
 
 **TL;DR**
 
-*   Il demone nascosto dietro la produttività tossica
+*   Come ho costruito il mio funnel di produttività;
 
 *   Una risorsa per la tua audience building
 
@@ -338,128 +338,134 @@ E oggi ti parlerò del **demone nascosto dietro la produttività tossica**.
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 5 minuti.
+**Il tempo di lettura previsto è:** 4 minuti.
 
 ***
 
 <br>
 
-Una gran parte dei contenuti pubblicati negli ultimi mesi su questa Newsletter si è concentrata su **Notion** e sulle sue applicazioni.
+Per quanto Notion sia l’hub centrale in cui tante cose della mia vita avvengono, non è il solo tool che utilizzo per essere produttivo.
 
-Altre volte ho parlato di **personal branding, di creator economy e di produttività**.
+Anzi, ti dirò che **identificare un tool come intero sistema di produttività è un tantino esagerato**.
 
-Oggi però voglio esplorare un po’ di più la mia curiosità.
+I tool sono strumenti che si collocano in determinate fasi/aree del tuo **funnel di produttività**.
 
-E voglio parlarti di un’**area nascosta della produttività**.
+E nel mio funnel, Notion ha un posto al fianco di altri tool.
+
+E ora ti dico quali sono.
 
 <br />
 
 ## **IL DEMONE NASCOSTO DIETRO LA PRODUTTIVITÀ TOSSICA**
 
-Ok, fai un bel respiro e fidati di me.
+Ora, prima serve capire che cosa intendo quando parlo di funnel della produttività?
 
-Vedrai che alla fine di questa newsletter ti sarà tutto chiaro, ecco l’**outline** di quello che leggerai.
+Cosa intendo per funnel di produttività?
 
-*   A colazione con l’AI e Moloch
+Intendo il percorso con cui parti dalle infinite cose che puoi fare ed arrivi a fare effettivamente delle cose.
 
-*   Che c’entra la produttività?
+In pratica è il **percorso che ti porta dal caos alla produttività.**
 
-*   Come uscire dalla trappola di Moloch?
+È fatto da alcune fasi, e proprio come in un classico funnel, in ogni fase succedono cose.
 
-E ora che ho rivelato, almeno in parte, le mie carte direi che possiamo arrivare al sodo.
+E oggi ti svelerò quale tool utilizzo in ognuna di queste fasi.
 
-​
+*   Il regno di Notion: la fase di selezione
 
-### **A COLAZIONE CON L’AI E MOLOCH**
+*   Il regno di Akiflow: la fase di organizzazione
 
-Qualche giorno fa stavo ascoltando un **podcast di Lex Friedman sull’intelligenza artificiale** e sul motivo per cui si dovrebbe fermare il suo sviluppo per almeno 6 mesi.
+*   La terra di Mezzo: la fase di esecuzione
 
-Un argomento bello interessante e un po’ inquietante, [ecco il link se vuoi dargli un ascolto](https://www.youtube.com/watch?v=VcVfceTsD0A).
+Lo so, come in tutte le mie newsletter, i punti che ho citato sono criptici/fantasiosi.
 
-Ad ogni modo, nel corso della discussione con questo tizio chiamato Max Tegmark, si comincia a parlare della spinta umana alla **competizione** anche se questa rischia di essere dannosa.
+Ma continua a leggere e vedrai che mi spiegherò meglio.
 
-In particolare, i due si riferiscono a quel tipo di competizione che si crea quando c’è una scoperta importante e tutti cominciano a cercare di accaparrarsi quella scoperta, per usarla come vogliono.
 
-Un po’ com’è successo con la l’energia atomica e la conseguente corsa alle armi.
 
-Ed è in questo contesto che Max Tegmark cita un saggio dal titolo inquietante: “**Meditations on Moloch**”, un saggio che a sua volta cita un poema di Allen Ginsberg, “Urlo”.
+### **IL REGNO DI NOTION: LA FASE DI SELEZIONE!**
 
-In pratica, questo Ginsberg attribuisce al demone Moloch la causa di tanti mali della società.
+La fase di selezione è la prima fase del funnel, il momento in cui analizzi tutte le cose che hai da fare, scegli quelle su cui vuoi concentrarti e da far passare alle fasi successive.
 
-Ginsberg però è un poeta e quando parla di demoni, in realtà si riferisce ad altro.
+In pratica è la **fase delle priorità**, il momento in cui più il tuo sguardo riesce ad essere olistico e meglio è.
 
-In questo caso, quando parla di Moloch si riferisce **alla** **società americana e al capitalismo**, perché stimolano la spinta ad una competizione anche dannosa tra le persone.
+Per questo, hai bisogno di un tool che centralizzi tutte le informazioni riguardo progetti, processi, risorse necessarie ecc.
 
-E nel podcast, Fridman e Tegmark, fanno notare come questo stesso gioco di competizione malata si stia generando ora nel campo dell’intelligenza artificiale.
+E io utilizzo Notion.
 
-Tutti devono fare qualcosa in questo campo, anche se per molti scienziati continuare a sviluppare questa tecnologia, porta dei **grandi rischi per l’intero genere umano**.
+Lo utilizzo perché è per me il tool che meglio funziona in quest’ottica.
 
-Ma non ci si riesce a fermare, perché nessuno vuole farlo, soprattutto se pensa di perdere terreno nei confronti di altri che invece non si fermeranno.
+Grazie a Notion riesco a gestire i progetti, i task, le risorse e tutto quello di cui ho bisogno per raggiungere un punto di vista olistico.
 
-In pratica, tutti **corriamo verso l’abisso** e nessuno riesce a fermarsi.
+E in funzione di tutte queste informazioni, posso fare la mia selezione al meglio
 
-Pensavi fosse la solita newsletter allegra, eh?
+C’è una **condizione fondamentale** però, devi essere disciplinato in questa fase e devi scegliere un solo tool: nel mio caso, Notion deve essere **l’unica sorgente di verità che ho sulle mie attività**.
+
+E se ci sono altri tool di mezzo e quindi ci sono dubbi, allora le cose si complicano.
 
 <br>
 
-### **CHE C’ENTRA LA PRODUTTIVITÀ?**
+### **IL REGNO DI AKIFLOW: LA FASE DI ORGANIZZAZIONE**
 
-Ora, che c’entra tutta sta roba con la produttività?
+Ok, una volta che hai deciso cosa devi fare è il momento di organizzarsi.
 
-C’entra perché mentre Fridman e Tegmark parlavano di AGI e demoni, io pensavo alla produttività e alla sua metà oscura: **la produttività tossica**.
+Questa è la seconda fase del funnel e in questo caso hai bisogno di tool che ti permettano di capire **cosa devi fare, quando devi farlo e come devi farlo**.
 
-Si tratta di quella produttività in cui finisci quando ti fai prendere dall’**ansia di fare cose** e ti spingi oltre i limiti di **stanchezza e salute**.
+Per questo utilizzo [**Akiflow**](https://akiflow.com/).
 
-“Devo completare tutte le voci nella task list, altrimenti non faccio passi avanti e gli altri mi superano.”
+Grazie ad Akiflow, e alla sua integrazione con Notion, posso prendere i task gestiti su Notion e utilizzarli per fare **time blocking** su Akiflow.
 
-E cosi ti ritrovi a fare le ore piccole, a non riposarti mai ed ecco arrivare il **burnout**.
+Chiariamoci, potevo fare time blocking anche utilizzando Notion e Make, solo che ho preferito utilizzare uno strumento verticale (e che mi evitasse qualche casino) per gestire questa fase così delicata del funnel.
 
-Quando metti il concetto di produttività insieme al concetto di competizione, allora ecco che emerge Moloch.
+In pratica, ho messo da parte il piacere di ottimizzare per fare effettivamente cose.
 
-Lo vedi con le sue mani demoniache che ti afferra e ti sfida a fare di più, sempre di più.
 
-E chissenefrega se sei stanco e devi riposare, non puoi fermarti perché gli altri non si fermano.
 
-Solo che Moloch non esiste, sia nel caso del poema di Ginsberg, che nel caso dell’intelligenza artificiale.
+### **LA TERRA DI MEZZO: LA FASE DI ESECUZIONE**
 
-Nel mondo reale, non c’è nessuno che ci spinge a correre oltre il limite: lo facciamo a causa dell’ansia e di una **malsana competizione** fomentata dalla società e altre cose molto complesse.
+Qui succede il casino.
+
+Questa è la fase in cui, dopo aver deciso cosa fare, come farlo e quando farlo, **devi effettivamente fare le cose**.
+
+Quindi non c’è un tool che domina sugli altri, dipende da quello che fai e quello di cui hai bisogno.
+
+Ovviamente, nel mio caso, gran parte del lavoro per [Notion Builders](https://www.notionbuilders.it/) è fatta su Notion.
+
+Ma ci sono tanti altri tool che utilizzo, in funzione della situazione e del task da fare.
+
+Tra gli altri tool che utilizzo di più ci sono:
+
+*   Figma
+
+*   Google Drive
+
+*   Figjam
+
+*   Linkedin
+
+*   Convertkit
+
+*   Obsidian
+
+*   Zcal
+
+Insomma, questa è la fase in cui tutto dipende da te.
 
 ​
 
-### **COME USCIRE DALLA TRAPPOLA DI MOLOCH?**
+Essere produttivi non significa solo fare cose, ci sono tante altre variabili (e fasi) che devi considerare.
 
-Quindi, Moloch (cioè l’ansia e la competizione) spingono tutti noi a essere sempre più produttivi anche se arriviamo al punto in cui tutta sta **produttività ci fa male**.
+**E per ogni fase, c’è un tool più adatto.**
 
-E non riusciamo a fermarci, perché non vogliamo perdere il posto nella corsa verso l’abisso.
+Non so se te hai mai visto il tuo lavoro in questi termini, ma prova a mappare la tua produttività in queste fasi.
 
-Che poi, se volessimo fermarci per davvero, come potremmo fare?
+E per le prime due, scegli un solo un tool da utilizzare.
 
-Nel podcast, come ho già detto, il modo per fermarsi è tramite lo stop allo sviluppo di AI per i prossimi 6 mesi, figo.
+Per la fase di esecuzione, invece, puoi essere più flessibile.
 
-Ma nel caso della produttività tossica, **come ci si ferma**?
+Poi, se hai domande su quale tool utilizzare in quale fase, **puoi rispondere a questa email** o **mandarmi un DM su Linkedin**, sono sempre disponibile ad aiutarti!
 
-Penso che ci siano vari modi che dipendono tutti dalla tua **cazzimma**, come si dice dalle mie parti (sarebbe la grinta).
+E ho giusto un po’ di esperienza con questi argomenti.
 
-Ora te li dico in breve, ma in un prossimo numero della newsletter ne parlerò più in dettaglio:
-
-*   Hai tanta cazzimma ma poco controllo sulla tua routine? **Blocca delle giornate** (o anche solo delle ore) ogni settimana per il riposo assoluto (niente pc, niente smartphone e niente attività che ti portino verso i tuoi obiettivi);
-
-*   \- Hai poca cazzimma ma tanto controllo sulla tua routine? Comincia a studiare la [slow productivity](https://www.newyorker.com/culture/office-space/its-time-to-embrace-slow-productivity), [la mindful productivity](https://nesslabs.com/mindful-productivity-2) e prova a metterle in pratica a poco a poco.
-
-*   \- Hai 0 cazzimma e non hai nemmeno idea di cosa sia sta questione della produttività? [Leggi qui](https://www.linkedin.com/feed/update/urn:li:activity:7062831996913225728/).
-
-​
-
-Ok, lo so, è stato un numero di newsletter particolare.
-
-Tuttavia spero che, anche se meno pratico e più critico, questo numero ti abbia permesso di scoprire nuove cose e di **allargare il tuo punto di vista sulla produttività**.
-
-Si tratta pur sempre di un tema presente fin dagli inizi di questa newsletter e dopo quasi un anno di pubblicazione, comincio a voler dire qualcosa di mio, più che curare quello che di altri.
-
-Ma fammi sapere cosa ne pensi, mai come questa volta **sono curioso di sapere il tuo feedback**: preferisci questo approccio oppure lo schema più classico dei consigli su Notion ecc?
-
-Puoi **rispondere a questa stessa email** oppure mandarmi un **messaggio su Linkedin**, ti basta cliccare sul pulsante qui sotto.
-
-E detto questo, buona settimana e **beccati le risorse**.
+Buona settimana e beccati le risorse.
 
 Daniele
