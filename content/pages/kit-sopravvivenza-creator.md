@@ -197,5 +197,6 @@ sections:
       - content/pages/tags/il-tuo-notion-collassera.md
       - content/pages/tags/a-colazione-con-l-ai-e-moloch.md
       - content/pages/tags/il-mio-funnel-di-produttivita.md
+      - content/pages/tags/niente-piu-kit-quotidiano.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
