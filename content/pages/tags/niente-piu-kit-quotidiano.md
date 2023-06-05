@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #41: A COLAZIONE CON L'AI..."
+title: "\U0001F9F0 kSC #41: NIENTE PIU"
 colors: colors-a
 date: '2023-06-04'
 description: ecco perché
