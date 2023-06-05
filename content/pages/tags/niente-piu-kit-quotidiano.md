@@ -180,7 +180,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
-date: '2023-05-14'
+date: '2023-06-04'
 description: ecco perché
 featuredImage:
   type: ImageBlock
