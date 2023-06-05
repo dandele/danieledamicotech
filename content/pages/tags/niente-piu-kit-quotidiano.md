@@ -181,7 +181,6 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2023-05-14'
-client: Awesome client
 description: E MOLOCH
 featuredImage:
   type: ImageBlock
