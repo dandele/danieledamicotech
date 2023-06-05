@@ -193,7 +193,7 @@ bottomSections:
     elementId: ''
     backgroundSize: full
     actions:
-      - label: CHE NE PENSI?
+      - label: 'UN DATABASE = '
         altText: ''
         showIcon: true
         icon: arrowRight
