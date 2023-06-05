@@ -320,9 +320,9 @@ slug: niente-piu-kit-quotidiano
 ---
 Ehi ciao 👋,
 
-questo è il numero 362 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 368 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti parlerò del **demone nascosto dietro la produttività tossica**.
+E oggi ti parlerò del **perché questa newsletter non avrà più il formato quotidiano.**
 
 <br>
 
@@ -330,7 +330,7 @@ E oggi ti parlerò del **demone nascosto dietro la produttività tossica**.
 
 **TL;DR**
 
-*   Il demone nascosto dietro la produttività tossica
+*   Kit di Sopravvivenza per Creator: niente più daily newsletter;
 
 *   Una risorsa per la tua audience building
 
@@ -344,122 +344,167 @@ E oggi ti parlerò del **demone nascosto dietro la produttività tossica**.
 
 <br>
 
-Una gran parte dei contenuti pubblicati negli ultimi mesi su questa Newsletter si è concentrata su **Notion** e sulle sue applicazioni.
+Quasi un anno fa, giorno più giorno meno, ho cominciato a pubblicare questa newsletter.
 
-Altre volte ho parlato di **personal branding, di creator economy e di produttività**.
+Era uno dei miei **sogni** rimasto nel cassetto per troppo tempo e, dopo aver ottenuto un bel po' di validazione sul formato e sui contenuti, ho deciso di buttarmi e lanciarla.
 
-Oggi però voglio esplorare un po’ di più la mia curiosità.
+Doveva essere una newsletter in cui fornivo ogni giorno una risorsa utile per i creator e la domenica (l'edizione settimanale) doveva fornirne tre.
 
-E voglio parlarti di un’**area nascosta della produttività**.
+**L'all you can eat delle risorse per creator (e non solo).**
+
+So che è successo un anno fa perché ho contato i giorni e le newsletter.
+
+E l'ho fatto grazie alla newsletter quotidiana andata avanti fino a qualche giorno fa, fino al numero 365.
+
+E perché?
+
+Quali fattori ho valutato per prendere questa decisione?
+
+Oggi te li spiego, magari ti potranno essere utili.
 
 <br />
 
-## **IL DEMONE NASCOSTO DIETRO LA PRODUTTIVITÀ TOSSICA**
+## **COME FERMARTI QUANDO VAI DI CORSA**
 
-Ok, fai un bel respiro e fidati di me.
+Quando fai qualcosa per tutti i giorni succedono cose.
 
-Vedrai che alla fine di questa newsletter ti sarà tutto chiaro, ecco l’**outline** di quello che leggerai.
+Ottieni dei dati importanti.
 
-*   A colazione con l’AI e Moloch
+Ed è importante interpretare questi dati per decidere i prossimi passi del tuo operato.
 
-*   Che c’entra la produttività?
+Ecco quali fattori che ho considerato per **eliminare il formato quotidiano**:
 
-*   Come uscire dalla trappola di Moloch?
+*   Curiosità o automatismo? La differenza è sottile
 
-E ora che ho rivelato, almeno in parte, le mie carte direi che possiamo arrivare al sodo.
+*   Divertimento o disciplina? La differenza è sottile
 
-​
+*   Rumore o valore? La differenza è enorme
 
-### **A COLAZIONE CON L’AI E MOLOCH**
-
-Qualche giorno fa stavo ascoltando un **podcast di Lex Friedman sull’intelligenza artificiale** e sul motivo per cui si dovrebbe fermare il suo sviluppo per almeno 6 mesi.
-
-Un argomento bello interessante e un po’ inquietante, [ecco il link se vuoi dargli un ascolto](https://www.youtube.com/watch?v=VcVfceTsD0A).
-
-Ad ogni modo, nel corso della discussione con questo tizio chiamato Max Tegmark, si comincia a parlare della spinta umana alla **competizione** anche se questa rischia di essere dannosa.
-
-In particolare, i due si riferiscono a quel tipo di competizione che si crea quando c’è una scoperta importante e tutti cominciano a cercare di accaparrarsi quella scoperta, per usarla come vogliono.
-
-Un po’ com’è successo con la l’energia atomica e la conseguente corsa alle armi.
-
-Ed è in questo contesto che Max Tegmark cita un saggio dal titolo inquietante: “**Meditations on Moloch**”, un saggio che a sua volta cita un poema di Allen Ginsberg, “Urlo”.
-
-In pratica, questo Ginsberg attribuisce al demone Moloch la causa di tanti mali della società.
-
-Ginsberg però è un poeta e quando parla di demoni, in realtà si riferisce ad altro.
-
-In questo caso, quando parla di Moloch si riferisce **alla** **società americana e al capitalismo**, perché stimolano la spinta ad una competizione anche dannosa tra le persone.
-
-E nel podcast, Fridman e Tegmark, fanno notare come questo stesso gioco di competizione malata si stia generando ora nel campo dell’intelligenza artificiale.
-
-Tutti devono fare qualcosa in questo campo, anche se per molti scienziati continuare a sviluppare questa tecnologia, porta dei **grandi rischi per l’intero genere umano**.
-
-Ma non ci si riesce a fermare, perché nessuno vuole farlo, soprattutto se pensa di perdere terreno nei confronti di altri che invece non si fermeranno.
-
-In pratica, tutti **corriamo verso l’abisso** e nessuno riesce a fermarsi.
-
-Pensavi fosse la solita newsletter allegra, eh?
-
-<br>
-
-### **CHE C’ENTRA LA PRODUTTIVITÀ?**
-
-Ora, che c’entra tutta sta roba con la produttività?
-
-C’entra perché mentre Fridman e Tegmark parlavano di AGI e demoni, io pensavo alla produttività e alla sua metà oscura: **la produttività tossica**.
-
-Si tratta di quella produttività in cui finisci quando ti fai prendere dall’**ansia di fare cose** e ti spingi oltre i limiti di **stanchezza e salute**.
-
-“Devo completare tutte le voci nella task list, altrimenti non faccio passi avanti e gli altri mi superano.”
-
-E cosi ti ritrovi a fare le ore piccole, a non riposarti mai ed ecco arrivare il **burnout**.
-
-Quando metti il concetto di produttività insieme al concetto di competizione, allora ecco che emerge Moloch.
-
-Lo vedi con le sue mani demoniache che ti afferra e ti sfida a fare di più, sempre di più.
-
-E chissenefrega se sei stanco e devi riposare, non puoi fermarti perché gli altri non si fermano.
-
-Solo che Moloch non esiste, sia nel caso del poema di Ginsberg, che nel caso dell’intelligenza artificiale.
-
-Nel mondo reale, non c’è nessuno che ci spinge a correre oltre il limite: lo facciamo a causa dell’ansia e di una **malsana competizione** fomentata dalla società e altre cose molto complesse.
+Ora te ne parlo in dettaglio.
 
 ​
 
-### **COME USCIRE DALLA TRAPPOLA DI MOLOCH?**
+### **CURIOSITÀ O AUTOMATISMO? LA DIFFERENZA È SOTTILE**
 
-Quindi, Moloch (cioè l’ansia e la competizione) spingono tutti noi a essere sempre più produttivi anche se arriviamo al punto in cui tutta sta **produttività ci fa male**.
+Partiamo da questo punto, la questione più semplice.
 
-E non riusciamo a fermarci, perché non vogliamo perdere il posto nella corsa verso l’abisso.
+Ho cominciato a pubblicare questa newsletter nel formato quotidiano per una sfida con me stesso.
 
-Che poi, se volessimo fermarci per davvero, come potremmo fare?
+L' obiettivo era quello di **creare qualcosa, tutti i giorni per un anno.**
 
-Nel podcast, come ho già detto, il modo per fermarsi è tramite lo stop allo sviluppo di AI per i prossimi 6 mesi, figo.
+Mi avrebbe insegnato tante cose sui lettori e su di me.
 
-Ma nel caso della produttività tossica, **come ci si ferma**?
+E soprattutto mi avrebbe insegnato tante cose sulla creazione di contenuti.
 
-Penso che ci siano vari modi che dipendono tutti dalla tua **cazzimma**, come si dice dalle mie parti (sarebbe la grinta).
+E ci sono riuscito, dopo tantissime iterazioni ho trasformato un processo creativo in qualcosa di automatico.
 
-Ora te li dico in breve, ma in un prossimo numero della newsletter ne parlerò più in dettaglio:
+Cosi tanto automatico che non soddisfa più la mia curiosità.
 
-*   Hai tanta cazzimma ma poco controllo sulla tua routine? **Blocca delle giornate** (o anche solo delle ore) ogni settimana per il riposo assoluto (niente pc, niente smartphone e niente attività che ti portino verso i tuoi obiettivi);
+Ho scomposto il concetto di newsletter, l'ho trasformato in un tweet che fa selezione, con la libertà di condividere quello che preferisci fregandotene che i link piacciano o meno alla piattaforma.
 
-*   \- Hai poca cazzimma ma tanto controllo sulla tua routine? Comincia a studiare la [slow productivity](https://www.newyorker.com/culture/office-space/its-time-to-embrace-slow-productivity), [la mindful productivity](https://nesslabs.com/mindful-productivity-2) e prova a metterle in pratica a poco a poco.
+E cosi riuscivo a **raggiungere più obiettivi**.
 
-*   \- Hai 0 cazzimma e non hai nemmeno idea di cosa sia sta questione della produttività? [Leggi qui](https://www.linkedin.com/feed/update/urn:li:activity:7062831996913225728/).
+Innanzitutto, riuscivo a dare al mio lettore il minimo carico informativo possibile.
+
+Inoltre, riducevo lo sforzo creativo anche per me, il creatore della newsletter.
+
+Ma per riuscire a fare sta cosa, dovevo **plasmare il processo creativo**, rendendolo adatto al meglio alle mie esigenze.
+
+All'inizio scrivevo ogni newsletter nel giorno stesso in cui usciva, mi svegliavo un'oretta prima, selezionavo, scrivevo e pubblicavo entro le 7 di mattina.
+
+Poi il processo è cambiato (perché sono cambiate le mie abitudini e anche la mia vita) e quindi ho cominciato a preparare le newsletter in batch e programmarle.
+
+Nelle sue ultime iterazioni, il processo durava un paio di ore per una settimana circa di pubblicazione.
+
+Tutto in un unico blocco di il lunedì mattina.
+
+Solo che è diventato così automatico che potrei andare avanti per anni senza perdere neanche una giornata.
+
+Ma a quale scopo?
 
 ​
 
-Ok, lo so, è stato un numero di newsletter particolare.
+### **DIVERTIMENTO O DISCIPLINA? LA DIFFERENZA È SOTTILE**
 
-Tuttavia spero che, anche se meno pratico e più critico, questo numero ti abbia permesso di scoprire nuove cose e di **allargare il tuo punto di vista sulla produttività**.
+Quando l'atto creativo non è più difficile, diventa **noioso**.
 
-Si tratta pur sempre di un tema presente fin dagli inizi di questa newsletter e dopo quasi un anno di pubblicazione, comincio a voler dire qualcosa di mio, più che curare quello che di altri.
+Non so te, ma io funziono così.
 
-Ma fammi sapere cosa ne pensi, mai come questa volta **sono curioso di sapere il tuo feedback**: preferisci questo approccio oppure lo schema più classico dei consigli su Notion ecc?
+Quando una sfida mi attira per la sua difficoltà, mi ossessiona e non sono soddisfatto fino a quando non l'ho risolta.
 
-Puoi **rispondere a questa stessa email** oppure mandarmi un **messaggio su Linkedin**, ti basta cliccare sul pulsante qui sotto.
+E la questione del "processo sostenibile" di cui ti ho parlato al punto precedente, era proprio una sfida di questo tipo.
 
-E detto questo, buona settimana e **beccati le risorse**.
+Una volta che l'ho conclusa, non è più divertente ed è diventato prioritario per me capire altre cose.
+
+Ho dovuto capire quali fossero i pro e i contro di proseguire.
+
+Da un lato i **vantaggi**: continuare a raccogliere dati sui gusti dei lettori, continuare ad avere uno spazio quotidiano per eventuali sponsorship, continuare a stare sempre presente nel loop dei contenuti ecc.
+
+Ed ho considerato gli **svantaggi**: noia per me e per il lettore (ma ne parleremo al punto successivo), blocchi di tempo che potrei riservare ad altro ecc.
+
+E gli svantaggi si sono rivelati più dei vantaggi.
+
+​
+
+### **RUMORE O VALORE? LA DIFFERENZA È SOTTILE**
+
+E arriviamo quindi a questo punto, quello più importante.
+
+Alla base di una newsletter di selezione (come quella quotidiana e in parte questa) deve esserci una priorità secondo me, la più importante: **creare valore.**
+
+E se non crei valore, allora crei rumore.
+
+Perché diciamoci la verità, **di contenuti ne è pieno il mondo** e per quanto tu possa cercare di dare il tuo contributo, è importante capire se quel contributo crea valore oppure si disperde nel mare di contenuti che tutti noi consumiamo ogni giorno.
+
+E qui i numeri parlano chiaro.
+
+Più di un lettore mi ha rivelato che quelle newsletter quotidiane finivano automaticamente in una cartella specifica.
+
+Che significa?
+
+Significa che il valore nella selezione c'era, cosi tanto dal creare una cartella specifica su Gmail e attingere alle risorse condivide, ma non abbastanza da prendere azione subito.
+
+Che è un problema che ho riscontrato in tante selezioni.
+
+Ora, non so per te, ma **questo per me è rumore e non è valore.**
+
+​
+
+​
+
+Ora però di sicuro ti starai facendo una domanda.
+
+E ora?
+
+Ora il Kit resterà, ma solo nel **formato settimanale** (quello che stai leggendo).
+
+Il processo creativo che ho ottimizzato e reso automatico avrà nuovi obiettivi, su cui non ti faccio spoiler.
+
+**E tutte le risorse che per un anno ho inviato tutti i giorni?**
+
+Questa è la parte interessante, quella che ti porterà a **cliccare sul pulsante qui sotto (almeno spero).**
+
+Tutte le risorse che ho pubblicato fanno parte di un mio database su Notion.
+
+E non sono 365, sono molte di più.
+
+Sono suddivise per categorie, con relativi dettagli ecc.
+
+**E quel database non sparirà, resta vivo per il mio utilizzo e anche per il tuo.**
+
+Se finora hai ricevuto la newsletter quotidiana, puoi accedere a tutti i link recuperando l'e-mail, salvando il link e tanti altri casini.
+
+Se invece sei iscritto solo alla newsletter settimanale, certe risorse non le hai mai viste.
+
+Quindi ho deciso di prendere il database, con tutte le risorse e dartene l'accesso.
+
+In pratica, un anno di selezione, tutta disponibile oltre questo pulsante qui sotto.
+
+E continuerà a crescere, fidati.
+
+Il prezzo per l'accesso al database non è fisso, dopo i primi acquisti aumenterà a blocchi, quindi **ti consiglio di fare veloce**.
+
+E detto questo, buona settimana e beccati le risorse.
 
 Daniele
+
