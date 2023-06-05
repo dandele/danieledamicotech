@@ -193,7 +193,7 @@ bottomSections:
     elementId: ''
     backgroundSize: full
     actions:
-      - label: 'UN DATABASE = '
+      - label: 'UN DATABASE = +365 RISORSE '
         altText: ''
         showIcon: true
         icon: arrowRight
