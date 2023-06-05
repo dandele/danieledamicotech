@@ -201,7 +201,7 @@ bottomSections:
         style: primary
         type: Button
         elementId: annual_review_button
-        url: 'https://www.linkedin.com/in/daniele-damico/'
+        url: 'https://danieledamico.gumroad.com/l/yearly-kit-release'
     styles:
       self:
         height: auto
