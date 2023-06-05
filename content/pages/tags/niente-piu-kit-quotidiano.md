@@ -181,7 +181,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2023-05-14'
-description: E MOLOCH
+description: ecco perché
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
