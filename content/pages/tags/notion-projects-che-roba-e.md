@@ -206,7 +206,7 @@ bottomSections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nEssere un creator/avere un personal brand richiede parecchie energie.\n\n​[Ma quanto può essere di impatto sulla tua vita?](https://www.timstodz.com/how-to-use-your-personal-brand-to-generate-wealth/)​\n\n<br>\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nTantissime persone indossano ormai dispositivi che misurano la loro attività fisica e salute.\n\n​[Ma se ci fossero dispositivi che misurano la tua produttività?](https://www.trypylot.com/?ck_subscriber_id=1121223563)​\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nI corsi sono uno dei metodi più diffusi, ad oggi, per monetizzare.\n\n​[Ma come si crea un corso?](https://creatorscience.com/online-course/)​​\n"
+    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nSahil Bloom fa numeri da record.\n\nIn 3 anni ha creato un'audience di 400mila persone, se non di più.\n\n​[E come ha fatto?](https://growthinreverse.com/sahil-bloom/)**​**\n\n<br>\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nQuanto lavori?\n\nPoco o tanto?\n\nForse lavori un po' troppo e non è l'ideale.\n\n​[Ecco come puoi capirlo (e risolvere).](https://twitter.com/jspector/status/1663168391731879937)​\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nMonetizzare non è la parte finale del tuo percorso da creator.\n\nE solo l'inizio di un altro percorso.\n\n​[Ed è così che puoi costruire il tuo.](https://nathanbarry.com/creator-flywheels/)​\n"
     styles:
       self:
         height: auto
