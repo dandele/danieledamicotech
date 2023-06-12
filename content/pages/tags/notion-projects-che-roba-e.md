@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #41: NIENTE PIÙ KIT QUOTIDIANO..."
+title: "\U0001F9F0 kSC #42: MA NOTION PROJECTS…"
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
