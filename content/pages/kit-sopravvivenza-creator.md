@@ -198,5 +198,6 @@ sections:
       - content/pages/tags/a-colazione-con-l-ai-e-moloch.md
       - content/pages/tags/il-mio-funnel-di-produttivita.md
       - content/pages/tags/niente-piu-kit-quotidiano.md
+      - content/pages/tags/notion-projects-che-roba-e.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
