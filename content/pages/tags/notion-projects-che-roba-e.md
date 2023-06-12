@@ -177,9 +177,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #42: MA NOTION PROJECTS…"
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2023-06-11'
 description: che roba è?
 featuredImage:
