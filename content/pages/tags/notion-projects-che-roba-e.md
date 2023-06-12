@@ -181,7 +181,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2023-06-11'
-description: ecco perché
+description: che roba è?
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
