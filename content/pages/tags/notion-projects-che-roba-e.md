@@ -320,9 +320,9 @@ slug: notion-projects-che-roba-e
 ---
 Ehi ciao 👋,
 
-questo è il numero 368 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 369 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti parlerò del **perché questa newsletter non avrà più il formato quotidiano.**
+E oggi ti parlerò di **Notion Projects.**
 
 <br>
 
@@ -330,7 +330,7 @@ E oggi ti parlerò del **perché questa newsletter non avrà più il formato qu
 
 **TL;DR**
 
-*   Kit di Sopravvivenza per Creator: niente più daily newsletter;
+*   Notion Projects: che roba è?
 
 *   Una risorsa per la tua audience building
 
@@ -338,173 +338,141 @@ E oggi ti parlerò del **perché questa newsletter non avrà più il formato qu
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 5 minuti.
+**Il tempo di lettura previsto è:** 4 minuti.
 
 ***
 
 <br>
 
-Quasi un anno fa, giorno più giorno meno, ho cominciato a pubblicare questa newsletter.
+Sono sempre contento quando escono nuove feature di Notion perché significa che ho nuovi giocattoli con cui fare magie.
 
-Era uno dei miei **sogni** rimasto nel cassetto per troppo tempo e, dopo aver ottenuto un bel po' di validazione sul formato e sui contenuti, ho deciso di buttarmi e lanciarla.
+Il fatto è che, per ogni nuova feature di Notion, io, Beatrice e le tante altre migliaia di persone nel mondo che usano Notion, abbiamo un’arma in più per fare quello di cui c’è bisogno.
 
-Doveva essere una newsletter in cui fornivo ogni giorno una risorsa utile per i creator e la domenica (l'edizione settimanale) doveva fornirne tre.
-
-**L'all you can eat delle risorse per creator (e non solo).**
-
-So che è successo un anno fa perché ho contato i giorni e le newsletter.
-
-E l'ho fatto grazie alla newsletter quotidiana andata avanti fino a qualche giorno fa, fino al numero 365.
-
-E perché?
-
-Quali fattori ho valutato per prendere questa decisione?
-
-Oggi te li spiego, magari ti potranno essere utili.
-
-<br />
-
-## **COME FERMARTI QUANDO VAI DI CORSA**
-
-Quando fai qualcosa per tutti i giorni succedono cose.
-
-Ottieni dei dati importanti.
-
-Ed è importante interpretare questi dati per decidere i prossimi passi del tuo operato.
-
-Ecco quali fattori che ho considerato per **eliminare il formato quotidiano**:
-
-*   Curiosità o automatismo? La differenza è sottile
-
-*   Divertimento o disciplina? La differenza è sottile
-
-*   Rumore o valore? La differenza è enorme
-
-Ora te ne parlo in dettaglio.
+E da qualche settimana **è uscita Notion Projects**, la nuova feature di Notion, che punta a fare alcune cose carine.
 
 ​
 
-### **CURIOSITÀ O AUTOMATISMO? LA DIFFERENZA È SOTTILE**
+## **NOTION PROJECTS: CHE ROBA È?**
 
-Partiamo da questo punto, la questione più semplice.
+Notion Projects nasce come un insieme di feature e ha l’obiettivo di aiutare le persone a gestire i progetti.
 
-Ho cominciato a pubblicare questa newsletter nel formato quotidiano per una sfida con me stesso.
+Chi lo avrebbe mai detto, eh?
 
-L' obiettivo era quello di **creare qualcosa, tutti i giorni per un anno.**
+In particolare, Notion Projects è:
 
-Mi avrebbe insegnato tante cose sui lettori e su di me.
+*   Un mix efficace di vecchio e nuovo;
 
-E soprattutto mi avrebbe insegnato tante cose sulla creazione di contenuti.
+*   Un template sotto steroidi;
 
-E ci sono riuscito, dopo tantissime iterazioni ho trasformato un processo creativo in qualcosa di automatico.
+*   Un chiaro segnale da parte di Notion;
 
-Cosi tanto automatico che non soddisfa più la mia curiosità.
+Tutto chiaro fino a qui?
 
-Ho scomposto il concetto di newsletter, l'ho trasformato in un tweet che fa selezione, con la libertà di condividere quello che preferisci fregandotene che i link piacciano o meno alla piattaforma.
-
-E cosi riuscivo a **raggiungere più obiettivi**.
-
-Innanzitutto, riuscivo a dare al mio lettore il minimo carico informativo possibile.
-
-Inoltre, riducevo lo sforzo creativo anche per me, il creatore della newsletter.
-
-Ma per riuscire a fare sta cosa, dovevo **plasmare il processo creativo**, rendendolo adatto al meglio alle mie esigenze.
-
-All'inizio scrivevo ogni newsletter nel giorno stesso in cui usciva, mi svegliavo un'oretta prima, selezionavo, scrivevo e pubblicavo entro le 7 di mattina.
-
-Poi il processo è cambiato (perché sono cambiate le mie abitudini e anche la mia vita) e quindi ho cominciato a preparare le newsletter in batch e programmarle.
-
-Nelle sue ultime iterazioni, il processo durava un paio di ore per una settimana circa di pubblicazione.
-
-Tutto in un unico blocco di il lunedì mattina.
-
-Solo che è diventato così automatico che potrei andare avanti per anni senza perdere neanche una giornata.
-
-Ma a quale scopo?
+Allora possiamo iniziare!
 
 ​
 
-### **DIVERTIMENTO O DISCIPLINA? LA DIFFERENZA È SOTTILE**
+### **UN MIX DI VECCHIO E NUOVO**
 
-Quando l'atto creativo non è più difficile, diventa **noioso**.
+Ho scoperto dell’esistenza di Notion Projects in modo particolare.
 
-Non so te, ma io funziono così.
+Perché quando utilizzi qualcosa tutti i giorni e d’improvviso cambia, lo noti subito.
 
-Quando una sfida mi attira per la sua difficoltà, mi ossessiona e non sono soddisfatto fino a quando non l'ho risolta.
+Così qualche giorno fa, mentre lavoravo per un cliente di Notion Builders, ho notato che erano spuntate alcune nuove proprietà nei database.
 
-E la questione del "processo sostenibile" di cui ti ho parlato al punto precedente, era proprio una sfida di questo tipo.
+E non erano delle proprietà qualsiasi, erano le proprietà che aspettavo fin dall’arrivo di ChatGPT e di Notion AI: **proprietà database potenziate dall’intelligenza artificiale!**
 
-Una volta che l'ho conclusa, non è più divertente ed è diventato prioritario per me capire altre cose.
+In pratica, ti permettono di utilizzare l’AI per fare cose con i database.
 
-Ho dovuto capire quali fossero i pro e i contro di proseguire.
+Le proprietà sono: 
 
-Da un lato i **vantaggi**: continuare a raccogliere dati sui gusti dei lettori, continuare ad avere uno spazio quotidiano per eventuali sponsorship, continuare a stare sempre presente nel loop dei contenuti ecc.
+*   AI Summary; 
 
-Ed ho considerato gli **svantaggi**: noia per me e per il lettore (ma ne parleremo al punto successivo), blocchi di tempo che potrei riservare ad altro ecc.
+*   AI Key Info;
 
-E gli svantaggi si sono rivelati più dei vantaggi.
+*   AI Custom Autofill.
+
+Poi ho esplorato un po’ di più e ho scoperto altre proprietà.
+
+C’erano: 
+
+*   Collegamento a Figma; 
+
+*   Collegamento a Google Drive: 
+
+*   Collegamento a GItHub.
+
+E poi un’altra ancora, anche questa “nuova”, più o meno: **la proprietà ID**.
+
+Solo che questa non era nuova per davvero.
+
+La proprietà ID, infatti, genera un ID per i record di un database.
+
+Ed è una cosa che, fino al suo arrivo, potevi creare tramite una **semplice formula ID**.
+
+E quindi?
+
+Continua a leggere e capirai.
 
 ​
 
-### **RUMORE O VALORE? LA DIFFERENZA È SOTTILE**
+### **UN TEMPLATE SOTTO STEROIDI**
 
-E arriviamo quindi a questo punto, quello più importante.
+Insomma, ho giocato un po’ con queste nuove aggiunte e ho scoperto che rientravano in **Notion Projects**.
 
-Alla base di una newsletter di selezione (come quella quotidiana e in parte questa) deve esserci una priorità secondo me, la più importante: **creare valore.**
+E cos’è Notion Projects?
 
-E se non crei valore, allora crei rumore.
+È una forte spinta da parte di Notion verso la **gestione di progetti**.
 
-Perché diciamoci la verità, **di contenuti ne è pieno il mondo** e per quanto tu possa cercare di dare il tuo contributo, è importante capire se quel contributo crea valore oppure si disperde nel mare di contenuti che tutti noi consumiamo ogni giorno.
+Una spinta che all’atto pratico puoi trovare in queste nuove proprietà e nel rilascio di un **template gratuito ottimizzato** proprio per la gestione progetti.
 
-E qui i numeri parlano chiaro.
+E basta, poi arriveranno altre cose (che sembrano fighe), ma per ora non ci sono ancora.
 
-Più di un lettore mi ha rivelato che quelle newsletter quotidiane finivano automaticamente in una cartella specifica.
+Insomma, per fartela breve, **Notion Projects è un nuovo template**.
 
-Che significa?
+Un template fatto da Notion, gratuito e ottimizzato per le nuove proprietà e quindi per la gestione progetti.
 
-Significa che il valore nella selezione c'era, cosi tanto dal creare una cartella specifica su Gmail e attingere alle risorse condivide, ma non abbastanza da prendere azione subito.
+Fighissimo, per carità, ma **nulla di nuovo per davvero**.
 
-Che è un problema che ho riscontrato in tante selezioni.
+E quindi, non capivo quale fosse la sua utilità.
 
-Ora, non so per te, ma **questo per me è rumore e non è valore.**
+​
+
+### **UN CHIARO SEGNALE DA PARTE DI NOTION**
+
+Poi ci ho ragionato un po’ meglio.
+
+Ho capito che, con questo rilascio, **Notion ha preso una posizione**.
+
+Anzi, ha proprio urlato:” We vedete che potete usare anche per me gestire i progetti, togliete di mezzo gli altri tool più costosi e complicati, ci penso io”.
+
+E non l’ha fatto abbandonando quanto costruito finora, ha solo rimescolato le carte e fatto qualche piccola aggiunta (la parte di AI).
+
+Così, non ha reso vana l’attività delle tante persone che hanno notato queste potenzialità nello strumento, prima ancora che fossero ufficialmente note.
+
+In pratica, Notion ha preso le costruzioni particolari, i modi di fare cose più utilizzati dalla community di **utilizzatori avanzati** dello strumento (in particolare i consulenti), le hanno rese parte di un pacchetto e hanno dato loro risalto.
+
+Secondo me, hanno fatto una **genialata**.
 
 ​
 
 ​
 
-Ora però di sicuro ti starai facendo una domanda.
+Ora, non so se sia davvero questo che hanno fatto, è tutta una mia interpretazione.
 
-E ora?
+Inoltre, ho anche capito una cosa.
 
-Ora il Kit resterà, ma solo nel **formato settimanale** (quello che stai leggendo).
+Ad un primo impatto, credevo che una feature del genere, permettendo di fare più cose all’utente con conoscenze più basilari, potesse creare **problemi ai consulenti**.
 
-Il processo creativo che ho ottimizzato e reso automatico avrà nuovi obiettivi, su cui non ti faccio spoiler.
+Invece, ho capito che mi sbagliavo.
 
-**E tutte le risorse che per un anno ho inviato tutti i giorni?**
+Perché con questa nuova aggiunta, **Notion diventa uno strumento ancora più complesso da gestire**.
 
-Questa è la parte interessante, quella che ti porterà a **cliccare sul pulsante qui sotto (almeno spero).**
+E questo rende realtà come [Notion Builders](https://www.notionbuilders.it/), ancora più centrali nell’ecosistema.
 
-Tutte le risorse che ho pubblicato fanno parte di un mio database su Notion.
+E niente, la cosa mi ha reso felice.
 
-E non sono 365, sono molte di più.
-
-Sono suddivise per categorie, con relativi dettagli ecc.
-
-**E quel database non sparirà, resta vivo per il mio utilizzo e anche per il tuo.**
-
-Se finora hai ricevuto la newsletter quotidiana, puoi accedere a tutti i link recuperando l'e-mail, salvando il link e tanti altri casini.
-
-Se invece sei iscritto solo alla newsletter settimanale, certe risorse non le hai mai viste.
-
-Quindi ho deciso di prendere il database, con tutte le risorse e dartene l'accesso.
-
-In pratica, un anno di selezione, tutta disponibile oltre questo pulsante qui sotto.
-
-E continuerà a crescere, fidati.
-
-Il prezzo per l'accesso al database non è fisso, dopo i primi acquisti aumenterà a blocchi, quindi **ti consiglio di fare veloce**.
-
-E detto questo, buona settimana e beccati le risorse.
+Detto questo, buona settimana e **beccati le risorse**.
 
 Daniele
 
