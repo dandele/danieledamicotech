@@ -290,7 +290,7 @@ Ehi ciao 👋,
 
 questo è il numero 369 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti parlerò di **Notion Projects.**
+E oggi ti parlerò di **Notion Projects..**
 
 <br>
 
@@ -443,4 +443,3 @@ E niente, la cosa mi ha reso felice.
 Detto questo, buona settimana e **beccati le risorse**.
 
 Daniele
-
