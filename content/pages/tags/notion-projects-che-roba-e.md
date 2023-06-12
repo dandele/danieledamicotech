@@ -188,38 +188,6 @@ media:
   type: ImageBlock
   url: /images/Frame 14.webp
 bottomSections:
-  - type: CtaSection
-    colors: colors-f
-    elementId: ''
-    backgroundSize: full
-    actions:
-      - label: "UN DATABASE = +365 RISORSE \U0001F4DA"
-        altText: ''
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
-        elementId: annual_review_button
-        url: 'https://danieledamico.gumroad.com/l/yearly-kit-release'
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-0
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: DividerSection
     title: Divider
     elementId: ''
