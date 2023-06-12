@@ -181,7 +181,6 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2023-06-11'
-client: Awesome client
 description: ecco perché
 featuredImage:
   type: ImageBlock
