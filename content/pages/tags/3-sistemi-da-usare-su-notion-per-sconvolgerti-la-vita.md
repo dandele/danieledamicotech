@@ -178,7 +178,6 @@ metaTags: []
 title: "\U0001F9F0 kSC #42: MA NOTION PROJECTS…"
 colors: colors-a
 date: '2023-06-11'
-client: Awesome client
 description: che roba è?
 featuredImage:
   type: ImageBlock
