@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #42: MA NOTION PROJECTS…"
+title: "\U0001F9F0 kSC #43: 3 SISTEMI DA USARE SU NOTION…"
 colors: colors-a
 date: '2023-06-18'
 description: che roba è?
