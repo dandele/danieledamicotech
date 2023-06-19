@@ -288,9 +288,9 @@ slug: 3-sistemi-da-usare-su-notion-per-sconvolgerti-la-vita
 ---
 Ehi ciao 👋,
 
-questo è il numero 369 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 370 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti parlerò di **Notion Projects..**
+E oggi ti parlerò di **3 sistemi da usare su Notion per sconvolgerti la vita.**
 
 <br>
 
@@ -298,7 +298,7 @@ E oggi ti parlerò di **Notion Projects..**
 
 **TL;DR**
 
-*   Notion Projects: che roba è?
+*   3 sistemi da usare su Notion per sconvolgerti la vita
 
 *   Una risorsa per la tua audience building
 
@@ -312,134 +312,137 @@ E oggi ti parlerò di **Notion Projects..**
 
 <br>
 
-Sono sempre contento quando escono nuove feature di Notion perché significa che ho nuovi giocattoli con cui fare magie.
+Notion è uno strumento bello versatile, penso che ormai l'hai capito.
 
-Il fatto è che, per ogni nuova feature di Notion, io, Beatrice e le tante altre migliaia di persone nel mondo che usano Notion, abbiamo un’arma in più per fare quello di cui c’è bisogno.
+E uno dei modi in cui lo utilizzo di più, al di là dagli aspetti riguardo [Notion Builders](https://www.notionbuilders.it/), è per la mia **produttività personale**.
 
-E da qualche settimana **è uscita Notion Projects**, la nuova feature di Notion, che punta a fare alcune cose carine.
+Sul mio spazio personale, infatti, mi prendo la libertà di testare decine e decine di framework, sistemi e pratiche di produttività.
 
-​
+È una cosa che mi diverte, costruisco quello che mi serve (così miglioro nelle mie capacità di costruzione su Notion) e poi lo metto in pratica (migliorando la mia produttività e non solo).
 
-## **NOTION PROJECTS: CHE ROBA È?**
+Per questo, ho pensato di consigliarti **3 sistemi che ho testato in questi ultimi mesi**.
 
-Notion Projects nasce come un insieme di feature e ha l’obiettivo di aiutare le persone a gestire i progetti.
-
-Chi lo avrebbe mai detto, eh?
-
-In particolare, Notion Projects è:
-
-*   Un mix efficace di vecchio e nuovo;
-
-*   Un template sotto steroidi;
-
-*   Un chiaro segnale da parte di Notion;
-
-Tutto chiaro fino a qui?
-
-Allora possiamo iniziare!
+Così, se vuoi, puoi provare a costruirteli sul tuo Notion.
 
 ​
 
-### **UN MIX DI VECCHIO E NUOVO**
+## **3 SISTEMI DA USARE SU NOTION PER SCONVOLGERTI LA VITA**
 
-Ho scoperto dell’esistenza di Notion Projects in modo particolare.
+Ma arriviamo subito al sodo, quali sono questi 3 sistemi di cui parlo?
 
-Perché quando utilizzi qualcosa tutti i giorni e d’improvviso cambia, lo noti subito.
+Eccoli:
 
-Così qualche giorno fa, mentre lavoravo per un cliente di Notion Builders, ho notato che erano spuntate alcune nuove proprietà nei database.
+*   Il sistema 2-4-6;
 
-E non erano delle proprietà qualsiasi, erano le proprietà che aspettavo fin dall’arrivo di ChatGPT e di Notion AI: **proprietà database potenziate dall’intelligenza artificiale!**
+*   Il metodo Scamper;
 
-In pratica, ti permettono di utilizzare l’AI per fare cose con i database.
+*   Il sistema a 43 cartelle;
 
-Le proprietà sono: 
-
-*   AI Summary; 
-
-*   AI Key Info;
-
-*   AI Custom Autofill.
-
-Poi ho esplorato un po’ di più e ho scoperto altre proprietà.
-
-C’erano: 
-
-*   Collegamento a Figma; 
-
-*   Collegamento a Google Drive: 
-
-*   Collegamento a GItHub.
-
-E poi un’altra ancora, anche questa “nuova”, più o meno: **la proprietà ID**.
-
-Solo che questa non era nuova per davvero.
-
-La proprietà ID, infatti, genera un ID per i record di un database.
-
-Ed è una cosa che, fino al suo arrivo, potevi creare tramite una **semplice formula ID**.
-
-E quindi?
-
-Continua a leggere e capirai.
+E ora te ne parlo in dettaglio.
 
 ​
 
-### **UN TEMPLATE SOTTO STEROIDI**
+### **IL SISTEMA 2-4-6**
 
-Insomma, ho giocato un po’ con queste nuove aggiunte e ho scoperto che rientravano in **Notion Projects**.
+Questo è un **framework per dare priorità ai tuoi task**.
 
-E cos’è Notion Projects?
+Di sicuro ne conosci altri, tipo la matrice di Eisenhower, o quello del 10K Value.
 
-È una forte spinta da parte di Notion verso la **gestione di progetti**.
+Questo però è quello che sto utilizzando sempre più spesso negli ultimi mesi.
 
-Una spinta che all’atto pratico puoi trovare in queste nuove proprietà e nel rilascio di un **template gratuito ottimizzato** proprio per la gestione progetti.
+In pratica, consiste nel **categorizzare le cose che devi fare** in:
 
-E basta, poi arriveranno altre cose (che sembrano fighe), ma per ora non ci sono ancora.
+*   2 task grossi;
 
-Insomma, per fartela breve, **Notion Projects è un nuovo template**.
+*   4 task medi;
 
-Un template fatto da Notion, gratuito e ottimizzato per le nuove proprietà e quindi per la gestione progetti.
+*   6 task piccoli.
 
-Fighissimo, per carità, ma **nulla di nuovo per davvero**.
+E quando parlo di "grandezza", mi riferisco tanto alla durata temporale, che l'impatto che hanno quei task sul tuo progetto, che tanti altri fattori che tu stesso puoi decidere.
 
-E quindi, non capivo quale fosse la sua utilità.
+Insomma, se un task ti fa un po' paura è grosso.
 
-​
+Se ti fa paura così così, è un task medio.
 
-### **UN CHIARO SEGNALE DA PARTE DI NOTION**
+Se invece sai che è una cosa da niente, allora è un task piccolo.
 
-Poi ci ho ragionato un po’ meglio.
+E niente, su Notion puoi metterlo in pratica utilizzando una **semplice proprietà "select" nel tuo task manager** e inserire "Large", "Medium" e "Small" come opzioni.
 
-Ho capito che, con questo rilascio, **Notion ha preso una posizione**.
+Poi, **classifichi ogni task** assicurandoti di rispettare i numeri di prima.
 
-Anzi, ha proprio urlato:” We vedete che potete usare anche per me gestire i progetti, togliete di mezzo gli altri tool più costosi e complicati, ci penso io”.
-
-E non l’ha fatto abbandonando quanto costruito finora, ha solo rimescolato le carte e fatto qualche piccola aggiunta (la parte di AI).
-
-Così, non ha reso vana l’attività delle tante persone che hanno notato queste potenzialità nello strumento, prima ancora che fossero ufficialmente note.
-
-In pratica, Notion ha preso le costruzioni particolari, i modi di fare cose più utilizzati dalla community di **utilizzatori avanzati** dello strumento (in particolare i consulenti), le hanno rese parte di un pacchetto e hanno dato loro risalto.
-
-Secondo me, hanno fatto una **genialata**.
+E di seguire l'ordine dal task più grande a quello più piccolo.
 
 ​
 
+### **IL METODO SCAMPER**
+
+Più che un framework di produttività, questo è un **framework di creatività**.
+
+Lo so, sembra assurdo provare a dare una struttura a qualcosa che di struttura non dovrebbe averne.
+
+Eppure, lo sto utilizzando e fa magie.
+
+In cosa consiste?
+
+Consiste nell'**attribuire ad ogni tua idea, il modo in cui vuoi utilizzarla**, tra 7 opzioni:
+
+*   Sostituire;
+
+*   Combinare;
+
+*   Adattare;
+
+*   Modificare;
+
+*   Utilizzala in altro modo;
+
+*   Eliminare;
+
+*   Invertire.
+
+È molto figo, in pratica con questo strumento aumenti di molto la tua creatività.
+
+E anche questo, lo puoi mettere in pratica su Notion, in meno di 5 minuti.
+
+**Crei un database che ospita tutte le tue idee** (e non solo le tue), poi crei una proprietà (anche in questo caso di tipo "select") e le fornisci le opzioni che ti ho elencato qui sopra.
+
+Ogni volta che aggiungi un'idea al database, le assegni una di queste opzioni.
+
+Questo è il modo più semplice, puoi anche utilizzare le formule per forzare l'assegnazione o renderla casuale.
+
+Il punto però è che, in questo modo, potrai **generare nuove idee facendole scontrare tra loro oppure adattandole, o facendoci altre cose.**
+
+Testalo, è una bomba!
+
 ​
 
-Ora, non so se sia davvero questo che hanno fatto, è tutta una mia interpretazione.
+### **IL SISTEMA A 43 CARTELLE**
 
-Inoltre, ho anche capito una cosa.
+Questo è un framework che puoi seguire per **organizzare il tuo spazio digitale su Notion, e non solo**.
 
-Ad un primo impatto, credevo che una feature del genere, permettendo di fare più cose all’utente con conoscenze più basilari, potesse creare **problemi ai consulenti**.
+In pratica, **crei 12 cartelle, una per ogni mese dell'anno**.
 
-Invece, ho capito che mi sbagliavo.
+E all'interno di ognuna di queste cartelle, **crei una cartella per ogni giorno**.
 
-Perché con questa nuova aggiunta, **Notion diventa uno strumento ancora più complesso da gestire**.
+Su Notion, puoi implementarlo con un database e 12 pagine al suo interno, poi al suo interno una pagina per ogni giorno.
 
-E questo rende realtà come [Notion Builders](https://www.notionbuilders.it/), ancora più centrali nell’ecosistema.
+Poi valuti tu quanto rendere le pagine collegate tra loro: ci sono tante opzioni.
 
-E niente, la cosa mi ha reso felice.
+Ad ogni modo, **il punto è che poi tutte quello che fai finisce all'interno di una specifica giornata**.
 
-Detto questo, buona settimana e **beccati le risorse**.
+E così il tuo spazio resta organizzato, senza che te perdi nulla.
+
+​
+
+Eccoli qui.
+
+3 framework tutti per te, da poter implementare su Notion o dove ti pare.
+
+Come sai, non è importante lo strumento in sé, è importante quale strumento utilizzi di più (e da cui puoi trarre il meglio).
+
+E 3 sistemi del genere, su uno strumento che davvero utilizzi ed è parte della tua giornata, ti **aiuteranno a fare le magie**.
+
+E direi che per oggi è tutto, buona settimana e **beccati le risorse**.
 
 Daniele
+
