@@ -177,7 +177,7 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #42: MA NOTION PROJECTS…"
 colors: colors-a
-date: '2023-06-11'
+date: '2023-06-18'
 description: che roba è?
 featuredImage:
   type: ImageBlock
