@@ -206,7 +206,7 @@ bottomSections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nSahil Bloom fa numeri da record.\n\nIn 3 anni ha creato un'audience di 400mila persone, se non di più.\n\n​[E come ha fatto?](https://growthinreverse.com/sahil-bloom/)**​**\n\n<br>\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nQuanto lavori?\n\nPoco o tanto?\n\nForse lavori un po' troppo e non è l'ideale.\n\n​[Ecco come puoi capirlo (e risolvere).](https://twitter.com/jspector/status/1663168391731879937)​\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nMonetizzare non è la parte finale del tuo percorso da creator.\n\nE solo l'inizio di un altro percorso.\n\n​[Ed è così che puoi costruire il tuo.](https://nathanbarry.com/creator-flywheels/)​\n"
+    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nEsiste un modo per unire la\_**potenza dello storytelling con la brevità dei post social**?\n\n​[Si e questa è la guida definitiva su come metterlo in pratica.](https://www.worldbuilders.ai/p/micro-storytelling)​\n\n<br>\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nHai presente quel problema?\n\nQuello dei\_**meeting**.\n\nQuello per cui ogni volta che hai una call, dovresti prendere appunti ma poi o non lo fai, oppure li prendi e poi li perdi?\n\n​[Ecco, questa potrebbe essere la soluzione migliore.](https://fireflies.ai/)​\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nCome capire se una\_**nicchia**\_può portarti alla monetization oppure no?\n\n​[Leggi questo e replica per la nicchia a cui stai puntando.](https://www.ramoswriter.com/rising-finance-phenomenon/)​\n"
     styles:
       self:
         height: auto
