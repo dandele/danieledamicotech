@@ -177,9 +177,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #43: 3 SISTEMI DA USARE SU NOTION…"
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2023-06-18'
 client: Awesome client
 description: PER SCONVOLGERTI LA VITA
