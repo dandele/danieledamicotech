@@ -201,5 +201,6 @@ sections:
       - content/pages/tags/notion-projects-che-roba-e.md
       - >-
         content/pages/tags/3-sistemi-da-usare-su-notion-per-sconvolgerti-la-vita.md
+      - content/pages/tags/3-tattiche-per-la-settimana-perfetta-su-notion.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
