@@ -288,9 +288,9 @@ slug: 3-tattiche-per-la-settimana-perfetta-su-notion
 ---
 Ehi ciao 👋,
 
-questo è il numero 370 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 371 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti parlerò di **3 sistemi da usare su Notion per sconvolgerti la vita.**
+E oggi ti parlerò di **3 tattiche per progettare la tua settimana perfetta, su Notion!**
 
 <br>
 
@@ -306,143 +306,170 @@ E oggi ti parlerò di **3 sistemi da usare su Notion per sconvolgerti la vita.**
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 4 minuti.
+**Il tempo di lettura previsto è:** 5 minuti.
 
 ***
 
 <br>
 
-Notion è uno strumento bello versatile, penso che ormai l'hai capito.
+Ho già parlato dell'importanza di **ragionare sulla tua settimana**.
 
-E uno dei modi in cui lo utilizzo di più, al di là dagli aspetti riguardo [Notion Builders](https://www.notionbuilders.it/), è per la mia **produttività personale**.
+E qualche mese fa, ho parlato di come analizzare la settimana passata ma non di come organizzare quella futura.
 
-Sul mio spazio personale, infatti, mi prendo la libertà di testare decine e decine di framework, sistemi e pratiche di produttività.
+E soprattutto, non ti ho mai detto come **riuscire a farlo con Notion**.
 
-È una cosa che mi diverte, costruisco quello che mi serve (così miglioro nelle mie capacità di costruzione su Notion) e poi lo metto in pratica (migliorando la mia produttività e non solo).
-
-Per questo, ho pensato di consigliarti **3 sistemi che ho testato in questi ultimi mesi**.
-
-Così, se vuoi, puoi provare a costruirteli sul tuo Notion.
+Quindi, in occasione di alcune modifiche che ho fatto al mio processo di **weekly planning**, ho deciso di rimediare.
 
 ​
 
-## **3 SISTEMI DA USARE SU NOTION PER SCONVOLGERTI LA VITA**
+## **3 CONSIGLI PER PROGETTARE LA TUA SETTIMANA PERFETTA, SU NOTION!**
 
-Ma arriviamo subito al sodo, quali sono questi 3 sistemi di cui parlo?
+Fino a qualche settimana fa, ogni lunedì mattina, dedicavo i primi 60 minuti della giornata (circa) alla review della settimana precedente e alla pianificazione di quella che cominciava.
 
-Eccoli:
+Poi però, per tutta una serie di motivi, mi sono fermato.
 
-*   Il sistema 2-4-6;
+Così, per un paio di mesi, sono andato avanti a braccio.
 
-*   Il metodo Scamper;
+Avevo il piano nella mia testa e giorno dopo giorno decidevo le cose da fare più importanti, ma non è una soluzione sostenibile.
 
-*   Il sistema a 43 cartelle;
+Perché così **aumenta lo stress**, non hai mai il controllo generale della situazione ecc.
 
-E ora te ne parlo in dettaglio.
+Ora però ho risolto la cosa, con queste **3 modifiche**:
 
-​
+*   Struttura > Caos
 
-### **IL SISTEMA 2-4-6**
+*   Day theming
 
-Questo è un **framework per dare priorità ai tuoi task**.
+*   Daily ed evening reflection
 
-Di sicuro ne conosci altri, tipo la matrice di Eisenhower, o quello del 10K Value.
+E oggi ti svelerò come metterle in pratica su Notion e progettare la tua settimana perfetta!
 
-Questo però è quello che sto utilizzando sempre più spesso negli ultimi mesi.
 
-In pratica, consiste nel **categorizzare le cose che devi fare** in:
-
-*   2 task grossi;
-
-*   4 task medi;
-
-*   6 task piccoli.
-
-E quando parlo di "grandezza", mi riferisco tanto alla durata temporale, che l'impatto che hanno quei task sul tuo progetto, che tanti altri fattori che tu stesso puoi decidere.
-
-Insomma, se un task ti fa un po' paura è grosso.
-
-Se ti fa paura così così, è un task medio.
-
-Se invece sai che è una cosa da niente, allora è un task piccolo.
-
-E niente, su Notion puoi metterlo in pratica utilizzando una **semplice proprietà "select" nel tuo task manager** e inserire "Large", "Medium" e "Small" come opzioni.
-
-Poi, **classifichi ogni task** assicurandoti di rispettare i numeri di prima.
-
-E di seguire l'ordine dal task più grande a quello più piccolo.
 
 ​
 
-### **IL METODO SCAMPER**
+### **STRUTTURA > CAOS**
 
-Più che un framework di produttività, questo è un **framework di creatività**.
+Questa è una cosa che ho dovuto capire con l'esperienza.
 
-Lo so, sembra assurdo provare a dare una struttura a qualcosa che di struttura non dovrebbe averne.
+Qualche mese fa, quando ho provato per la prima volta a pianificare la settimana su Notion, ho fatto un grande errore.
 
-Eppure, lo sto utilizzando e fa magie.
+Ho cominciato a **pianificare**, senza una particolare struttura.
 
-In cosa consiste?
+Mi dicevo che l'importante era restare semplici e quindi questa fase di pianificazione era scollegata dalle aree di esecuzione di task, project management e lavoro.
 
-Consiste nell'**attribuire ad ogni tua idea, il modo in cui vuoi utilizzarla**, tra 7 opzioni:
+In pratica, facevo delle semplici liste con le cose da fare e quando farle.
 
-*   Sostituire;
+Ma dove finivano i progressi verso i miei obiettivi?
 
-*   Combinare;
+Dove finivano i risultati ottenuti nella settimana precedente?
 
-*   Adattare;
+E i task che magari avevo dimenticato?
 
-*   Modificare;
+Erano su Notion, lo so, ma non li avevo a disposizione nella fase di weekly planning.
 
-*   Utilizzala in altro modo;
+E questo la rendeva inutile.
 
-*   Eliminare;
+Ora invece, ho cambiato le cose.
 
-*   Invertire.
+Ora, quando avvio la fase di planning, ho **accesso a viste di diversi database**: task, progetti, note.
 
-È molto figo, in pratica con questo strumento aumenti di molto la tua creatività.
+E tutto mi è più chiaro, vedo il quadro generale e posso pianificare al meglio!
 
-E anche questo, lo puoi mettere in pratica su Notion, in meno di 5 minuti.
 
-**Crei un database che ospita tutte le tue idee** (e non solo le tue), poi crei una proprietà (anche in questo caso di tipo "select") e le fornisci le opzioni che ti ho elencato qui sopra.
-
-Ogni volta che aggiungi un'idea al database, le assegni una di queste opzioni.
-
-Questo è il modo più semplice, puoi anche utilizzare le formule per forzare l'assegnazione o renderla casuale.
-
-Il punto però è che, in questo modo, potrai **generare nuove idee facendole scontrare tra loro oppure adattandole, o facendoci altre cose.**
-
-Testalo, è una bomba!
 
 ​
 
-### **IL SISTEMA A 43 CARTELLE**
+### **DAY THEMING**
 
-Questo è un framework che puoi seguire per **organizzare il tuo spazio digitale su Notion, e non solo**.
+Altra cosa importante.
 
-In pratica, **crei 12 cartelle, una per ogni mese dell'anno**.
+Mi piace il **time-blocking** e mi piace anche l'idea di associare ogni mia giornata ad un **tema**.
 
-E all'interno di ognuna di queste cartelle, **crei una cartella per ogni giorno**.
+Unendo le due cose, infatti, posso associare con facilità i task al giorno che gli spetta, senza indecisioni strane.
 
-Su Notion, puoi implementarlo con un database e 12 pagine al suo interno, poi al suo interno una pagina per ogni giorno.
+Ad esempio, il lunedì lo dedico ai task del progetto X, quindi ogni lunedì so che devo fare certe cose.
 
-Poi valuti tu quanto rendere le pagine collegate tra loro: ci sono tante opzioni.
+Solo che c'è un problema.
 
-Ad ogni modo, **il punto è che poi tutte quello che fai finisce all'interno di una specifica giornata**.
+Questo esempio, è basato sui progetti e non sul tipo di attività.
 
-E così il tuo spazio resta organizzato, senza che te perdi nulla.
+E che significa?
+
+Che se hai diversi progetti, quindi il lunedì lavori al progetto X, il martedì al progetto Y e così via, potrebbe passare una settimana tra gli avanzamenti in un dato progetto.
+
+E in alcuni casi, è troppo tempo.
+
+Quindi ho cambiato le cose.
+
+Ora i **temi delle giornate** riflettono il **tipo di attività**.
+
+Ecco un esempio:
+
+*   lunedì: content creation e marketing;
+
+*   martedì: email, amministrazione e linkedin engagement;
+
+*   mercoledì: costruzione su Notion e automazioni;
+
+*   giovedì: costruzione su Notion e automazioni;
+
+*   venerdì: buffer.
+
+E come implemento sta roba su Notion?
+
+Ogni giorno, in automatico, sul mio Notion viene creata una pagina relativa alla giornata.
+
+E per quella giornata, io seleziono il relativo tema, tramite proprietà "select" del database in cui la pagina è creata.
+
+Semplice ma funzionale.
+
+
 
 ​
 
-Eccoli qui.
+### **DAILY ED EVENING REFLECTION!**
 
-3 framework tutti per te, da poter implementare su Notion o dove ti pare.
+Altra cosa che prima facevo poco e male.
 
-Come sai, non è importante lo strumento in sé, è importante quale strumento utilizzi di più (e da cui puoi trarre il meglio).
+Prima ero solito fare solo una piccola riflessione mattutina, in cui facevo un po' di journaling e decidevo cosa fare nella giornata.
 
-E 3 sistemi del genere, su uno strumento che davvero utilizzi ed è parte della tua giornata, ti **aiuteranno a fare le magie**.
+Questa però era scollegata dalla fase di progettazione della settimana.
 
-E direi che per oggi è tutto, buona settimana e **beccati le risorse**.
+E le **giornate non finivano mai per davvero**.
+
+Perché non avevo una fase, a fine giornata, in cui dicevo anche al mio sistema che la giornata era finita.
+
+Ora invece, ho creato un piccolo rituale che mi aiuta.
+
+A **fine giornata**, torno sulla pagina della giornata e faccio alcune cose:
+
+*   metto la spunta a tutti i task che ho fatto;
+
+*   sposto la data dei task che non ho fatto;
+
+*   elimino i task che non ho fatto e che penso non siano più importanti;
+
+*   faccio journaling serale.
+
+In questo modo, quando poi arriva la fase di planning della settimana successiva, ho più informazioni su cui posso operare.
+
+Ho una vista d'insieme molto più coerente e precisa.
+
+E questo è un grande vantaggio.
+
+​
+
+Ora, in realtà te puoi mettere in pratica queste cose anche su altri tool.
+
+Non devi per forza farlo su Notion, puoi anche scegliere Obsidian, carta e penna, Apple Notes.
+
+Insomma, puoi farlo dove ti pare.
+
+L'importante però, è che tu introduca una pratica del genere nella tua vita.
+
+E queste modifiche di cui ti ho parlato oggi, potrebbero aiutarti a costruire al meglio il **processo di weekly planning perfetto**!
+
+E niente, direi che per oggi è tutto, buona settimana e beccati le risorse.
 
 Daniele
-
