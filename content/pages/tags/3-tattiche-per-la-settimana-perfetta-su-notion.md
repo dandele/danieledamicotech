@@ -178,7 +178,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #44: 3 TATTICHE PER LA SETTIMANA PERFETTA…"
 colors: colors-a
 date: '2023-06-18'
-description: su notion
+description: su Notion
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
