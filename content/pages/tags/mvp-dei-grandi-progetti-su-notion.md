@@ -290,7 +290,7 @@ Ehi ciao 👋,
 
 questo è il numero 371 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti parlerò di **3 tattiche per progettare la tua settimana perfetta, su Notion!**
+E oggi ti parlerò di **dell'MVP dei grandi progetti, su Notion!**
 
 <br>
 
@@ -298,7 +298,7 @@ E oggi ti parlerò di **3 tattiche per progettare la tua settimana perfetta, su 
 
 **TL;DR**
 
-*   3 sistemi da usare su Notion per sconvolgerti la vita
+*   Creare un MVP per i tuoi grandi progetti, su Notion!
 
 *   Una risorsa per la tua audience building
 
@@ -312,164 +312,122 @@ E oggi ti parlerò di **3 tattiche per progettare la tua settimana perfetta, su 
 
 <br>
 
-Ho già parlato dell'importanza di **ragionare sulla tua settimana**.
+Ok, tutti devono avere obiettivi nella vita.
 
-E qualche mese fa, ho parlato di come analizzare la settimana passata ma non di come organizzare quella futura.
+È una cosa ovvia.
 
-E soprattutto, non ti ho mai detto come **riuscire a farlo con Notion**.
+C'è chi preferisce avere obiettivi a distanza di un anno, chi a due anni e chi di più.
 
-Quindi, in occasione di alcune modifiche che ho fatto al mio processo di **weekly planning**, ho deciso di rimediare.
+Io però ho sempre avuto un **problema sulla questione**.
 
-​
+Ho sempre avuto difficoltà a capire se un obiettivo poteva rendermi soddisfatto per davvero.
 
-## **3 CONSIGLI PER PROGETTARE LA TUA SETTIMANA PERFETTA, SU NOTION!**
+Sarà una paranoia mia, ma quando mi metto a fare i piani del futuro, mi ritrovo sempre a dire una cosa del genere.
 
-Fino a qualche settimana fa, ogni lunedì mattina, dedicavo i primi 60 minuti della giornata (circa) alla review della settimana precedente e alla pianificazione di quella che cominciava.
+"Ok, ora mi metto e mi impegno per i prossimi 4-5 mesi per raggiungere questo obiettivo.
 
-Poi però, per tutta una serie di motivi, mi sono fermato.
-
-Così, per un paio di mesi, sono andato avanti a braccio.
-
-Avevo il piano nella mia testa e giorno dopo giorno decidevo le cose da fare più importanti, ma non è una soluzione sostenibile.
-
-Perché così **aumenta lo stress**, non hai mai il controllo generale della situazione ecc.
-
-Ora però ho risolto la cosa, con queste **3 modifiche**:
-
-*   Struttura > Caos
-
-*   Day theming
-
-*   Daily ed evening reflection
-
-E oggi ti svelerò come metterle in pratica su Notion e progettare la tua settimana perfetta!
-
-
+Ma se poi mi rendo conto che l'obiettivo non mi rende felice?"
 
 ​
 
-### **STRUTTURA > CAOS**
+## **L'MVP DEI GRANDI PROGETTI, SU NOTION**
 
-Questa è una cosa che ho dovuto capire con l'esperienza.
+In tal caso, succede che hai sprecato tempo.
 
-Qualche mese fa, quando ho provato per la prima volta a pianificare la settimana su Notion, ho fatto un grande errore.
+E ok, magari hai imparato cose, ma il risultato è comunque uno spreco.
 
-Ho cominciato a **pianificare**, senza una particolare struttura.
+Quindi che si fa?
 
-Mi dicevo che l'importante era restare semplici e quindi questa fase di pianificazione era scollegata dalle aree di esecuzione di task, project management e lavoro.
+E che c'entra Notion?
 
-In pratica, facevo delle semplici liste con le cose da fare e quando farle.
+*   Tim Ferriss, gli esperimenti di due settimane e i progetti di 6 mesi
 
-Ma dove finivano i progressi verso i miei obiettivi?
+*   Come creare il tuo MVP su Notion;
 
-Dove finivano i risultati ottenuti nella settimana precedente?
+*   E dopo l'esperimento?
 
-E i task che magari avevo dimenticato?
-
-Erano su Notion, lo so, ma non li avevo a disposizione nella fase di weekly planning.
-
-E questo la rendeva inutile.
-
-Ora invece, ho cambiato le cose.
-
-Ora, quando avvio la fase di planning, ho **accesso a viste di diversi database**: task, progetti, note.
-
-E tutto mi è più chiaro, vedo il quadro generale e posso pianificare al meglio!
-
-
+Come avrai intuito, ora te lo spiego.
 
 ​
 
-### **DAY THEMING**
+### **TIM FERRISS, GLI ESPERIMENTI DI DUE SETTIMANE E I PROGETTI DI 6 MESI**
 
-Altra cosa importante.
+Per anni il dubbio è rimasto nella mia testa.
 
-Mi piace il **time-blocking** e mi piace anche l'idea di associare ogni mia giornata ad un **tema**.
+Poi ho sentito un [podcast di Tim Ferriss](https://podclips.com/c/LacN4G) e ho capito una cosa fondamentale!
 
-Unendo le due cose, infatti, posso associare con facilità i task al giorno che gli spetta, senza indecisioni strane.
+Ho capito che puoi fare **esperimenti anche con i tuoi progetti a lungo termine**.
 
-Ad esempio, il lunedì lo dedico ai task del progetto X, quindi ogni lunedì so che devo fare certe cose.
+Esperimenti in cui provi una versione ridotta del tuo obiettivo a lungo termine, senza dedicarci mesi ma solo un paio di settimane.
 
-Solo che c'è un problema.
+Così, alla fine delle due settimane, se la cosa ti è piaciuta e hai ottenuto risultati rilevanti, allora puoi passare all'obiettivo a lungo termine.
 
-Questo esempio, è basato sui progetti e non sul tipo di attività.
+Altrimenti, cambi esperimento o cambi obiettivo.
 
-E che significa?
+In pratica, **un MVP per gli obiettivi di vita**.
 
-Che se hai diversi progetti, quindi il lunedì lavori al progetto X, il martedì al progetto Y e così via, potrebbe passare una settimana tra gli avanzamenti in un dato progetto.
-
-E in alcuni casi, è troppo tempo.
-
-Quindi ho cambiato le cose.
-
-Ora i **temi delle giornate** riflettono il **tipo di attività**.
-
-Ecco un esempio:
-
-*   lunedì: content creation e marketing;
-
-*   martedì: email, amministrazione e linkedin engagement;
-
-*   mercoledì: costruzione su Notion e automazioni;
-
-*   giovedì: costruzione su Notion e automazioni;
-
-*   venerdì: buffer.
-
-E come implemento sta roba su Notion?
-
-Ogni giorno, in automatico, sul mio Notion viene creata una pagina relativa alla giornata.
-
-E per quella giornata, io seleziono il relativo tema, tramite proprietà "select" del database in cui la pagina è creata.
-
-Semplice ma funzionale.
-
-
+E la cosa mi ha fatto scoppiare il cervello.
 
 ​
 
-### **DAILY ED EVENING REFLECTION!**
+### **COME CREARE IL TUO MVP SU NOTION**
 
-Altra cosa che prima facevo poco e male.
+E dato che ho le mie fisse, ho preparato un **sistema per costruire questi MVP su Notion**.
 
-Prima ero solito fare solo una piccola riflessione mattutina, in cui facevo un po' di journaling e decidevo cosa fare nella giornata.
+Come ci sono riuscito?
 
-Questa però era scollegata dalla fase di progettazione della settimana.
+*   Ho usato il database Area
 
-E le **giornate non finivano mai per davvero**.
+*   Ho usato il database Goals
 
-Perché non avevo una fase, a fine giornata, in cui dicevo anche al mio sistema che la giornata era finita.
+*   Ho creato il database Sprint/Esperimenti
 
-Ora invece, ho creato un piccolo rituale che mi aiuta.
+Il primo database, quello "Area", è un semplice database in cui inserisco le **aree principali in cui suddivido la mia vita**.
 
-A **fine giornata**, torno sulla pagina della giornata e faccio alcune cose:
+In particolare, le aree sono: Lavoro, Relazioni e Salute.
 
-*   metto la spunta a tutti i task che ho fatto;
+Poi, è il turno del secondo database, quello chiamato Goals.
 
-*   sposto la data dei task che non ho fatto;
+In questo database, inserisco tutti gli obiettivi che vorrei raggiungere a lungo termine.
 
-*   elimino i task che non ho fatto e che penso non siano più importanti;
+Cerco di avere un **limite massimo di 3 obiettivi a lungo termine per area**.
 
-*   faccio journaling serale.
+Infine, è il turno del database Sprint/Esperimenti.
 
-In questo modo, quando poi arriva la fase di planning della settimana successiva, ho più informazioni su cui posso operare.
+E questo è il contro principale di questo piccolo sistema.
 
-Ho una vista d'insieme molto più coerente e precisa.
+All'interno di questo database, inserisco le date di inizio e di fine dell'esperimento e altre proprietà utili (se l'esperimento è attivo, quali sono i criteri di successo ecc).
 
-E questo è un grande vantaggio.
+Infine, creo due proprietà.
+
+Una **Relation** al database Goals (che uso per collegare l'esperimento all'obiettivo a lungo termine di cui è un MVP) e poi una proprietà **Rollup** che mostra, in automatico, l'area a cui questo esperimento appartiene.
 
 ​
 
-Ora, in realtà te puoi mettere in pratica queste cose anche su altri tool.
+### **E DOPO L'ESPERIMENTO?**
 
-Non devi per forza farlo su Notion, puoi anche scegliere Obsidian, carta e penna, Apple Notes.
+Così, ogni volta che mi salta in mente un nuovo obiettivo a lungo termine, penso prima al modo in cui lo posso sperimentare.
 
-Insomma, puoi farlo dove ti pare.
+E questo cambia tutto.
 
-L'importante però, è che tu introduca una pratica del genere nella tua vita.
+Perché così, ogni obiettivo a lungo termine porta in sé fin dall'inizio, una **maggiore possibilità di successo**.
 
-E queste modifiche di cui ti ho parlato oggi, potrebbero aiutarti a costruire al meglio il **processo di weekly planning perfetto**!
+Non è più un semplice obiettivo nell'etere, è qualcosa di pratico fin dall'inizio.
 
-E niente, direi che per oggi è tutto, buona settimana e beccati le risorse.
+E c'è un piano, ci sono dei task, l'investimento di tempo è minimo.
+
+Insomma, per me è un sistema molto efficace.
+
+​
+
+Ora, non dico che per te possa rivelarsi utile allo stesso modo, eh.
+
+Ma credo che, se hai incontrato le mie stesse difficoltà in passato, allora dovresti farlo un tentativo.
+
+Consideralo un esperimento, che dici?
+
+Capita la battuta?
+
+E niente, direi che anche per oggi è tutto, buona settimana e **beccati le risorse**.
 
 Daniele
