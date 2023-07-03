@@ -306,7 +306,7 @@ E oggi ti parlerò di **dell'MVP dei grandi progetti, su Notion!**
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 5 minuti.
+**Il tempo di lettura previsto è:** 4 minuti e 30.
 
 ***
 
