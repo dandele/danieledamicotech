@@ -12,7 +12,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: "Ehi ciao, sono **Daniele D'Amico**.\n\nSono nato su un piccolo pianeta nel sistema solare ed è lo stesso in cui vivo ancora oggi.\n\nAl momento della scrittura di queste parole ho 28 anni, lavoro in una startup e ho sul piatto molti **progetti in side hustle**.\n\nQuando non leggo libri, creo contenuti sul web (in particolare su **Linkedin**).\n\nQuesto testo deve essere breve, se vuoi dettagli ulteriori **scorri la pagina verso il basso** \U0001F447\n"
+    text: "Ehi ciao, sono **Daniele D'Amico**.\n\nSono nato su un piccolo pianeta nel sistema solare ed è lo stesso in cui vivo ancora oggi.\n\nDopo aver lavorato per un paio di anni come freelancer e nel mondo delle startup, ho fondato la prima agenzia di consulenza Notion in Italia: [**Notion Builders**](https://www.notionbuilders.it/).\n\nQuando non leggo libri, creo contenuti sul web (in particolare su **Linkedin**).\n\nQuesto testo deve essere breve, se vuoi dettagli ulteriori **scorri la pagina verso il basso** \U0001F447\n"
     styles:
       self:
         height: auto
