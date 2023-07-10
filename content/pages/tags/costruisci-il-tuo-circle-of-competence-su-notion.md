@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #41: NIENTE PIÙ KIT QUOTIDIANO..."
+title: "\U0001F9F0 kSC #46: NIENTE PIÙ KIT QUOTIDIANO..."
 colors: colors-a
 date: '2023-06-04'
 description: ecco perché
