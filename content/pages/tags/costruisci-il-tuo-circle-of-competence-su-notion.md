@@ -322,7 +322,7 @@ Ehi ciao 👋,
 
 questo è il numero 368 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti parlerò del **perché questa newsletter non avrà più il formato quotidiano.**
+E oggi ti mostrerò **come creare il tuo Circle of Competence su Notion.**
 
 <br>
 
@@ -330,7 +330,7 @@ E oggi ti parlerò del **perché questa newsletter non avrà più il formato qu
 
 **TL;DR**
 
-*   Kit di Sopravvivenza per Creator: niente più daily newsletter;
+*   Costruisci il tuo Circle of Competence, su Notion!
 
 *   Una risorsa per la tua audience building
 
@@ -344,167 +344,151 @@ E oggi ti parlerò del **perché questa newsletter non avrà più il formato qu
 
 <br>
 
-Quasi un anno fa, giorno più giorno meno, ho cominciato a pubblicare questa newsletter.
+Nel 1996 Warren Buffet scrive una lettera ai suoi investitori.
 
-Era uno dei miei **sogni** rimasto nel cassetto per troppo tempo e, dopo aver ottenuto un bel po' di validazione sul formato e sui contenuti, ho deciso di buttarmi e lanciarla.
+È una di quelle lettere agli investitori famose, come quelle di Bezos.
 
-Doveva essere una newsletter in cui fornivo ogni giorno una risorsa utile per i creator e la domenica (l'edizione settimanale) doveva fornirne tre.
+In pratica, sti grand imprenditori, si mettono ogni anno e scrivono qualcosa ai loro investitori.
 
-**L'all you can eat delle risorse per creator (e non solo).**
+​[In questa lettera](https://www.berkshirehathaway.com/letters/1996.html) però, Buffet pone le basi di un concetto: il **Circle of Competence**.
 
-So che è successo un anno fa perché ho contato i giorni e le newsletter.
+Secondo lui, e il suo amichetto Charlie Munger, è importante valutare ogni opportunità in funzione del proprio Circle of Competence.
 
-E l'ho fatto grazie alla newsletter quotidiana andata avanti fino a qualche giorno fa, fino al numero 365.
+E non conta quanto sia grande questo cerchio, quel che conta è **dove sono i suoi limiti e cosa c’è oltre**.
 
-E perché?
+In pratica, fino a quando sei all’interno del tuo Circle of Competence, sei al sicuro ed è molto probabile che le opportunità che cogli abbiano **risultati positivi**.
 
-Quali fattori ho valutato per prendere questa decisione?
+Se però esci da quel cerchio, allora aumenta il rischio di fallimento, perché non hai competenza e ti muovi al buio.
 
-Oggi te li spiego, magari ti potranno essere utili.
+Inoltre, devi fare in modo che col tempo questo cerchio si ingrandisca sempre di più.
 
-<br />
+Insomma, un bel casino.
 
-## **COME FERMARTI QUANDO VAI DI CORSA**
+Ancora di più se provi a implementarlo su Notion.
 
-Quando fai qualcosa per tutti i giorni succedono cose.
-
-Ottieni dei dati importanti.
-
-Ed è importante interpretare questi dati per decidere i prossimi passi del tuo operato.
-
-Ecco quali fattori che ho considerato per **eliminare il formato quotidiano**:
-
-*   Curiosità o automatismo? La differenza è sottile
-
-*   Divertimento o disciplina? La differenza è sottile
-
-*   Rumore o valore? La differenza è enorme
-
-Ora te ne parlo in dettaglio.
+No?
 
 ​
 
-### **CURIOSITÀ O AUTOMATISMO? LA DIFFERENZA È SOTTILE**
+## **COSTRUISCI IL TUO CIRCLE OF COMPETENCE, SU NOTION!**
 
-Partiamo da questo punto, la questione più semplice.
+Allora, questo framework ti aiuta a valutare le opportunità e capire se puoi portarle a risultati positivi oppure no.
 
-Ho cominciato a pubblicare questa newsletter nel formato quotidiano per una sfida con me stesso.
+Ma richiede che tu faccia una **lucida valutazione delle tue competenze**.
 
-L' obiettivo era quello di **creare qualcosa, tutti i giorni per un anno.**
+E come puoi riuscire a fare una cosa del genere su Notion?
 
-Mi avrebbe insegnato tante cose sui lettori e su di me.
+Questa è una buona strada:
 
-E soprattutto mi avrebbe insegnato tante cose sulla creazione di contenuti.
+*   Il database Competenze
 
-E ci sono riuscito, dopo tantissime iterazioni ho trasformato un processo creativo in qualcosa di automatico.
+*   La vista Valutazione
 
-Cosi tanto automatico che non soddisfa più la mia curiosità.
+*   Il passo finale
 
-Ho scomposto il concetto di newsletter, l'ho trasformato in un tweet che fa selezione, con la libertà di condividere quello che preferisci fregandotene che i link piacciano o meno alla piattaforma.
-
-E cosi riuscivo a **raggiungere più obiettivi**.
-
-Innanzitutto, riuscivo a dare al mio lettore il minimo carico informativo possibile.
-
-Inoltre, riducevo lo sforzo creativo anche per me, il creatore della newsletter.
-
-Ma per riuscire a fare sta cosa, dovevo **plasmare il processo creativo**, rendendolo adatto al meglio alle mie esigenze.
-
-All'inizio scrivevo ogni newsletter nel giorno stesso in cui usciva, mi svegliavo un'oretta prima, selezionavo, scrivevo e pubblicavo entro le 7 di mattina.
-
-Poi il processo è cambiato (perché sono cambiate le mie abitudini e anche la mia vita) e quindi ho cominciato a preparare le newsletter in batch e programmarle.
-
-Nelle sue ultime iterazioni, il processo durava un paio di ore per una settimana circa di pubblicazione.
-
-Tutto in un unico blocco di il lunedì mattina.
-
-Solo che è diventato così automatico che potrei andare avanti per anni senza perdere neanche una giornata.
-
-Ma a quale scopo?
+E ora ti spiego come percorrerla!
 
 ​
 
-### **DIVERTIMENTO O DISCIPLINA? LA DIFFERENZA È SOTTILE**
+### **IL DATABASE COMPETENZE**
 
-Quando l'atto creativo non è più difficile, diventa **noioso**.
+Ok, questo è il fulcro centrale di quello che costruiremo.
 
-Non so te, ma io funziono così.
+Serve un database che ospiti tutte le nostre **competenze** e dobbiamo pure classificarle.
 
-Quando una sfida mi attira per la sua difficoltà, mi ossessiona e non sono soddisfatto fino a quando non l'ho risolta.
+Inoltre, vogliamo avere i risultati della valutazione davanti ai nostri occhi quando consideriamo una **opportunità**.
 
-E la questione del "processo sostenibile" di cui ti ho parlato al punto precedente, era proprio una sfida di questo tipo.
+Come facciamo una cosa del genere?
 
-Una volta che l'ho conclusa, non è più divertente ed è diventato prioritario per me capire altre cose.
+*   In una pagina vuota digita / e poi seleziona l’opzione “Database - Full page”
 
-Ho dovuto capire quali fossero i pro e i contro di proseguire.
+*   A questo database dai il nome “Competence”
 
-Da un lato i **vantaggi**: continuare a raccogliere dati sui gusti dei lettori, continuare ad avere uno spazio quotidiano per eventuali sponsorship, continuare a stare sempre presente nel loop dei contenuti ecc.
+*   Inserisci una proprietà Select (cliccando sul + vicino al tasto blu con scritto “New”, seleziona Properties e scegli l’opzione Select)
 
-Ed ho considerato gli **svantaggi**: noia per me e per il lettore (ma ne parleremo al punto successivo), blocchi di tempo che potrei riservare ad altro ecc.
+*   Tra le opzioni della proprietà, inserisci queste tre voci: Danger Zone, Safe Zone, Explorer Zone
 
-E gli svantaggi si sono rivelati più dei vantaggi.
+Il risultato dovrebbe essere una cosa del genere.
 
-​
-
-### **RUMORE O VALORE? LA DIFFERENZA È SOTTILE**
-
-E arriviamo quindi a questo punto, quello più importante.
-
-Alla base di una newsletter di selezione (come quella quotidiana e in parte questa) deve esserci una priorità secondo me, la più importante: **creare valore.**
-
-E se non crei valore, allora crei rumore.
-
-Perché diciamoci la verità, **di contenuti ne è pieno il mondo** e per quanto tu possa cercare di dare il tuo contributo, è importante capire se quel contributo crea valore oppure si disperde nel mare di contenuti che tutti noi consumiamo ogni giorno.
-
-E qui i numeri parlano chiaro.
-
-Più di un lettore mi ha rivelato che quelle newsletter quotidiane finivano automaticamente in una cartella specifica.
-
-Che significa?
-
-Significa che il valore nella selezione c'era, cosi tanto dal creare una cartella specifica su Gmail e attingere alle risorse condivide, ma non abbastanza da prendere azione subito.
-
-Che è un problema che ho riscontrato in tante selezioni.
-
-Ora, non so per te, ma **questo per me è rumore e non è valore.**
+| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/gw6EuN38WpyZYX9f51Z8Uu/email) |
+| --------------------------------------------------------------------------------------- |
 
 ​
 
+### **LA VISTA VALUTAZIONE**
+
+Ok, ora che hai creato il database, bisogna creare **la vista che ci permette la valutazione**.
+
+È con questa vista, infatti, che potremo rendere al meglio la questione di **aree di competenza che si allargano sempre di più**.
+
+Perché mica vuoi che le tue competenze restino fisse?
+
+Ecco come puoi fare:
+
+*   in un’altra pagina, digita / e seleziona l’opzione “Linked view of a database”
+
+*   nella finestra “Select data source” che si apre, seleziona il database che hai creato prima, quello chiamato Competence
+
+*   nella nuova finestra, clicca su “New empty view”
+
+*   seleziona l’opzione “Board”
+
+*   alla voce “Group by” seleziona l’opzione “Zone”
+
+Ok, ora dovresti ritrovarti davanti una cosa del genere.
+
+| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/oi8AdAPMWUNSdUauPUBVjF/email) |
+| --------------------------------------------------------------------------------------- |
+
+E puoi **spostare con facilità anche le competenze**.
+
+Nella “Safe Zone”, ovviamente inserisci le competenze di cui sei sicuro.
+
+Nella “Explorer Zone” inserisci quelle che stai esplorando.
+
+Nella “Danger Zone”, invece, inserisci quelle di cui non capisci proprio niente.
+
+E mano a mano che ti dedichi ad una nuova competenza, la sposti dalla “Danger Zone” fino alla “Safe Zone”.
+
 ​
 
-Ora però di sicuro ti starai facendo una domanda.
+### **IL PASSO FINALE**
 
-E ora?
+Ora però diciamoci la verità.
 
-Ora il Kit resterà, ma solo nel **formato settimanale** (quello che stai leggendo).
+Una semplice valutazione non è che ci può aiutare a molto.
 
-Il processo creativo che ho ottimizzato e reso automatico avrà nuovi obiettivi, su cui non ti faccio spoiler.
+Si tratta di un framework per valutare le opportunità in funzione delle nostre competenze.
 
-**E tutte le risorse che per un anno ho inviato tutti i giorni?**
+Ed è proprio per fare questo che devi **aggiungere una nuova proprietà al database originale**.
 
-Questa è la parte interessante, quella che ti porterà a **cliccare sul pulsante qui sotto (almeno spero).**
+Ti basta fare lo stesso procedimento con cui hai aggiunto la proprietà Select, solo che questa volta devi selezionare l’opzione **Relation**.
 
-Tutte le risorse che ho pubblicato fanno parte di un mio database su Notion.
+E tra le opzioni che avrai davanti, dovrai scegliere il database in cui raccogli i tuoi progetti/opportunità.
 
-E non sono 365, sono molte di più.
+Ora puoi collegare ogni competenza ad uno specifico progetto e puoi fare l’inverso.
 
-Sono suddivise per categorie, con relativi dettagli ecc.
+E sfruttando bene la proprietà Rollup, quando selezioni le competenze di cui hai bisogno per un dato progetto, dovresti poter vedere anche la zona di competenza per ognuna di queste.
 
-**E quel database non sparirà, resta vivo per il mio utilizzo e anche per il tuo.**
+E magari pure un valore medio, grazie a una formula.
 
-Se finora hai ricevuto la newsletter quotidiana, puoi accedere a tutti i link recuperando l'e-mail, salvando il link e tanti altri casini.
+​
 
-Se invece sei iscritto solo alla newsletter settimanale, certe risorse non le hai mai viste.
+Ok, ora però sto complicando le cose.
 
-Quindi ho deciso di prendere il database, con tutte le risorse e dartene l'accesso.
+Il **passo finale** che finora ti ho mostrato è opzionale ed è un po’ più complesso.
 
-In pratica, un anno di selezione, tutta disponibile oltre questo pulsante qui sotto.
+Così complesso che risulta un **incubo** spiegarlo in questa newsletter.
 
-E continuerà a crescere, fidati.
+Quindi facciamo una cosa.
 
-Il prezzo per l'accesso al database non è fisso, dopo i primi acquisti aumenterà a blocchi, quindi **ti consiglio di fare veloce**.
+​[**Iscriviti al mio canale Youtube**](https://www.youtube.com/channel/UCsF5XnLAXWNxySHjTD3HZrQ), se non lo hai già fatto, e registrerò un video in cui ti mostro come fare tutta sta roba, compresa la parte finale.
 
-E detto questo, buona settimana e beccati le risorse.
+E se sei già iscritto, ma vuoi comunque vedere il video, **rispondi a questa email** e lo capirò!
+
+Ti basta cliccare sul pulsante qui sotto per iscriverti.
+
+Detto questo, anche per oggi è tutto, buona settimana e **beccati le risorse!**
 
 Daniele
 
