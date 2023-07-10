@@ -201,7 +201,8 @@ bottomSections:
         style: primary
         type: Button
         elementId: annual_review_button
-        url: 'https://danieledamico.gumroad.com/l/yearly-kit-release'
+        url: >-
+          https://www.youtube.com/channel/UCsF5XnLAXWNxySHjTD3HZrQ?sub_confirmation=1
     styles:
       self:
         height: auto
