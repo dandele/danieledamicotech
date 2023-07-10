@@ -178,7 +178,6 @@ metaTags: []
 title: "\U0001F9F0 kSC #41: NIENTE PIÙ KIT QUOTIDIANO..."
 colors: colors-a
 date: '2023-06-04'
-client: Awesome client
 description: ecco perché
 featuredImage:
   type: ImageBlock
