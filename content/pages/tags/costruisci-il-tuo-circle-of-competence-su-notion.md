@@ -177,7 +177,7 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #46: COSTRUISCI IL TUO CIRCLE OF COMPETENCE..."
 colors: colors-a
-date: '2023-07-10'
+date: '2023-07-09'
 description: SU NOTION
 featuredImage:
   type: ImageBlock
