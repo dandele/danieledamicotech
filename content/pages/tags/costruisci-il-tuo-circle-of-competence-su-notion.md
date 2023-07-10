@@ -178,7 +178,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #46: COSTRUISCI IL TUO CIRCLE OF COMPETENCE..."
 colors: colors-a
 date: '2023-06-04'
-description: ecco perché
+description: SU NOTION
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
