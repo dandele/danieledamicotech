@@ -179,7 +179,6 @@ title: "\U0001F9F0 kSC #45: UN MVP PER I TUOI PROGETTI DI VITA…"
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2023-07-02'
 client: Awesome client
 description: su Notion
