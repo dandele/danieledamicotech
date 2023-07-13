@@ -290,9 +290,9 @@ slug: e-obsidian-come-lo-uso
 ---
 Ehi ciao 👋,
 
-questo è il numero 371 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 374 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti parlerò di **dell'MVP dei grandi progetti, su Notion!**
+E oggi ti E oggi ti racconterò di **3 cose che faccio con Obsidian, senza passare per Notion!**
 
 <br>
 
@@ -300,7 +300,7 @@ E oggi ti parlerò di **dell'MVP dei grandi progetti, su Notion!**
 
 **TL;DR**
 
-*   Creare un MVP per i tuoi grandi progetti, su Notion!
+*   3 cose che faccio con Obsidian, senza passare per Notion!
 
 *   Una risorsa per la tua audience building
 
@@ -308,128 +308,144 @@ E oggi ti parlerò di **dell'MVP dei grandi progetti, su Notion!**
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 4 minuti e 30.
+**Il tempo di lettura previsto è:** 3 minuti e 30.
 
 ***
 
 <br>
 
-Ok, tutti devono avere obiettivi nella vita.
+Ok, ormai sai che uso sia **Notion** che **Obsidian**.
 
-È una cosa ovvia.
+Il primo è al centro di tante mie attività sia personali che lavorative.
 
-C'è chi preferisce avere obiettivi a distanza di un anno, chi a due anni e chi di più.
+E te ne ho già parlato tante volte.
 
-Io però ho sempre avuto un **problema sulla questione**.
+Di come utilizzo il secondo, invece, te ne ho parlato poco.
 
-Ho sempre avuto difficoltà a capire se un obiettivo poteva rendermi soddisfatto per davvero.
+E, pur avendo detto che uso entrambi gli strumenti per obiettivi diversi, non ti ho mai detto con precisione **per cosa uso Obsidian**.
 
-Sarà una paranoia mia, ma quando mi metto a fare i piani del futuro, mi ritrovo sempre a dire una cosa del genere.
-
-"Ok, ora mi metto e mi impegno per i prossimi 4-5 mesi per raggiungere questo obiettivo.
-
-Ma se poi mi rendo conto che l'obiettivo non mi rende felice?"
+E oggi ho deciso di rimediare.
 
 ​
 
-## **L'MVP DEI GRANDI PROGETTI, SU NOTION**
+## **3 COSE CHE FACCIO SU OBSIDIAN, SENZA PASSARE PER NOTION**
 
-In tal caso, succede che hai sprecato tempo.
+E no, non ho intenzione di farti una sconfinata lista di tutte le cose per cui utilizzo Obsidian e non Notion.
 
-E ok, magari hai imparato cose, ma il risultato è comunque uno spreco.
+Ti racconterò di **3 utilizzi in particolare**.
 
-Quindi che si fa?
+*   ODG di Notion Builders
 
-E che c'entra Notion?
+*   Scrittura newsletter
 
-*   Tim Ferriss, gli esperimenti di due settimane e i progetti di 6 mesi
+*   Reading hub
 
-*   Come creare il tuo MVP su Notion;
-
-*   E dopo l'esperimento?
-
-Come avrai intuito, ora te lo spiego.
+Non perdiamo tempo e cominciamo!
 
 ​
 
-### **TIM FERRISS, GLI ESPERIMENTI DI DUE SETTIMANE E I PROGETTI DI 6 MESI**
+### **ODG DI NOTION BUILDERS**
 
-Per anni il dubbio è rimasto nella mia testa.
+Lo so, sembra una battuta ma ti giuro che non lo è!
 
-Poi ho sentito un [podcast di Tim Ferriss](https://podclips.com/c/LacN4G) e ho capito una cosa fondamentale!
+È su Obsidian che gestisco i meeting notes delle riunioni di allineamento settimanali che Beatrice ed io facciamo per [Notion Builders](https://www.notionbuilders.it/).
 
-Ho capito che puoi fare **esperimenti anche con i tuoi progetti a lungo termine**.
+E fidati di me, c’è un valido **motivo**.
 
-Esperimenti in cui provi una versione ridotta del tuo obiettivo a lungo termine, senza dedicarci mesi ma solo un paio di settimane.
+Quando facciamo queste riunioni, io e Beatrice analizziamo tutta una serie di questioni in tante aree diverse.
 
-Così, alla fine delle due settimane, se la cosa ti è piaciuta e hai ottenuto risultati rilevanti, allora puoi passare all'obiettivo a lungo termine.
+E pur avendo l’ODG ben mappato sul nostro Notion (grazie a Beatrice), io ho bisogno di processare le informazioni e ragionare utilizzando **mappe concettuali**.
 
-Altrimenti, cambi esperimento o cambi obiettivo.
+Per questo, mentre passiamo da un punto all’altro, io creo un nuovo **Obsidian Canvas** e faccio la mappa concettuale.
 
-In pratica, **un MVP per gli obiettivi di vita**.
+Puoi vedere uno screen qui sotto, ripulito da tutti i dettagli scottanti.
 
-E la cosa mi ha fatto scoppiare il cervello.
+E si, lo so che le mappe concettuali si possono creare anche su Notion, [sono anche bravo a farle](https://danieledamico.tech/tags/sai-vedere-le-informazioni-su-notion/).
 
-​
+Ma devo ammettere che non la trovo ancora una funzione immediata, Obsidian invece ti permette di creare le mappe con molta più facilità.
 
-### **COME CREARE IL TUO MVP SU NOTION**
+Inoltre, all’**interno di ogni nodo della mappa puoi linkare una relativa pagina di note**.
 
-E dato che ho le mie fisse, ho preparato un **sistema per costruire questi MVP su Notion**.
+E questo mi permette di introdurre nella stessa mappa le risorse che utilizzeremo per risolvere un dato problema.
 
-Come ci sono riuscito?
-
-*   Ho usato il database Area
-
-*   Ho usato il database Goals
-
-*   Ho creato il database Sprint/Esperimenti
-
-Il primo database, quello "Area", è un semplice database in cui inserisco le **aree principali in cui suddivido la mia vita**.
-
-In particolare, le aree sono: Lavoro, Relazioni e Salute.
-
-Poi, è il turno del secondo database, quello chiamato Goals.
-
-In questo database, inserisco tutti gli obiettivi che vorrei raggiungere a lungo termine.
-
-Cerco di avere un **limite massimo di 3 obiettivi a lungo termine per area**.
-
-Infine, è il turno del database Sprint/Esperimenti.
-
-E questo è il contro principale di questo piccolo sistema.
-
-All'interno di questo database, inserisco le date di inizio e di fine dell'esperimento e altre proprietà utili (se l'esperimento è attivo, quali sono i criteri di successo ecc).
-
-Infine, creo due proprietà.
-
-Una **Relation** al database Goals (che uso per collegare l'esperimento all'obiettivo a lungo termine di cui è un MVP) e poi una proprietà **Rollup** che mostra, in automatico, l'area a cui questo esperimento appartiene.
+In pratica, Obsidian Canvas è una bomba!
 
 ​
 
-### **E DOPO L'ESPERIMENTO?**
-
-Così, ogni volta che mi salta in mente un nuovo obiettivo a lungo termine, penso prima al modo in cui lo posso sperimentare.
-
-E questo cambia tutto.
-
-Perché così, ogni obiettivo a lungo termine porta in sé fin dall'inizio, una **maggiore possibilità di successo**.
-
-Non è più un semplice obiettivo nell'etere, è qualcosa di pratico fin dall'inizio.
-
-E c'è un piano, ci sono dei task, l'investimento di tempo è minimo.
-
-Insomma, per me è un sistema molto efficace.
+| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/efKLJmBYH6M7xEQZR8sN8J) |
+| --------------------------------------------------------------------------------- |
 
 ​
 
-Ora, non dico che per te possa rivelarsi utile allo stesso modo, eh.
+### **SCRITTURA NEWSLETTER**
 
-Ma credo che, se hai incontrato le mie stesse difficoltà in passato, allora dovresti farlo un tentativo.
+Mi piace scrivere più su Obsidian che su Notion, soprattutto quando si parla di testi lunghi.
 
-Consideralo un esperimento, che dici?
+Obsidian ti permette, grazie ai tanti plugin creati dalla community, di avere un maggiore controllo su quello che scrivi.
 
-Capita la battuta?
+Infatti, puoi usare plugin che ti permettono di:
 
-E niente, direi che anche per oggi è tutto, buona settimana e **beccati le risorse**.
+*   vedere l’outline di quello che scrivi;
+
+*   accedere ai tuoi appunti in multitasking;
+
+*   contare le parole che utilizzi e il tempo di lettura.
+
+Insomma, l’**esperienza di scrittura su Obsidian** è di gran lunga migliore rispetto a Notion.
+
+Ma la limito alla newsletter che stai leggendo e **non ai post di Linkedin**.
+
+E perché?
+
+Perché su Linkedin pubblico un post al giorno.
+
+Questo significa che in poco tempo il mio Obsidian sarebbe pieno di tante cose scritte che andrebbero a produrre rumore di fondo.
+
+E non è il motivo per cui uso Obsidian.
+
+Obsidian lo uso in modo più selettivo: è la **parte creativa** del mio Second Brain, non quella organizzativa.
+
+​
+
+| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/6i85udbW5Ypn9QHpVQPQFv) |
+| --------------------------------------------------------------------------------- |
+
+​
+
+### **READING HUB**
+
+Come forse hai già letto in passato, utilizzo Readwise Reader per leggere e prendere appunti.
+
+Il vantaggio di questo strumento è che ti permette di salvare gli appunti e gli highlights di quanto leggi.
+
+Poi li prende e li esporta in automatico dove vuoi, nel mio caso su Notion e Obsidian.
+
+E una volta che questi appunti finiscono su Obsidian, **li analizzo di nuovo e cerco di creare cose nuove**.
+
+Solo che alcuni li leggo su Obsidian, altri su Notion.
+
+Tutti gli appunti che sono personali, li analizzo su **Obsidian**, e quelli che invece possono essere utili a me o altri li analizzo su **Notion**.
+
+Su Notion, infatti, taggo tutte le letture che voglio condividere con Beatrice, per esempio, e lei ha accesso ai miei appunti, li può commentare e possiamo lavorarci insieme.
+
+Una cosa del genere non sarebbe possibile con Obsidian.
+
+​
+
+| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/d23xmr36k1jEq4e1WNzkdi) |
+| --------------------------------------------------------------------------------- |
+
+​
+
+Ecco, spero che ora tu abbia un quadro più chiaro di come utilizzo Obsidian e in quali casi lo utilizzo.
+
+Magari hai capito pure lo spazio che riservo a Obsidian e Notion, a seconda delle esigenze.
+
+E magari questa lettura ti aiuterà ad avere un po’ di ispirazione su come utilizzare questi strumenti.
+
+Detto questo, per oggi è tutto.
+
+Buona settimana e **beccati le risorse**.
 
 Daniele
+
