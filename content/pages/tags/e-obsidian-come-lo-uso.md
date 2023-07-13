@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #45: UN MVP PER I TUOI PROGETTI DI VITA…"
+title: "\U0001F9F0 kSC #47: E OBSIDIAN?"
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
