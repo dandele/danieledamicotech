@@ -180,7 +180,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
 date: '2023-07-02'
-description: su Notion
+description: COME LO USO?
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
