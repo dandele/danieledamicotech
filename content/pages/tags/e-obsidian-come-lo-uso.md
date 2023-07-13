@@ -180,7 +180,6 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
 date: '2023-07-02'
-client: Awesome client
 description: su Notion
 featuredImage:
   type: ImageBlock
