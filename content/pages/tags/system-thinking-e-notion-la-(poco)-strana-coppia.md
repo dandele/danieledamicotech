@@ -193,7 +193,7 @@ bottomSections:
     elementId: ''
     backgroundSize: full
     actions:
-      - label: VUOI IL VIDEO-TUTORIAL?
+      - label: PORTA IL SYSTEM THINKING SUL TUO NOTION!
         altText: ''
         showIcon: true
         icon: arrowRight
