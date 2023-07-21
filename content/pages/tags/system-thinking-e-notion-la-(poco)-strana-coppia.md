@@ -178,7 +178,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #47: system thinking e notion..."
 colors: colors-a
 date: '2023-07-23'
-description: SU NOTION
+description: la (poco) strana coppia!
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
