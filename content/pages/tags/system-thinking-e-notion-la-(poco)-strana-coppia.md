@@ -345,151 +345,143 @@ E oggi ti mostrerò **come creare il tuo Circle of Competence su Notion.**
 
 <br>
 
-Nel 1996 Warren Buffet scrive una lettera ai suoi investitori.
+Nel corso dei mesi ho cambiato spesso il mio parere su Notion.
 
-È una di quelle lettere agli investitori famose, come quelle di Bezos.
+All’inizio pensavo che fosse un semplice strumento per prendere appunti, un po’ come tutti.
 
-In pratica, sti grand imprenditori, si mettono ogni anno e scrivono qualcosa ai loro investitori.
+Poi, col passare del tempo, ho capito che Notion era in grado di fare qualcosa di più.
 
-​[In questa lettera](https://www.berkshirehathaway.com/letters/1996.html) però, Buffet pone le basi di un concetto: il **Circle of Competence**.
+Ti permetteva di costruire le soluzioni più adatte alle tue esigenze, unendo database e grafica, un vero e proprio strumento no-code.
 
-Secondo lui, e il suo amichetto Charlie Munger, è importante valutare ogni opportunità in funzione del proprio Circle of Competence.
+Poi però ho capito un'altra cosa.
 
-E non conta quanto sia grande questo cerchio, quel che conta è **dove sono i suoi limiti e cosa c’è oltre**.
+Notion non ti permette solo di creare lo strumento più adatto alle tue esigenze.
 
-In pratica, fino a quando sei all’interno del tuo Circle of Competence, sei al sicuro ed è molto probabile che le opportunità che cogli abbiano **risultati positivi**.
+Ti permette anche di **collegare diversi strumenti tra loro**, tutti nello stesso spazio.
 
-Se però esci da quel cerchio, allora aumenta il rischio di fallimento, perché non hai competenza e ti muovi al buio.
+In pratica, è lo strumento migliore per **mettere in pratica il system thinking**.
 
-Inoltre, devi fare in modo che col tempo questo cerchio si ingrandisca sempre di più.
-
-Insomma, un bel casino.
-
-Ancora di più se provi a implementarlo su Notion.
-
-No?
+Ma cos’è il system thinking?
 
 ​
 
-## **COSTRUISCI IL TUO CIRCLE OF COMPETENCE, SU NOTION!**
+## **SYSTEM THINKING E NOTION: LA COPPIA (POCO) STRANA**
 
-Allora, questo framework ti aiuta a valutare le opportunità e capire se puoi portarle a risultati positivi oppure no.
+Lo so.
 
-Ma richiede che tu faccia una **lucida valutazione delle tue competenze**.
+So che quando pensi a system thinking hai in mente qualcosa, qualcosa di vago e poco strutturato.
 
-E come puoi riuscire a fare una cosa del genere su Notion?
+Questo valeva anche per me fino a qualche tempo fa.
 
-Questa è una buona strada:
+Poi ho approfondito l’argomento e ora capito alcune cose.
 
-*   Il database Competenze
+*   Cos’è il system thinking? Senza fuffa
 
-*   La vista Valutazione
+*   Cosa costituisce un sistema?
 
-*   Il passo finale
-
-E ora ti spiego come percorrerla!
+*   Notion e system thinking?
 
 ​
 
-### **IL DATABASE COMPETENZE**
+### **COS’È IL SYSTEM THINKING? SENZA FUFFA**
 
-Ok, questo è il fulcro centrale di quello che costruiremo.
+Questa è forse una delle cose più difficili.
 
-Serve un database che ospiti tutte le nostre **competenze** e dobbiamo pure classificarle.
+Perché quando si parla di system thinking il rischio di beccarsi una spiegazione fuffa è altissimo.
 
-Inoltre, vogliamo avere i risultati della valutazione davanti ai nostri occhi quando consideriamo una **opportunità**.
+Per questo, ho pensato ad un’analogia che meglio ti permettesse di comprendere la cosa.
 
-Come facciamo una cosa del genere?
+Hai presente un **puzzle**?
 
-*   In una pagina vuota digita / e poi seleziona l’opzione “Database - Full page”
+Un puzzle è composto da tanti piccoli pezzetti, tutti diversi tra loro.
 
-*   A questo database dai il nome “Competence”
+Che succede se guardi un singolo pezzetto?
 
-*   Inserisci una proprietà Select (cliccando sul + vicino al tasto blu con scritto “New”, seleziona Properties e scegli l’opzione Select)
+Niente di che.
 
-*   Tra le opzioni della proprietà, inserisci queste tre voci: Danger Zone, Safe Zone, Explorer Zone
+Ma che succede se invece metti tutti i pezzetti insieme?
 
-Il risultato dovrebbe essere una cosa del genere.
+Vedi l’**immagine complessiva** del puzzle, magari una bella riproduzione di qualche quadro famoso.
 
-| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/gw6EuN38WpyZYX9f51Z8Uu/email) |
-| --------------------------------------------------------------------------------------- |
+E capisci pure che il puzzle non è composto solo dai singoli pezzetti ma anche dai **modi in cui questi si collegano tra loro** e tanti altri fattori.
 
-​
+Fin qui ci sei? Bene.
 
-### **LA VISTA VALUTAZIONE**
+Pensare in sistemi significa **capire come le parti di un sistema (i pezzetti del puzzle) lavorano insieme e come i cambiamenti di una di queste parti possono avere un effetto sull’intero sistema**.
 
-Ok, ora che hai creato il database, bisogna creare **la vista che ci permette la valutazione**.
-
-È con questa vista, infatti, che potremo rendere al meglio la questione di **aree di competenza che si allargano sempre di più**.
-
-Perché mica vuoi che le tue competenze restino fisse?
-
-Ecco come puoi fare:
-
-*   in un’altra pagina, digita / e seleziona l’opzione “Linked view of a database”
-
-*   nella finestra “Select data source” che si apre, seleziona il database che hai creato prima, quello chiamato Competence
-
-*   nella nuova finestra, clicca su “New empty view”
-
-*   seleziona l’opzione “Board”
-
-*   alla voce “Group by” seleziona l’opzione “Zone”
-
-Ok, ora dovresti ritrovarti davanti una cosa del genere.
-
-| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/oi8AdAPMWUNSdUauPUBVjF/email) |
-| --------------------------------------------------------------------------------------- |
-
-E puoi **spostare con facilità anche le competenze**.
-
-Nella “Safe Zone”, ovviamente inserisci le competenze di cui sei sicuro.
-
-Nella “Explorer Zone” inserisci quelle che stai esplorando.
-
-Nella “Danger Zone”, invece, inserisci quelle di cui non capisci proprio niente.
-
-E mano a mano che ti dedichi ad una nuova competenza, la sposti dalla “Danger Zone” fino alla “Safe Zone”.
+E quando capisci come funziona il sistema, puoi fare scelte migliori per farlo funzionare meglio.
 
 ​
 
-### **IL PASSO FINALE**
+### **COSA COSTITUISCE UN SISTEMA**
 
-Ora però diciamoci la verità.
+Ora che siamo allineati su cos’è il system thinking possiamo passare alla **definizione di sistema**.
 
-Una semplice valutazione non è che ci può aiutare a molto.
+Anche se spero che l’analogia del puzzle ti abbia dato qualche indizio.
 
-Si tratta di un framework per valutare le opportunità in funzione delle nostre competenze.
+“Un sistema è un insieme di elementi interconnessi tra loro e che concorrono al raggiungimento di un obiettivo.”
 
-Ed è proprio per fare questo che devi **aggiungere una nuova proprietà al database originale**.
+Ok, figo, ma che significa?
 
-Ti basta fare lo stesso procedimento con cui hai aggiunto la proprietà Select, solo che questa volta devi selezionare l’opzione **Relation**.
+Significa che tutti i sistemi sono costituiti da tre cose in particolare:
 
-E tra le opzioni che avrai davanti, dovrai scegliere il database in cui raccogli i tuoi progetti/opportunità.
+*   **Elementi**: le parti che compongono il sistema. Possono essere persone, oggetti, idee o qualsiasi altra cosa che abbia un ruolo all’interno del sistema. Nel caso del puzzle sono i pezzetti che lo compongono.
 
-Ora puoi collegare ogni competenza ad uno specifico progetto e puoi fare l’inverso.
+*   **Relazioni**: le relazioni tra gli elementi del sistema. Queste indicano come gli elementi interagiscono tra loro e come possono avere un impatto sulle altre parti del sistema. Nel caso del puzzle possono essere i modi in cui i pezzetti si collegano tra loro.
 
-E sfruttando bene la proprietà Rollup, quando selezioni le competenze di cui hai bisogno per un dato progetto, dovresti poter vedere anche la zona di competenza per ognuna di queste.
-
-E magari pure un valore medio, grazie a una formula.
+*   **Scopo**: è quello che il sistema cerca di raggiungere. Perché ogni sistema esiste per un motivo specifico. Nel caso del puzzle è quello di mostrare la riproduzione del quadro famoso.
 
 ​
 
-Ok, ora però sto complicando le cose.
+### **NOTION E SYSTEM THINKING**
 
-Il **passo finale** che finora ti ho mostrato è opzionale ed è un po’ più complesso.
+E che legame c’è tra **Notion** e System Thinking?
 
-Così complesso che risulta un **incubo** spiegarlo in questa newsletter.
+Beh, mettiamola così: per spiegarti il system thinking ho usato l’analogia del puzzle.
 
-Quindi facciamo una cosa.
+Se invece volessi spiegarti come usare Notion, potrei fare l’**analogia con i lego**.
 
-​[**Iscriviti al mio canale Youtube**](https://www.youtube.com/channel/UCsF5XnLAXWNxySHjTD3HZrQ), se non lo hai già fatto, e registrerò un video in cui ti mostro come fare tutta sta roba, compresa la parte finale.
+Tanti piccoli pezzetti che metti insieme e ti permettono di costruire qualcosa.
 
-E se sei già iscritto, ma vuoi comunque vedere il video, **rispondi a questa email** e lo capirò!
+Insomma, stiamo parlando di cose molto simili.
 
-Ti basta cliccare sul pulsante qui sotto per iscriverti.
+Su Notion hai a disposizione decine di blocchi che puoi combinare per costruire qualcosa.
 
-Detto questo, anche per oggi è tutto, buona settimana e **beccati le risorse!**
+Poi puoi collegare quella cosa che hai costruito ad altre cose che hai costruito.
+
+E puoi utilizzare parti di queste cose diverse per costruire altro.
+
+In pratica, è un **puzzle digitale**.
+
+Figurati che c’è un tipo di operazioni che puoi fare sui database che si chiama Relations, proprio come uno dei costituenti dei sistemi!
+
+In pratica, Notion è uno strumento che porta in sé gli elementi stessi di un sistema e quindi ti permette di costruirli al meglio.
+
+Solo che manca una cosa per renderlo lo strumento ideale di messa in pratica del system thinking.
+
+**Lo scopo.**
+
+E quello è compito tuo sceglierlo.
+
+Tu o di chi costruisce il sistema per te.
+
+Deve essere quella persona che monta il puzzle per te, seguendo lo scopo che le dai e conoscendo tutte le regole che ci sono tra gli elementi.
+
+E fidati di me, trovare una persona di questo tipo è difficile.
+
+​
+
+Per questo, Beatrice ed io, non ci limitiamo alla costruzione di singoli strumenti per i clienti di [Notion Builders](https://www.notionbuilders.it/).
+
+Perché se vuoi un sistema per gestire la tua startup, non ti basterà solo un CRM, oppure solo un task manager o solo qualche altro strumento.
+
+Avrai bisogno di **più strumenti**, messi in relazione tra loro, costruiti con un approccio di system thinking.
+
+Vuoi che lo facciamo anche per te?
+
+**Clicca sul pulsante qui sotto** e prenota una call.
+
+Detto questo, buona settimana e **beccati le risorse**!
 
 Daniele
 
