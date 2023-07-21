@@ -178,7 +178,6 @@ metaTags: []
 title: "\U0001F9F0 kSC #46: COSTRUISCI IL TUO CIRCLE OF COMPETENCE..."
 colors: colors-a
 date: '2023-07-09'
-client: Awesome client
 description: SU NOTION
 featuredImage:
   type: ImageBlock
