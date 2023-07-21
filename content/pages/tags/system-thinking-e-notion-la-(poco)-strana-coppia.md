@@ -201,8 +201,7 @@ bottomSections:
         style: primary
         type: Button
         elementId: annual_review_button
-        url: >-
-          https://www.youtube.com/channel/UCsF5XnLAXWNxySHjTD3HZrQ?sub_confirmation=1
+        url: 'https://zcal.co/notionbuilders/quick-talk'
     styles:
       self:
         height: auto
