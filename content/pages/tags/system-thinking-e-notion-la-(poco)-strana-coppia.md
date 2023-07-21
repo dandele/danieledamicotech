@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #47: system thinking e notion..."
+title: "\U0001F9F0 kSC #48: system thinking e notion..."
 colors: colors-a
 date: '2023-07-23'
 description: la (poco) strana coppia!
