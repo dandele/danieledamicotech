@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #46: COSTRUISCI IL TUO CIRCLE OF COMPETENCE..."
+title: "\U0001F9F0 kSC #47: system thinking e notion..."
 colors: colors-a
 date: '2023-07-23'
 description: SU NOTION
