@@ -323,7 +323,7 @@ Ehi ciao 👋,
 
 questo è il numero 368 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti mostrerò **come creare il tuo Circle of Competence su Notion.**
+E oggi ti parlerò di **cos’è il system thinking e che legame ha con Notion.**
 
 <br>
 
@@ -331,7 +331,7 @@ E oggi ti mostrerò **come creare il tuo Circle of Competence su Notion.**
 
 **TL;DR**
 
-*   Costruisci il tuo Circle of Competence, su Notion!
+*   System thinking e Notion: la coppia (poco) strana
 
 *   Una risorsa per la tua audience building
 
@@ -484,4 +484,3 @@ Vuoi che lo facciamo anche per te?
 Detto questo, buona settimana e **beccati le risorse**!
 
 Daniele
-
