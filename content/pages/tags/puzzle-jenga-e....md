@@ -320,9 +320,9 @@ slug: puzzle-jenga-e...
 ---
 Ehi ciao 👋,
 
-questo è il numero 368 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 49 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti parlerò di **cos’è il system thinking e che legame ha con Notion.**
+E oggi ti parlerò di **3 lezioni di system thinking applicate a Notion.**
 
 <br>
 
@@ -330,13 +330,13 @@ E oggi ti parlerò di **cos’è il system thinking e che legame ha con Notion.*
 
 **TL;DR**
 
-*   System thinking e Notion: la coppia (poco) strana
+*   3 lezioni di system thinking applicate a Notion
 
-*   Una risorsa per la tua audience building
+*   Justin Welsh e ChatGPT ti aiutano con i contenuti
 
-*   Una risorsa per la tua produttività
+*   Usa il browser per essere produttivo
 
-*   Una risorsa per la tua monetization
+*   TI servono idee?
 
 **Il tempo di lettura previsto è:** 5 minuti.
 
@@ -344,142 +344,147 @@ E oggi ti parlerò di **cos’è il system thinking e che legame ha con Notion.*
 
 <br>
 
-Nel corso dei mesi ho cambiato spesso il mio parere su Notion.
+Settimana scorsa ti ho spiegato, a modo mio, cos'è il system thinking e che relazione ha con Notion.
 
-All’inizio pensavo che fosse un semplice strumento per prendere appunti, un po’ come tutti.
+Ora, non sto qui a ripeterti di nuovo le stesse cose.
 
-Poi, col passare del tempo, ho capito che Notion era in grado di fare qualcosa di più.
+Se vuoi più dettagli, ti consiglio di recuperare [la vecchia newsletter](https://danieledamico.tech/tags/system-thinking-e-notion-la-(poco\)-strana-coppia/).
 
-Ti permetteva di costruire le soluzioni più adatte alle tue esigenze, unendo database e grafica, un vero e proprio strumento no-code.
+Ma in breve ti posso dire che la relazione tra Notion e il system thinking c'è ed è molto forte.
 
-Poi però ho capito un'altra cosa.
+**Notion è lo strumento migliore per mettere in pratica e per comprendere il system thinking.**
 
-Notion non ti permette solo di creare lo strumento più adatto alle tue esigenze.
+Ma a che risultati porta mettere in pratica il system thinking su Notion?
 
-Ti permette anche di **collegare diversi strumenti tra loro**, tutti nello stesso spazio.
+Il risultato più grande è di sicuro quello che impari tante cose sui sistemi e queste sono le tre lezioni più grandi che ho imparato io:
 
-In pratica, è lo strumento migliore per **mettere in pratica il system thinking**.
+*   Nei sistemi l’espressione 2+2=4 è falsa
 
-Ma cos’è il system thinking?
+*   Start with why
 
-​
+*   Mai sottovalutare i sistemi
 
-## **SYSTEM THINKING E NOTION: LA COPPIA (POCO) STRANA**
-
-Lo so.
-
-So che quando pensi a system thinking hai in mente qualcosa, qualcosa di vago e poco strutturato.
-
-Questo valeva anche per me fino a qualche tempo fa.
-
-Poi ho approfondito l’argomento e ora capito alcune cose.
-
-*   Cos’è il system thinking? Senza fuffa
-
-*   Cosa costituisce un sistema?
-
-*   Notion e system thinking?
+Pronto?
 
 ​
 
-### **COS’È IL SYSTEM THINKING? SENZA FUFFA**
+### **NEI SISTEMI L’ESPRESSIONE 2+2=4 È FALSA**
 
-Questa è forse una delle cose più difficili.
+Iniziamo cosi, mettendo in dubbio la matematica.
 
-Perché quando si parla di system thinking il rischio di beccarsi una spiegazione fuffa è altissimo.
+E no, non sono impazzito, la cosa ha senso e ora te la spiego meglio.
 
-Per questo, ho pensato ad un’analogia che meglio ti permettesse di comprendere la cosa.
+Pensa al **puzzle**, l'analogia con cui ti ho spiegato il System Thinking nello scorso numero della newsletter.
 
-Hai presente un **puzzle**?
+A comporre il sistema puzzle ci sono diverse cose:
 
-Un puzzle è composto da tanti piccoli pezzetti, tutti diversi tra loro.
+*   **elementi** (i tasselli del puzzle)
 
-Che succede se guardi un singolo pezzetto?
+*   **relazioni** (i modi in cui puoi unire i tasselli)
 
-Niente di che.
+*   **scopo** (il motivo per cui fai il puzzle)
 
-Ma che succede se invece metti tutti i pezzetti insieme?
+E prendere una sola di queste cose, considerandola come unica parte del sistema, significa **guardare al sistema in modo riduttivo** e fare danni.
 
-Vedi l’**immagine complessiva** del puzzle, magari una bella riproduzione di qualche quadro famoso.
+In pratica, pensare che un sistema sia costituito solo dai suoi elementi (la parte più evidente) è un **errore**.
 
-E capisci pure che il puzzle non è composto solo dai singoli pezzetti ma anche dai **modi in cui questi si collegano tra loro** e tanti altri fattori.
+Perché altri due dei costituenti di un sistema (le relazioni e lo scopo) non sono visibili agli occhi.
 
-Fin qui ci sei? Bene.
+E su Notion hai una chiara dimostrazione di sta cosa quando agisci su un solo database, lo modifichi, costruisci pagine diverse per utilizzo e magari non consideri il processo di utilizzo ideale.
 
-Pensare in sistemi significa **capire come le parti di un sistema (i pezzetti del puzzle) lavorano insieme e come i cambiamenti di una di queste parti possono avere un effetto sull’intero sistema**.
+Arriva la prima persona che non ha le tue stesse idee e magari utilizza un processo diverso, usa il tuo sistema e tutto **si scassa**.
 
-E quando capisci come funziona il sistema, puoi fare scelte migliori per farlo funzionare meglio.
-
-​
-
-### **COSA COSTITUISCE UN SISTEMA**
-
-Ora che siamo allineati su cos’è il system thinking possiamo passare alla **definizione di sistema**.
-
-Anche se spero che l’analogia del puzzle ti abbia dato qualche indizio.
-
-“Un sistema è un insieme di elementi interconnessi tra loro e che concorrono al raggiungimento di un obiettivo.”
-
-Ok, figo, ma che significa?
-
-Significa che tutti i sistemi sono costituiti da tre cose in particolare:
-
-*   **Elementi**: le parti che compongono il sistema. Possono essere persone, oggetti, idee o qualsiasi altra cosa che abbia un ruolo all’interno del sistema. Nel caso del puzzle sono i pezzetti che lo compongono.
-
-*   **Relazioni**: le relazioni tra gli elementi del sistema. Queste indicano come gli elementi interagiscono tra loro e come possono avere un impatto sulle altre parti del sistema. Nel caso del puzzle possono essere i modi in cui i pezzetti si collegano tra loro.
-
-*   **Scopo**: è quello che il sistema cerca di raggiungere. Perché ogni sistema esiste per un motivo specifico. Nel caso del puzzle è quello di mostrare la riproduzione del quadro famoso.
+E questo accade perché ti sei concentrato solo su una parte del sistema, non sul suo complesso.
 
 ​
 
-### **NOTION E SYSTEM THINKING**
+### **START WITH WHY**
 
-E che legame c’è tra **Notion** e System Thinking?
+Ho conosciuto Simon Sinek qualche tempo fa, quando vidi per caso un [suo video su Youtube](https://www.youtube.com/watch?v=u4ZoJKF_VuA&t=2s).
 
-Beh, mettiamola così: per spiegarti il system thinking ho usato l’analogia del puzzle.
+Parlava di quanto è importante, nelle relazioni umane, partire dai motivi che spingono le persone ad agire.
 
-Se invece volessi spiegarti come usare Notion, potrei fare l’**analogia con i lego**.
+E chi lo avrebbe mai detto, ma questa cosa è valida anche per i sistemi.
 
-Tanti piccoli pezzetti che metti insieme e ti permettono di costruire qualcosa.
+Delle tre parti che costituiscono un **sistema**, infatti, sembra ce ne sia una un po' più importante delle altre.
 
-Insomma, stiamo parlando di cose molto simili.
+E questa parte è lo **scopo**.
 
-Su Notion hai a disposizione decine di blocchi che puoi combinare per costruire qualcosa.
+Perché modificare lo scopo ti permette di **cambiare il comportamento anche delle altre parti**.
 
-Poi puoi collegare quella cosa che hai costruito ad altre cose che hai costruito.
+Ma cambiamo paragone, così ti sarà più chiaro.
 
-E puoi utilizzare parti di queste cose diverse per costruire altro.
+Anche una squadra di rugby è un sistema.
 
-In pratica, è un **puzzle digitale**.
+Ci sono gli elementi, che sarebbero i giocatori della squadra.
 
-Figurati che c’è un tipo di operazioni che puoi fare sui database che si chiama Relations, proprio come uno dei costituenti dei sistemi!
+Ci sono le relazioni, che sarebbero le regole del rugby e i legami tra i giocatori.
 
-In pratica, Notion è uno strumento che porta in sé gli elementi stessi di un sistema e quindi ti permette di costruirli al meglio.
+E c'è lo scopo, che può essere quello di vincere la partita.
 
-Solo che manca una cosa per renderlo lo strumento ideale di messa in pratica del system thinking.
+Ora, che succede se provi a cambiare tutti i giocatori?
 
-**Lo scopo.**
+Niente di che, le regole del gioco restano le stesse e anche lo scopo resta lo stesso.
 
-E quello è compito tuo sceglierlo.
+E che succede se cambi le regole del gioco?
 
-Tu o di chi costruisce il sistema per te.
+Anche qui, niente di che, puoi lasciare gli stessi giocatori e questi troveranno un modo diverso per vincere.
 
-Deve essere quella persona che monta il puzzle per te, seguendo lo scopo che le dai e conoscendo tutte le regole che ci sono tra gli elementi.
+Ma che succede se invece di puntare alla vittoria della partita, punti al puro divertimento?
 
-E fidati di me, trovare una persona di questo tipo è difficile.
+Allora **cambia tutto il sistema**.
+
+Per adattarti a questa modifica, dovresti cambiare giocatori, cambiare le regole del gioco e le relazioni tra di loro.
+
+Insomma, un bel casino e solo perché hai agito sullo scopo.
+
+Su Notion puoi creare un **sistema per la produzione dei contenuti** oppure puoi creare un **sistema per pubblicare i post su Linkedin**.
+
+E la **differenza** anche se sembra minima è invece è abissale.
 
 ​
 
-Per questo, Beatrice ed io, non ci limitiamo alla costruzione di singoli strumenti per i clienti di [Notion Builders](https://www.notionbuilders.it/).
+### **MAI SOTTOVALUTARE I SISTEMI!**
 
-Perché se vuoi un sistema per gestire la tua startup, non ti basterà solo un CRM, oppure solo un task manager o solo qualche altro strumento.
+Questa è forse la lezione più importante.
 
-Avrai bisogno di **più strumenti**, messi in relazione tra loro, costruiti con un approccio di system thinking.
+Perché i sistemi sono fighi, fighissimi, ma sono anche **subdoli**!
 
-Vuoi che lo facciamo anche per te?
+Intervenire su un sistema è un po' come giocare a Jenga.
 
-**Clicca sul pulsante qui sotto** e prenota una call.
+Hai presente no?
 
-Detto questo, buona settimana e **beccati le risorse**!
+È quel gioco dove hai davanti una torre fatta da tanti blocchi collegati tra loro e te devi rimuovere un blocco alla volta, senza far cadere la torre.
+
+Se sposti il blocco sbagliato, cade tutto.
+
+E lo stesso vale per i sistemi, se agisci sulla leva sbagliata sei nei guai.
+
+Perché la verità è che siamo circondati da sistemi e noi stessi siamo sistemi.
+
+Solo che abbiamo sempre una **vista limitata** dei sistemi di cui facciamo parte.
+
+Magari conosciamo gli elementi di un sistema, ma non conosciamo le regole.
+
+Oppure non conosciamo lo scopo.
+
+E questo vale anche su Notion, magari elimini una pagina che pensi essere una semplice tabella e invece è la sorgente del tuo CRM.
+
+E in tel caso, mi dispiace per te, ma il **sistema ti ha fregato**.
+
+​
+
+​
+
+Ora, mi auguro che tu non sia in una situazione del genere, eh.
+
+Ma se così dovesse essere, ho una **soluzione** per te.
+
+Rivolgiti a chi se ne intende di Notion e di sistemi, così non sarai tu a doverti preoccupare di sti casini e potrai concentrarti sul tuo lavoro.
+
+Ti basta cliccare sul **pulsante qui sotto**.
+
+E detto questo, per oggi è tutto, buona settimana e **beccati le risorse**.
 
 Daniele
+
