@@ -178,7 +178,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #49: PUZZLE, JENGA..."
 colors: colors-a
 date: '2023-07-30'
-description: LA (POCO) STRANA COPPIA!
+description: e system thinkin!
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
