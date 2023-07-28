@@ -178,7 +178,6 @@ metaTags: []
 title: "\U0001F9F0 kSC #48: system thinking e notion..."
 colors: colors-a
 date: '2023-07-23'
-client: Awesome client
 description: LA (POCO) STRANA COPPIA!
 featuredImage:
   type: ImageBlock
