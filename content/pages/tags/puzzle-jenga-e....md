@@ -193,7 +193,7 @@ bottomSections:
     elementId: ''
     backgroundSize: full
     actions:
-      - label: PORTA IL SYSTEM THINKING SUL TUO NOTION!
+      - label: PROBLEMI COL TUO SISTEMA?
         altText: ''
         showIcon: true
         icon: arrowRight
