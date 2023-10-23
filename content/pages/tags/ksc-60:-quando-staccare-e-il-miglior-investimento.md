@@ -298,8 +298,6 @@ Era appena arrivata una mail riguardo il prossimo evento Notion che Beatrice ed 
 
 ​
 
-
-
 **TL;DR**
 
 *   3 mesi senza pubblicare su LinkedIn, perché l’ho fatto?
@@ -311,8 +309,6 @@ Era appena arrivata una mail riguardo il prossimo evento Notion che Beatrice ed 
 *   Arriva il Black Friday.
 
 **Il tempo di lettura previsto è**: 3 minuti e 30
-
-
 
 ​
 
@@ -449,30 +445,4 @@ Non importa in che modo decidi di impiegare il tempo libero che ricavi, l’impo
 Detto questo, per oggi è tutto: buona settimana e beccati le risorse.
 
 Daniele
-
-​
-
-
-
-## **👥 L’OBIETTIVO DI CHI SCRIVE (TANTO)**
-
-Quale dovrebbe essere l’obiettivo di chiunque crei contenuti di tipo lungo?
-
-​[Dovrebbe essere questo, non c’è alternativa.](https://joshspector.com/readers-not-subscribers/)​
-
-​
-
-## 🚀 **LO STRUMENTO PIÙ SOTTOVALUTATO (MA POTENTE)**
-
-Qual è lo strumento più sottovalutato ma più potente per migliorare la tua produttività, efficacia di pensiero e capacità di prendere decisioni?
-
-​[È questo e dovresti metterlo più spesso in pratica.](https://nesslabs.com/writing-thinking-tool?ref=creativerly.com)​
-
-​
-
-## **💸 ARRIVA IL BLACK FRIDAY**
-
-Tra poco arriva il Black Friday.
-
-​[Sei alla ricerca di nuove tattiche da utilizzare per migliorare le tue vendite? Eccole qui.](https://www.thestealclub.com/blog/black-friday-special)
 
