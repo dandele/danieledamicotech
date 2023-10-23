@@ -318,173 +318,193 @@ bottomSections:
         textAlign: center
 slug: 'ksc-60:-quando-staccare-e-il-miglior-investimento'
 ---
-Ehi ciao 👋,
+Ricordo che era un pomeriggio degli ultimi giorni di luglio.
 
-questo è il numero 49 del **Kit di Sopravvivenza per Creator**.
+Ero su Notion, stavo pianificando i contenuti da pubblicare su LInkedin nella settimana successiva.
 
-E oggi ti parlerò di **3 lezioni di system thinking applicate a Notion.**
+Poi ad un certo punto mi sono fermato.
 
-<br>
+Era appena arrivata una mail riguardo il prossimo evento Notion che Beatrice ed io avremmo organizzato a Milano e mi sono fatto una domanda.
 
-***
+“Ma che lo faccio a fa?”
+
+​
+
+
 
 **TL;DR**
 
-*   3 lezioni di system thinking applicate a Notion
+*   3 mesi senza pubblicare su LinkedIn, perché l’ho fatto?
 
-*   Justin Welsh e ChatGPT ti aiutano con i contenuti
+*   L’obiettivo di chi scrive (tanto);
 
-*   Usa il browser per essere produttivo
+*   Lo strumento più sottovalutato (ma potente);
 
-*   TI servono idee?
+*   Arriva il Black Friday.
 
-**Il tempo di lettura previsto è:** 5 minuti.
+**Il tempo di lettura previsto è**: 3 minuti e 30
 
-***
 
-<br>
-
-Settimana scorsa ti ho spiegato, a modo mio, cos'è il system thinking e che relazione ha con Notion.
-
-Ora, non sto qui a ripeterti di nuovo le stesse cose.
-
-Se vuoi più dettagli, ti consiglio di recuperare [la vecchia newsletter](https://danieledamico.tech/tags/system-thinking-e-notion-la-(poco\)-strana-coppia/).
-
-Ma in breve ti posso dire che la relazione tra Notion e il system thinking c'è ed è molto forte.
-
-**Notion è lo strumento migliore per mettere in pratica e per comprendere il system thinking.**
-
-Ma a che risultati porta mettere in pratica il system thinking su Notion?
-
-Il risultato più grande è di sicuro quello che impari tante cose sui sistemi e queste sono le tre lezioni più grandi che ho imparato io:
-
-*   Nei sistemi l’espressione 2+2=4 è falsa
-
-*   Start with why
-
-*   Mai sottovalutare i sistemi
-
-Pronto?
 
 ​
 
-### **NEI SISTEMI L’ESPRESSIONE 2+2=4 È FALSA**
+Ora, non mi devi fraintendere.
 
-Iniziamo cosi, mettendo in dubbio la matematica.
+So quanto è importante pubblicare contenuti, soprattutto per chi è un creator.
 
-E no, non sono impazzito, la cosa ha senso e ora te la spiego meglio.
+Non è la motivazione che mi era finita.
 
-Pensa al **puzzle**, l'analogia con cui ti ho spiegato il System Thinking nello scorso numero della newsletter.
+Anzi, in quel pomeriggio di luglio, mi trovavo in una serie di 3-4 mesi di pubblicazione continua su **LinkedIn**, tutti i giorni.
 
-A comporre il sistema puzzle ci sono diverse cose:
+E quando pubblichi con tanta costanza (e disciplina), la motivazione non serve più a nulla.
 
-*   **elementi** (i tasselli del puzzle)
+Quando quella domanda è emersa, ha portato con sé tante altre domande.
 
-*   **relazioni** (i modi in cui puoi unire i tasselli)
+Domande che non potevi più risolvere con la semplice **esecuzione**.
 
-*   **scopo** (il motivo per cui fai il puzzle)
+Quindi sono fermato dallo scrivere, per cominciare a ragionare.
 
-E prendere una sola di queste cose, considerandola come unica parte del sistema, significa **guardare al sistema in modo riduttivo** e fare danni.
+E oggi scoprirai su cosa:
 
-In pratica, pensare che un sistema sia costituito solo dai suoi elementi (la parte più evidente) è un **errore**.
+*   Un nuovo processo di creazione contenuti
 
-Perché altri due dei costituenti di un sistema (le relazioni e lo scopo) non sono visibili agli occhi.
+*   Il peso delle “macerie”
 
-E su Notion hai una chiara dimostrazione di sta cosa quando agisci su un solo database, lo modifichi, costruisci pagine diverse per utilizzo e magari non consideri il processo di utilizzo ideale.
-
-Arriva la prima persona che non ha le tue stesse idee e magari utilizza un processo diverso, usa il tuo sistema e tutto **si scassa**.
-
-E questo accade perché ti sei concentrato solo su una parte del sistema, non sul suo complesso.
+*   La routine del leone
 
 ​
 
-### **START WITH WHY**
+## **Un nuovo processo di creazione contenuti**
 
-Ho conosciuto Simon Sinek qualche tempo fa, quando vidi per caso un [suo video su Youtube](https://www.youtube.com/watch?v=u4ZoJKF_VuA&t=2s).
+Quando sei perso nella creazione, spesso dimentichi di guardare le cose da lontano.
 
-Parlava di quanto è importante, nelle relazioni umane, partire dai motivi che spingono le persone ad agire.
+Così ti perdi un sacco di dettagli e soprattutto **non sei oggettivo**.
 
-E chi lo avrebbe mai detto, ma questa cosa è valida anche per i sistemi.
+Uno dei motivi più importanti, per cui riuscivo a pubblicare così tanti contenuti era il fatto che avessi un **processo di creazione definito**.
 
-Delle tre parti che costituiscono un **sistema**, infatti, sembra ce ne sia una un po' più importante delle altre.
+Sapevo dove trovare le idee, come selezionarle, come scrivere i post, come pubblicarli e tante altre cose carine.
 
-E questa parte è lo **scopo**.
+Era il processo migliore?
 
-Perché modificare lo scopo ti permette di **cambiare il comportamento anche delle altre parti**.
+Non credo.
 
-Ma cambiamo paragone, così ti sarà più chiaro.
+Funzionava?
 
-Anche una squadra di rugby è un sistema.
+Certo.
 
-Ci sono gli elementi, che sarebbero i giocatori della squadra.
+E lo so che in questi casi il consiglio è “se funziona, non aggiustarlo”, ma io avevo bisogno di farlo comunque.
 
-Ci sono le relazioni, che sarebbero le regole del rugby e i legami tra i giocatori.
+Quindi mi sono fermato, mi sono preso il tempo per **analizzare** il mio processo di creazione contenuti e provare a **migliorarlo**.
 
-E c'è lo scopo, che può essere quello di vincere la partita.
+Così ho cominciato a lavorare dietro le quinte:
 
-Ora, che succede se provi a cambiare tutti i giocatori?
+*   Ho creato un mio writing hub
 
-Niente di che, le regole del gioco restano le stesse e anche lo scopo resta lo stesso.
+*   Ho dato un ruolo specifico a Notion e uno specifico a Obsidian
 
-E che succede se cambi le regole del gioco?
+*   Ho capito come gestire le mie idee
 
-Anche qui, niente di che, puoi lasciare gli stessi giocatori e questi troveranno un modo diverso per vincere.
+*   Ho capito che tipo di sito volessi e come crearlo
 
-Ma che succede se invece di puntare alla vittoria della partita, punti al puro divertimento?
+*   Ho deciso di abbandonare Convertkit
 
-Allora **cambia tutto il sistema**.
+Insomma, ho preso tante decisioni e ho fatto tante cose.
 
-Per adattarti a questa modifica, dovresti cambiare giocatori, cambiare le regole del gioco e le relazioni tra di loro.
+E non ti preoccupare, non ti parlerò di queste cose nella newsletter di oggi, c’è tempo.
 
-Insomma, un bel casino e solo perché hai agito sullo scopo.
-
-Su Notion puoi creare un **sistema per la produzione dei contenuti** oppure puoi creare un **sistema per pubblicare i post su Linkedin**.
-
-E la **differenza** anche se sembra minima è invece è abissale.
+Ma c’è una cosa importante da notare: ho capito in cosa migliorare, solo prendendomi del tempo per analizzare le cose.
 
 ​
 
-### **MAI SOTTOVALUTARE I SISTEMI!**
+## **Il peso delle “macerie”**
 
-Questa è forse la lezione più importante.
+Questo punto è connesso al precedente.
 
-Perché i sistemi sono fighi, fighissimi, ma sono anche **subdoli**!
+Quando produci così tanti contenuti, hai tanti dati da dover raccogliere e da dover analizzare.
 
-Intervenire su un sistema è un po' come giocare a Jenga.
+E se non hai strumenti per raccogliere con facilità, rischi di **perdere tutti questi dati**.
 
-Hai presente no?
+In fin dei conti, ogni contenuto è come una mini conversazione con chi lo legge.
 
-È quel gioco dove hai davanti una torre fatta da tanti blocchi collegati tra loro e te devi rimuovere un blocco alla volta, senza far cadere la torre.
+E a seconda del “successo” del contenuto, puoi capire se **l’idea** alla sua base è interessante oppure no.
 
-Se sposti il blocco sbagliato, cade tutto.
+In pratica, dati come i commenti, i like, le interazioni e le conversazioni che nascono in DM, indicano il valore della tua idea.
 
-E lo stesso vale per i sistemi, se agisci sulla leva sbagliata sei nei guai.
+Ma se sei così infognato nell’esecuzione di un processo che non hai neanche il tempo per guardarlo dall’esterno, figurati quanta attenzione puoi dare ai **risultati** di questo processo.
 
-Perché la verità è che siamo circondati da sistemi e noi stessi siamo sistemi.
+E così, nonostante mesi interi di post pubblicati ogni giorno, mi ritrovato senza una chiara visione dei loro **risultati**.
 
-Solo che abbiamo sempre una **vista limitata** dei sistemi di cui facciamo parte.
+E senza una visione dei risultati, non puoi capire la **direzione**.
 
-Magari conosciamo gli elementi di un sistema, ma non conosciamo le regole.
+​
 
-Oppure non conosciamo lo scopo.
+## **La routine del leone**
 
-E questo vale anche su Notion, magari elimini una pagina che pensi essere una semplice tabella e invece è la sorgente del tuo CRM.
+Questo è il punto forse più di impatto, quello che mi ha tranquillizzato di più.
 
-E in tel caso, mi dispiace per te, ma il **sistema ti ha fregato**.
+Tranquillizzato?
+
+Hai letto bene.
+
+Dopo qualche settimana di pausa, **l’ansia** di perdere opportunità, connessioni e chissà cosa, cominciava a farsi sentire più forte.
+
+Poi è arrivato il **dubbio**.
+
+Cominciavo a pensare che questo riposo non fosse naturale, era inadatto ai tempi di oggi e ancor di più ai creator.
+
+Ed è in questo momento che mi è tornata in mente la **routine del leone**.
+
+Non l’ho inventata io, chiariamolo.
+
+Non è che passo le giornate a pensare ai leoni, le passo a pensare a Notion e Obsidian.
+
+Ma [Sahil Bloom](https://www.sahilbloom.com/newsletter/the-most-powerful-ideas) invece lo fa e l’ha spiegata in dettaglio.
+
+In pratica, la routine dei leoni non è quella di andare a caccia ogni singolo giorno della loro vita.
+
+Pur dovendo andare a caccia per la loro stessa sopravvivenza, si fermano, riposano e mangiano.
+
+Anche loro hanno bisogno di recuperare le energie.
+
+E lo stesso vale per i **creator**, dedicare il giusto tempo al riposto è tra.gli investimenti migliori che tu possa fare per continuare la tua maratona.
 
 ​
 
 ​
 
-Ora, mi auguro che tu non sia in una situazione del genere, eh.
+Ecco, direi che ti ho fatto un quadro abbastanza chiaro del perché mi sono fermato dalla pubblicazione su LinkedIn.
 
-Ma se così dovesse essere, ho una **soluzione** per te.
+Per fartela breve, il riposo è un ottimo investimento.
 
-Rivolgiti a chi se ne intende di Notion e di sistemi, così non sarai tu a doverti preoccupare di sti casini e potrai concentrarti sul tuo lavoro.
+Non importa in che modo decidi di impiegare il tempo libero che ricavi, l’importante è che ci sia lo spazio per il riposo.
 
-Ti basta cliccare sul **pulsante qui sotto**.
-
-E detto questo, per oggi è tutto, buona settimana e **beccati le risorse**.
+Detto questo, per oggi è tutto: buona settimana e beccati le risorse.
 
 Daniele
+
+​
+
+
+
+## **👥 L’OBIETTIVO DI CHI SCRIVE (TANTO)**
+
+Quale dovrebbe essere l’obiettivo di chiunque crei contenuti di tipo lungo?
+
+​[Dovrebbe essere questo, non c’è alternativa.](https://joshspector.com/readers-not-subscribers/)​
+
+​
+
+## 🚀 **LO STRUMENTO PIÙ SOTTOVALUTATO (MA POTENTE)**
+
+Qual è lo strumento più sottovalutato ma più potente per migliorare la tua produttività, efficacia di pensiero e capacità di prendere decisioni?
+
+​[È questo e dovresti metterlo più spesso in pratica.](https://nesslabs.com/writing-thinking-tool?ref=creativerly.com)​
+
+​
+
+## **💸 ARRIVA IL BLACK FRIDAY**
+
+Tra poco arriva il Black Friday.
+
+​[Sei alla ricerca di nuove tattiche da utilizzare per migliorare le tue vendite? Eccole qui.](https://www.thestealclub.com/blog/black-friday-special)
 
