@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #49: PUZZLE, JENGA..."
+title: "\U0001F9F0 kSC #60: Quando staccare..."
 colors: colors-a
 date: '2023-07-30'
 description: E SYSTEM THINKING!
