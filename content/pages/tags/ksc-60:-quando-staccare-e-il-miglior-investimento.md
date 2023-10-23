@@ -177,7 +177,7 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #60: Quando staccare..."
 colors: colors-a
-date: '2023-07-30'
+date: '2023-10-23'
 description: È il miglior investimento!
 featuredImage:
   type: ImageBlock
