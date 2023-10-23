@@ -207,5 +207,6 @@ sections:
       - content/pages/tags/e-obsidian-come-lo-uso.md
       - content/pages/tags/system-thinking-e-notion-la-(poco)-strana-coppia.md
       - content/pages/tags/puzzle-jenga-e....md
+      - 'content/pages/tags/ksc-60:-quando-staccare-e-il-miglior-investimento.md'
 metaTitle: Kit di Sopravvivenza per Creator
 ---
