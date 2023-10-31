@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #61: Quando staccare..."
+title: "\U0001F9F0 kSC #61: Quando Non HAI SCELTA..."
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
