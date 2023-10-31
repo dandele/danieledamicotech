@@ -180,7 +180,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
-date: '2023-10-22'
+date: '2023-10-29'
 description: UTILIZZA OBSIDIAN!
 featuredImage:
   type: ImageBlock
