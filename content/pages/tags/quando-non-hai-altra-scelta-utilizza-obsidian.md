@@ -181,7 +181,6 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2023-10-22'
-client: Awesome client
 description: È IL MIGLIOR INVESTIMENTO!
 featuredImage:
   type: ImageBlock
