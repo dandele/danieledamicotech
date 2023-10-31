@@ -181,7 +181,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2023-10-22'
-description: È IL MIGLIOR INVESTIMENTO!
+description: UTILIZZA OBSIDIAN!
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
