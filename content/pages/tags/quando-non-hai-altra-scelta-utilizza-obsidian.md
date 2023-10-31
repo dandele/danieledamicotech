@@ -286,163 +286,146 @@ bottomSections:
         textAlign: center
 slug: quando-non-hai-altra-scelta-utilizza-obsidian
 ---
-Ricordo che era un pomeriggio degli ultimi giorni di luglio.
+”Non avevo scelta”.
 
-Ero su Notion, stavo pianificando i contenuti da pubblicare su LInkedin nella settimana successiva.
+È una delle frasi più utilizzate dai cattivi di film, libri ecc.
 
-Poi ad un certo punto mi sono fermato.
+Passano l’intera storia a fare le loro cose da cattivi, poi arriva la resa dei conti.
 
-Era appena arrivata una mail riguardo il prossimo evento Notion che Beatrice ed io avremmo organizzato a Milano e mi sono fatto una domanda.
+Gli eroi vincono e il cattivo la dice, quasi fosse una scusa.
 
-“Ma che lo faccio a fa?”
+Scommetto che anche tu l’hai pensata qualche volta, vero?
+
+In tal caso, **Obsidian** ti potrebbe aiutare.
 
 ​
+
+
 
 **TL;DR**
 
-*   3 mesi senza pubblicare su LinkedIn, perché l’ho fatto?
+*   Quando non hai altra scelta…utilizza Notion!
 
-*   L’obiettivo di chi scrive (tanto);
+*   Che ora è?
 
-*   Lo strumento più sottovalutato (ma potente);
+*   Fare curation non basta;
 
-*   Arriva il Black Friday.
+*   Il potere di alcune frasi.
 
-**Il tempo di lettura previsto è**: 3 minuti e 30
+**Il tempo di lettura previsto è**: 3 minuti e 30
 
-​
 
-Ora, non mi devi fraintendere.
-
-So quanto è importante pubblicare contenuti, soprattutto per chi è un creator.
-
-Non è la motivazione che mi era finita.
-
-Anzi, in quel pomeriggio di luglio, mi trovavo in una serie di 3-4 mesi di pubblicazione continua su **LinkedIn**, tutti i giorni.
-
-E quando pubblichi con tanta costanza (e disciplina), la motivazione non serve più a nulla.
-
-Quando quella domanda è emersa, ha portato con sé tante altre domande.
-
-Domande che non potevi più risolvere con la semplice **esecuzione**.
-
-Quindi sono fermato dallo scrivere, per cominciare a ragionare.
-
-E oggi scoprirai su cosa:
-
-*   Un nuovo processo di creazione contenuti
-
-*   Il peso delle “macerie”
-
-*   La routine del leone
 
 ​
 
-## **Un nuovo processo di creazione contenuti**
+Anche io l’ho pensata qualche volta.
 
-Quando sei perso nella creazione, spesso dimentichi di guardare le cose da lontano.
+E fino a qualche tempo credevo fosse tutta questione di fortuna e volontà.
 
-Così ti perdi un sacco di dettagli e soprattutto **non sei oggettivo**.
+Se avevi la sfortuna di trovarti in una situazione in cui non avevi scelte, dovevi avere la forza di **volontà** per fare la scelta giusta (o inventartene una nuova).
 
-Uno dei motivi più importanti, per cui riuscivo a pubblicare così tanti contenuti era il fatto che avessi un **processo di creazione definito**.
+Poi però ho letto un libro e ho capito che puoi evitare le situazioni da “non ho scelta”.
 
-Sapevo dove trovare le idee, come selezionarle, come scrivere i post, come pubblicarli e tante altre cose carine.
+E che puoi utilizzare **Obsidian** per riuscirci.
 
-Era il processo migliore?
+In questi tre step:
 
-Non credo.
+*   La condizione necessaria
 
-Funzionava?
+*   Non unire ciò che deve restare separato
 
-Certo.
-
-E lo so che in questi casi il consiglio è “se funziona, non aggiustarlo”, ma io avevo bisogno di farlo comunque.
-
-Quindi mi sono fermato, mi sono preso il tempo per **analizzare** il mio processo di creazione contenuti e provare a **migliorarlo**.
-
-Così ho cominciato a lavorare dietro le quinte:
-
-*   Ho creato un mio writing hub
-
-*   Ho dato un ruolo specifico a Notion e uno specifico a Obsidian
-
-*   Ho capito come gestire le mie idee
-
-*   Ho capito che tipo di sito volessi e come crearlo
-
-*   Ho deciso di abbandonare Convertkit
-
-Insomma, ho preso tante decisioni e ho fatto tante cose.
-
-E non ti preoccupare, non ti parlerò di queste cose nella newsletter di oggi, c’è tempo.
-
-Ma c’è una cosa importante da notare: ho capito in cosa migliorare, solo prendendomi del tempo per analizzare le cose.
+*   Il thinking template
 
 ​
 
-## **Il peso delle “macerie”**
+## **La condizione necessaria**
 
-Questo punto è connesso al precedente.
+Tutta questa idea di utilizzare Obsidian per pensare meglio mi è partita dalla lettura di [questo libro](https://www.amazon.it/Clear-Thinking-Turning-Ordinary-Extraordinary/dp/1529915945).
 
-Quando produci così tanti contenuti, hai tanti dati da dover raccogliere e da dover analizzare.
+Secondo l’autore, spesso facciamo **scelte sbagliate** perché in precedenza abbiamo fatto errori di **posizionamento**.
 
-E se non hai strumenti per raccogliere con facilità, rischi di **perdere tutti questi dati**.
+Non parlo del posizionamento di marketing, ma più quello degli scacchi.
 
-In fin dei conti, ogni contenuto è come una mini conversazione con chi lo legge.
+Prendiamo decisioni che pensiamo prive di impatto e poi scopriamo che un impatto lo avevano eccome!
 
-E a seconda del “successo” del contenuto, puoi capire se **l’idea** alla sua base è interessante oppure no.
+E questo condiziona le nostre scelte future.
 
-In pratica, dati come i commenti, i like, le interazioni e le conversazioni che nascono in DM, indicano il valore della tua idea.
+Così finiamo in una catena di cause e effetto che poi ci porta alle situazioni “Non ho una scelta”.
 
-Ma se sei così infognato nell’esecuzione di un processo che non hai neanche il tempo per guardarlo dall’esterno, figurati quanta attenzione puoi dare ai **risultati** di questo processo.
+Per fortuna però c’è un modo per rompere sta catena.
 
-E così, nonostante mesi interi di post pubblicati ogni giorno, mi ritrovato senza una chiara visione dei loro **risultati**.
+Basta prendersi del **tempo** e utilizzarlo per **pensare con lucidità**.
 
-E senza una visione dei risultati, non puoi capire la **direzione**.
+Ma che c’entra Obsidian?
 
-​
+Obsidian è lo strumento per **prenderti il tempo e ragionare!**
 
-## **La routine del leone**
+**​**
 
-Questo è il punto forse più di impatto, quello che mi ha tranquillizzato di più.
+## **Non unire ciò che deve restare separato**
 
-Tranquillizzato?
+Che intendo?
 
-Hai letto bene.
+Intendo che devi scegliere uno strumento per ragionare e basta.
 
-Dopo qualche settimana di pausa, **l’ansia** di perdere opportunità, connessioni e chissà cosa, cominciava a farsi sentire più forte.
+Deve essere scollegato da tutto il resto: niente task, niente progetti e niente contenuti.
 
-Poi è arrivato il **dubbio**.
+E vedi che è una scelta importante.
 
-Cominciavo a pensare che questo riposo non fosse naturale, era inadatto ai tempi di oggi e ancor di più ai creator.
+Solo se fai questa separazione potrai utilizzare lo strumento scelto per pensare con lucidità.
 
-Ed è in questo momento che mi è tornata in mente la **routine del leone**.
+Poi, se proprio vuoi, puoi utilizzare lo stesso strumento per ragionare e fare cose ma basta che usi due spazi diversi (tipo due vault).
 
-Non l’ho inventata io, chiariamolo.
-
-Non è che passo le giornate a pensare ai leoni, le passo a pensare a Notion e Obsidian.
-
-Ma [Sahil Bloom](https://www.sahilbloom.com/newsletter/the-most-powerful-ideas) invece lo fa e l’ha spiegata in dettaglio.
-
-In pratica, la routine dei leoni non è quella di andare a caccia ogni singolo giorno della loro vita.
-
-Pur dovendo andare a caccia per la loro stessa sopravvivenza, si fermano, riposano e mangiano.
-
-Anche loro hanno bisogno di recuperare le energie.
-
-E lo stesso vale per i **creator**, dedicare il giusto tempo al riposto è tra.gli investimenti migliori che tu possa fare per continuare la tua maratona.
+Io ho scelto **Obsidian per pensare** e **Notion per fare cose**.
 
 ​
 
+## **Il thinking template**
+
+Una volta che ti sei preso il tempo e hai scelto lo strumento, puoi passare alla pratica.
+
+Ma come?
+
+Con la scrittura!
+
+E non parlo di scrivere racconti o contenuti.
+
+Parlo di quella scrittura che è ragionamento, quella che è fatta di **punti elenco** e che ti aiuta a **strutturare i tuoi pensieri**.
+
+Insomma, quella che propongono [anche in Amazon](https://thehustle.co/02162021-amazon-writing/).
+
+Ed è qui che interviene il **thinking template**.
+
+È un template, proprio come quelli di Notion, che comprende 5 domande.
+
+Tutte domande prese dal libro di Parrish e che ti guidano lungo il percorso di un **ragionamento** efficace.
+
+Eccole qui:
+
+*   Qual è il problema?
+
+*   Quali sono le possibili soluzioni al problema?
+
+*   Come valuti le diverse ipotesi di soluzione al problema?
+
+*   Qual è l’ipotesi migliore?
+
+*   Come la metterai in atto?
+
 ​
 
-Ecco, direi che ti ho fatto un quadro abbastanza chiaro del perché mi sono fermato dalla pubblicazione su LinkedIn.
+E quindi?
 
-Per fartela breve, il riposo è un ottimo investimento.
+Quindi, la prossima volta che devi prendere una decisione (o affrontare un problema) non pensare non avere opzioni.
 
-Non importa in che modo decidi di impiegare il tempo libero che ricavi, l’importante è che ci sia lo spazio per il riposo.
+Prenditi del **tempo per ragionare** e apri il tuo tool for though preferito (ti consiglio Obsidian, ma può essere anche Notion o quello che vuoi) in uno **spazio riservato solo al ragionamento**.
 
-Detto questo, per oggi è tutto: buona settimana e beccati le risorse.
+Fai partire il **thinking template** e **rispondi alle domande**.
+
+Vedrai che poi succedono cose.
+
+E fidati, non ti ritroverai più spalle al muro.
+
+Detto questo, buona settimana e **beccati le risorse**.
 
 Daniele
-
