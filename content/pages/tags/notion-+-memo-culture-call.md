@@ -300,8 +300,7 @@ In Notion Builders non ci sono più call inutili, in Notion Builders c’è una�
 
 Ed è con **Notion** che l’applichiamo.
 
-​---
-
+***
 
 **TL;DR**
 
