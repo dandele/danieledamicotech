@@ -206,7 +206,7 @@ bottomSections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: "## **\U0001F465\_CHE ORA È?**\n\nUtilizzi Linkedin?\n\nTi chiedi qual è l’ora migliore per pubblicare?\n\n​[Ecco le risposte di cui hai bisogno.](https://www.linkedin.com/posts/ankitpatel96_we-analyzed-130000-linkedin-posts-here-activity-7122223992970629120-NWjm/?ck_subscriber_id=1870002162)​\n\n​\n\n## **\U0001F680 FARE CURATION NON BASTA**\n\nCerte volte, il modo migliore per essere più produttivi è quello di lasciar andare alcune cose.\n\n​[Di quali cose parlo e perché?](https://newsletter.thejorgemedina.com/p/youre-not-lacking-creativity-youre)​\n\n​\n\n## **\U0001F4B8 IL POTERE DI ALCUNE FRASI**\n\nCi sono frasi che sono più forti di altre.\n\n​[Questa è una lista di quelle che più ti possono aiutare a ottenere risultati.](https://twitter.com/Nicolascole77/status/1714099071143587913?ck_subscriber_id=1870002162)\n\n"
+    text: "## **\U0001F465 IL ROI DEI FALLIMENTI**\n\nCome puoi trasformare un format di poco successo in uno di successo?\n\n​[Cambiando le metriche con cui lo analizzi.](https://joshspector.com/is-it-worth-it/)​\n\n​\n\n## **\U0001F680 È SEMPRE UN PROBLEMA DI PRIORITÀ**\n\nGran parte dei problemi di produttività dipende dal fallimento di determinare le priorità o di perseguirle.\n\n​[Ecco un modo per risolvere il primo caso.](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)​\n\n​\n\n## **\U0001F4B8 QUANTI SOLDI SONO ABBASTANZA SOLDI?**\n\n​[Certe volte, tutto quello che conta è la prospettiva.](https://radreads.co/why-really-rich-people-worry-about-money/)\n\n"
     styles:
       self:
         height: auto
