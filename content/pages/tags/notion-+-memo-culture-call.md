@@ -314,7 +314,7 @@ Ed è con **Notion** che l’applichiamo.
 
 **Il tempo di lettura previsto è**: 4 minuti
 
----​
+---
 
 Ok, facciamo le cose con calma.
 
