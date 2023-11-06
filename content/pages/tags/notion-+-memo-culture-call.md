@@ -296,19 +296,27 @@ Niente di che, non ti preoccupare.
 
 Solo che Beatrice non dice più quella frase, abbiamo preso una decisione.
 
-In Notion Builders non ci sono più call inutili, in Notion Builders c’è una memo culture.
+In Notion Builders non ci sono più call inutili, in Notion Builders c’è una **memo culture**.
 
-Ed è con Notion che l’applichiamo.
+Ed è con **Notion** che l’applichiamo.
 
 ​
 
-TL;DR
 
-Notion + Memo Culture = - Call
-Il ROI dei fallimenti;
-È sempre un problema di priorità;
-Quanti soldi sono abbastanza soldi?
-Il tempo di lettura previsto è: 4 minuti
+
+**TL;DR**
+
+*   Notion + Memo Culture = - Call
+
+*   Il ROI dei fallimenti;
+
+*   È sempre un problema di priorità;
+
+*   Quanti soldi sono abbastanza soldi?
+
+**Il tempo di lettura previsto è**: 4 minuti
+
+
 
 ​
 
@@ -316,9 +324,9 @@ Ok, facciamo le cose con calma.
 
 La memo culture si ha quando un’azienda preferisce la comunicazione scritta a quella orale.
 
-E non parlo per forza di e-mail, parlo soprattutto di di documenti, memo, cose che richiedono una scrittura dettagliata e lettura concentrata.
+E non parlo per forza di e-mail, parlo soprattutto di di **documenti**, **memo**, cose che richiedono una **scrittura dettagliata** e **lettura concentrata**.
 
-Lo scopo di avere una cultura simile è favorire le decisioni strategiche perché la scrittura aiuta il pensiero, come accennavo qui.
+Lo scopo di avere una cultura simile è favorire le **decisioni strategiche** perché la scrittura aiuta il pensiero, come accennavo [qui](https://danieledamico.tech/tags/quando-non-hai-altra-scelta-utilizza-obsidian/).
 
 E devo dire la verità, mi è sempre sembrato difficile implementare una cultura del genere.
 
@@ -326,27 +334,31 @@ Poi ho realizzato che Notion poteva risolvere le difficoltà da me ipotizzate e 
 
 Abbiamo seguito queste 3 regole:
 
-Ti devi sedere (ma non per forza) e devi scrivere, tanto
-Devi gestire l’archivio di quello che scrivi
-Dopo aver scritto, devi agire
+*   Ti devi sedere (ma non per forza) e devi scrivere, tanto
+
+*   Devi gestire l’archivio di quello che scrivi
+
+*   Dopo aver scritto, devi agire
+
 Ed ora te le spiego meglio.
 
 ​
 
-Ti devi sedere (ma non per forza) e devi scrivere, tanto
-Ok, c’è una cosa a cui proprio non puoi rinunciare: la scrittura.
+### **Ti devi sedere (ma non per forza) e devi scrivere, tanto**
+
+Ok, c’è una cosa a cui proprio non puoi rinunciare: la **scrittura**.
 
 Devi scrivere, tanto.
 
 Chiariamo, puoi farlo dove vuoi e come vuoi: su carta e penna, in piedi oppure su tool diversi da Notion.
 
-Non conta il modo, conta il cosa.
+Non conta il modo, conta il **cosa**.
 
 E per capire il cosa, ti basta fermarti qualche secondo prima di prendere una decisione.
 
 Ti fermi, apri il tuo laptop e cominci a scrivere.
 
-So che può sembrare una sfida difficile, ma qui puoi leggere qualche trucchetto per facilitarla.
+So che può sembrare una sfida difficile, ma [qui](https://danieledamico.tech/tags/quando-non-hai-altra-scelta-utilizza-obsidian/) puoi leggere qualche trucchetto per facilitarla.
 
 Ti basta applicare quelle domande alla tua decisione ed il gioco è fatto.
 
@@ -360,24 +372,28 @@ Io, per esempio, scrivo la prima bozza di documenti su Obsidian (che preferisco 
 
 ​
 
-Devi gestire l’archivio di quello che scrivi
-Quando il documento arriva su Notion, comincia il suo viaggio.
+### **Devi gestire l’archivio di quello che scrivi**
+
+Quando il documento arriva su Notion, comincia il suo **viaggio**.
 
 Nel momento in cui lo condividi, quel documento diventa una risorsa con un grande valore.
 
 Devi dare una casa stabile a quel documento e devi fare in modo che qualcuno lo legga.
 
-È qui che entra in gioco Notion e la Document’s Inbox che abbiamo creato.
+È qui che entra in gioco Notion e la **Document’s Inbox** che abbiamo creato.
 
 ​
+
+| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/pFptcq89AKhWy1NwQdy4wH/email) |
+| --------------------------------------------------------------------------------------- |
 
 ​
 
 Si tratta di una dashboard Notion in cui, sfruttando le assegnazioni di un documento, io e Beatrice possiamo vedere con facilità quali sono i documenti che dobbiamo visionare.
 
-Guarda l’immagine qui sopra, nella colonna di sinistra ci sono i documenti che devo rivedere io e che Beatrice ha scritto nei giorni precedenti.
+Guarda l’immagine qui sopra, nella **colonna di sinistra** ci sono i documenti che devo rivedere io e che Beatrice ha scritto nei giorni precedenti.
 
-Nella colonna di destra ci dovrebbero essere i documenti che ho scritto io e che Beatrice deve rivedere.
+Nella **colonna di destra** ci dovrebbero essere i documenti che ho scritto io e che Beatrice deve rivedere.
 
 Ma Beatrice è molto precisa e come puoi vedere li ha già letti tutti.
 
@@ -393,29 +409,33 @@ Una casa sicura per le nostre decisioni.
 
 ​
 
-Dopo aver scritto, devi agire
+### **Dopo aver scritto, devi agire**
+
 Ok, scrivi un documento, lo condividi, lo gestisci e poi che succede?
 
 Finisce tutto lì?
 
-Per niente, quello che hai scritto deve diventare oggetto di discussione e magari di azione.
+Per niente, quello che hai scritto deve diventare oggetto di discussione e magari di **azione**.
 
 Ma come?
 
-Con la creazione di task all’interno del documento!
+Con la **creazione di task** all’interno del documento!
 
-Puoi creare un semplice template che gestisce i documenti e al suo interno puoi inserire queste cose qui:
+Puoi creare un **semplice template** che gestisce i documenti e al suo interno puoi inserire queste cose qui:
 
-le domande per farti ragionare;
-un accesso al database dei task;
-un accesso al database dei progetti.
+*   le domande per farti ragionare;
+
+*   un accesso al database dei task;
+
+*   un accesso al database dei progetti.
+
 In questo modo, dopo qualche commento, tu e il tuo team potete prendere decisioni e poi potete passare all’azione assegnando task e progetti rilevanti.
 
 ​
 
 Fidati, avere una memo culture porta parecchi vantaggi.
 
-In fondo, credo ci sia un motivo se aziende come Amazon, Notion e tante altre, adottano questo tipo di cultura.
+In fondo, credo ci sia un motivo se aziende come [Amazon](https://medium.com/@Elabor8/amazons-shift-from-presentation-culture-to-memo-culture-and-what-you-can-learn-from-it-a44f6db2c864), Notion e tante altre, adottano questo tipo di cultura.
 
 Come al solito se vuoi una guida più precisa su come usare Notion per la memo culture nella tua azienda, basta che rispondi a questa email e chiedi.
 
@@ -425,20 +445,24 @@ Daniele
 
 ​
 
-👥 IL ROI DEI FALLIMENTI
+
+
+## **👥 IL ROI DEI FALLIMENTI**
+
 Come puoi trasformare un format di poco successo in uno di successo?
 
-​Cambiando le metriche con cui lo analizzi.​
+​[Cambiando le metriche con cui lo analizzi.](https://joshspector.com/is-it-worth-it/)​
 
 ​
 
-🚀 È SEMPRE UN PROBLEMA DI PRIORITÀ
+## **🚀 È SEMPRE UN PROBLEMA DI PRIORITÀ**
+
 Gran parte dei problemi di produttività dipende dal fallimento di determinare le priorità o di perseguirle.
 
-​Ecco un modo per risolvere il primo caso.​
+​[Ecco un modo per risolvere il primo caso.](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)​
 
 ​
 
-💸 QUANTI SOLDI SONO ABBASTANZA SOLDI?
-​Certe volte, tutto quello che conta è la prospettiva.
+## **💸 QUANTI SOLDI SONO ABBASTANZA SOLDI?**
 
+​[Certe volte, tutto quello che conta è la prospettiva.](https://radreads.co/why-really-rich-people-worry-about-money/)
