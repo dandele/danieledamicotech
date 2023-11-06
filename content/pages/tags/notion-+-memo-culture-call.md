@@ -286,146 +286,159 @@ bottomSections:
         textAlign: center
 slug: notion-+-memo-culture-call
 ---
-”Non avevo scelta”.
+“Bella idea, Dani, facciamo una call!”
 
-È una delle frasi più utilizzate dai cattivi di film, libri ecc.
+È una delle frasi che la mia socia Beatrice pronuncia più spesso, anzi no, pronunciava.
 
-Passano l’intera storia a fare le loro cose da cattivi, poi arriva la resa dei conti.
+Perché parlo al passato? Cos’è successo?
 
-Gli eroi vincono e il cattivo la dice, quasi fosse una scusa.
+Niente di che, non ti preoccupare.
 
-Scommetto che anche tu l’hai pensata qualche volta, vero?
+Solo che Beatrice non dice più quella frase, abbiamo preso una decisione.
 
-In tal caso, **Obsidian** ti potrebbe aiutare.
+In Notion Builders non ci sono più call inutili, in Notion Builders c’è una memo culture.
 
-​
-
-
-
-**TL;DR**
-
-*   Quando non hai altra scelta…utilizza Notion!
-
-*   Che ora è?
-
-*   Fare curation non basta;
-
-*   Il potere di alcune frasi.
-
-**Il tempo di lettura previsto è**: 3 minuti e 30
-
-
+Ed è con Notion che l’applichiamo.
 
 ​
 
-Anche io l’ho pensata qualche volta.
+TL;DR
 
-E fino a qualche tempo credevo fosse tutta questione di fortuna e volontà.
-
-Se avevi la sfortuna di trovarti in una situazione in cui non avevi scelte, dovevi avere la forza di **volontà** per fare la scelta giusta (o inventartene una nuova).
-
-Poi però ho letto un libro e ho capito che puoi evitare le situazioni da “non ho scelta”.
-
-E che puoi utilizzare **Obsidian** per riuscirci.
-
-In questi tre step:
-
-*   La condizione necessaria
-
-*   Non unire ciò che deve restare separato
-
-*   Il thinking template
+Notion + Memo Culture = - Call
+Il ROI dei fallimenti;
+È sempre un problema di priorità;
+Quanti soldi sono abbastanza soldi?
+Il tempo di lettura previsto è: 4 minuti
 
 ​
 
-## **La condizione necessaria**
+Ok, facciamo le cose con calma.
 
-Tutta questa idea di utilizzare Obsidian per pensare meglio mi è partita dalla lettura di [questo libro](https://www.amazon.it/Clear-Thinking-Turning-Ordinary-Extraordinary/dp/1529915945).
+La memo culture si ha quando un’azienda preferisce la comunicazione scritta a quella orale.
 
-Secondo l’autore, spesso facciamo **scelte sbagliate** perché in precedenza abbiamo fatto errori di **posizionamento**.
+E non parlo per forza di e-mail, parlo soprattutto di di documenti, memo, cose che richiedono una scrittura dettagliata e lettura concentrata.
 
-Non parlo del posizionamento di marketing, ma più quello degli scacchi.
+Lo scopo di avere una cultura simile è favorire le decisioni strategiche perché la scrittura aiuta il pensiero, come accennavo qui.
 
-Prendiamo decisioni che pensiamo prive di impatto e poi scopriamo che un impatto lo avevano eccome!
+E devo dire la verità, mi è sempre sembrato difficile implementare una cultura del genere.
 
-E questo condiziona le nostre scelte future.
+Poi ho realizzato che Notion poteva risolvere le difficoltà da me ipotizzate e abbiamo portato la memo culture in Notion Builders.
 
-Così finiamo in una catena di cause e effetto che poi ci porta alle situazioni “Non ho una scelta”.
+Abbiamo seguito queste 3 regole:
 
-Per fortuna però c’è un modo per rompere sta catena.
-
-Basta prendersi del **tempo** e utilizzarlo per **pensare con lucidità**.
-
-Ma che c’entra Obsidian?
-
-Obsidian è lo strumento per **prenderti il tempo e ragionare!**
-
-**​**
-
-## **Non unire ciò che deve restare separato**
-
-Che intendo?
-
-Intendo che devi scegliere uno strumento per ragionare e basta.
-
-Deve essere scollegato da tutto il resto: niente task, niente progetti e niente contenuti.
-
-E vedi che è una scelta importante.
-
-Solo se fai questa separazione potrai utilizzare lo strumento scelto per pensare con lucidità.
-
-Poi, se proprio vuoi, puoi utilizzare lo stesso strumento per ragionare e fare cose ma basta che usi due spazi diversi (tipo due vault).
-
-Io ho scelto **Obsidian per pensare** e **Notion per fare cose**.
+Ti devi sedere (ma non per forza) e devi scrivere, tanto
+Devi gestire l’archivio di quello che scrivi
+Dopo aver scritto, devi agire
+Ed ora te le spiego meglio.
 
 ​
 
-## **Il thinking template**
+Ti devi sedere (ma non per forza) e devi scrivere, tanto
+Ok, c’è una cosa a cui proprio non puoi rinunciare: la scrittura.
 
-Una volta che ti sei preso il tempo e hai scelto lo strumento, puoi passare alla pratica.
+Devi scrivere, tanto.
+
+Chiariamo, puoi farlo dove vuoi e come vuoi: su carta e penna, in piedi oppure su tool diversi da Notion.
+
+Non conta il modo, conta il cosa.
+
+E per capire il cosa, ti basta fermarti qualche secondo prima di prendere una decisione.
+
+Ti fermi, apri il tuo laptop e cominci a scrivere.
+
+So che può sembrare una sfida difficile, ma qui puoi leggere qualche trucchetto per facilitarla.
+
+Ti basta applicare quelle domande alla tua decisione ed il gioco è fatto.
+
+Inizierai a ragionare in modo lucido e così scriverai il documento di cui hai bisogno.
+
+Tutto qui.
+
+Devi solo scrivere, non importa il come, importa solo il cosa.
+
+Io, per esempio, scrivo la prima bozza di documenti su Obsidian (che preferisco a Notion per esperienza di scrittura) e quando è pronta alla condivisione, la passo su Notion.
+
+​
+
+Devi gestire l’archivio di quello che scrivi
+Quando il documento arriva su Notion, comincia il suo viaggio.
+
+Nel momento in cui lo condividi, quel documento diventa una risorsa con un grande valore.
+
+Devi dare una casa stabile a quel documento e devi fare in modo che qualcuno lo legga.
+
+È qui che entra in gioco Notion e la Document’s Inbox che abbiamo creato.
+
+​
+
+​
+
+Si tratta di una dashboard Notion in cui, sfruttando le assegnazioni di un documento, io e Beatrice possiamo vedere con facilità quali sono i documenti che dobbiamo visionare.
+
+Guarda l’immagine qui sopra, nella colonna di sinistra ci sono i documenti che devo rivedere io e che Beatrice ha scritto nei giorni precedenti.
+
+Nella colonna di destra ci dovrebbero essere i documenti che ho scritto io e che Beatrice deve rivedere.
+
+Ma Beatrice è molto precisa e come puoi vedere li ha già letti tutti.
+
+Li ha letti, ha commentato, poi ha messo un tag ed i documenti sono spariti.
+
+Tutto visibile a me, tutto visibile a lei (in modo speculare).
+
+Tutto nella stessa schermata.
+
+Tutto recuperabile, sempre.
+
+Una casa sicura per le nostre decisioni.
+
+​
+
+Dopo aver scritto, devi agire
+Ok, scrivi un documento, lo condividi, lo gestisci e poi che succede?
+
+Finisce tutto lì?
+
+Per niente, quello che hai scritto deve diventare oggetto di discussione e magari di azione.
 
 Ma come?
 
-Con la scrittura!
+Con la creazione di task all’interno del documento!
 
-E non parlo di scrivere racconti o contenuti.
+Puoi creare un semplice template che gestisce i documenti e al suo interno puoi inserire queste cose qui:
 
-Parlo di quella scrittura che è ragionamento, quella che è fatta di **punti elenco** e che ti aiuta a **strutturare i tuoi pensieri**.
-
-Insomma, quella che propongono [anche in Amazon](https://thehustle.co/02162021-amazon-writing/).
-
-Ed è qui che interviene il **thinking template**.
-
-È un template, proprio come quelli di Notion, che comprende 5 domande.
-
-Tutte domande prese dal libro di Parrish e che ti guidano lungo il percorso di un **ragionamento** efficace.
-
-Eccole qui:
-
-*   Qual è il problema?
-
-*   Quali sono le possibili soluzioni al problema?
-
-*   Come valuti le diverse ipotesi di soluzione al problema?
-
-*   Qual è l’ipotesi migliore?
-
-*   Come la metterai in atto?
+le domande per farti ragionare;
+un accesso al database dei task;
+un accesso al database dei progetti.
+In questo modo, dopo qualche commento, tu e il tuo team potete prendere decisioni e poi potete passare all’azione assegnando task e progetti rilevanti.
 
 ​
 
-E quindi?
+Fidati, avere una memo culture porta parecchi vantaggi.
 
-Quindi, la prossima volta che devi prendere una decisione (o affrontare un problema) non pensare non avere opzioni.
+In fondo, credo ci sia un motivo se aziende come Amazon, Notion e tante altre, adottano questo tipo di cultura.
 
-Prenditi del **tempo per ragionare** e apri il tuo tool for though preferito (ti consiglio Obsidian, ma può essere anche Notion o quello che vuoi) in uno **spazio riservato solo al ragionamento**.
+Come al solito se vuoi una guida più precisa su come usare Notion per la memo culture nella tua azienda, basta che rispondi a questa email e chiedi.
 
-Fai partire il **thinking template** e **rispondi alle domande**.
-
-Vedrai che poi succedono cose.
-
-E fidati, non ti ritroverai più spalle al muro.
-
-Detto questo, buona settimana e **beccati le risorse**.
+Detto questo, per oggi è tutto, buona settimana e beccati le risorse.
 
 Daniele
+
+​
+
+👥 IL ROI DEI FALLIMENTI
+Come puoi trasformare un format di poco successo in uno di successo?
+
+​Cambiando le metriche con cui lo analizzi.​
+
+​
+
+🚀 È SEMPRE UN PROBLEMA DI PRIORITÀ
+Gran parte dei problemi di produttività dipende dal fallimento di determinare le priorità o di perseguirle.
+
+​Ecco un modo per risolvere il primo caso.​
+
+​
+
+💸 QUANTI SOLDI SONO ABBASTANZA SOLDI?
+​Certe volte, tutto quello che conta è la prospettiva.
+
