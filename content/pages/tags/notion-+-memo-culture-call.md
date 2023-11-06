@@ -178,7 +178,6 @@ metaTags: []
 title: "\U0001F9F0 kSC #61: Quando Non HAI SCELTA..."
 colors: colors-a
 date: '2023-10-29'
-client: Awesome client
 description: UTILIZZA OBSIDIAN!
 featuredImage:
   type: ImageBlock
