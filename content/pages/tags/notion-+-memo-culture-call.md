@@ -300,7 +300,7 @@ In Notion Builders non ci sono più call inutili, in Notion Builders c’è una�
 
 Ed è con **Notion** che l’applichiamo.
 
-​---
+​***
 
 **TL;DR**
 
@@ -314,7 +314,7 @@ Ed è con **Notion** che l’applichiamo.
 
 **Il tempo di lettura previsto è**: 4 minuti
 
----
+***
 
 Ok, facciamo le cose con calma.
 
