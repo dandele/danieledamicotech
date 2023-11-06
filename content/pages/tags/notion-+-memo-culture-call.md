@@ -177,7 +177,7 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #61: Notion + Memo culture ="
 colors: colors-a
-date: '2023-10-29'
+date: '2023-11-06'
 description: '- Call'
 featuredImage:
   type: ImageBlock
