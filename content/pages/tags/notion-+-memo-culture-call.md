@@ -439,24 +439,3 @@ Detto questo, per oggi è tutto, buona settimana e beccati le risorse.
 
 Daniele
 
-​
-
-## **👥 IL ROI DEI FALLIMENTI**
-
-Come puoi trasformare un format di poco successo in uno di successo?
-
-​[Cambiando le metriche con cui lo analizzi.](https://joshspector.com/is-it-worth-it/)​
-
-​
-
-## **🚀 È SEMPRE UN PROBLEMA DI PRIORITÀ**
-
-Gran parte dei problemi di produttività dipende dal fallimento di determinare le priorità o di perseguirle.
-
-​[Ecco un modo per risolvere il primo caso.](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)​
-
-​
-
-## **💸 QUANTI SOLDI SONO ABBASTANZA SOLDI?**
-
-​[Certe volte, tutto quello che conta è la prospettiva.](https://radreads.co/why-really-rich-people-worry-about-money/)
