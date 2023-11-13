@@ -337,8 +337,6 @@ E stava per succederne uno ancor peggiore!
 
 ​
 
-
-
 **TL;DR**
 
 *   Crea il tuo diario di sistemi personali, su Notion (o dove vuoi)
@@ -350,8 +348,6 @@ E stava per succederne uno ancor peggiore!
 *   Come scegliere cosa fare?
 
 **Il tempo di lettura previsto è**: 7 minuti (ne vale la pena!)
-
-
 
 ​
 
@@ -409,7 +405,7 @@ Cominciamo!
 
 ​
 
-## Cos’è il diario dei sistemi?
+## **Cos’è il diario dei sistemi?**
 
 Partiamo dalle basi, cos’è un diario dei sistemi personali?
 
@@ -449,7 +445,7 @@ Io ho scelto di crearlo su **Notion**, ma avrei potuto crearlo anche su [Obsid
 
 ​
 
-## Dal dump al database
+## **Dal dump al database**
 
 Ok, quindi sto diario dei sistemi è un documento che raccoglie i tuoi sistemi, processi e strumenti.
 
@@ -521,7 +517,7 @@ Comunque, poi che succede?
 
 ​
 
-## Dal database ai personal SOP
+## **Dal database ai personal SOP**
 
 Succede che passi alla fase seguente.
 
@@ -608,4 +604,3 @@ L'idea di fare video mi attira comunque, ma i lavori sono ancora in corso.
 Nell'attesa, per avere una guida dettagliata (passo passo e con immagini) di quello che ti ho descritto, clicca sul pulsante qui sotto.
 
 Troverai tante immagini e poche parole, ne ho usate già tante finora, o sbaglio?
-
