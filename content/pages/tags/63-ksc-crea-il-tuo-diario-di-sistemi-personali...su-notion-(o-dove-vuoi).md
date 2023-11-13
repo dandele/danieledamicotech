@@ -180,7 +180,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
-date: '2023-07-30'
+date: '2023-11-13'
 description: SU NOTION (O DOVE VUOI)
 featuredImage:
   type: ImageBlock
