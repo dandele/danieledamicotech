@@ -201,7 +201,6 @@ bottomSections:
         style: primary
         type: Button
         elementId: annual_review_button
-        url: 'https://zcal.co/notionbuilders/quick-talk'
     styles:
       self:
         height: auto
