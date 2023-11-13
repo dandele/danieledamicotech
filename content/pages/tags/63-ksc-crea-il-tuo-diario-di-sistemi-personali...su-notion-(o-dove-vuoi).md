@@ -318,173 +318,293 @@ bottomSections:
         textAlign: center
 slug: 63-ksc-crea-il-tuo-diario-di-sistemi-personali...su-notion-(o-dove-vuoi)
 ---
-Ehi ciao 👋,
+3 membri e più di 20 guest.
 
-questo è il numero 49 del **Kit di Sopravvivenza per Creator**.
+Lo spazio Notion di [Notion Builders](https://notionbuilders.it/) stava per trasformarsi in un hotel e presto la cosa sarebbe diventata ingestibile, anche a livello economico.
 
-E oggi ti parlerò di **3 lezioni di system thinking applicate a Notion.**
+Per questo, qualche giorno fa, sono andato nella sezione “Settings and members” del workspace che io e Beatrice usiamo per lavorare e ho cominciato a fare **pulizia**.
 
-<br>
+Solo che ho fatto un errore.
 
-***
+Ho **rimosso anche il mio profilo personale** dai membri e in questo modo sono saltate tutte le integrazioni personali che avevo creato.
+
+Son saltate le integrazioni con Akiflow, con Make e le relative automazioni.
+
+Insomma, un bel casino.
+
+E stava per succederne uno ancor peggiore!
+
+​
+
+
 
 **TL;DR**
 
-*   3 lezioni di system thinking applicate a Notion
+*   Crea il tuo diario di sistemi personali, su Notion (o dove vuoi)
 
-*   Justin Welsh e ChatGPT ti aiutano con i contenuti
+*   Inizia su Youtube, senza videocamera;
 
-*   Usa il browser per essere produttivo
+*   Un mondo libero dalle distrazioni;
 
-*   TI servono idee?
+*   Come scegliere cosa fare?
 
-**Il tempo di lettura previsto è:** 5 minuti.
+**Il tempo di lettura previsto è**: 7 minuti (ne vale la pena!)
 
-***
 
-<br>
 
-Settimana scorsa ti ho spiegato, a modo mio, cos'è il system thinking e che relazione ha con Notion.
+​
 
-Ora, non sto qui a ripeterti di nuovo le stesse cose.
+Quando comincio a giocare con integrazioni tra vari tool il mio cervello entra in **modalità ottimizzazione** e comincia a ragionare.
 
-Se vuoi più dettagli, ti consiglio di recuperare [la vecchia newsletter](https://danieledamico.tech/tags/system-thinking-e-notion-la-(poco\)-strana-coppia/).
+Comincio a chiedermi il motivo per cui utilizzo uno specifico strumento, perché metto in atto uno specifico processo ecc.
 
-Ma in breve ti posso dire che la relazione tra Notion e il system thinking c'è ed è molto forte.
+Figurati che spesso mi capita di creare automazioni che poi non utilizzo mai.
 
-**Notion è lo strumento migliore per mettere in pratica e per comprendere il system thinking.**
+E lo so, forse sono un caso un po' patologico, ma credo che il discorso valga anche per te (con le dovute eccezioni).
 
-Ma a che risultati porta mettere in pratica il system thinking su Notion?
+Sono convinto che spesso anche tu ti chiedi se il modo in cui organizzi una data cosa della tua vita sia funzionale oppure no.
 
-Il risultato più grande è di sicuro quello che impari tante cose sui sistemi e queste sono le tre lezioni più grandi che ho imparato io:
+E quando poi lo modifichi, ti ci diverti per un po', ma poi **ritorni alle cose che funzionano**.
 
-*   Nei sistemi l’espressione 2+2=4 è falsa
+È un problema comune, lo so.
 
-*   Start with why
+In ogni caso, mentre riattivavo l’integrazione tra Akiflow e Notion questa parte del mio cervello si è attivata e ho cominciato a farmi tante domande, una più dannosa dell'altra.
 
-*   Mai sottovalutare i sistemi
+Ma ha senso usare Akiflow?
+
+E se creassi questa automazione per inserire i task su Todoist e farli finire su Notion?
+
+E se usassi Things3?
+
+Insomma, cominciavo a pormi sempre più domande fino al punto in cui mi sono chiesto se non fosse stato meglio **gestire tutti i miei task in altro modo**.
+
+E quando comincio a valutare nuovi strumenti o nuovi approcci, allora è chiaro che la **furia mi ha preso**.
+
+È la furia di chi ottimizza le cose per piacere e lavoro e quando mi agguanta è così difficile sfuggirle.
+
+E non lo sapevo, ma ero proprio nelle grinfie della furia mentre mi facevo quelle domande e in poco tempo mi sarei ritrovato a spostare tutto il mio task manager chissà dove.
+
+Così avrei **perso decine di ore** tra lo spostamento, la presa di confidenza col nuovo sistema e le priorità del tutto sballate.
+
+Per fortuna, qualche tempo fa avevo scoperto una cosa.
+
+Avevo scoperto un’arma per combattere contro questa furia: il **diario personale dei sistemi**.
+
+E l'avevo anche **costruita su Notion**!
+
+Quindi l’ho aperta, consultata e la furia è sparita.
+
+E oggi ti svelerò come puoi crearla anche tu, in 3 passi (e una guida dettaglia):
+
+*   Cos'è il diario dei sistemi?
+
+*   Dal dump al database
+
+*   Dal database ai personal SOP
 
 Pronto?
 
-​
-
-### **NEI SISTEMI L’ESPRESSIONE 2+2=4 È FALSA**
-
-Iniziamo cosi, mettendo in dubbio la matematica.
-
-E no, non sono impazzito, la cosa ha senso e ora te la spiego meglio.
-
-Pensa al **puzzle**, l'analogia con cui ti ho spiegato il System Thinking nello scorso numero della newsletter.
-
-A comporre il sistema puzzle ci sono diverse cose:
-
-*   **elementi** (i tasselli del puzzle)
-
-*   **relazioni** (i modi in cui puoi unire i tasselli)
-
-*   **scopo** (il motivo per cui fai il puzzle)
-
-E prendere una sola di queste cose, considerandola come unica parte del sistema, significa **guardare al sistema in modo riduttivo** e fare danni.
-
-In pratica, pensare che un sistema sia costituito solo dai suoi elementi (la parte più evidente) è un **errore**.
-
-Perché altri due dei costituenti di un sistema (le relazioni e lo scopo) non sono visibili agli occhi.
-
-E su Notion hai una chiara dimostrazione di sta cosa quando agisci su un solo database, lo modifichi, costruisci pagine diverse per utilizzo e magari non consideri il processo di utilizzo ideale.
-
-Arriva la prima persona che non ha le tue stesse idee e magari utilizza un processo diverso, usa il tuo sistema e tutto **si scassa**.
-
-E questo accade perché ti sei concentrato solo su una parte del sistema, non sul suo complesso.
+Cominciamo!
 
 ​
 
-### **START WITH WHY**
+## Cos’è il diario dei sistemi?
 
-Ho conosciuto Simon Sinek qualche tempo fa, quando vidi per caso un [suo video su Youtube](https://www.youtube.com/watch?v=u4ZoJKF_VuA&t=2s).
+Partiamo dalle basi, cos’è un diario dei sistemi personali?
 
-Parlava di quanto è importante, nelle relazioni umane, partire dai motivi che spingono le persone ad agire.
+È lo strumento più importante per tutta la tua produttività personale (e non solo).
 
-E chi lo avrebbe mai detto, ma questa cosa è valida anche per i sistemi.
+Si, te lo dico così, senza esagerazioni o falsa modestia.
 
-Delle tre parti che costituiscono un **sistema**, infatti, sembra ce ne sia una un po' più importante delle altre.
+Perché è la tua **ancora di salvezza** per tutti i casi in cui la [shiny new toy syndrome](https://danieledamico.tech/tags/sistemi-non-bastano/) ti assale, oppure per tutti quei casi in cui scopri un nuovo sistema di produttività e valuti di implementarlo.
 
-E questa parte è lo **scopo**.
+In pratica, è lo strumento che ti permette di essere costante con la tua produttività senza sprecare neanche più un minuto dedicandoti ad attività che pensi siano utili, ma che poi non lo sono.
 
-Perché modificare lo scopo ti permette di **cambiare il comportamento anche delle altre parti**.
+Ok, figo, ma quindi cos'è?
 
-Ma cambiamo paragone, così ti sarà più chiaro.
+Nella sua versione più semplice è un **documento**.
 
-Anche una squadra di rugby è un sistema.
+Un documento che puoi strutturare come vuoi e dove vuoi.
 
-Ci sono gli elementi, che sarebbero i giocatori della squadra.
+E al suo interno ci puoi inserire tutti i sistemi di produttività, processi, strumenti e abitudini che ti permettono di fare quello che fai.
 
-Ci sono le relazioni, che sarebbero le regole del rugby e i legami tra i giocatori.
+Dai, tutto quello che utilizzi per **organizzare la tua vita**.
 
-E c'è lo scopo, che può essere quello di vincere la partita.
+E chiariamolo, non parlo di quelli che vorresti utilizzare.
 
-Ora, che succede se provi a cambiare tutti i giocatori?
+In questo documento devi inserire solo quelli che metti in atto giorno dopo giorno e per tua scelta.
 
-Niente di che, le regole del gioco restano le stesse e anche lo scopo resta lo stesso.
+Oppure puoi inserire quelli che hai deciso di sperimentare.
 
-E che succede se cambi le regole del gioco?
+Tutte le altre cose però non hanno spazio nel tuo diario dei sistemi personali, non le devi inserire.
 
-Anche qui, niente di che, puoi lasciare gli stessi giocatori e questi troveranno un modo diverso per vincere.
+Quindi, non c’è spazio per i sistemi che vorresti implementare e non c’è spazio per quelli che un tempo mettevi in atto ma ora non più.
 
-Ma che succede se invece di puntare alla vittoria della partita, punti al puro divertimento?
+E non so se è chiaro, ma te lo dico perché è importante: puoi scrivere questo documento dove ti pare.
 
-Allora **cambia tutto il sistema**.
+Certo, è meglio che tu possa accederci con facilità (e che tu possa trasformarlo in un database), ma puoi crearlo dove vuoi, anche su carta.
 
-Per adattarti a questa modifica, dovresti cambiare giocatori, cambiare le regole del gioco e le relazioni tra di loro.
-
-Insomma, un bel casino e solo perché hai agito sullo scopo.
-
-Su Notion puoi creare un **sistema per la produzione dei contenuti** oppure puoi creare un **sistema per pubblicare i post su Linkedin**.
-
-E la **differenza** anche se sembra minima è invece è abissale.
+Io ho scelto di crearlo su **Notion**, ma avrei potuto crearlo anche su [Obsidian](https://danieledamico.tech/tags/quando-non-hai-altra-scelta-utilizza-obsidian/), su [Tana](https://danieledamico.tech/tags/il-natale-di-notion-o-tana/) o sul mio [bullet journal](https://ckarchive.com/b/e5uph7hp5evpniwlggolea7p2mw22).
 
 ​
 
-### **MAI SOTTOVALUTARE I SISTEMI!**
+## Dal dump al database
 
-Questa è forse la lezione più importante.
+Ok, quindi sto diario dei sistemi è un documento che raccoglie i tuoi sistemi, processi e strumenti.
 
-Perché i sistemi sono fighi, fighissimi, ma sono anche **subdoli**!
+Lo puoi creare dove vuoi e come vuoi.
 
-Intervenire su un sistema è un po' come giocare a Jenga.
+E basta così.
 
-Hai presente no?
+Questo è la roba **necessaria e sufficiente** che devi sapere per poter creare il tuo diario.
 
-È quel gioco dove hai davanti una torre fatta da tanti blocchi collegati tra loro e te devi rimuovere un blocco alla volta, senza far cadere la torre.
+Ora però voglio darti qualche consiglio su come crearlo al meglio.
 
-Se sposti il blocco sbagliato, cade tutto.
+È tutta roba **opzionale**, ma credo sia comunque **utile**.
 
-E lo stesso vale per i sistemi, se agisci sulla leva sbagliata sei nei guai.
+Partiamo dall’inizio.
 
-Perché la verità è che siamo circondati da sistemi e noi stessi siamo sistemi.
+La prima cosa che devi fare è quella di metterti davanti al pc e **scrivere un elenco di tutti i tuoi sistemi, strumenti, processi e abitudini**.
 
-Solo che abbiamo sempre una **vista limitata** dei sistemi di cui facciamo parte.
+Non fare troppa filosofia in questa fase, apri un documento a caso e inizia a scrivere.
 
-Magari conosciamo gli elementi di un sistema, ma non conosciamo le regole.
+Ti faccio alcuni esempi di quelli che ho scritto io nel mio:
 
-Oppure non conosciamo lo scopo.
+*   Notion è il mio task manager personale e lavorativo
 
-E questo vale anche su Notion, magari elimini una pagina che pensi essere una semplice tabella e invece è la sorgente del tuo CRM.
+*   Akiflow è lo strumento che uso per gestire il mio calendar e fare time blocking
 
-E in tel caso, mi dispiace per te, ma il **sistema ti ha fregato**.
+*   Ogni mattina scrivo a mano libera, su carta e penna, per 30 minuti
+
+*   Google Calendar: per pianificare gli impegni e tenermi aggiornato sugli appuntamenti
+
+*   Pomodoro Technique: un metodo di gestione del tempo che mi aiuta a rimanere concentrato e produttivo
+
+*   Dropbox: per archiviare e condividere i miei file in modo sicuro
+
+*   LastPass: per gestire e proteggere le password dei miei account online
+
+Sono solo alcuni esempi, ma credo tu abbia capito.
+
+Arrivato al punto in cui non hai altre cose da scrivere (almeno per il momento), puoi fare il **passo successivo**.
+
+E sarò sincero con te, è più semplice farlo su Notion.
+
+Perché su Notion ti basta creare un database, chiamarlo come vuoi e poi selezionare tutto l’elenco che hai scritto e trascinarlo nel database.
+
+In un attimo, ti ritroverai con un database popolato da tutti i punti del tuo elenco.
+
+E potrai cominciare ad aggiungere diverse proprietà (colonne) per **classificare le informazioni**.
+
+Potrai inserire tutte le **proprietà** che vuoi, spetta a te la decisione.
+
+Io però te ne consiglio due in particolare:
+
+*   **Area**: una proprietà di tipo “Multi-Select” che ti permette di selezionare a quale area della tua vita appartiene quello specifico elemento;
+
+*   **Stabilità**: una proprietà di tipo “Select” e ti permette di scegliere se quell’elemento è già stabile nella tua vita o se lo stai sperimentando.
+
+Te l'ho detto, puoi riuscire a fare questa cosa anche con Obsidian, Tana o che ne so.
+
+Solo che Notion è molto più immediato nella creazione di database e per questo te lo consiglio.
+
+Hai provato a creare database su Obsidian?
+
+Hai provato a crearli su Tana?
+
+Fidati, io si e ci ho messo tipo un'oretta per capirlo.
+
+Evita di fare il mio stesso errore, almeno non in questa fase.
+
+Comunque, poi che succede?
+
+​
+
+## Dal database ai personal SOP
+
+Succede che passi alla fase seguente.
+
+Hai creato il tuo database e hai creato le proprietà per classificare le informazioni.
+
+Poi hai classificato tutti i record del database, così ogni voce ha una sua area e un suo grado di stabilità.
+
+Ora puoi aprire le singole pagine del database.
+
+E che ci devi fare?
+
+Puoi metterti e **scrivere gli SOP** di quella voce del database.
+
+Ho già parlato in precedenza di come scrivere SOP su Notion, puoi leggere tutto [qui](https://ckarchive.com/b/lmuehmh0rgkd0t6hde0k600).
+
+Sono gentile però e te la faccio breve.
+
+In pratica, per ogni elemento del database, ti basta descrivere quello che fai o come lo fai.
+
+Puoi utilizzare un **elenco numerato oppure checkbox** per descrivere il processo passo dopo passo.
+
+E puoi metterci di mezzo link, collegamenti ad altri processi e tutto quello che ti garba.
+
+Cerca solo di ricordarti di essere **oggettivo**, **descrivere senza ottimizzare** e **scrivere solo le informazioni importanti**.
+
+Alla fine di tutto sto giro, ti ritroverai con un bel database pieno di informazioni utili, stabili e sicure.
+
+La tua ancora sarà pronta e potrai usarla non appena ti rendi conto che la furia sta per prenderti.
 
 ​
 
 ​
 
-Ora, mi auguro che tu non sia in una situazione del genere, eh.
+Ok, tutto figo.
 
-Ma se così dovesse essere, ho una **soluzione** per te.
+Ma perché sta roba ti dovrebbe aiutare?
 
-Rivolgiti a chi se ne intende di Notion e di sistemi, così non sarai tu a doverti preoccupare di sti casini e potrai concentrarti sul tuo lavoro.
+Perché fornisce **stabilità ai tuoi processi**.
 
-Ti basta cliccare sul **pulsante qui sotto**.
+Dopo che hai provato a mettere ordine nella tua vita, dopo che hai descritto in dettaglio le cose che fai e quelle che utilizzi, le probabilità di cedere alla tentazione della furia e mandare tutto all'aria in preda alla distrazione del momento saranno molto più **basse**.
 
-E detto questo, per oggi è tutto, buona settimana e **beccati le risorse**.
+Avrai aumentato di molto la frizione nell'implementazione di un nuovo strumento ed avrai capito che quello che **funziona** nella tua organizzazione.
+
+Inoltre, grazie ad uno strumento come questo, potrai capire subito in che modo i diversi processi, strumenti o abitudini sono **collegati** tra loro.
+
+E potrai vedere che modificandone anche uno solo, rischi di compromettere l’intero castello.
+
+Proprio come succede quando costruisci un bel castello di carte, ne togli una e tutto cade.
+
+Oppure come con le tessere del domino.
+
+Hai capito, no?
+
+Insomma, questo è quello che ho notato io quando ho aperto il mio diario e ho riletto la parte riguardo la gestione dei task.
+
+Ho capito che non aveva senso **rovinare tutto per una semplice distrazione**, non valeva la pena.
+
+Avrei rischiato di perdere ore e di compromettere l'esecuzione di task importanti sia nel mondo lavorativo che in quello personale.
+
+E così, munito di diario, ho combattuto contro la furia.
+
+E l'ho sconfitta.
+
+Non ho cambiato nulla, ho messo da parte l’idea e mi sono **dedicato al mio lavoro**.
+
+Direi che è stata la **scelta più produttiva**, no?
+
+E con questo, direi che per oggi è tutto.
+
+Buona settimana e **beccati le risorse**!
 
 Daniele
+
+​
+
+​
+
+PS:
+
+Penso di aver trovato una soluzione al problema dei **tutorial Notion senza registrare video**.
+
+L'idea di fare video mi attira comunque, ma i lavori sono ancora in corso.
+
+Nell'attesa, per avere una guida dettagliata (passo passo e con immagini) di quello che ti ho descritto, clicca sul pulsante qui sotto.
+
+Troverai tante immagini e poche parole, ne ho usate già tante finora, o sbaglio?
 
