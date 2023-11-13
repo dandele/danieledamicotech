@@ -181,7 +181,6 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2023-07-30'
-client: Awesome client
 description: E SYSTEM THINKING!
 featuredImage:
   type: ImageBlock
