@@ -210,5 +210,7 @@ sections:
       - 'content/pages/tags/ksc-60:-quando-staccare-e-il-miglior-investimento.md'
       - content/pages/tags/quando-non-hai-altra-scelta-utilizza-obsidian.md
       - content/pages/tags/notion-+-memo-culture-call.md
+      - >-
+        content/pages/tags/63-ksc-crea-il-tuo-diario-di-sistemi-personali...su-notion-(o-dove-vuoi).md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
