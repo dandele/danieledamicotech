@@ -201,6 +201,8 @@ bottomSections:
         style: primary
         type: Button
         elementId: annual_review_button
+        url: >-
+          https://scribehow.com/shared/Crea_un_diario_di_sistemi_personali_su_Notion__VB1-eIvrRlOZWugJth4utQ
     styles:
       self:
         height: auto
