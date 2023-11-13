@@ -193,7 +193,7 @@ bottomSections:
     elementId: ''
     backgroundSize: full
     actions:
-      - label: PROBLEMI COL TUO SISTEMA?
+      - label: "\U0001F4D5 CREA IL TUO DIARIO!"
         altText: ''
         showIcon: true
         icon: arrowRight
