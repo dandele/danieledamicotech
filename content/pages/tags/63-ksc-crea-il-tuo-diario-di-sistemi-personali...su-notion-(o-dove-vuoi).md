@@ -181,7 +181,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2023-07-30'
-description: E SYSTEM THINKING!
+description: SU NOTION (O DOVE VUOI)
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
