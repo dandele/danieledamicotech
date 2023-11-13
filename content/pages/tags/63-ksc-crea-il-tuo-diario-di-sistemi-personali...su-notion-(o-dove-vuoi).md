@@ -177,9 +177,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #63: CREA IL TUO DIARIO DI SISTEMI PERSONALI..."
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2023-11-12'
 description: SU NOTION (O DOVE VUOI)
 featuredImage:
