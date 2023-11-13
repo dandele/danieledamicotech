@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #49: PUZZLE, JENGA..."
+title: "\U0001F9F0 kSC #63: CREA IL TUO DIARIO DI SISTEMI PERSONALI..."
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
