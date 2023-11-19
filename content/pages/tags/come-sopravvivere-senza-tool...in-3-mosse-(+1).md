@@ -178,7 +178,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #64: Come sopravvivere senza tool..."
 colors: colors-a
 date: '2023-11-19'
-description: in 3 mosse (+1)
+description: IN 3 MOSSE (+1)
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
