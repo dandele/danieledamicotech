@@ -319,288 +319,176 @@ bottomSections:
         textAlign: center
 slug: come-sopravvivere-senza-tool...in-3-mosse-(+1)
 ---
-3 membri e più di 20 guest.
+40 ore (o più) a settimana per il lavoro.
 
-Lo spazio Notion di [Notion Builders](https://notionbuilders.it/) stava per trasformarsi in un hotel e presto la cosa sarebbe diventata ingestibile, anche a livello economico.
+8 ore (o poco meno) al giorno per dormire.
 
-Per questo, qualche giorno fa, sono andato nella sezione “Settings and members” del workspace che io e Beatrice usiamo per lavorare e ho cominciato a fare **pulizia**.
+Altre 2-3 ore per il cibo.
 
-Solo che ho fatto un errore.
+Qualche altra ora in viaggio, per lo sport ecc.
 
-Ho **rimosso anche il mio profilo personale** dai membri e in questo modo sono saltate tutte le integrazioni personali che avevo creato.
+Diciamoci la verità, quando si parla di controllo del nostro tempo è difficile essere soddisfatti perché c’è sempre qualcosa che cerca di sottrarci il controllo.
 
-Son saltate le integrazioni con Akiflow, con Make e le relative automazioni.
+E messa in questo senso, è normale che alcune persone vadano in fissa con la **produttività**, o sbaglio?
 
-Insomma, un bel casino.
+Si tratta pur sempre di un tentativo per riprendere il controllo del nostro **tempo**.
 
-E stava per succederne uno ancor peggiore!
+Con la produttività cerchiamo di ottenere il meglio dal tempo che abbiamo, di massimizzare lo sforzo ecc.
 
-​
+E come lo facciamo?
+
+Con gli strumenti, con tool tipo Notion e Obsidian.
+
+Ma sono necessari?
+
+Hai davvero bisogno di Notion per essere più produttivo?
+
+Hai davvero bisogno di Obsidian?
+
+Hai davvero bisogno di uno degli altri tool che ci sono In commercio?
+
+**Cosa accadrebbe se non ci fossero questi strumenti? Riusciremmo a sopravvivere?**
+
+**​**
+
+
 
 **TL;DR**
 
-*   Crea il tuo diario di sistemi personali, su Notion (o dove vuoi)
+*   Come sopravvivere in un mondo senza tool?
 
-*   Inizia su Youtube, senza videocamera;
+*   Riutilizzare i vecchi contenuti, con l’AI;
 
-*   Un mondo libero dalle distrazioni;
+*   Guida rapida al monk mode;
 
-*   Come scegliere cosa fare?
+*   Gli errori che insegnano.
 
-**Il tempo di lettura previsto è**: 7 minuti (ne vale la pena!)
+**Il tempo di lettura previsto è**: 4 minuti
 
-​
 
-Quando comincio a giocare con integrazioni tra vari tool il mio cervello entra in **modalità ottimizzazione** e comincia a ragionare.
-
-Comincio a chiedermi il motivo per cui utilizzo uno specifico strumento, perché metto in atto uno specifico processo ecc.
-
-Figurati che spesso mi capita di creare automazioni che poi non utilizzo mai.
-
-E lo so, forse sono un caso un po' patologico, ma credo che il discorso valga anche per te (con le dovute eccezioni).
-
-Sono convinto che spesso anche tu ti chiedi se il modo in cui organizzi una data cosa della tua vita sia funzionale oppure no.
-
-E quando poi lo modifichi, ti ci diverti per un po', ma poi **ritorni alle cose che funzionano**.
-
-È un problema comune, lo so.
-
-In ogni caso, mentre riattivavo l’integrazione tra Akiflow e Notion questa parte del mio cervello si è attivata e ho cominciato a farmi tante domande, una più dannosa dell'altra.
-
-Ma ha senso usare Akiflow?
-
-E se creassi questa automazione per inserire i task su Todoist e farli finire su Notion?
-
-E se usassi Things3?
-
-Insomma, cominciavo a pormi sempre più domande fino al punto in cui mi sono chiesto se non fosse stato meglio **gestire tutti i miei task in altro modo**.
-
-E quando comincio a valutare nuovi strumenti o nuovi approcci, allora è chiaro che la **furia mi ha preso**.
-
-È la furia di chi ottimizza le cose per piacere e lavoro e quando mi agguanta è così difficile sfuggirle.
-
-E non lo sapevo, ma ero proprio nelle grinfie della furia mentre mi facevo quelle domande e in poco tempo mi sarei ritrovato a spostare tutto il mio task manager chissà dove.
-
-Così avrei **perso decine di ore** tra lo spostamento, la presa di confidenza col nuovo sistema e le priorità del tutto sballate.
-
-Per fortuna, qualche tempo fa avevo scoperto una cosa.
-
-Avevo scoperto un’arma per combattere contro questa furia: il **diario personale dei sistemi**.
-
-E l'avevo anche **costruita su Notion**!
-
-Quindi l’ho aperta, consultata e la furia è sparita.
-
-E oggi ti svelerò come puoi crearla anche tu, in 3 passi (e una guida dettaglia):
-
-*   Cos'è il diario dei sistemi?
-
-*   Dal dump al database
-
-*   Dal database ai personal SOP
-
-Pronto?
-
-Cominciamo!
 
 ​
 
-## **Cos’è il diario dei sistemi?**
+Tutto dipende da come li utilizzi.
 
-Partiamo dalle basi, cos’è un diario dei sistemi personali?
+Se passi il tuo tempo a **ottimizzare il tuo spazio Notion**, senza poi utilizzarlo per migliorare il tuo lavoro, allora non lo stai usando per produttività.
 
-È lo strumento più importante per tutta la tua produttività personale (e non solo).
+È diventato solo il tuo nuovo giocattolo.
 
-Si, te lo dico così, senza esagerazioni o falsa modestia.
+Qualcosa con cui procrastinare, avendo la scusa di essere più produttivo.
 
-Perché è la tua **ancora di salvezza** per tutti i casi in cui la [shiny new toy syndrome](https://danieledamico.tech/tags/sistemi-non-bastano/) ti assale, oppure per tutti quei casi in cui scopri un nuovo sistema di produttività e valuti di implementarlo.
+In tal caso, sei finito nella **produttività tossica**, sei nelle sabbie mobili.
 
-In pratica, è lo strumento che ti permette di essere costante con la tua produttività senza sprecare neanche più un minuto dedicandoti ad attività che pensi siano utili, ma che poi non lo sono.
+Sei diventato un productivity bro (oppure sis, o che ne so) e passi il tempo alla ricerca di hack di produttività su Twitter, riorganizzando in modo ossessivo il tuo tool preferito.
 
-Ok, figo, ma quindi cos'è?
+Per fortuna però puoi cambiare, ti puoi salvare.
 
-Nella sua versione più semplice è un **documento**.
+Ti basta guardare alla produttività per quello che è nella sua forma piu pura.
 
-Un documento che puoi strutturare come vuoi e dove vuoi.
+Un insieme di principi che ti permettono di prendere il controllo del tuo tempo, senza che tu dipenda da uno specifico tool.
 
-E al suo interno ci puoi inserire tutti i sistemi di produttività, processi, strumenti e abitudini che ti permettono di fare quello che fai.
+E i principi in questione sarebbero questi:
 
-Dai, tutto quello che utilizzi per **organizzare la tua vita**.
+*   devi sapere cosa fare
 
-E chiariamolo, non parlo di quelli che vorresti utilizzare.
+*   devi sapere quando farlo
 
-In questo documento devi inserire solo quelli che metti in atto giorno dopo giorno e per tua scelta.
+*   devi poter pianificare
 
-Oppure puoi inserire quelli che hai deciso di sperimentare.
-
-Tutte le altre cose però non hanno spazio nel tuo diario dei sistemi personali, non le devi inserire.
-
-Quindi, non c’è spazio per i sistemi che vorresti implementare e non c’è spazio per quelli che un tempo mettevi in atto ma ora non più.
-
-E non so se è chiaro, ma te lo dico perché è importante: puoi scrivere questo documento dove ti pare.
-
-Certo, è meglio che tu possa accederci con facilità (e che tu possa trasformarlo in un database), ma puoi crearlo dove vuoi, anche su carta.
-
-Io ho scelto di crearlo su **Notion**, ma avrei potuto crearlo anche su [Obsidian](https://danieledamico.tech/tags/quando-non-hai-altra-scelta-utilizza-obsidian/), su [Tana](https://danieledamico.tech/tags/il-natale-di-notion-o-tana/) o sul mio [bullet journal](https://ckarchive.com/b/e5uph7hp5evpniwlggolea7p2mw22).
+Continua a leggere, ti spiegherò meglio cosa intendo.
 
 ​
 
-## **Dal dump al database**
+## Devi sapere cosa fare
 
-Ok, quindi sto diario dei sistemi è un documento che raccoglie i tuoi sistemi, processi e strumenti.
+Partiamo da questo principio.
 
-Lo puoi creare dove vuoi e come vuoi.
+È importante sapere cosa devi fare, visto che lo devi fare.
 
-E basta così.
+E come fai a saperlo senza che ci siano Notion, Obsidian o quel che ti pare a dirtelo?
 
-Questo è la roba **necessaria e sufficiente** che devi sapere per poter creare il tuo diario.
+Con un’ **obligations list**.
 
-Ora però voglio darti qualche consiglio su come crearlo al meglio.
+È una lista di tutte le cose in cui tu hai delle responsabilità da adempiere: il lavoro, la famiglia, le relazioni ecc.
 
-È tutta roba **opzionale**, ma credo sia comunque **utile**.
+In pratica, stiamo parlando delle famose **Aree** del Second Brain di Tiago Forte.
 
-Partiamo dall’inizio.
+Devi avere sempre chiaro in mente quali sono queste aree e quali sono le tue responsabilità, se riesci a ricondurre le tue attività a questi punti è tutto più semplice.
 
-La prima cosa che devi fare è quella di metterti davanti al pc e **scrivere un elenco di tutti i tuoi sistemi, strumenti, processi e abitudini**.
+E potresti non avere mai bisogno di alcun tool.
 
-Non fare troppa filosofia in questa fase, apri un documento a caso e inizia a scrivere.
+Sono serio, ti basta anche una **lista su un foglio di carta a caso**.
 
-Ti faccio alcuni esempi di quelli che ho scritto io nel mio:
+Fai la lista sul foglio di carta e poi te lo porti con te.
 
-*   Notion è il mio task manager personale e lavorativo
-
-*   Akiflow è lo strumento che uso per gestire il mio calendar e fare time blocking
-
-*   Ogni mattina scrivo a mano libera, su carta e penna, per 30 minuti
-
-*   Google Calendar: per pianificare gli impegni e tenermi aggiornato sugli appuntamenti
-
-*   Pomodoro Technique: un metodo di gestione del tempo che mi aiuta a rimanere concentrato e produttivo
-
-*   Dropbox: per archiviare e condividere i miei file in modo sicuro
-
-*   LastPass: per gestire e proteggere le password dei miei account online
-
-Sono solo alcuni esempi, ma credo tu abbia capito.
-
-Arrivato al punto in cui non hai altre cose da scrivere (almeno per il momento), puoi fare il **passo successivo**.
-
-E sarò sincero con te, è più semplice farlo su Notion.
-
-Perché su Notion ti basta creare un database, chiamarlo come vuoi e poi selezionare tutto l’elenco che hai scritto e trascinarlo nel database.
-
-In un attimo, ti ritroverai con un database popolato da tutti i punti del tuo elenco.
-
-E potrai cominciare ad aggiungere diverse proprietà (colonne) per **classificare le informazioni**.
-
-Potrai inserire tutte le **proprietà** che vuoi, spetta a te la decisione.
-
-Io però te ne consiglio due in particolare:
-
-*   **Area**: una proprietà di tipo “Multi-Select” che ti permette di selezionare a quale area della tua vita appartiene quello specifico elemento;
-
-*   **Stabilità**: una proprietà di tipo “Select” e ti permette di scegliere se quell’elemento è già stabile nella tua vita o se lo stai sperimentando.
-
-Te l'ho detto, puoi riuscire a fare questa cosa anche con Obsidian, Tana o che ne so.
-
-Solo che Notion è molto più immediato nella creazione di database e per questo te lo consiglio.
-
-Hai provato a creare database su Obsidian?
-
-Hai provato a crearli su Tana?
-
-Fidati, io si e ci ho messo tipo un'oretta per capirlo.
-
-Evita di fare il mio stesso errore, almeno non in questa fase.
-
-Comunque, poi che succede?
+Così sai sempre cosa devi fare, perché hai bene in mente le responsabilità che devi coprire.
 
 ​
 
-## **Dal database ai personal SOP**
+## Devi sapere quando farlo
 
-Succede che passi alla fase seguente.
+Ok, in questo caso bisogna fare un po’ di attenzione alla semantica.
 
-Hai creato il tuo database e hai creato le proprietà per classificare le informazioni.
+Perché questo principio si riferisce all’utilizzo di un **calendario**.
 
-Poi hai classificato tutti i record del database, così ogni voce ha una sua area e un suo grado di stabilità.
+Che in un certo senso è un tool, ma non nei termini che vogliamo evitare (cioè non parliamo di calendario tipo [Akiflow](https://danieledamico.tech/tags/sistemi-non-bastano/), Cron, Google Calendar ecc.).
 
-Ora puoi aprire le singole pagine del database.
+Parlo più del calendario classico.
 
-E che ci devi fare?
+Una lista dei tuoi impegni con il relativo orario in cui avvengono.
 
-Puoi metterti e **scrivere gli SOP** di quella voce del database.
+E hai tanto bisogno di un calendario.
 
-Ho già parlato in precedenza di come scrivere SOP su Notion, puoi leggere tutto [qui](https://ckarchive.com/b/lmuehmh0rgkd0t6hde0k600).
+Anche quando andavo all’università avevo bisogno di un piccolo calendario che mi dicesse quali lezioni frequentare, quando e dove.
 
-Sono gentile però e te la faccio breve.
+Utilizzare la nostra memoria per conservare certe informazioni è uno spreco.
 
-In pratica, per ogni elemento del database, ti basta descrivere quello che fai o come lo fai.
+E anche in questo caso, non è necessario che tu utilizzi per forza un qualche tool digitale per gestire il tuo calendario.
 
-Puoi utilizzare un **elenco numerato oppure checkbox** per descrivere il processo passo dopo passo.
+Puoi anche prendere appunti su sticky note e attaccarli al frigorifero.
 
-E puoi metterci di mezzo link, collegamenti ad altri processi e tutto quello che ti garba.
-
-Cerca solo di ricordarti di essere **oggettivo**, **descrivere senza ottimizzare** e **scrivere solo le informazioni importanti**.
-
-Alla fine di tutto sto giro, ti ritroverai con un bel database pieno di informazioni utili, stabili e sicure.
-
-La tua ancora sarà pronta e potrai usarla non appena ti rendi conto che la furia sta per prenderti.
+Non conta il modo, conta solo che tu sappia quando devi fare quello che devi fare.
 
 ​
 
+## Devi poter pianificare
+
+Passiamo la maggior parte del nostro tempo a pensare al futuro, oppure al passato.
+
+E per evitare una cosa del genere, ci sono tante cose da fare, non ne basta solo una.
+
+Questo principio però potrebbe essere una delle soluzioni più di impatto.
+
+Tutto quello che devi fare è **sederti e organizzare le tue cose**.
+
+Non basta che tu lo faccia una volta sola però, devi farlo con frequenza regolare.
+
+L’ideale è che tu lo faccia ogni **tre mesi, ogni settimana e ogni giorno**.
+
+E che nel corso di queste sedute, cerchi di pianificare le attività che devi fare fino alla prossima seduta.
+
+Come per gli altri principi, non serve che utilizzi alcun tool in particolare, ti basta carta e penna.
+
+Ma se c’è una cosa importante da fare in questa fase allora si tratta di riuscire a **saltare tra i diversi livelli di pianificazione con la giusta flessibilità**.
+
+Cioè?
+
+Nell’aggiornamento settimanale, per esempio, devi considerare le cose pianificate nell’aggiornamento trimestrale.
+
+E nell’aggiornamento quotidiano, devi tenere conto di quelli settimanali, che a loro volta tengono conto di quelli trimestrali.
+
+In questo modo, le tue attività quotidiane saranno collegate ai tuoi progetti trimestrali.
+
+Sarà tutto più coerente, fidati di me.
+
 ​
 
-Ok, tutto figo.
+E ti dirò una cosa.
 
-Ma perché sta roba ti dovrebbe aiutare?
+Questi tre principi, si affiancano a [quello di cui ti ho parlato settimana scorsa](https://danieledamico.tech/tags/63-ksc-crea-il-tuo-diario-di-sistemi-personali...su-notion-\(o-dove-vuoi\)).
 
-Perché fornisce **stabilità ai tuoi processi**.
+Metti insieme queste 4 cose e riuscirai a essere più produttivo, senza fissarti sul singolo tool oppure sulla singola tattica.
 
-Dopo che hai provato a mettere ordine nella tua vita, dopo che hai descritto in dettaglio le cose che fai e quelle che utilizzi, le probabilità di cedere alla tentazione della furia e mandare tutto all'aria in preda alla distrazione del momento saranno molto più **basse**.
-
-Avrai aumentato di molto la frizione nell'implementazione di un nuovo strumento ed avrai capito che quello che **funziona** nella tua organizzazione.
-
-Inoltre, grazie ad uno strumento come questo, potrai capire subito in che modo i diversi processi, strumenti o abitudini sono **collegati** tra loro.
-
-E potrai vedere che modificandone anche uno solo, rischi di compromettere l’intero castello.
-
-Proprio come succede quando costruisci un bel castello di carte, ne togli una e tutto cade.
-
-Oppure come con le tessere del domino.
-
-Hai capito, no?
-
-Insomma, questo è quello che ho notato io quando ho aperto il mio diario e ho riletto la parte riguardo la gestione dei task.
-
-Ho capito che non aveva senso **rovinare tutto per una semplice distrazione**, non valeva la pena.
-
-Avrei rischiato di perdere ore e di compromettere l'esecuzione di task importanti sia nel mondo lavorativo che in quello personale.
-
-E così, munito di diario, ho combattuto contro la furia.
-
-E l'ho sconfitta.
-
-Non ho cambiato nulla, ho messo da parte l’idea e mi sono **dedicato al mio lavoro**.
-
-Direi che è stata la **scelta più produttiva**, no?
-
-E con questo, direi che per oggi è tutto.
-
-Buona settimana e **beccati le risorse**!
+E detto questo, per oggi è tutto, buona settimana e **beccati le risorse**!
 
 Daniele
-
-​
-
-​
-
-PS:
-
-Penso di aver trovato una soluzione al problema dei **tutorial Notion senza registrare video**.
-
-L'idea di fare video mi attira comunque, ma i lavori sono ancora in corso.
-
-Nell'attesa, per avere una guida dettagliata (passo passo e con immagini) di quello che ti ho descritto, clicca sul pulsante qui sotto.
-
-Troverai tante immagini e poche parole, ne ho usate già tante finora, o sbaglio?
