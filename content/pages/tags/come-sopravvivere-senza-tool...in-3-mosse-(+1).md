@@ -178,7 +178,6 @@ metaTags: []
 title: "\U0001F9F0 kSC #63: CREA IL TUO DIARIO DI SISTEMI PERSONALI..."
 colors: colors-a
 date: '2023-11-12'
-client: Awesome client
 description: SU NOTION (O DOVE VUOI)
 featuredImage:
   type: ImageBlock
