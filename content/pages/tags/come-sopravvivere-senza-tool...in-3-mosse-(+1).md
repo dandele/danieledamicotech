@@ -349,7 +349,7 @@ Hai davvero bisogno di uno degli altri tool che ci sono In commercio?
 
 **Cosa accadrebbe se non ci fossero questi strumenti? Riusciremmo a sopravvivere?**
 
-**​*
+*---​*
 
 **TL;DR**
 
@@ -363,7 +363,7 @@ Hai davvero bisogno di uno degli altri tool che ci sono In commercio?
 
 **Il tempo di lettura previsto è**: 4 minuti
 
-​***
+​---
 
 Tutto dipende da come li utilizzi.
 
