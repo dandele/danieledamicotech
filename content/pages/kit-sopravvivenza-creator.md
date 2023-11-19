@@ -212,5 +212,6 @@ sections:
       - content/pages/tags/notion-+-memo-culture-call.md
       - >-
         content/pages/tags/63-ksc-crea-il-tuo-diario-di-sistemi-personali...su-notion-(o-dove-vuoi).md
+      - content/pages/tags/come-sopravvivere-senza-tool...in-3-mosse-(+1).md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
