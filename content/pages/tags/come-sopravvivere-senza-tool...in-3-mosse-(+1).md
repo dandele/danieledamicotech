@@ -349,7 +349,7 @@ Hai davvero bisogno di uno degli altri tool che ci sono In commercio?
 
 **Cosa accadrebbe se non ci fossero questi strumenti? Riusciremmo a sopravvivere?**
 
-*---​*
+---​
 
 **TL;DR**
 
