@@ -349,9 +349,7 @@ Hai davvero bisogno di uno degli altri tool che ci sono In commercio?
 
 **Cosa accadrebbe se non ci fossero questi strumenti? Riusciremmo a sopravvivere?**
 
-**​**
-
-
+**​*
 
 **TL;DR**
 
@@ -365,9 +363,7 @@ Hai davvero bisogno di uno degli altri tool che ci sono In commercio?
 
 **Il tempo di lettura previsto è**: 4 minuti
 
-
-
-​
+​***
 
 Tutto dipende da come li utilizzi.
 
@@ -399,7 +395,7 @@ Continua a leggere, ti spiegherò meglio cosa intendo.
 
 ​
 
-## Devi sapere cosa fare
+## **Devi sapere cosa fare**
 
 Partiamo da questo principio.
 
@@ -425,7 +421,7 @@ Così sai sempre cosa devi fare, perché hai bene in mente le responsabilità ch
 
 ​
 
-## Devi sapere quando farlo
+## **Devi sapere quando farlo**
 
 Ok, in questo caso bisogna fare un po’ di attenzione alla semantica.
 
@@ -451,7 +447,7 @@ Non conta il modo, conta solo che tu sappia quando devi fare quello che devi far
 
 ​
 
-## Devi poter pianificare
+## **Devi poter pianificare**
 
 Passiamo la maggior parte del nostro tempo a pensare al futuro, oppure al passato.
 
