@@ -181,7 +181,6 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2023-11-19'
-client: Awesome client
 description: IN 3 MOSSE (+1)
 featuredImage:
   type: ImageBlock
