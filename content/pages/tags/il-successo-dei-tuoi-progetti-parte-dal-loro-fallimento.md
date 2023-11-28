@@ -178,7 +178,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #65: Il successo dei tuoi progetti..."
 colors: colors-a
 date: '2023-11-26'
-description: IN 3 MOSSE (+1)
+description: PARTE DAL LORO FALLIMENTO!
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
