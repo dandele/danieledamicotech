@@ -286,172 +286,178 @@ bottomSections:
         textAlign: center
 slug: il-successo-dei-tuoi-progetti-parte-dal-loro-fallimento
 ---
-40 ore (o più) a settimana per il lavoro.
+Alla base del Second Brain di Tiago Forte ci sono i **progetti**.
 
-8 ore (o poco meno) al giorno per dormire.
+Infatti, nell'acronimo PARA, la P iniziale sta proprio per Projects.
 
-Altre 2-3 ore per il cibo.
+Quindi i progetti sono roba grossa.
 
-Qualche altra ora in viaggio, per lo sport ecc.
+E per questo è importante scegliere bene **a quali progetti dedicarsi** e fare di tutto per **portarli al successo**.
 
-Diciamoci la verità, quando si parla di controllo del nostro tempo è difficile essere soddisfatti perché c’è sempre qualcosa che cerca di sottrarci il controllo.
+Solo che quando lanciamo un nuovo progetto, dobbiamo fronteggiare la **fase di innamoramento dei progetti.**
 
-E messa in questo senso, è normale che alcune persone vadano in fissa con la **produttività**, o sbaglio?
+Ed è una fase pericolosa, perché rischia di farci mandare tutto all'aria.
 
-Si tratta pur sempre di un tentativo per riprendere il controllo del nostro **tempo**.
+​
 
-Con la produttività cerchiamo di ottenere il meglio dal tempo che abbiamo, di massimizzare lo sforzo ecc.
 
-E come lo facciamo?
-
-Con gli strumenti, con tool tipo Notion e Obsidian.
-
-Ma sono necessari?
-
-Hai davvero bisogno di Notion per essere più produttivo?
-
-Hai davvero bisogno di Obsidian?
-
-Hai davvero bisogno di uno degli altri tool che ci sono In commercio?
-
-**Cosa accadrebbe se non ci fossero questi strumenti? Riusciremmo a sopravvivere?**
-
-***
 
 **TL;DR**
 
-*   Come sopravvivere in un mondo senza tool?
+*   Vuoi rendere i tuoi progetti un successo? Allora parti dal loro fallimento!
 
-*   Riutilizzare i vecchi contenuti, con l’AI;
+*   Tutti abbiamo bisogno di scrivere meglio
 
-*   Guida rapida al monk mode;
+*   Rapidità e struttura per le tue note
 
-*   Gli errori che insegnano.
+*   Come monetizzare i tuoi prompt?
 
-**Il tempo di lettura previsto è**: 4 minuti
+**Il tempo di lettura previsto è**: 4 minuti e 30
 
-***
 
-Tutto dipende da come li utilizzi.
-
-Se passi il tuo tempo a **ottimizzare il tuo spazio Notion**, senza poi utilizzarlo per migliorare il tuo lavoro, allora non lo stai usando per produttività.
-
-È diventato solo il tuo nuovo giocattolo.
-
-Qualcosa con cui procrastinare, avendo la scusa di essere più produttivo.
-
-In tal caso, sei finito nella **produttività tossica**, sei nelle sabbie mobili.
-
-Sei diventato un productivity bro (oppure sis, o che ne so) e passi il tempo alla ricerca di hack di produttività su Twitter, riorganizzando in modo ossessivo il tuo tool preferito.
-
-Per fortuna però puoi cambiare, ti puoi salvare.
-
-Ti basta guardare alla produttività per quello che è nella sua forma piu pura.
-
-Un insieme di principi che ti permettono di prendere il controllo del tuo tempo, senza che tu dipenda da uno specifico tool.
-
-E i principi in questione sarebbero questi:
-
-*   devi sapere cosa fare
-
-*   devi sapere quando farlo
-
-*   devi poter pianificare
-
-Continua a leggere, ti spiegherò meglio cosa intendo.
 
 ​
 
-## **Devi sapere cosa fare**
+Diciamoci la verità, quando comincia un nuovo progetto è tutto bello.
 
-Partiamo da questo principio.
+Siamo tutti ottimisti.
 
-È importante sapere cosa devi fare, visto che lo devi fare.
+Tutti convinti che le cose andranno come vogliamo e che il progetto sarà un successo.
 
-E come fai a saperlo senza che ci siano Notion, Obsidian o quel che ti pare a dirtelo?
+Non ci sarà neanche mezza complicazione, tutto filerà liscio come l’olio.
 
-Con un’ **obligations list**.
+E questa sensazione regge, fino a quando poi non regge più.
 
-È una lista di tutte le cose in cui tu hai delle responsabilità da adempiere: il lavoro, la famiglia, le relazioni ecc.
+Alcune cose ci colgono impreparati, arrivano le prime **complicazioni**.
 
-In pratica, stiamo parlando delle famose **Aree** del Second Brain di Tiago Forte.
+Allora impariamo, troviamo soluzioni e ci adattiamo.
 
-Devi avere sempre chiaro in mente quali sono queste aree e quali sono le tue responsabilità, se riesci a ricondurre le tue attività a questi punti è tutto più semplice.
+Poi però arriva un nuovo progetto e il ciclo ricomincia.
 
-E potresti non avere mai bisogno di alcun tool.
+Lo so che sembra un ciclo inevitabile, ma penso di aver trovato una **soluzione** (e due tattiche per metterla in pratica):
 
-Sono serio, ti basta anche una **lista su un foglio di carta a caso**.
+*   devi partire dal fallimento;
 
-Fai la lista sul foglio di carta e poi te lo porti con te.
+*   come anticipare il fallimento;
 
-Così sai sempre cosa devi fare, perché hai bene in mente le responsabilità che devi coprire.
+*   come anticipare il fallimento con Notion.
 
-​
-
-## **Devi sapere quando farlo**
-
-Ok, in questo caso bisogna fare un po’ di attenzione alla semantica.
-
-Perché questo principio si riferisce all’utilizzo di un **calendario**.
-
-Che in un certo senso è un tool, ma non nei termini che vogliamo evitare (cioè non parliamo di calendario tipo [Akiflow](https://danieledamico.tech/tags/sistemi-non-bastano/), Cron, Google Calendar ecc.).
-
-Parlo più del calendario classico.
-
-Una lista dei tuoi impegni con il relativo orario in cui avvengono.
-
-E hai tanto bisogno di un calendario.
-
-Anche quando andavo all’università avevo bisogno di un piccolo calendario che mi dicesse quali lezioni frequentare, quando e dove.
-
-Utilizzare la nostra memoria per conservare certe informazioni è uno spreco.
-
-E anche in questo caso, non è necessario che tu utilizzi per forza un qualche tool digitale per gestire il tuo calendario.
-
-Puoi anche prendere appunti su sticky note e attaccarli al frigorifero.
-
-Non conta il modo, conta solo che tu sappia quando devi fare quello che devi fare.
+E ora, come al solito, te le racconto.
 
 ​
 
-## **Devi poter pianificare**
+### **Devi partire dal fallimento**
 
-Passiamo la maggior parte del nostro tempo a pensare al futuro, oppure al passato.
+Ok, in questo punto devo cercare di non essere lugubre.
 
-E per evitare una cosa del genere, ci sono tante cose da fare, non ne basta solo una.
+Ma hai presente l’autopsia?
 
-Questo principio però potrebbe essere una delle soluzioni più di impatto.
+Dai su, ti sarà capitato di vedere almeno una puntata di CSI.
 
-Tutto quello che devi fare è **sederti e organizzare le tue cose**.
+Oppure di qualsiasi altro telefilm.
 
-Non basta che tu lo faccia una volta sola però, devi farlo con frequenza regolare.
+Qualche tempo fa, ho scoperto che l'autopsia la puoi fare pure ai **progetti**.
 
-L’ideale è che tu lo faccia ogni **tre mesi, ogni settimana e ogni giorno**.
+E di solito prende la forma di report, o documenti, scritti su come è andato il progetto e perché è stato un fallimento.
 
-E che nel corso di queste sedute, cerchi di pianificare le attività che devi fare fino alla prossima seduta.
+Solo che questa autopsia ha un piccolo problema: **non è retroattiva**.
 
-Come per gli altri principi, non serve che utilizzi alcun tool in particolare, ti basta carta e penna.
+Ci fornisce lezioni importanti sul passato, ma non ci aiuta a plasmare il futuro (non direttamente, almeno).
 
-Ma se c’è una cosa importante da fare in questa fase allora si tratta di riuscire a **saltare tra i diversi livelli di pianificazione con la giusta flessibilità**.
+Mi segui fin qui?
 
-Cioè?
+Ok, perché ora ti invito ad usare l’**immaginazione**.
 
-Nell’aggiornamento settimanale, per esempio, devi considerare le cose pianificate nell’aggiornamento trimestrale.
+Invece di fare cose quando il progetto è finito, falle quando il progetto sta per iniziare!
 
-E nell’aggiornamento quotidiano, devi tenere conto di quelli settimanali, che a loro volta tengono conto di quelli trimestrali.
+Insomma, **scrivi un pre-mortem invece di un post-mortem**.
 
-In questo modo, le tue attività quotidiane saranno collegate ai tuoi progetti trimestrali.
+In questo modo, potrai anticipare le possibili cause di fallimento.
 
-Sarà tutto più coerente, fidati di me.
+Non ci saranno più cose che ti colgono alla sprovvista ed avrai sempre un piano di risposta pronto.
+
+Ma come ci puoi riuscire?
 
 ​
 
-E ti dirò una cosa.
+### **Come partire dal fallimento**
 
-Questi tre principi, si affiancano a [quello di cui ti ho parlato settimana scorsa](https://danieledamico.tech/tags/63-ksc-crea-il-tuo-diario-di-sistemi-personali...su-notion-\(o-dove-vuoi\)).
+Ci sono alcune domande che ti puoi fare e che ti aiuteranno a ipotizzare il peggio.
 
-Metti insieme queste 4 cose e riuscirai a essere più produttivo, senza fissarti sul singolo tool oppure sulla singola tattica.
+*   Quali sono gli obiettivi principali del progetto?
 
-E detto questo, per oggi è tutto, buona settimana e **beccati le risorse**!
+*   Abbiamo sufficienti risorse (umane, finanziarie, tecnologiche) per completare il progetto?
+
+*   La pianificazione è realistica? Ci sono possibili ritardi previsti?
+
+*   Abbiamo un piano di risposta a eventuali problemi tecnici?
+
+*   Come monitoreremo il progresso del progetto?
+
+*   Qual è il peggiore scenario possibile per il progetto?
+
+E diciamoci la verità, sono tutte domande che dovrebbero aiutarti a ipotizzare gli scenari peggiori del tuo progetto.
+
+Hanno la stessa funzione delle domande di cui ti ho parlato [qui](https://danieledamico.tech/tags/quando-non-hai-altra-scelta-utilizza-obsidian/).
+
+E proprio come quelle domande, il posto dove te le fai è irrilevante ma io **ti consiglio Notion**.
+
+Ora ti mostrerò come puoi utilizzarle su Notion, perché è lì che **gestisco i miei progetti**.
+
+​
+
+### **Come anticipare il fallimento, su Notion**
+
+Tutto quello che devi fare è inserire queste domande come **template di un database documenti** (o note) nel tuo spazio Notion.
+
+Puoi chiamare il template "pre-mortem".
+
+*​*
+
+| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/sbfjjS2p1kAntkmucY8q6m) |
+| --------------------------------------------------------------------------------- |
+
+​
+
+Poi, devi **collegare il database in cui ospiti tutti i tuoi progetti** a quello in cui ospiti le tue note.
+
+*​*
+
+| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/ohEvuNWyZ5uZj8mArXyLYg) |
+| --------------------------------------------------------------------------------- |
+
+​
+
+In questo modo, dalla dashboard in cui gestisci i tuoi progetti, potrai **creare un nuovo pre-mortem** per il relativo progetto e compilarlo subito.
+
+*​*
+
+| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/pVDJLkwDv113GNXEPrRfwv) |
+| --------------------------------------------------------------------------------- |
+
+*​*
+
+E fidati, così partirai fin dall'inizio con le idee chiare.
+
+​
+
+​
+
+Mi fermo qui con la spiegazione, anche se si possono fare tante altre cose.
+
+Puoi creare dashboard che ti mostrano solo i progetti privi di pre-mortem, così puoi rimediare.
+
+Puoi creare dashboard che ti aiutano a far partire un progetto solo se hai compilato il pre-mortem.
+
+E addirittura **puoi sfruttare l'AI per aiutarti con la compilazione del pre-mortem** (l'ho già fatto, è fighissimo).
+
+Ma sono tutte complicazioni che potrebbero essere superflue, il **minimo indispensabile è quello di prendere due database e incrociarli.**
+
+Sembra poco, ma può avere un grande impatto sul successo dei tuoi progetti.
+
+Detto questo, per oggi è tutto.
+
+Buona settimana e beccati le risorse,
 
 Daniele
+
