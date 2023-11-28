@@ -178,7 +178,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #65: Il successo dei tuoi progetti..."
 colors: colors-a
 date: '2023-11-26'
-description: PARTE DAL LORO FALLIMENTO!
+description: PARTE DAL LORO FALLIMENTO (E DA NOTION)!
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
