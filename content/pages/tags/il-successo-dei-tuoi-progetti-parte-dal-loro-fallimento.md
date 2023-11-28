@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #64: Come sopravvivere senza tool..."
+title: "\U0001F9F0 kSC #65: Il successo dei tuoi progetti..."
 colors: colors-a
 date: '2023-11-26'
 description: IN 3 MOSSE (+1)
