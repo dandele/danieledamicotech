@@ -178,7 +178,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #66: Para, PPV e Zettelkasten..."
 colors: colors-a
 date: '2023-12-03'
-description: QUAL È il miglior sistema per il tuo cervello digitale?
+description: qual è il miglior sistema per il tuo cervello digitale?
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
