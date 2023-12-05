@@ -306,7 +306,7 @@ Qual è il migliore sistema per gestire le note?
 
 E quale sistema consiglierei a qualcuno che che parte dall'inizio?
 
----
+***
 
 **TL;DR**
 
@@ -320,7 +320,7 @@ E quale sistema consiglierei a qualcuno che che parte dall'inizio?
 
 **Il tempo di lettura previsto è**: 8 minuti
 
----
+***
 
 Ok, chiariamo una cosa.
 
@@ -340,7 +340,7 @@ E anche perché ho scelto proprio questi.
 
 ​
 
-## Il metodo PARA
+## **Il metodo PARA**
 
 Questo è il metodo creato da Tiago Forte e alla base del suo Second Brain.
 
@@ -415,7 +415,7 @@ Qui sotto, invece, ti lascio uno screen del mio template Easy Second Brain.
 
 ​
 
-## Il metodo PPV
+## **Il metodo PPV**
 
 Questo è il metodo creato da **August Bradley**, anche lui esperto di produttività come Tiago Forte.
 
@@ -478,7 +478,7 @@ E qui sotto trovi uno screen della vecchia versione di questo sistema che avevo 
 
 ​
 
-## Il metodo Zettelkasten
+## **Il metodo Zettelkasten**
 
 Questo metodo è interessante.
 
