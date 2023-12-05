@@ -181,7 +181,6 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2023-12-03'
-client: Awesome client
 description: QUAL È il miglior sistema per il tuo cervello digitale?
 featuredImage:
   type: ImageBlock
