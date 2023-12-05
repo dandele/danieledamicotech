@@ -177,9 +177,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #66: Para, PPV e Zettelkasten..."
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2023-12-03'
 description: QUAL È il miglior sistema per il tuo cervello digitale?
 featuredImage:
