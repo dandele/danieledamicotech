@@ -180,7 +180,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
-date: '2023-11-26'
+date: '2023-12-03'
 description: PARTE DAL LORO FALLIMENTO (E DA NOTION)!!
 featuredImage:
   type: ImageBlock
