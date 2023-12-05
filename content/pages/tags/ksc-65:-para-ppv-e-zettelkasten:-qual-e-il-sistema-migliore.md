@@ -177,9 +177,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #65: Il successo dei tuoi progetti..."
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2023-12-03'
 description: PARTE DAL LORO FALLIMENTO (E DA NOTION)!!
 featuredImage:
