@@ -306,9 +306,7 @@ Qual è il migliore sistema per gestire le note?
 
 E quale sistema consiglierei a qualcuno che che parte dall'inizio?
 
-​
-
-
+---
 
 **TL;DR**
 
@@ -322,9 +320,7 @@ E quale sistema consiglierei a qualcuno che che parte dall'inizio?
 
 **Il tempo di lettura previsto è**: 8 minuti
 
-
-
-​
+---
 
 Ok, chiariamo una cosa.
 
@@ -544,4 +540,3 @@ E se ci sono problemi, scrivimi senza timore!
 Detto questo, buona settimana e beccati le risorse.
 
 Daniele
-
