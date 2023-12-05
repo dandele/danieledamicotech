@@ -181,7 +181,6 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2023-11-26'
-client: Awesome client
 description: PARTE DAL LORO FALLIMENTO (E DA NOTION)!!
 featuredImage:
   type: ImageBlock
