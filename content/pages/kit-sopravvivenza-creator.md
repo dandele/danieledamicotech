@@ -215,5 +215,7 @@ sections:
       - content/pages/tags/come-sopravvivere-senza-tool...in-3-mosse-(+1).md
       - >-
         content/pages/tags/il-successo-dei-tuoi-progetti-parte-dal-loro-fallimento.md
+      - >-
+        content/pages/tags/ksc-66:-para-ppv-e-zettelkasten-qual-e-il-miglior-sistema-per-il-tuo-cervello-digitale.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
