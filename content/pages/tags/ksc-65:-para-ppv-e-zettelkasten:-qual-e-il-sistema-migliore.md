@@ -286,17 +286,25 @@ bottomSections:
         textAlign: center
 slug: 'ksc-65:-para-ppv-e-zettelkasten:-qual-e-il-sistema-migliore'
 ---
-Alla base del Second Brain di Tiago Forte ci sono i **progetti**.
+Qualche tempo fa, Tiago Forte ha pubblicato un nuovo libro.
 
-Infatti, nell'acronimo PARA, la P iniziale sta proprio per Projects.
+Ma devo essere sincero, quando ho scoperto il titolo di questa nuova uscita, sono rimasto piuttosto deluso.
 
-Quindi i progetti sono roba grossa.
+Pensavo si sarebbe dedicato a qualche nuova scoperta nel mondo della produttività, invece il libro era un approfondimento su qualcosa di già esplorato.
 
-E per questo è importante scegliere bene **a quali progetti dedicarsi** e fare di tutto per **portarli al successo**.
+Il nuovo libro è **The PARA Method: Simplify, Organise and Master Your Digital Life.**
 
-Solo che quando lanciamo un nuovo progetto, dobbiamo fronteggiare la **fase di innamoramento dei progetti.**
+In pratica è un approfondimento su uno degli aspetti più basilari del suo Second Brain, il **metodo Para**.
 
-Ed è una fase pericolosa, perché rischia di farci mandare tutto all'aria.
+In ogni caso, ho messo da parte la delusione e ho acquistato il libro.
+
+L'ho cominciato a leggere e devo dire che, per quanto conoscessi e avessi già implementato molte delle cose dette in questo libro, ce ne sono tante altre che ho **scoperto**.
+
+E tante altre che, invece, mi hanno fatto pensare al **rapporto che c'è tra il Para e gli sistemi altri più diffusi.**
+
+Qual è il migliore sistema per gestire le note?
+
+E quale sistema consiglierei a qualcuno che che parte dall'inizio?
 
 ​
 
@@ -304,160 +312,236 @@ Ed è una fase pericolosa, perché rischia di farci mandare tutto all'aria.
 
 **TL;DR**
 
-*   Vuoi rendere i tuoi progetti un successo? Allora parti dal loro fallimento!
+*   Para, PPV e Zettelkasten, qual è il miglior sistema per il tuo cervello digitale?
 
-*   Tutti abbiamo bisogno di scrivere meglio
+*   Audience research, fatta facile;
 
-*   Rapidità e struttura per le tue note
+*   La parte nascosta della produttività;
 
-*   Come monetizzare i tuoi prompt?
+*   Niente storie, solo case study
 
-**Il tempo di lettura previsto è**: 4 minuti e 30
+**Il tempo di lettura previsto è**: 8 minuti
 
 
-
-​
-
-Diciamoci la verità, quando comincia un nuovo progetto è tutto bello.
-
-Siamo tutti ottimisti.
-
-Tutti convinti che le cose andranno come vogliamo e che il progetto sarà un successo.
-
-Non ci sarà neanche mezza complicazione, tutto filerà liscio come l’olio.
-
-E questa sensazione regge, fino a quando poi non regge più.
-
-Alcune cose ci colgono impreparati, arrivano le prime **complicazioni**.
-
-Allora impariamo, troviamo soluzioni e ci adattiamo.
-
-Poi però arriva un nuovo progetto e il ciclo ricomincia.
-
-Lo so che sembra un ciclo inevitabile, ma penso di aver trovato una **soluzione** (e due tattiche per metterla in pratica):
-
-*   devi partire dal fallimento;
-
-*   come anticipare il fallimento;
-
-*   come anticipare il fallimento con Notion.
-
-E ora, come al solito, te le racconto.
 
 ​
 
-### **Devi partire dal fallimento**
+Ok, chiariamo una cosa.
 
-Ok, in questo punto devo cercare di non essere lugubre.
+Questa newsletter non sarà una disamina approfondita e maniacale di tutti i sistemi per gestire le note.
 
-Ma hai presente l’autopsia?
+In questa newsletter ti parlerò di solo tre sistemi:
 
-Dai su, ti sarà capitato di vedere almeno una puntata di CSI.
+*   il sistema Para
 
-Oppure di qualsiasi altro telefilm.
+*   Il sistema PPV
 
-Qualche tempo fa, ho scoperto che l'autopsia la puoi fare pure ai **progetti**.
+*   Il metodo Zettelkasten
 
-E di solito prende la forma di report, o documenti, scritti su come è andato il progetto e perché è stato un fallimento.
+Continua a leggere e capirai cosa sono.
 
-Solo che questa autopsia ha un piccolo problema: **non è retroattiva**.
-
-Ci fornisce lezioni importanti sul passato, ma non ci aiuta a plasmare il futuro (non direttamente, almeno).
-
-Mi segui fin qui?
-
-Ok, perché ora ti invito ad usare l’**immaginazione**.
-
-Invece di fare cose quando il progetto è finito, falle quando il progetto sta per iniziare!
-
-Insomma, **scrivi un pre-mortem invece di un post-mortem**.
-
-In questo modo, potrai anticipare le possibili cause di fallimento.
-
-Non ci saranno più cose che ti colgono alla sprovvista ed avrai sempre un piano di risposta pronto.
-
-Ma come ci puoi riuscire?
+E anche perché ho scelto proprio questi.
 
 ​
 
-### **Come partire dal fallimento**
+## Il metodo PARA
 
-Ci sono alcune domande che ti puoi fare e che ti aiuteranno a ipotizzare il peggio.
+Questo è il metodo creato da Tiago Forte e alla base del suo Second Brain.
 
-*   Quali sono gli obiettivi principali del progetto?
+Forse è il metodo più noto, tra tutti quelli che citerò nel corso di questa newsletter.
 
-*   Abbiamo sufficienti risorse (umane, finanziarie, tecnologiche) per completare il progetto?
+Ed è anche il metodo che mi ha portato alla creazione del [mio primo template Notion](https://danieledamico.gumroad.com/l/easy-second-brain), perché pur sembrando semplice non è così facile da mettere in pratica.
 
-*   La pianificazione è realistica? Ci sono possibili ritardi previsti?
+In ogni caso, che roba è?
 
-*   Abbiamo un piano di risposta a eventuali problemi tecnici?
+PARA è l'acronimo di queste parole qui:
 
-*   Come monitoreremo il progresso del progetto?
+*   Projects
 
-*   Qual è il peggiore scenario possibile per il progetto?
+*   Areas
 
-E diciamoci la verità, sono tutte domande che dovrebbero aiutarti a ipotizzare gli scenari peggiori del tuo progetto.
+*   Resources
 
-Hanno la stessa funzione delle domande di cui ti ho parlato [qui](https://danieledamico.tech/tags/quando-non-hai-altra-scelta-utilizza-obsidian/).
+*   Archives
 
-E proprio come quelle domande, il posto dove te le fai è irrilevante ma io **ti consiglio Notion**.
+E queste parole coincidono con le cartelle/database/pagine in cui dovrai organizzare le tue informazioni.
 
-Ora ti mostrerò come puoi utilizzarle su Notion, perché è lì che **gestisco i miei progetti**.
+Sembra facile, ma fidati che non lo è per tutta una serie di motivi.
+
+Innanzitutto, devi scegliere a cosa vuoi che le parti del tuo PARA corrispondano.
+
+Vuoi che siano cartelle?
+
+Vuoi che siano dei database?
+
+Vuoi che siano delle pagine?
+
+E poi perché. devi capire altre cose.
+
+Ad esempio, come devi collegare le parti del tuo PARA tra loro?
+
+E poi, cosa si intende preciso per Projects?
+
+E per Areas?
+
+E per Resources? E Archives?
+
+Dai, penso tu abbia capito la questione.
+
+È un sistema facile da capire nelle sue basi, ma che lascia tanto **spazio di manovra a chi lo implementa.**
+
+Ora però ti dico alcune cose che ti potranno essere utili, se hai intenzione di seguire questo metodo.
+
+Prima di tutto, ricorda che il **modo in cui implementi il PARA dipende dallo strumento** che hai deciso di utilizzare per gestire le tue note (Notion, Obsidian, Evernote ecc.).
+
+Inoltre, ricorda che un **Progetto** è qualcosa che ha una **data di scadenza e che punta ad un obiettivo misurabile.**
+
+Le Areas, invece, sono **aree di responsabilità** che ricopri nella tua vita e che richiedono una tua attività in modo indeterminato.
+
+Infine, ricorda che questo è un metodo di gestione delle note che punta alla **semplicità**.
+
+E per questo, i requisiti minimi di implementazione sono comprensibili in pochi secondi.
+
+Davvero, ti basta creare 4 cartelle su Evernote (più una di Inbox) e il gioco è fatto.
+
+Ma se ti ritrovi a passare troppo tempo nella costruzione e a farti mille domande, **torna alle basi** oppure scegli un altro metodo.
+
+Te lo consiglio se sei quel tipo di persona che vuole dare una prima vera struttura alle sue note e non vuole complicarsi troppo la vita.
+
+Se vuoi saperne di più, Tiago Forte stesso ne parla in abbondanza sul [suo canale Youtube](https://www.youtube.com/@TiagoForte).
+
+Qui sotto, invece, ti lascio uno screen del mio template Easy Second Brain.
 
 ​
 
-### **Come anticipare il fallimento, su Notion**
-
-Tutto quello che devi fare è inserire queste domande come **template di un database documenti** (o note) nel tuo spazio Notion.
-
-Puoi chiamare il template "pre-mortem".
-
-*​*
-
-| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/sbfjjS2p1kAntkmucY8q6m) |
-| --------------------------------------------------------------------------------- |
+| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/8Pgpp1JAbdKW31HHomjUxT/email) |
+| --------------------------------------------------------------------------------------- |
 
 ​
 
-Poi, devi **collegare il database in cui ospiti tutti i tuoi progetti** a quello in cui ospiti le tue note.
+## Il metodo PPV
 
-*​*
+Questo è il metodo creato da **August Bradley**, anche lui esperto di produttività come Tiago Forte.
 
-| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/ohEvuNWyZ5uZj8mArXyLYg) |
-| --------------------------------------------------------------------------------- |
+E anche lui Notion Ambassador come me e Beatrice, giusto per dire.
+
+A differenza del PARA, questo è un sistema un po' più strutturato.
+
+Ma questo non significa che non sia poco potente.
+
+Alla base della struttura di sto sistema ci sono:
+
+*   Pillars
+
+*   Vault
+
+*   Pipelines
+
+I pillars sono i pilastri di tutto il tuo cervello digitale.
+
+Sono Le aree dove fai le cose più cruciali, come dormire, mangiare o lavorare e sono l'alternativa ai Projects ed Areas del Para di Tiago Forte. Capire quali sono questi pilastri ti aiuta a capire cosa è davvero importante per te.
+
+E dove metti le cose più importanti?
+
+Le metti nel Vault, la **cassaforte**.
+
+E sta cassaforte è il punto in cui raccogli le informazioni nello strumento da te scelto.
+
+Su Notion possono essere dei database, su Evernote delle cartelle e su Obsidian delle raccolte dataview.
+
+E devi fare particolare attenzione all'ultimo punto, le Pipelines.
+
+Le Pipelines sono i processi, una cosa che non è compresa nel metodo di Tiago Forte ma che è molto efficace.
+
+È il modo con cui August ha provato a rendere più efficace non solo l'**organizzazione** delle informazioni ma anche tutta la loro **gestione** tramite una serie di azioni fisse e fondamentali per l'effettivo funzionamento del sistema.
+
+E questo significa che August introduce il concetto di **manutenzione del sistema**, un concetto molto limitato nel Para.
+
+Qui invece no, è un processo fondamentale e se lo salti tutto il **sistema rischia di diventare inutilizzabile** in poco tempo.
+
+L'ho provato io stesso sulla mia pelle.
+
+Per qualche mese ho messo in pratica il sistema di August Bradley, sul mio Notion personale, e mi piaceva perché riusciva a dare struttura.
+
+Mi sentivo un tantino più saldo rispetto al Para.
+
+Poi però ho saltato qualche Weekly Review e dopo pochi mesi il sistema è diventato inutilizzabile (e quindi sono passato a [questo](https://ckarchive.com/b/e5uph7hp5evpniwlggolea7p2mw22)).
+
+Se sei il tipo di persona con poca disciplina e che non vuole dedicare con regolarità una parte del suo tempo alla manutenzione delle note, allora questo non è il metodo che fa per te.
+
+Se invece vuoi una **struttura definita** e ti piace **organizzare le cose**, magari su Notion (dove il sistema di Bradley è più efficace), allora questo è il metodo che fa per te.
+
+​[Qui](https://www.youtube.com/@augustbradley) trovi tante altre informazioni utili sul sistema.
+
+E qui sotto trovi uno screen della vecchia versione di questo sistema che avevo implementato sul mio Notion personale.
 
 ​
 
-In questo modo, dalla dashboard in cui gestisci i tuoi progetti, potrai **creare un nuovo pre-mortem** per il relativo progetto e compilarlo subito.
+| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/qJ6w7kScmh9HKzBSSRVU92/email) |
+| --------------------------------------------------------------------------------------- |
 
-*​*
+​
 
-| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/pVDJLkwDv113GNXEPrRfwv) |
-| --------------------------------------------------------------------------------- |
+## Il metodo Zettelkasten
 
-*​*
+Questo metodo è interessante.
 
-E fidati, così partirai fin dall'inizio con le idee chiare.
+Questo metodo non si preoccupa tanto di farti fare cose, o di aiutarti a gestire la tua vita personale e professionale.
+
+Questo metodo ti aiuta a **raccogliere le tue idee**, **collegarle** tra loro e permettere a queste di **prendere nuova forma**.
+
+Insomma, è un metodo più volto alla **creazione di contenuti** e all'esplorazione del tuo cervello digitale.
+
+Ne ho parlato parecchio nei precedenti numeri di questa newsletter.
+
+E ne ho anche creato un [template](https://danieledamico.gumroad.com/l/easy-zettelkasten-system), perché proprio come nel caso del Para, sembra semplice ma non lo è.
+
+Qui la situazione è semplice, se non ti importa molto di gestire la tua vita ma vuoi solo gestire le idee tue (e che incontri) per poi vedere dove ti possono portare, questo è il metodo che fa per te.
+
+Puoi trovare più informazioni sul metodo [qui](https://ckarchive.com/b/8kuqhoh0q7x7rckhzxzz399) e [qui](https://ckarchive.com/b/5quvh7hv7v3xvu6hrno0l44) (se vuoi continuare a leggere roba mia) e se invece vuoi leggere roba di altri ti basta cercare su Medium o Youtube.
+
+Qui sotto ti lascio uno screen del mio template Easy Zettelkasten System.
+
+| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/gMoqxaSBqQ3VBSdQUSJPhy/email) |
+| --------------------------------------------------------------------------------------- |
 
 ​
 
 ​
 
-Mi fermo qui con la spiegazione, anche se si possono fare tante altre cose.
+Ok, ho cercato in tutti i modi di lasciare le cose semplici.
 
-Puoi creare dashboard che ti mostrano solo i progetti privi di pre-mortem, così puoi rimediare.
+Il mondo dei framework, sistemi e metodi per gestire le tue note è fitto e pieno di sentieri oscuri.
 
-Puoi creare dashboard che ti aiutano a far partire un progetto solo se hai compilato il pre-mortem.
+Avrei potuto dedicare interi numeri di newsletter a solo alcuni di questi metodi, ma credo che la cosa non sarebbe stata sostenibile né per me né per te.
 
-E addirittura **puoi sfruttare l'AI per aiutarti con la compilazione del pre-mortem** (l'ho già fatto, è fighissimo).
+Oppure avrei potuto citare altri sistemi meno noti e più complessi.
 
-Ma sono tutte complicazioni che potrebbero essere superflue, il **minimo indispensabile è quello di prendere due database e incrociarli.**
+Ma ho preferito parlare di quelli che, da quanto ho testato, mi sembrano essere i più efficaci anche per **persone poco esperte**.
 
-Sembra poco, ma può avere un grande impatto sul successo dei tuoi progetti.
+E di sicuro questa newsletter non ti sarà utile se pensi di utilizzarla per capire tutto sui metodi che ho citato.
 
-Detto questo, per oggi è tutto.
+Tiago Forte e August Bradley hanno costruito un'intera carriera su questi metodi, dopo anni e anni di esperienza, e conoscere il frutto di questo loro lavoro grazie alla lettura di poche righe sarebbe folle.
 
-Buona settimana e beccati le risorse,
+Ti consiglio di prenderla più come un **punto di partenza** per cominciare la tua esplorazione.
+
+Leggila e se trovi che un metodo possa essere adatto alla tua situazione, approfondisci utilizzando i link che ti ho lasciato.
+
+Ti ho anche lasciato alcuni template che puoi utilizzare (sono i miei template, ma ce ne sono centinaia sul web).
+
+Se poi ti piacerebbe che io approfondissi di più uno di questi metodi, **rispondi a questa email** e fammelo sapere, sarò più che felice di farlo.
+
+Un **ultimo consiglio** che ti voglio dare è quello di non vedere questi metodi come una scelta senza ritorno, oppure come qualcosa le cui regole non possono essere violate.
+
+L'efficacia di un metodo dipende da quanto questo aderisca alla tua vita e se è necessario modificarlo, per farlo aderire meglio alla tua vita, allora fallo pure senza problemi.
+
+E soprattutto, non passare ore a valutare la scelta del miglior metodo.
+
+Scegli quello che ti ispira di più, approfondisci un po' e poi buttati.
+
+E se ci sono problemi, scrivimi senza timore!
+
+Detto questo, buona settimana e beccati le risorse.
 
 Daniele
 
