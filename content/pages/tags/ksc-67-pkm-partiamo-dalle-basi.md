@@ -514,6 +514,7 @@ PS:
 Tutti quelli che lasciano un voto, in qualche modo, riceveranno un bonus e potranno esprimersi sul nuovo nome della newsletter!
 
 <br/>
+<br/>
 
 ## **Che ne pensi di questa newsletter?**
 
