@@ -286,257 +286,234 @@ bottomSections:
         textAlign: center
 slug: ksc-67-pkm-partiamo-dalle-basi
 ---
-Qualche tempo fa, Tiago Forte ha pubblicato un nuovo libro.
+In questo periodo penso spesso al mio **personal branding**.
 
-Ma devo essere sincero, quando ho scoperto il titolo di questa nuova uscita, sono rimasto piuttosto deluso.
+Se la parte lavorativa delle mie attività è dedicata a Notion, processi e automazioni per aziende, cosa ne faccio del mio personal branding?
 
-Pensavo si sarebbe dedicato a qualche nuova scoperta nel mondo della produttività, invece il libro era un approfondimento su qualcosa di già esplorato.
+Lo limito ad un motore di attenzione per Notion Builders, oppure lo rendo qualcosa di diverso?
 
-Il nuovo libro è **The PARA Method: Simplify, Organise and Master Your Digital Life.**
+Ancora non ho preso una decisione, ma credo che seguirò la seconda strada.
 
-In pratica è un approfondimento su uno degli aspetti più basilari del suo Second Brain, il **metodo Para**.
+E più o meno ho capito quali cambiamenti farò, ma questa non è la newsletter per parlarne.
 
-In ogni caso, ho messo da parte la delusione e ho acquistato il libro.
+Due cose te le posso dire però.
 
-L'ho cominciato a leggere e devo dire che, per quanto conoscessi e avessi già implementato molte delle cose dette in questo libro, ce ne sono tante altre che ho **scoperto**.
+La prima è che presto vedrai cambiare alcune cose.
 
-E tante altre che, invece, mi hanno fatto pensare al **rapporto che c'è tra il Para e gli sistemi altri più diffusi.**
+La seconda, invece, è che i cambiamenti sono collegati all'argomento della newsletter di oggi: il **knowledge management**.
 
-Qual è il migliore sistema per gestire le note?
+​
 
-E quale sistema consiglierei a qualcuno che che parte dall'inizio?
 
-***
 
 **TL;DR**
 
-*   Para, PPV e Zettelkasten, qual è il miglior sistema per il tuo cervello digitale?
+*   PMK, partiamo dalle basi
 
-*   Audience research, fatta facile;
+*   La strada per i primi 10mila iscritti
 
-*   La parte nascosta della produttività;
+*   Preferisci raddoppiare oppure moltiplicare per 10?
 
-*   Niente storie, solo case study
+*   Copy che converte
 
-**Il tempo di lettura previsto è**: 8 minuti
+**Il tempo di lettura previsto è**: 5 minuti
 
-***
 
-Ok, chiariamo una cosa.
-
-Questa newsletter non sarà una disamina approfondita e maniacale di tutti i sistemi per gestire le note.
-
-In questa newsletter ti parlerò di solo tre sistemi:
-
-*   il sistema Para
-
-*   Il sistema PPV
-
-*   Il metodo Zettelkasten
-
-Continua a leggere e capirai cosa sono.
-
-E anche perché ho scelto proprio questi.
 
 ​
 
-## **Il metodo PARA**
+Ok, fermi un attimo, ma cosa sarebbe?
 
-Questo è il metodo creato da Tiago Forte e alla base del suo Second Brain.
+Diciamoci la verità, è una di quelle cose che più o meno tutti capiscono, ma nessuno riesce a definire per bene.
 
-Forse è il metodo più noto, tra tutti quelli che citerò nel corso di questa newsletter.
+Hai presente no?
 
-Ed è anche il metodo che mi ha portato alla creazione del [mio primo template Notion](https://danieledamico.gumroad.com/l/easy-second-brain), perché pur sembrando semplice non è così facile da mettere in pratica.
+Di quelle che se per strada ti ferma qualche tiktoker a caso e ti chiede "ehi che cos'è il knowledge management?", te inizi a balbettare qualcosa di poco preciso, ma comunque giusto.
 
-In ogni caso, che roba è?
+Più o meno.
 
-PARA è l'acronimo di queste parole qui:
+E se poi il randomico tiktoker ti dovesse chiedere "E che cos'è il PKM?"
 
-*   Projects
+In tal caso, di sicuro lo manderesti a quel paese, lo so.
 
-*   Areas
+Ma visto che sono argomenti di cui parlerò spesso in futuro, è meglio chiarirli fin da da ora.
 
-*   Resources
+Così quando le prossime volte ne parlerò, potrò linkare a questa newsletter per farti trovare tutte le definizioni necessarie.
 
-*   Archives
+Quindi, oggi capirai queste tre cose:
 
-E queste parole coincidono con le cartelle/database/pagine in cui dovrai organizzare le tue informazioni.
+*   cosa sono il knowledge management e il personal knowledge management?
 
-Sembra facile, ma fidati che non lo è per tutta una serie di motivi.
+*   cosa ti aiuta a fare il personal knowledge management?
 
-Innanzitutto, devi scegliere a cosa vuoi che le parti del tuo PARA corrispondano.
+*   in che modo ti può aiutare il personal knowledge management?
 
-Vuoi che siano cartelle?
+Pronto?
 
-Vuoi che siano dei database?
-
-Vuoi che siano delle pagine?
-
-E poi perché. devi capire altre cose.
-
-Ad esempio, come devi collegare le parti del tuo PARA tra loro?
-
-E poi, cosa si intende preciso per Projects?
-
-E per Areas?
-
-E per Resources? E Archives?
-
-Dai, penso tu abbia capito la questione.
-
-È un sistema facile da capire nelle sue basi, ma che lascia tanto **spazio di manovra a chi lo implementa.**
-
-Ora però ti dico alcune cose che ti potranno essere utili, se hai intenzione di seguire questo metodo.
-
-Prima di tutto, ricorda che il **modo in cui implementi il PARA dipende dallo strumento** che hai deciso di utilizzare per gestire le tue note (Notion, Obsidian, Evernote ecc.).
-
-Inoltre, ricorda che un **Progetto** è qualcosa che ha una **data di scadenza e che punta ad un obiettivo misurabile.**
-
-Le Areas, invece, sono **aree di responsabilità** che ricopri nella tua vita e che richiedono una tua attività in modo indeterminato.
-
-Infine, ricorda che questo è un metodo di gestione delle note che punta alla **semplicità**.
-
-E per questo, i requisiti minimi di implementazione sono comprensibili in pochi secondi.
-
-Davvero, ti basta creare 4 cartelle su Evernote (più una di Inbox) e il gioco è fatto.
-
-Ma se ti ritrovi a passare troppo tempo nella costruzione e a farti mille domande, **torna alle basi** oppure scegli un altro metodo.
-
-Te lo consiglio se sei quel tipo di persona che vuole dare una prima vera struttura alle sue note e non vuole complicarsi troppo la vita.
-
-Se vuoi saperne di più, Tiago Forte stesso ne parla in abbondanza sul [suo canale Youtube](https://www.youtube.com/@TiagoForte).
-
-Qui sotto, invece, ti lascio uno screen del mio template Easy Second Brain.
+Iniziamo!
 
 ​
 
-| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/8Pgpp1JAbdKW31HHomjUxT/email) |
-| --------------------------------------------------------------------------------------- |
+## **Knowledge Management e Personal Knowledge Management, che sarebbero?**
+
+Hai presente il principio dell' "explain me like I'm five"?
+
+È un principio ideato da **Richard Feynman**.
+
+Di base, ti dice che se sei in grado di spiegare una cosa ad un bambino molto piccolo, allora significa che quella cosa l'hai capita.
+
+E perché?
+
+Perché per farti capire dal bambino, avrai dovuto capire prima di tutto tu la cosa in questione.
+
+Avrai dovuto spiegarla con termini semplici, senza paroloni.
+
+E poi avrai dovuto rispondere a tutti i "perché" con cui i bambini sono soliti aggredire gli adulti.
+
+È un buon principio, cerco sempre di utilizzarlo quando studio qualcosa.
+
+Solo che non vado in giro a cercare di spiegare cose ai bambini, sarebbe strano.
+
+Faccio delle cose più moderne.
+
+Chiedo a **ChatGPT** e **Notion AI**.
+
+Eh si, vado su ChatGPT e scrivo questo semplice prompt "Sono un bambino della prima elementare, magari anche più piccolo. Voglio che mi aiuti a capire cos'è X".
+
+E poi utilizzo lo stesso prompt, in un database Notion molto più strutturato e figo.
+
+Un database che ho chiamato Knowledge Hub e di cui ti parlerò in futuro.
+
+Comunque, ecco la risposta che l'intelligenza artificiale mi ha dato alla domanda riguardo il **knowledge management**.
+
+"Certo, posso spiegarlo in modo semplice! Immagina che il "knowledge management" (gestione della conoscenza) sia come un grande armadio magico nella tua mente, dove puoi conservare e organizzare tutte le informazioni importanti che impari ogni giorno.
+
+Quando impari qualcosa di nuovo a scuola, come ad esempio i fatti interessanti sugli animali o le regole della matematica, puoi metterlo nell'armadio magico della tua mente.
+
+La gestione della conoscenza è come tenere tutto in ordine in questo armadio, in modo che tu possa trovare facilmente le informazioni quando ne hai bisogno.
+
+Immagina anche di avere una bacchetta magica che ti aiuta a condividere queste informazioni con i tuoi amici. Quindi, se un amico ha bisogno di sapere qualcosa che hai imparato, puoi usare la tua bacchetta magica (la condivisione di conoscenze) per aiutarlo.
+
+In breve, la gestione della conoscenza è come tenere traccia e organizzare tutte le cose interessanti che impari, in modo da poterle trovare facilmente e aiutare anche i tuoi amici a imparare cose nuove!"
+
+Direi che è un ottimo inizio, in pratica fare knowledge management significa gestire le conoscenze.
+
+Ma che differenza c'è con il **personal knowledge management**?
+
+"Il "personal knowledge management" (PKM), o gestione personale della conoscenza, è come prendere quel grande armadio magico nella tua mente e organizzarlo in modo speciale solo per te.
+
+In altre parole, è il modo in cui tu gestisci, organizzi e sfrutti le informazioni che impari in modo personale, per rendere la tua vita più facile e efficiente.
+
+Immagina che tu abbia un quaderno segreto in cui scrivi le cose che sono davvero importanti per te, come i tuoi pensieri, i tuoi progetti e le tue scoperte.
+
+La gestione personale della conoscenza è come tenere il tuo quaderno segreto in ordine, in modo che tu possa tornare a leggerlo quando ne hai bisogno e trovare facilmente tutte le tue idee speciali.
+
+Quindi, mentre la gestione della conoscenza riguarda l'organizzazione delle informazioni in generale, il personal knowledge management è più specifico ed è come prendere il controllo delle tue idee personali e delle cose che sono importanti solo per te.
+
+È come avere un diario segreto delle tue scoperte e pensieri!"
+
+E devo essere sincero, le due risposte hanno senso.
+
+In pratica, si tratta di separare due mondi.
+
+Da un lato c'è la gestione della conoscenza indefinita e dall'altro quella personale.
+
+Quella generale è regno delle aziende, con tutte le informazioni che devono gestire.
+
+E quella personale è la tua, tutte le conoscenze che acquisisci giorno dopo giorno e che devi gestire in qualche modo.
+
+E lo so, lo so che era tutto intuibile e magari già ne avevi una qualche idea, ora però è tutto più definito.
+
+Vero?
 
 ​
 
-## **Il metodo PPV**
+## **Parliamo di PKM, cosa ti aiuta a fare?**
 
-Questo è il metodo creato da **August Bradley**, anche lui esperto di produttività come Tiago Forte.
+Ok, ora parliamo delle cose interessanti.
 
-E anche lui Notion Ambassador come me e Beatrice, giusto per dire.
+Perché dovresti cominciare a fare PKM?
 
-A differenza del PARA, questo è un sistema un po' più strutturato.
+Che vantaggi potresti ottenere?
 
-Ma questo non significa che non sia poco potente.
+Le 3 cose principali che puoi ottenere sono:
 
-Alla base della struttura di sto sistema ci sono:
+*   che riuscirai a **ricordare**
 
-*   Pillars
+*   che riuscirai a **fare**
 
-*   Vault
+*   che riuscirai a **creare**
 
-*   Pipelines
+Insomma, quando inserisci un'informazione nel tuo sistema di PKM (che poi sarebbe il tuo cervello digitale) le puoi dare una nuova forma oppure la puoi spostare nel tempo.
 
-I pillars sono i pilastri di tutto il tuo cervello digitale.
+Se hai bisogno di **immagazzinarla per il futuro**, puoi fare in modo che quando arriva il momento di doverla recuperare, tu possa farlo senza problemi.
 
-Sono Le aree dove fai le cose più cruciali, come dormire, mangiare o lavorare e sono l'alternativa ai Projects ed Areas del Para di Tiago Forte. Capire quali sono questi pilastri ti aiuta a capire cosa è davvero importante per te.
+Se hai bisogno invece di **utilizzare quell'informazione**, potrai trasformarla in un task e passare all'azione.
 
-E dove metti le cose più importanti?
+Infine, se hai bisogno di **creare qualcosa**, potrai prendere quell'informazione e collegarla ad altre informazioni, così da stimolare la tua creatività e creare qualcosa di nuovo.
 
-Le metti nel Vault, la **cassaforte**.
+Per fartela breve, il PKM ti può aiutare in queste 6 aree diverse:
 
-E sta cassaforte è il punto in cui raccogli le informazioni nello strumento da te scelto.
+*   **PMM** (memory management): ti aiuta a gestire quello che devi ricordare
 
-Su Notion possono essere dei database, su Evernote delle cartelle e su Obsidian delle raccolte dataview.
+*   **PIM** (idea management): ti aiuta a gestire le tue idee
 
-E devi fare particolare attenzione all'ultimo punto, le Pipelines.
+*   **PWM** (writing management): ti aiuta a gestire quello che scrivi
 
-Le Pipelines sono i processi, una cosa che non è compresa nel metodo di Tiago Forte ma che è molto efficace.
+*   **PPM** (productivity management): ti aiuta a gestire la tua produttività
 
-È il modo con cui August ha provato a rendere più efficace non solo l'**organizzazione** delle informazioni ma anche tutta la loro **gestione** tramite una serie di azioni fisse e fondamentali per l'effettivo funzionamento del sistema.
+*   **PSM** (skill management): ti aiuta a gestire le tue abilità
 
-E questo significa che August introduce il concetto di **manutenzione del sistema**, un concetto molto limitato nel Para.
-
-Qui invece no, è un processo fondamentale e se lo salti tutto il **sistema rischia di diventare inutilizzabile** in poco tempo.
-
-L'ho provato io stesso sulla mia pelle.
-
-Per qualche mese ho messo in pratica il sistema di August Bradley, sul mio Notion personale, e mi piaceva perché riusciva a dare struttura.
-
-Mi sentivo un tantino più saldo rispetto al Para.
-
-Poi però ho saltato qualche Weekly Review e dopo pochi mesi il sistema è diventato inutilizzabile (e quindi sono passato a [questo](https://ckarchive.com/b/e5uph7hp5evpniwlggolea7p2mw22)).
-
-Se sei il tipo di persona con poca disciplina e che non vuole dedicare con regolarità una parte del suo tempo alla manutenzione delle note, allora questo non è il metodo che fa per te.
-
-Se invece vuoi una **struttura definita** e ti piace **organizzare le cose**, magari su Notion (dove il sistema di Bradley è più efficace), allora questo è il metodo che fa per te.
-
-​[Qui](https://www.youtube.com/@augustbradley) trovi tante altre informazioni utili sul sistema.
-
-E qui sotto trovi uno screen della vecchia versione di questo sistema che avevo implementato sul mio Notion personale.
+*   **PRM** (relationship management): ti aiuta a gestire le tue relazioni
+    Dai, direi che ci puoi fare un sacco di cose!
 
 ​
 
-| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/qJ6w7kScmh9HKzBSSRVU92/email) |
-| --------------------------------------------------------------------------------------- |
+## **E in che modo ti aiuta a farlo?**
 
-​
+Arriviamo alla parte pratica, in che modo un sistema di PKM ti può aiutare?
 
-## **Il metodo Zettelkasten**
+Questa è forse la parte più **incasinata**.
 
-Questo metodo è interessante.
+Perché è la parte in cui ci sono **centinaia di strumenti** che ti aiutano a gestire le tue informazioni.
 
-Questo metodo non si preoccupa tanto di farti fare cose, o di aiutarti a gestire la tua vita personale e professionale.
+E ci sono **centinaia di approcci**, metodi, framework che ti aiutano col modo in cui gestire le informazioni.
 
-Questo metodo ti aiuta a **raccogliere le tue idee**, **collegarle** tra loro e permettere a queste di **prendere nuova forma**.
+Hai presente il [Second Brain, lo Zettelkasten](https://danieledamico.tech/tags/ksc-66:-para-ppv-e-zettelkasten-qual-e-il-miglior-sistema-per-il-tuo-cervello-digitale/) e tanti altri metodi di cui ho parlato in passato in questa newsletter?
 
-Insomma, è un metodo più volto alla **creazione di contenuti** e all'esplorazione del tuo cervello digitale.
+Ecco, quelli sono **framework** di PKM, ti aiutano con il modo.
 
-Ne ho parlato parecchio nei precedenti numeri di questa newsletter.
+Poi ci sono gli **strumenti**.
 
-E ne ho anche creato un [template](https://danieledamico.gumroad.com/l/easy-zettelkasten-system), perché proprio come nel caso del Para, sembra semplice ma non lo è.
+E qui abbiamo Notion, Obsidian, Mem, Tana e tutti gli strumenti di cui parlo.
 
-Qui la situazione è semplice, se non ti importa molto di gestire la tua vita ma vuoi solo gestire le idee tue (e che incontri) per poi vedere dove ti possono portare, questo è il metodo che fa per te.
+Diciamoci la verità, inoltrarsi in questo mondo è rischioso.
 
-Puoi trovare più informazioni sul metodo [qui](https://ckarchive.com/b/8kuqhoh0q7x7rckhzxzz399) e [qui](https://ckarchive.com/b/5quvh7hv7v3xvu6hrno0l44) (se vuoi continuare a leggere roba mia) e se invece vuoi leggere roba di altri ti basta cercare su Medium o Youtube.
+Da una parte ci sono dei **vantaggi chiari**, ma sulla strada per arrivarci ci sono un sacco di trappole come la [produttività tossica](https://danieledamico.tech/tags/come-sopravvivere-senza-tool...in-3-mosse-\(+1\)), l'ottimizzazione eccessiva di uno strumento, la scelta di framework non adatti al nostro stile ecc.
 
-Qui sotto ti lascio uno screen del mio template Easy Zettelkasten System.
-
-| ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/gMoqxaSBqQ3VBSdQUSJPhy/email) |
-| --------------------------------------------------------------------------------------- |
+Ed è proprio per questo che penso ci sia bisogno di qualcuno che ti aiuti nel percorso, non credi?
 
 ​
 
 ​
 
-Ok, ho cercato in tutti i modi di lasciare le cose semplici.
+Ecco, direi che per oggi mi posso fermare.
 
-Il mondo dei framework, sistemi e metodi per gestire le tue note è fitto e pieno di sentieri oscuri.
+Questa newsletter aveva lo scopo di scendere in dettaglio su un concetto che spesso risulta poco chiaro.
 
-Avrei potuto dedicare interi numeri di newsletter a solo alcuni di questi metodi, ma credo che la cosa non sarebbe stata sostenibile né per me né per te.
+E porre le basi per i **nuovi sviluppi** dei miei contenuti.
 
-Oppure avrei potuto citare altri sistemi meno noti e più complessi.
+Mai come in questo caso, mi piacerebbe sapere cosa ne pensi nel modo che più preferisci.
 
-Ma ho preferito parlare di quelli che, da quanto ho testato, mi sembrano essere i più efficaci anche per **persone poco esperte**.
+Puoi **rispondere con una mail**, oppure cliccare su uno dei **tre link qui sotto** ed esprimere un voto.
 
-E di sicuro questa newsletter non ti sarà utile se pensi di utilizzarla per capire tutto sui metodi che ho citato.
-
-Tiago Forte e August Bradley hanno costruito un'intera carriera su questi metodi, dopo anni e anni di esperienza, e conoscere il frutto di questo loro lavoro grazie alla lettura di poche righe sarebbe folle.
-
-Ti consiglio di prenderla più come un **punto di partenza** per cominciare la tua esplorazione.
-
-Leggila e se trovi che un metodo possa essere adatto alla tua situazione, approfondisci utilizzando i link che ti ho lasciato.
-
-Ti ho anche lasciato alcuni template che puoi utilizzare (sono i miei template, ma ce ne sono centinaia sul web).
-
-Se poi ti piacerebbe che io approfondissi di più uno di questi metodi, **rispondi a questa email** e fammelo sapere, sarò più che felice di farlo.
-
-Un **ultimo consiglio** che ti voglio dare è quello di non vedere questi metodi come una scelta senza ritorno, oppure come qualcosa le cui regole non possono essere violate.
-
-L'efficacia di un metodo dipende da quanto questo aderisca alla tua vita e se è necessario modificarlo, per farlo aderire meglio alla tua vita, allora fallo pure senza problemi.
-
-E soprattutto, non passare ore a valutare la scelta del miglior metodo.
-
-Scegli quello che ti ispira di più, approfondisci un po' e poi buttati.
-
-E se ci sono problemi, scrivimi senza timore!
-
-Detto questo, buona settimana e beccati le risorse.
+Detto questo, per oggi è tutto, buona settimana e beccati le risorse.
 
 Daniele
+
+​
+
+PS:
+
+Tutti quelli che lasciano un voto, in qualche modo, riceveranno un bonus e potranno esprimersi sul nuovo nome della newsletter!
+
