@@ -181,7 +181,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2023-12-10'
-description: qual è il miglior sistema per il tuo cervello digitale?
+description: COSì NON FACCIAMO CONFUSIONE!
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
