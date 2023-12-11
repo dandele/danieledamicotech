@@ -175,7 +175,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #66: PKM, PARTIAMO DALLE BASI..."
+title: "\U0001F9F0 kSC #67: PKM, PARTIAMO DALLE BASI..."
 colors: colors-a
 date: '2023-12-10'
 description: COSì NON FACCIAMO CONFUSIONE!
