@@ -217,5 +217,6 @@ sections:
         content/pages/tags/il-successo-dei-tuoi-progetti-parte-dal-loro-fallimento.md
       - >-
         content/pages/tags/ksc-66:-para-ppv-e-zettelkasten-qual-e-il-miglior-sistema-per-il-tuo-cervello-digitale.md
+      - content/pages/tags/ksc-67-pkm-partiamo-dalle-basi.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
