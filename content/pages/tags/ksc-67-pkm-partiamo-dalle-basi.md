@@ -515,7 +515,7 @@ Tutti quelli che lasciano un voto, in qualche modo, riceveranno un bonus e potra
 
 
 
-## Che ne pensi di questa newsletter?
+## **Che ne pensi di questa newsletter?**
 
 *   ​[👍 Mi è piaciuta molto!](https://hook.eu1.make.com/ktrkrhvgqmoxiya3wbj3tf5n42iiks7w?10_12_23_yay)​
 
