@@ -178,7 +178,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #67: PKM, PARTIAMO DALLE BASI..."
 colors: colors-a
 date: '2023-12-10'
-description: COSì NON FACCIAMO CONFUSIONE!
+description: così non facciamo confusione!
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
