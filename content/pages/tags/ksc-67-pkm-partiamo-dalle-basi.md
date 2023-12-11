@@ -304,8 +304,6 @@ La seconda, invece, è che i cambiamenti sono collegati all'argomento della news
 
 ​
 
-
-
 **TL;DR**
 
 *   PMK, partiamo dalle basi
@@ -317,8 +315,6 @@ La seconda, invece, è che i cambiamenti sono collegati all'argomento della news
 *   Copy che converte
 
 **Il tempo di lettura previsto è**: 5 minuti
-
-
 
 ​
 
@@ -516,4 +512,14 @@ Daniele
 PS:
 
 Tutti quelli che lasciano un voto, in qualche modo, riceveranno un bonus e potranno esprimersi sul nuovo nome della newsletter!
+
+
+
+## Che ne pensi di questa newsletter?
+
+*   ​[👍 Mi è piaciuta molto!](https://hook.eu1.make.com/ktrkrhvgqmoxiya3wbj3tf5n42iiks7w?10_12_23_yay)​
+
+*   ​[🤢 Meh](https://hook.eu1.make.com/ktrkrhvgqmoxiya3wbj3tf5n42iiks7w?10_12_23_nah)​
+
+*   ​[👎 Non mi è piaciuta](https://hook.eu1.make.com/ktrkrhvgqmoxiya3wbj3tf5n42iiks7w?10_12_23_nay)
 
