@@ -223,4 +223,5 @@ sections:
       - content/pages/tags/mvp-dei-grandi-progetti-su-notion.md
       - content/pages/tags/costruisci-il-tuo-circle-of-competence-su-notion.md
       - content/pages/tags/e-obsidian-come-lo-uso.md
+      - content/pages/tags/system-thinking-e-notion-la-(poco)-strana-coppia.md
 ---
