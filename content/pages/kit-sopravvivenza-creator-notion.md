@@ -192,4 +192,5 @@ sections:
       - content/pages/tags/database-notion-irrinunciabili.md
       - content/pages/tags/come-annullare-competizione.md
       - content/pages/tags/3-lezioni-da-200-newsletter.md
+      - content/pages/tags/come-te-la-cavi-con-la-memoria.md
 ---
