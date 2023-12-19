@@ -199,4 +199,5 @@ sections:
       - content/pages/tags/batman-o-iron-man.md
       - content/pages/tags/task-manager-come-vestiti-su-misura.md
       - content/pages/tags/oscar-product-hunt.md
+      - content/pages/tags/notion-google-calendar.md
 ---
