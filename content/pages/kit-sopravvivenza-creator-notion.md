@@ -210,4 +210,5 @@ sections:
       - content/pages/tags/notion-e-obsidian-perche-usarli-entrambi.md
       - content/pages/tags/sai-vedere-le-informazioni-su-notion.md
       - content/pages/tags/notion-e-solo-utile.md
+      - content/pages/tags/i-3-principi-del-notion-builder.md
 ---
