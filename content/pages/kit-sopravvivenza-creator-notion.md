@@ -235,4 +235,5 @@ sections:
         content/pages/tags/il-successo-dei-tuoi-progetti-parte-dal-loro-fallimento.md
       - >-
         content/pages/tags/ksc-65:-para-ppv-e-zettelkasten:-qual-e-il-sistema-migliore.md
+      - content/pages/tags/ksc-67-pkm-partiamo-dalle-basi.md
 ---
