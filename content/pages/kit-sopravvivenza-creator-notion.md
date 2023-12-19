@@ -217,4 +217,6 @@ sections:
       - content/pages/tags/il-mio-funnel-di-produttivita.md
       - content/pages/tags/niente-piu-kit-quotidiano.md
       - content/pages/tags/notion-projects-che-roba-e.md
+      - >-
+        content/pages/tags/3-sistemi-da-usare-su-notion-per-sconvolgerti-la-vita.md
 ---
