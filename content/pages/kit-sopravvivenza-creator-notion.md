@@ -227,4 +227,5 @@ sections:
       - content/pages/tags/puzzle-jenga-e....md
       - 'content/pages/tags/ksc-60:-quando-staccare-e-il-miglior-investimento.md'
       - content/pages/tags/quando-non-hai-altra-scelta-utilizza-obsidian.md
+      - content/pages/tags/notion-+-memo-culture-call.md
 ---
