@@ -192,5 +192,48 @@ sections:
       - content/pages/tags/database-notion-irrinunciabili.md
       - content/pages/tags/come-annullare-competizione.md
       - content/pages/tags/3-lezioni-da-200-newsletter.md
+      - content/pages/tags/e-se-notion-sparisse.md
       - content/pages/tags/come-te-la-cavi-con-la-memoria.md
+      - content/pages/tags/il-natale-di-notion-o-tana.md
+      - content/pages/tags/un-2023-da-umano.md
+      - content/pages/tags/batman-o-iron-man.md
+      - content/pages/tags/task-manager-come-vestiti-su-misura.md
+      - content/pages/tags/oscar-product-hunt.md
+      - content/pages/tags/notion-google-calendar.md
+      - content/pages/tags/agenzia-notion-builders.md
+      - content/pages/tags/te-ne-intendi-di-notion.md
+      - content/pages/tags/notion-ai-cosa-fare.md
+      - content/pages/tags/da-creator-a-notion-builders.md
+      - content/pages/tags/meeting-notes-efficaci.md
+      - content/pages/tags/il-tool-che-toglie-altri-tool.md
+      - 'content/pages/tags/youtube:-guida-per-creator-sprovveduti.md'
+      - content/pages/tags/notion-e-obsidian-perche-usarli-entrambi.md
+      - content/pages/tags/sai-vedere-le-informazioni-su-notion.md
+      - content/pages/tags/notion-e-solo-utile.md
+      - content/pages/tags/i-3-principi-del-notion-builder.md
+      - content/pages/tags/a-scuola-di-produttivita-da-cal-newport.md
+      - content/pages/tags/il-tuo-notion-collassera.md
+      - content/pages/tags/a-colazione-con-l-ai-e-moloch.md
+      - content/pages/tags/il-mio-funnel-di-produttivita.md
+      - content/pages/tags/niente-piu-kit-quotidiano.md
+      - content/pages/tags/notion-projects-che-roba-e.md
+      - >-
+        content/pages/tags/3-sistemi-da-usare-su-notion-per-sconvolgerti-la-vita.md
+      - content/pages/tags/3-tattiche-per-la-settimana-perfetta-su-notion.md
+      - content/pages/tags/mvp-dei-grandi-progetti-su-notion.md
+      - content/pages/tags/costruisci-il-tuo-circle-of-competence-su-notion.md
+      - content/pages/tags/e-obsidian-come-lo-uso.md
+      - content/pages/tags/system-thinking-e-notion-la-(poco)-strana-coppia.md
+      - content/pages/tags/puzzle-jenga-e....md
+      - 'content/pages/tags/ksc-60:-quando-staccare-e-il-miglior-investimento.md'
+      - content/pages/tags/quando-non-hai-altra-scelta-utilizza-obsidian.md
+      - content/pages/tags/notion-+-memo-culture-call.md
+      - >-
+        content/pages/tags/63-ksc-crea-il-tuo-diario-di-sistemi-personali...su-notion-(o-dove-vuoi).md
+      - content/pages/tags/come-sopravvivere-senza-tool...in-3-mosse-(+1).md
+      - >-
+        content/pages/tags/il-successo-dei-tuoi-progetti-parte-dal-loro-fallimento.md
+      - >-
+        content/pages/tags/ksc-65:-para-ppv-e-zettelkasten:-qual-e-il-sistema-migliore.md
+      - content/pages/tags/ksc-67-pkm-partiamo-dalle-basi.md
 ---
