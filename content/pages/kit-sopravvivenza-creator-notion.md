@@ -231,4 +231,6 @@ sections:
       - >-
         content/pages/tags/63-ksc-crea-il-tuo-diario-di-sistemi-personali...su-notion-(o-dove-vuoi).md
       - content/pages/tags/come-sopravvivere-senza-tool...in-3-mosse-(+1).md
+      - >-
+        content/pages/tags/il-successo-dei-tuoi-progetti-parte-dal-loro-fallimento.md
 ---
