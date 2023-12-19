@@ -195,4 +195,5 @@ sections:
       - content/pages/tags/e-se-notion-sparisse.md
       - content/pages/tags/come-te-la-cavi-con-la-memoria.md
       - content/pages/tags/il-natale-di-notion-o-tana.md
+      - content/pages/tags/un-2023-da-umano.md
 ---
