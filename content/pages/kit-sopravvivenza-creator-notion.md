@@ -17,7 +17,7 @@ sections:
     backgroundSize: full
     title: Diventa
     text: >+
-      Unisciti a più di 200 **Notion creator**.
+      Unisciti a più di 300 **Notion creator**.
 
 
       Ogni settimana riceverai **consigli e tattiche per risolvere** i 3 più
@@ -32,6 +32,8 @@ sections:
 
 
       \> "Ogni volta che arriva il Kit, so che ci sarà qualcosa di utile!"
+
+
 
 
 
